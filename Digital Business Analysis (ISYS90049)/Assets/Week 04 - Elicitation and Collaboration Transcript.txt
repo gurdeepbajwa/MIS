@@ -1,0 +1,404 @@
+SPEAKER 0
+It. Thank. Yeah, I know. Yeah Well Yes. OK, thank you. Yeah I. How are you Um Thank you. I Yeah. You Thanks. I I also you should know I very fine that. Yeah, I. that. I. I It is great. All right, dear stakeholders of digital business analysis, please find
+
+SPEAKER 1
+your seats. Get comfortable But not too much, and then let's get started. OK, welcome to week 4. Of this year's or this semester's DBA subject. Today we talk about elicitation and collaboration, but also stakeholder engagement. And it's gonna be a fun lecture, we have some activities, we have a lot of ground to cover, and uh we do have some announcements. So the first announcement is more of a promotion. Um, as I've told you in the beginning, in week 6, we get a visitor from IIBA chapter Melbourne. So, uh, the BA, um, association, they have chapters in different cities, in different countries, and there's a chapter in Melbourne. And uh we will have a guest, um, speaker here. She will talk to you about business analysis and practice, and the IABA Melbourne chapter also regularly. Um, does events for whoever is interested, uh, for students, for early career. Our aspiring business analysts, and uh yeah, this particular event is tomorrow. And it's a, it's um together with the REA Group. And um there's a presentation and a networking event. However, I checked the tickets this morning for the in-person event, which is also not free. Um, there are no tickets left, but the online event, which is the, the presentation, um, there are still, I, I think 40 something tickets left, and it's free. So if you'd like to see that uh online, that's why it's called hybrid, so the networking, uh thing is somewhere downtown in Melbourne, and the, the presentation is also streamed online via Zoom, so if you want to listen to that. And get a glimpse into BA practice, uh, you can register and sign up and yeah, attend this presentation, and I highly encourage you to do so. Second announcement concerns our assignment. So last week the government governance plans were due, and thank you for uploading those. Um I actually don't know if this is accurate here, so let's take this out. I need to Check, but it's not so important. So next step is To also post your uh report in your own group, uh, discussion boards in the, in the LMS groups, uh, so you can always find it and all, all group members have, uh, easy access to it. And uh yeah. Keep on working with this report. And then the final announcement concerns the um something that's called the mid mid semester survey, and do we have our student reps here? Timothy, I can see you, is Cheryl here, yeah. So do you want to come forward and say a few words? So I have your slides here. OK.
+
+SPEAKER 2
+Um, hi, I'm Cheryl, and my name is Timothy, and we are student representative for this subject. Um, and we created this feedback for everyone to fill in. Then the purpose is to have the teaching team to um improve from week 4 to week 12 and your input directly influence like our learning experience and the deadline is this Friday. And you can find it um in the Canvas modules and mid-semester survey.
+
+SPEAKER 3
+Yeah, so basically, you guys just have to go to the campus and then go to the quizzes section where you can find the mid-semester survey. It's really, really quick to fulfill. It only takes like maybe 3 to 5 minutes. And we hope to get all of your feedbacks because it's really important that we, uh, yeah, we want to hear your voice so that the subject can be uh improved later on. And if there's any problems or issues that you guys maybe want to raise, uh, yeah, then you can use this opportunity, uh, for you to improve the subject. And yeah, this subject will, I mean, the survey will, uh, bring like a real impact to, uh, for the following weeks, which will be in the weeks 5 to 12. Um, yeah, uh, basically the survey will be, uh, based on your experience, uh, from week 1 until week 4. So, yeah, feel free to let us know about your, uh, opinions and any thoughts about this subject. And if you have any questions, feel free to, uh, directly ask both of us. So thank you very much. Hm Thank you both.
+
+SPEAKER 1
+So the reason why we already have this is um and not after like week 6, which is actually the middle of the semester, is because of the, the date of the meeting that is uh that takes place in our school where all student reps from all subjects come together and give feedback on subjects. And this is quite early this this uh semester, I don't know because of Easter and things like that, so yeah, that's why it's a little bit early, but I guess you have an impression from the 1st 4 weeks and yeah. Can you, can you give your feedback based on that. And then whatever you suggest, we we try our best to implement. So thank you, Timothy and Cheryl. And now we get to the lecture outline of today. So, um, we start with an assignment one Q&A. So, mm, instead of pushing that for last and then we run out of time, I, I want to do it, um, as the first point in our, uh, on our agenda to give you all the time you need to ask questions. I was approached prior to the lecture already about a question, so we have time now. Um, any burning questions, concerns, um, there's, um, there's time now. Uh, to talk about it and then once we have done this. And I also covered some, some remaining things maybe that um that we haven't discussed concerning your um plan. Then we move into today's content and The contents of the textbook that are part of chapter 5 and 7 and also the um, the next knowledge area or actually the still the same, the next part in our knowledge area of planning and monitoring from the Babock. And yeah, that's the plan for today. So. About assignment too, before I, you know, talk, is there anything that you want to ask? Is there anything You have concerns about Yes, Becca.
+
+SPEAKER 4
+We were struggling with the scope a little bit because scope, you have to write what's included and excluded, but the case study doesn't tell us like a timeline or financial constraints. Um, so we were wondering if there's any further guidance on how to know what to include and exclude. The other thing we were thinking is there's many problems in the case study. Do we pick some to exclude because they're too big to solve in one problem or in one case, I guess, or if we include all of them. But yeah, we're just struggling with inclusions exclusions for the scope.
+
+SPEAKER 1
+Yeah. OK, thank you so much for the question. Uh, scope is actually one of the things that I wanted to talk about uh with you today because we haven't covered it a lot, so I, I totally understand this. um, I mean. It's, it's probably best if I go through the, the, the slides about scope that I brought today, and then I'll, I'll get back to you if there's still anything unanswered. Does that work? OK, cool. um. Are there any other questions that are not concerning scope, otherwise I would start with that. Yes. You got the mic.
+
+SPEAKER 5
+Thank you. Um, could you give some examples of what, like additional, additional research you want to see, like the types of journal articles, um, yeah, like just along that line, like, do you want to see like numbers, do you want to see like more concepts that we like research ourselves?
+
+SPEAKER 1
+OK, great question. So this one, I don't have any slides about, it's about research, um, because we ask you to do some more research that go beyond, you know, the textbook and the the Babo to include in your report, and I think we ask for at least 5, additional references. So yeah, it depends on where you put them. Let's say you're in your background section, um or the context. So typically in in those sections, it's nice to give some statistics, maybe about the industry, and here it would make sense to cite industry reports. Or government reports, anything that that will give you numbers that could potentially support an argument that this problem is actually, um, yeah. An important one and and and to increase the relevance of your report for this particular business. If you want to include references later in your plan, let's say about the approach, you might reference something that is more more academic or more, I guess, similar to, to uh a source like um IIBA maybe in the uh in the project management space. If you want to support some argument or put uh bring in additional, an additional source about project management approaches. And then a third type of. Source or reference would be then purely academic, like a journal article that you mentioned, and that, that could um, yeah, you could include that anywhere. But, um, mostly I guess in the later sections. When you talk about the concepts, so Milani is also an academic, er reference, so it can be textbook, it can be a journal article. Um Can be other books Does that help you with the the question? OK, great. And then make sure you cite uh those things correctly in APA. They are not cited the same, so in APA in in any guide, you can look up the source type. And then you find the correct way to reference it, so a book is referenced differently than a journal article, for example, and those are referenced differently from a webpage. OK, then let's move to the scope. Question, and if any other questions come up, we can still tackle those later. So, yeah, we talked about background, we talked about context, uh, especially last week when we talked about internal and external. Factors and aspects that um Affect our business and our particular uh the business need and then the next thing is is scope, and as you can see the dark blue components here, we ask you to generate a section for your report and the the ones that are light blue, and yeah, those are not super important or central to the assignment. So scope is important. And what does it say uh under scope, so you need to describe the boundary of the proposed analysis or the BA work by stating what you uh what you will include and exclude. So be sure to explain why you have decided to do so, um. Yeah, And use the puppet model to guide you on this task. So, we haven't talked about the puppet model. Have you talked about the puppet model in your tutorials? No. OK. Cool. Um, then we will talk about it today. So first, what is, uh, what do we mean by scope? You could, you could see it in the in the description of this task, uh, it's about boundaries and the extent to which, uh, you include or exclude certain aspects, um. In tackling the problem, yeah, and what, what could that be, it could be everything, right? So how do we get from a very broad scenario, a whole company to particular, Um, aspects that we tackle that we include. So we we need to know what these boundaries are, where they lie, and um where we stand with our project. There are bigger BA projects that include more aspects of a business. There are smaller ones that include less. Um, so we do need to know. You know about the business uh in in our context section we, we did this, what is their business model, in which industry are they, what, what are the, the things that are going on there and how do they affect the business? And then what um, What objectives Follow from that. So this is the um, the basis for scoping, so if we do not understand the context, we can't scope anything. That's why, The sections of your plan need to uh build on each other, so that's why scope comes after context. So it also scope also includes the extent of the change. So who will be affected, what's the timeline, etc. and um which components are of relevance, and yeah, where do we apply force. So yeah. The components Of of of relevance, um, how do we know what these are? This is what the poppet model is for. So let me show you this So it's a very Easy to remember. Framework Which, uh, yeah. Divides all these uh these abstract aspects of a business into 4. Yeah, areas and um. You can remember them by just remembering pulpits, so it's people. Processes Organization and IT or rather information and technology. Those are the four elements, and whenever you do, You're scoping You can just do it by going through those four elements. So you can ask yourself the question, you can turn this into questions that you ask yourself. Let's start with people. Who will be involved in this BA project? So later today we talk a lot about stakeholders, and that's basically the people that are involved or that are affected. So some people are more involved, they need to deliver us some information or we need to elicit it from them. There are people who cheer us on, who pay us the money and are very supportive, and there are other people who might not be because they are affected in a way they don't like, uh, and so on. So this is the people, um. People dimension We can then ask ourselves which processes are affected. So thinking about my grocer. We have a clear process that is at the root of the problem that the business has, which is the um keeping track of the expiry dates and the stock accounting um every quarter. This is a particular business process. That is done in a manual way and causes problems, so the scope for the process dimension is then very clear. It's on this process. And yeah, for people we need to ask ourselves, who is it, who is involved there, who is doing the counting, who is in charge of verifying the numbers, who is affected by it, and so on. Organization, um, yeah, here is everything else that doesn't fit the others, basically, but it's, uh, so the example that I like to give is, for example, hierarchy. So in in the organizational dimension you have. You know, things like who makes decisions, who, um, Who is in charge of the process, um, who's in charge of the decision making, etc. Um, hierarchy is one, or policies, is there a policy about how things need to be done and so on, so this wall would, would fall under organization. And IT is then what are existing systems that are involved, what parts of them. Uh, if any, and what's the data we're working with, uh, and so on. So then when you do your scoping, Um, section You could just Um Write your, write your section and implicitly or more explicitly, whatever you like. Start with the The first P and then the second P or the PO. And then, um The IT or the OS actually the organization, so you. You write In detail your sentences about you know who is involved, etc. and answer this this question and then you move on to the next, to the next to the next, to the next, and then your marker will say, oh they covered all of them, uh, very well done. um, yeah, it shouldn't be too mechanistic of course, but that's basically the formula. And concerning Your question about scope, um. Oh, thank you. No, it's OK. I can do it here. Never mind, never mind, I'll figured it out. You go about your day. It's all good, thank you. OK. Um, So time timelines, um, yeah, timelines, we don't have much information about that. We do know that this uh occurs every quarter. That's when they count uh their inventory. Um This is a rough indication about, you know, how a timeline could work, for example, if we want to. Implement the first pilot of a new system that would take 1 quarter to test and then to refine and maybe in the 2nd quarter, we implement it again and then it goes live and the old, Way of doing things is are abandoned, so that will be like 6 months, but if you find an argument why you should do a 3rd iteration, It could be 9 months, it could be a 1 year project, um, it's based on your, Your plan, your argument, what would be the best sort of timeline to achieve this most realistic with the, the resources, can my grocer do like a multi-year project and pay business analysts? Not sure, um, so all these factors, um, you need to think about and if there's. I mean, you have Uh, or I guess in your assignment one you have, you don't work with my grocer, but Uh, you have a little bit more information. About the case, so still if there's something that is just not clear from the case description, then you just state in your report, we make the assumption that, Whatever the assumption is, and then based on this, we suggest that, um, our timeline or uh scope of the project. Adheres to this and that timeline and then you list the reasons and and the justification. And this is OK, so you can have one assumption about this case where you just extend it a little bit beyond your description, um, and then and another group might do it differently, that's fine. As long as it's like not unrealistic or anything. OK So was there anything left in the question that I missed? OK, great. So to overdeliver, I have one more point about scope, um. That you haven't asked but might be useful, so we do have a lot of, Uh, tables, templates, techniques and stuff, how we report things. So we have a table for risks and so on. For a scope there's no such thing. So a scope is like a free flowing section that you can design, but if you think a table would be useful to list, for example, the puppet dimensions, feel free to do so.
+
+SPEAKER 0
+Put the table 2, you just want to get that right.
+
+SPEAKER 1
+You mean in the text? Yes, so whenever you ref uh you do tables in any report, in any academic work, you have your texts. And then it is also for figures. It doesn't matter, um. You refer to them in your in your text before they appear, so you say. These are also Shown In Figure 1 And then figure one follows or table. So what is not good is if you Say These Uh All the puppet dimensions. See figure one. And then you write 2 pages of text and then you put in figure 1 and the reader's like, Uh, oh I didn't recall this, and then they, there's, they don't connect this, so the rule is always to introduce it and then I must follow. OK Great. We do have a little bit more um. More of a discussion plan for the poppet model. And my grocer, like a a discussion, but um are there any um, Any other questions? Oh, actually I have one more slide for scope, so let's cover this. So scope will um We'll come back later In strate strategy analysis where we also do need to define the scope. But then it's a different type of scope, and I hope it's not too confusing. So remember that in the BA plan. We only talk about the project, so the BA work that we do. And we don't talk about the solution. Correct? You remember? Good. So the solution scope. Doesn't play a role, it will play a role later. So what is a solution scope? It concerns aspects of, for example, a system that you work with or that needs to be changed or that you implement. So let's say you have an SAP, Um, system already working in your, in the company or you introduce a new module of it or you introduce it, uh, in, in its entirety. Then the solution scope would be OK, what is the module, what, what functionality of the SAP system, of the of the ERP solution do we want? OK, and what do we exclude? Because ERP systems and these things like SAP, Salesforce, they can do a lot of things. And 90% of that we don't need to solve one particular problem. So this is a solution scope. And product scope is, is the same um for uh I guess. Products or services, we, we don't cover this in in BA that much. I, I, I think we only have solution scope and project scope. So in the BA plan where we only plan out the activities before we get approval to do the actual work. Um, the scope we're asking for is the scope of the project. So where, which aspects of the business. So the puppet dimensions are affected by the by the BA project. OK, this concerns are also things like Who, um Who will engage with your BA works, so who do you need to sit down with to discuss things and interview them. This is then we discuss this later in elicitation. Who are the decision makers, etc. etc. and um Yeah, keep the solution. For later or the solution scope, the scope we mean is the project scope. So if you're ahead in the textbook and you know something already about, you know, other types of scope and the solution, then ignore this for now, it's only about the project work. OK OK, more assignment one questions. No, that's great. Then again we have. The puppet model here. And we have my grocer scenario. And um yeah, let's discuss the scope uh here uh with this example, so maybe it becomes a little bit clearer then or we just practice um. So first thing. Maybe I haven't emphasized this er so much yet, but the scope builds on the objectives. So the background and the context section have painted a picture of what the objectives are of implementing a change. And scope builds on that. So what we've done in our past discussions of this scenario is We talked about um how are the problems or the problem affecting the business, so here are some, it's just a high level uh summary of what we discussed previously, so we have uh higher costs for the the business due to inefficiencies, particularly in the um mm. In the logistics sort of aspects of the business and the inventory. Um, the expiring products go to waste, um, that might damage reputation also, apart from inefficiencies and yeah, profit might suffer. And then under the 3rd question we discussed. What could be done to address the needs? And the needs come from these problems, OK. Sometimes there are opportunities, but in the microser case there are problems. And another word for or another expression here for what could be done uh is what are the objectives for our business analysis pro pro uh project. And there we talked about, OK, we do not want to already go ahead of ourselves and suggest that. A definite solution, or they need an SAP system, in particular the the. The AI-driven Um Logistics module er that works on mobile phones. No, we don't do that, we don't know that yet. So we, Articulate the objectives more generally. So that they could be met by different technologies. Such as we want to eliminate or reduce manual stock counting effort, we want to optimize the inventory management, and we want to enhance business operation efficiency. So far, so good. OK, so let's say these are our objectives to help my grocer. Then we can take these as a starting point to define the project scope. And for that we have the puppet model. And the puppet model will help us to understand, um, yeah, each dimension, ask questions. So what is, Oh, let's start again with the people. Who are the people involved here? What do you think? In our scenario The business owner, yes, so this. The family who we haven't met yet, but yeah, the owners of this family owned grocery store, that's correct. So what, what role do they have?
+
+SPEAKER 0
+We had to check the expiration date.
+
+SPEAKER 1
+The people that check the expiration date, yes, who might that be? The, the business owners?
+
+SPEAKER 0
+Yes.
+
+SPEAKER 1
+Sorry, again. Yes, people who work in the warehouse, uh, that's correct. So the warehouse staff, uh, since my grocery is a very small grocery store, they might not have, you know, warehouse employees. But there might be um. A part-time Casual worker who is a student, who does the register in the 1st 2 hours, and then the, they're counting later or once a quarter, they just come in to do the inventory, and then, you know, the rest of the, Quarter or the month, uh, the, the stock is handled by the, the regular casual employees. So yes, so we have the owners and the casual employees. The casual employees do the counting. What do the owners do? Timothy they will pick up the.
+
+SPEAKER 0
+Ma Here the The most dominant fundraiser.
+
+SPEAKER 1
+Yeah, they bring in the money. Correct, yes, and they also.
+
+SPEAKER 0
+Direction of the project of the like they will become like a kind of like a PIC.
+
+SPEAKER 1
+Like a what? They become what?
+
+SPEAKER 0
+Let me What's PIC? Person Person in charge, yes, OK, absolutely.
+
+SPEAKER 1
+Yeah, they um, they make the decisions and they bring in the budget, and they determine the direction of the project and er they give us approval. That's absolutely correct. Do we have other people involved? Customers, yes. So how much are the customers affected by the BA work Compared to the other two we talked about.
+
+SPEAKER 0
+say they're not.
+
+SPEAKER 1
+They're not not involved.
+
+SPEAKER 0
+Objectives here are. Organizational processes and I don't think customers part of the organizational structure. Uh, maybe if I could find a solution.
+
+SPEAKER 1
+Yes, OK. Very good points. You're, you're, you're, you're both correct, I guess. So you would have. Um, let's say we do have a group of stakeholder or a number of stakeholders, so the owner, uh, the staff. And customers And their, their involvement is very different on different levels. We actually have a framework later that that you can use based on the level of involvement. And the level of involvement of the owner is pretty high. The staff also pretty high. And the customers, yeah, we can think about it. So you made the argument that they are not involved at all, at least in this BA project. And They, they are affected of the change in the end, so we do need to kind of keep an eye on them and monitor them. But You can now as a BA decide, is this a relevant stakeholder group to include in the BA work. So what you could decide to do is um. Meet with regulars and customers and just ask them, did you notice that, you know, the tomatoes er went er went bad recently? And then they will be like, no, I didn't even notice that. And then from that you can elicit information. Um, or you could have If we get creative, we could have A system or some interface in the supermarket, where, and it actually er, when I was a high school student, My local supermarket had this, so if you found an expired item, you could go to the register. And show it to them and you would get €5. So we were in the supermarket looking for expired products and we were super happy if we got one. You could only get, I think 5 at a time, but um, yeah, so this was their mechanism to involve the customers in finding these. And after a couple of weeks they became so good at, you know, spotting them or the staff that we didn't find any. And then we stopped eventually. And you could think about having a mobile app to have this, so a customer. Takes a photo. And shows this to the register and they get 5% off. I don't know. Could be, could be a way to involve the customer, but I guess this would be, yeah, you know, be. A more creative or out of the box, uh, solution that might be too far of a stretch. Uh, for our teeny tiny, uh, project with my grocer, so you might decide to exclude it. But these are the, The deliberations you, you need to do to make in your plan. Very good example.
+
+SPEAKER 0
+The customers be mapped on the matrixes because most of the ones in the textbook besides The Onion didn't include external stakeholders so I didn't know if we want to include customers. Do you have to take a certain type of model?
+
+SPEAKER 1
+Um, yeah, you can, um. It's always better if you pick a model and base your justification on that. So let's say you have the stakeholder involvement model and customers, you say customers are not a part of it.
+
+SPEAKER 6
+Well, I thought the models like the matrix or the
+
+SPEAKER 0
+mapping matrix in the textbook, they included internal stakeholders in the company.
+
+SPEAKER 4
+Yes, you seem like the only one that included external,
+
+SPEAKER 0
+so I don't know if that should influence which one we picked for the analysis.
+
+SPEAKER 1
+Yeah, yeah, I guess so if you take the onion and You want to include customers, you you might go better with The Onion because you have like proof in your framework that this is a relevant stakeholder group, and if you go with the other frameworks, which might be, I don't know, Have the assumption that only internal stakeholders are relevant for your, for your plan and. They don't consider customers here, what we just talked about would be, you know, part of something else later, then um that would be an argument or a framework to pick if you say no, we we don't consider customers a relevant group here. So, yeah, there just needs to be a fit between the two. But a framework is like a theory, and they can explain the world in different ways. So it's not wrong or right, but if you have them, if you have a framework that excludes excludes customers and then you, you include them in your plan, then there's a disconnect, and then that will be not good. But if it fits with the framework you choose, then that's good. Oh, we had one more.
+
+SPEAKER 0
+How broad, um, do you have to be or specific
+
+SPEAKER 6
+do you have to be when identifying the stakeholders? So for example, staff, right? This is a smaller organization, but if it's like a bigger one, do you have to like, like, um, identify like warehouse staff.
+
+SPEAKER 1
+Yeah, yeah, absolutely, you, you should, um. So yeah, for our, for our migration example. You could assume that, you know, the casual stuff is er is just doing it all. They, they do register and they do the logistics and there's just one bucket of, of stuff. Or maybe there are casuals and then there are the other family members who work full-time. Um, and then you have two groups. And in in other businesses, obviously if they are much larger, and you have much more people involved, then it makes sense to segment the stakeholder groups more. So you would have different types of staff. For example, based on Departments in a business, so you would have You know, people working in these departments and then the heads of these, and so on, which would give you a way to segment. Or you could even segment customers, so. Some companies have um. You know, to see customers or they might have other businesses as customers, and they are totally different groups, and then you have two segments. And yeah, for it depends on on your case. So for the the my grocer you would have less segmentation for uh. I guess our assignment one case, you have a little bit more, and for um a global. Big Behemoth, you would have even more. Great question.
+
+SPEAKER 0
+What about these fires?
+
+SPEAKER 1
+Suppliers, yeah. So do you mean for my grocer? Yeah, supply us Because they know the expiry date. They. Yes. They know the expired expiry date too, yes. OK, so let's put them. Here OK. So you argue, OK, they know the expiry date, but the question now for our scoping exercise is Do we want to involve them in our BA work? And again, like the customers, there would be an external stakeholder group. So we would need to consider that as well. I can think of solutions or BA work. Sorry, not thinking about solutions. I can think of BA work that would involve suppliers. Um, I could ask the big supplier, for example, if there is an A technology that they would be able to have that has RFID chips in the products or in the deliveries. That makes sure that I don't know only. Certain products or they all have the same expiry date, they are close to each other. Whatever it is that or is trackable on a mobile phone for the store manager that makes the stuff easier. That could be something And if that's not the case, then we would also treat them as customers as another external group and say nope, not going to focus on them. But they're certainly a stakeholder group. They're all stakeholders. It's just a question here for the scope is who do we. Uh, involve and how much.
+
+SPEAKER 6
+Um, can we make assumptions about stakeholders so that it's not mentioned in the case study, but, um, logically.
+
+SPEAKER 0
+It should Yeah, absolutely you can.
+
+SPEAKER 1
+You're very welcome to. Just and if you do give it, give it a little bit of context so that it is clear to the reader what the assumption is, and you state it clearly, we assume that, or the assumption here is, and then you describe it, so um. That the reader is You know, at the same level of, of, uh, has the same information that you are working with. OK. OK, time's moving fast, so, um, let's do one more. We can't do all the 4, I think. Um Which one do you want to do? Organization, IT or processes. Organization? OK. You were the quickest, so you Get your wish organization. Who's, uh, sorry, what's, what's at play? What's involved here for my grocer in terms of organization? The responsibilities of each roles, yes. So who is How are they, like, this is correct, but if we analyze it through the puppet model we need to say what they are. So do you have any responsibilities? I mean we talked about them already. Is there anything where this is? Where we can look this up. Or do we have to ask the owner all the time? So sometimes organizations, probably not my grocer, but they have like a In er a chart, an organizational chart. It's like a pyra pyramid, right, where we, we have the people er at each sort of level, their contacts and so on. So this org chart, we might get or we might ask for it, and then that makes it easier for us, so that will be very useful actually for BA to have. OK, something else. So what about uh policies and expiring expiring products? So my grocer might have already a rule in place that says um. Groceries that are that approach the expiry date or are less than a week. They moved to the Uh, to a special shelf where you get, uh, discounts, right? That's what supermarkets do. And this is like a rule that the staffer must adhere to and it might be written down somewhere. Not sure, maybe it's a little bit more fluid. But this could be something, yes.
+
+SPEAKER 0
+OK. So, uh, 3. In the process Oh Well, I would put it under
+
+SPEAKER 1
+organization, that's exactly what we just talked about. So standard, standard, you you just had the better, better word for it. Standard operating procedure is to move a product to the discount shelf if it's like. A day before expiry or 2 or 3. Yeah OK. I'm, I'm happy with, with those. Organization is always a little bit difficult to find good examples, but yeah. OK then, so I did, I do have an overview here. Um, for all of these. I will add this to the slides so you have it. Because I think right now you can't. See it because I didn't want you to have the solution, so. I'll just update this. You don't need to. Make pictures, but you can't. You'll find it later. OK. 321. Gone Um Yeah, and with that we are uh In the knowledge area or let's say a subcomponent of our knowledge area that is about elicitation and collaboration. So now we are here week 4. And uh yeah, this is an important topic for us as BA's because these techniques will come in handy at multiple stages of our business analysis process. So you can see on where the arrow is that there are the Babogn areas. And, uh, so far we've talked about those. And today we talk about elicitation and uh collaboration, and as you can see er it's up there, so it's more like a support, um support, sort of um resource that, Affects the whole process, so elicitation and collaboration with stakeholders. is important in the beginning and in the middle part in strategy analysis and in requirements analysis, very important. And throughout the evaluation as well. So we do teach you now what elicitation is. And what techniques you might use as a BA. But that doesn't mean that they, you know, come after. Planning and monitoring, and then you do elicitation, and then you do strategy analysis. That's not the case. So we do elicitation at different points in time. We can plan elicitation activities that obviously occur at a certain point in time when we do have a workshop planned with all the staff. Or it The owners, um. But we can do another one later when we evaluate the solution. Um, or we can have elicitation happening throughout that happens spontaneously when we, When the owner invites us at the halfway milestone to the local pub and we just have a talk and then they share a secret that we didn't know before and we write it down and then this is sort of uh some elicitation as well, but not planned, but it counts. So this is where elicitation and collaboration sits. And this is where it sits in Babok. OK, so a lot of numbers, a lot of things, like always. So what do we have here? We have plan, stakeholder engagement as a task in knowledge area 3. And we have as an output, we have the stakeholder engagement approach. Bless you And we have um. Manage stakeholder collaboration as a task in the future that, uh, you know, draws from what we're doing here. Remember, we had this the last time as well. So later in the Babak when you have the flow chart of knowledge area 4, then you will see the input, uh, or 3.2 as an input to it to that, OK? Um And that's how it's all connected. And yeah, in stakeholder approach you, you would make use, um, of elicitation techniques, uh. But you would not find elicitation here because of what I just told you. It's an ongoing. Uh, sort of activity. But if you want to have like a static. The static counterpart or component for elicitation, it would be stakeholder engagement and that you would find. In defined in Babo. Oops. So what? What are stakeholders, uh, to give you just a a definition, you can refer to a stakeholder as an interest is affected. And shares the problem or need. Um, yeah, when we talk about the project, which we do or the planning of it. Uh, they can participate, they can be affected, they can interact directly with us or indirectly. And yeah, when we talk about engagement, we, we mean, OK, we collaborate with them, we um have a discussion, we have an uh an interaction, a conversation with them. And that's one of the main activities we do as BA, so we work with people. And yeah, that's why we do need effective communication. To have strong engagement of stakeholders, so essentially we need to uh get them on our team and get them to do the things we want them to do to have the to have the project be a successful, um, be a success. And another thing is scope creep. So what's that? So it's basically um. It relates back to our scoping that we've done. And whenever we engage stakeholders, we need to think about this, so. Stakeholders or individuals, they will tell us a lot of things. So the staff that we talk with, they might tell us about problems that they have that we don't want to solve because it's out of scope. But they would, they would like to have it solved, so they try their best and they try their luck and tell us, but um yeah, we need to sort of recognize that and then avoid this, which is, which Milani calls scope creep. Uh, yeah, and we want to make them happy, um, increase participation and reduce conflict. And yeah, this is uh from from Babog. Sort of steps of identifying who, who they are. We've practiced this already, then analyze what they're doing, um, how they're affected, how they should be involved, etc. and then we want to manage them throughout the project. So we want to check in with them uh regularly and we want to plan how and how often we check in with them. OK, um. We, we will do a break shortly, just. 2 more minutes. So what do we have here? We have uh the flow chart again. And uh Stakeholder engagement is basically a relationship building, so we do want to have a good relationship with them throughout the project and we want to also prioritize. We want to have a particularly good relationship with some of them and uh more of a. Um, watch and act one for for others. So this is another framework you can use uh that's from the um. Textbook, and not from Babok. So this, the right, the one on the right, this is from Babok, this is from the textbook, just a little bit more in uh detailed, a couple more steps, but you also have the identify. Um, and you identify step at the beginning. And here you have attitude that's quite interesting. So how are they thinking about what we plan to do? And what might be their um attitude towards it, their expectations, how do they contribute? So yeah, that's kind of similar to involvement. Um, communicating, how should we address the owners, how should we address the staff, it's very different, so we need to plan for that. And yeah, collaboration, this is like the management step, which is here the the last one. So again Different frameworks for the same thing. And then we have a stakeholder wheel. Where we have internal and external stakeholders, this would be, you know, My dotted line that I used here is the same thing, just a little bit more. Uh, clear, um, as a wheel kind of thing, uh, where we can have very common stakeholder groups, uh, external ones and internal ones. OK. So This should be it for now. Let's have a break and take a breath and then we continue in 5 minutes. Alright? So see you back in 5 minutes.
+
+SPEAKER 0
+Can I ask something? Yes, of course.
+
+SPEAKER 3
+Yeah, so I noticed that in your explanation about scope,
+
+SPEAKER 0
+it also includes things like. It shouldn't, it shouldn't, I mean. But when we talk about the scope, do we only talk about the first about this, uh, do we only talk about that, or is it also about the opportunities that we To because I noticed that kind of similar to the background we can find some of the opportunities that we want to propose for like for example. Mr. OK, so what you call opportunities I would call objectives. So yes, so don't let there be many opportunities, but we want to have three objectives what our project should achieve.
+
+SPEAKER 1
+And this is what you end the context with, OK,
+
+SPEAKER 0
+so you, you define these objectives and from there you go and just go.
+
+SPEAKER 1
+So in the objectives you don't clarify, OK, um, who
+
+SPEAKER 0
+exactly is involved, uh, which process, what policies, etc. We don't do this in the context. We can talk about industry. We can talk about the internal sort of, uh, strengths and weaknesses that we. We discussed lastly, uh, but then in scope you break it down, break it down into the 4, no into the pocket into the pocket, so the objectives will fall in the context of the context. Or background, yeah, it could be a background context is. Uh. at the end of the. Oh, OK. One more question. And here on the slide you mentioned your assistant but yours like the result. Which one are you? This is what, this is what exists. So let's. Let's say they have a very simple system now and we put it in there. It's not the one that we need to relate because we don't want to do this at this point. This is only what's already going on. So the current situation, oh, this is not the scope that we want to develop. It's the scope of the current situation that will be affected or included. Oh, but we don't want to state that we want to build a simple POS system right, but rather it's, we want to describe that they currently have a simple POS system assisting's wrong with this, I mean if you do this, we can do this later a strategy analysis. We go into detail what's wrong with it, but, um, for the slope we can say, um, yeah, the existing POS system is affected because. There's some data. And then we need to understand what's going on or we want it might get retired, but we don't wanna
+
+SPEAKER 1
+say this now we just say, OK, this is there. And this is why it's within the scope. And the other systems they might have their social media account register thing we don't know, it's not be excluded, you can, you can invent your own like you say, OK, we assume they have this.
+
+SPEAKER 0
+OK, thank you for asking. Excuse me, there is a deadline of 5 p.m. the
+
+SPEAKER 7
+quota. So this deadline for what at that time, assignment section, it shows two deadlines. One is 5 men. One is 20.
+
+SPEAKER 0
+I sausage. Available until 5.
+
+SPEAKER 1
+Yeah, so this is the report, your analysis plan. This is your actual assignment. The 5th of May is the deadline for report, yes, and the 8th is only for the group member evaluation. So you, you upload your report by the 5th here and then and then then you have 3 days to do this. And this is very quick. You do it individually for your group members. So you, you say, OK, they are all, uh, I can't do this.
+
+SPEAKER 7
+So the report is like, uh, what I'm contributing to the assignment, right?
+
+SPEAKER 1
+Only the plan contributes to the assignment. This is just like if you have a group member that didn't participate, that didn't show up, you can give a low score to your group member, but hopefully you don't because you work as a group. It's just a safety mechanism.
+
+SPEAKER 7
+And what do we need to put in analysis plan? What do you mean? What do you mean analysis plan? Trust me, like, that's the whole report that we talk
+
+SPEAKER 1
+about all the time. So you click here and you can download the word or the PDF.
+
+SPEAKER 7
+Oh this is case description. OK, here you can read about the case.
+
+SPEAKER 1
+And then second, uh, file. You have all the things. So you include the background, you include the context.
+
+SPEAKER 7
+So these are the chapters of, for example, my part is a background of context. So like I need some background and context by May 5th so other people can evaluate, right, according to you.
+
+SPEAKER 1
+OK, so you mean, um.
+
+SPEAKER 0
+Yeah, you mean this, right?
+
+SPEAKER 7
+Yeah, like I need to draft my work and some are you talking about this thing?
+
+SPEAKER 1
+All right, so let's say in your group, you'll say. You are responsible for background and context, yeah, OK. Then you write it and you upload it to your group. On LMS so that the other group members can get feedback. You also get feedback from one of the markers. They will write some comments and your second group member
+
+SPEAKER 0
+will do.
+
+SPEAKER 1
+Let's go and then I can evaluate their correct and they can and then once you're done, put everything together in one report and sub.
+
+SPEAKER 0
+OK, thank you. And like, this is my genuine concern that I'm getting
+
+SPEAKER 7
+to understand. Not that much good. I'm getting like less compared to other subjects, this subject, and like, like what should I do to just better understand for this to improve your understanding. Yeah, like I'm facing a little bit deep difficulty for understanding.
+
+SPEAKER 1
+Write down all your questions. Bring it to your tutorial. You go to the tutorial?
+
+SPEAKER 7
+Yeah, I go every couple. OK, very good.
+
+SPEAKER 1
+Um, ask Stella about the concerns you have. Particularly about the assignment, um, but you need to read the materials here, familiarize yourself with these with the tasks
+
+SPEAKER 0
+and also the case, and then write down your questions, go to the tutorial, stay, you know, 5 minutes longer. As Stella, and anything that she doesn't address, you can use the. Uh, at discussion, as you can see we do have some questions here students ask, and you can just post
+
+SPEAKER 1
+some, some of your questions as well, so you can
+
+SPEAKER 0
+use this.
+
+SPEAKER 1
+And then Stella will reply, reply sometimes other students might
+
+SPEAKER 0
+reply. So these are the opportunities.
+
+SPEAKER 7
+Can I have, uh, like a sample of assignment like how we have to do it.
+
+SPEAKER 1
+No, we, we will not give you a, an example of a report. Uh, you need to figure it out in your book.
+
+SPEAKER 0
+Oh, yeah. I I. I so I. I. very, uh, quick question.
+
+SPEAKER 8
+So, uh, for the scope section, uh, in our, uh, assemble one, do we encourage you like use, uh, metrics to uncover what include or, uh, exclude and I just uh add a uh a justification to enter the matrix. Is that OK? That's absolutely OK.
+
+SPEAKER 1
+We don't require you to use one, so scope is the format is up to you, but if you want
+
+SPEAKER 0
+to use a matrix, that's fine. OK. All right.
+
+SPEAKER 1
+Please return to your seats.
+
+SPEAKER 0
+So.
+
+SPEAKER 1
+And now we will continue. With part two of today's lecture. We have still some things to talk about. That concerns stakeholder engagement. And then we have the elicitation section, and then we're done. So Stakeholder engagement. This is what we already talked about. This is the onion model. Which we already referred to, this is a framework to classify stakeholders based on their level of involvement. And it's very, very specific. And this is something. You can use But you don't need to, you can use others, other frameworks. This is one suggested by the very nice people who wrote the Babok for you, and um but there are others in the Milani book as well.
+
+SPEAKER 0
+Yes.
+
+SPEAKER 1
+Oh sorry.
+
+SPEAKER 0
+Thank you.
+
+SPEAKER 1
+OK. Now you can look at it in your own time. It looks like an onion OK, while you look at it. I have a special request. Um, because now we will talk again about my grocer. And we will do a little bit of a And exercise. And I need volunteers. So think, think for yourself if you're ready to volunteer. I do need 3 volunteers in total. This is our scenario again that we will be working with. And we will Sort of simulate a little bit of stakeholder engagement. So Any volunteers who would like to participate, I participate myself as well. And it's going to be a lot of fun. And I have a briefing for you, so you don't need to think about much. It's all on there. What you need to do Yes, Timothy, you're the first one. Whoopsie. I saw another hand. Yes, you're the 2nd. Oh, I don't know who was first. Um You can both come, that's fine. You can, you back and you, OK? Yes. And please come to the front You will just need to share the chocolate. If that's OK.
+
+SPEAKER 0
+You do.
+
+SPEAKER 1
+Are you OK? OK, OK. All right What's your name?
+
+SPEAKER 0
+Nora.
+
+SPEAKER 1
+Hi Nora. Would you like to be a business analyst or a casual employee? Um, OK, this is your briefing. Have a look. Um, what's your name? Ella Ella, Ella, thank you for participating, Ella. Do you want to be a BA or a casual employee? Yes, of course. This is your uh briefing. Don't show it to the others. This means Timothy, you are the 2nd business analyst, so you're in one team with Nora. So read your briefing. And I'm the owner A co-owner OK, so The scenario is that we do have. Our team of business analysts, Norah and Timothy. And we have myself, the co-owner. And we have our staff here, um. And we will ask the, uh, we will answer to the bees. So you will ask us a couple of questions about our company, my grocer. And we will answer and your goal is to elicit some information from us about, you know, maybe our problems and and other things that you need to know to understand what's going on because at the moment what you know is what we all know it's just this very brief scenario so your your um consulting company just sent you here and you know nothing. So You wanna get started? OK. And you can ask me or um yeah, anyone you like er with your questions and go ahead. And I'll give you the mic.
+
+SPEAKER 9
+OK, um, so I would like to learn more about your business model in my brochure.
+
+SPEAKER 1
+Yeah, my business model, business model is, uh, as long as it works, that's my business model. So we've been doing this for like 50 years, you know, we are the local grocery store here, everybody knows us. They get, um, you know, all their tomatoes, tomatoes in our grocery store we're a local institution. You know, uh, support local businesses, please do that. That's what we do, yes.
+
+SPEAKER 3
+Are you currently using any systems by any chance?
+
+SPEAKER 1
+Uh, I don't know about any any systems, so my, my kids do all of that. Do you know about any systems?
+
+SPEAKER 5
+I mean, like, I just do regular warehouse stuff, like, I just scan barcodes that were like move boxes, um. Yeah, that's the system that we use.
+
+SPEAKER 1
+Ah, very well. At least someone knows what they're talking about here. Yeah, so, OK, next question, I'm, I'm getting a call, sorry.
+
+SPEAKER 3
+Yes. OK, so I guess we'll just continue with the casual worker here. Right, so, uh, you're mentioning that you are responsible with tracking the expired items, right? Do, do you find it very difficult to track the expired items? Is there any like, uh, maybe some responsibilities that you cannot handle by yourself? Or is there anything that you wish, uh, to, you know, like, uh, to something to help your work, daily work?
+
+SPEAKER 5
+Um, I mean, I like doing my job, like, I just, you know, I work with my friends, like, I just fill my hours, like scanning, scanning the, like, expiry date, um, scanning the food, like, if something's bad, I just throw it out, like, that's about it.
+
+SPEAKER 9
+Um, OK, I, I do have a question for the owner. Um, do you actually have like, uh, a system or something that you use to understand or They get an idea of the, your, of your customer satisfaction and feedback.
+
+SPEAKER 1
+Yeah, no, no, no, we don't have a system like they, they tell us when they check out, oh everything's great, OK uh today, but yeah, yeah, that's what, that's why I hired you guys, so um I just want to say I'm very, very grateful that you're here, that you're doing the job. We really need your help and um yeah, but no other systems, no.
+
+SPEAKER 3
+All right. So, yeah. Is there anything that we can help as of now? Like, is there any, you know, uh uh maybe pain points that you experienced lately? Because, you know, like right now we are facing like a lot of competitions with Ali and all that, you know.
+
+SPEAKER 1
+Yeah, no, what you can do is you can check the expiry date on these chocolates and then just go about your uh BA project and please help us, please help us. Uh thank you so much. I OK, that's it. Thank you guys. Yeah. Thanks OK, Well, that went well. So yeah, this was, uh, our little scenario. So did you notice anything about um. How the the owner was the owner's attitude maybe and also our casual staff members attitude. So how was my attitude towards this project? Not engaged casual, yes. I was pretty busy all the time. And yeah, I, I couldn't engage because, you know, phone calls, things. Say it again.
+
+SPEAKER 0
+Using 109.
+
+SPEAKER 1
+Because I'm the owner, yes, exactly.
+
+SPEAKER 0
+But showing the kind of attitude of the owner. Yeah, exactly, yeah, so it might be difficult for the
+
+SPEAKER 1
+BAs to, uh, get a hold of me and, you know, have, if they set up meetings, I might not show up all the time or um I would be, you know, very short in, in my engagement. But what in in terms of the I guess the willingness of this project to be a success. How was my attitude?
+
+SPEAKER 0
+Determined to succeed but not knowing. What Yes.
+
+SPEAKER 1
+You put it very well.
+
+SPEAKER 0
+Yes, so I was um very eager to have this
+
+SPEAKER 1
+project, uh, going and to, to, uh. Yeah, help me with my business. Um, but I had no clue like about the systems, what the solution could be, um, and probably I, I don't care. I just want to see the success and the, the numbers go up, right? OK, What about our casual staff member? What was her attitude? Better than mine? What do you mean by better?
+
+SPEAKER 0
+Yes.
+
+SPEAKER 1
+OK, what, what, yes, she engaged more with the BA's and um. What, what would be a problem if she's very engaging or engaged, but I'm not? Would that be a problem?
+
+SPEAKER 0
+It might be difficult to drive. From the Yes, so it might be difficult to drive
+
+SPEAKER 1
+change from the bottom up. She's clearly not a decision maker. She might be very, uh, engaged with the BA's and ready to help, um, but she can only help so much. And I could have a lot more. I could approve all those things, but I'm not. Available. So yeah, that's one of the dilemmas that VAs might face. There was one more thing about the casual employee. In terms of her attitude about not the engagement part, but the success of the project part. Was she very interested in having a new system? No Why not? The system might replace her. Yeah, that would be the extreme, um. There will be a learning curve. There might be a learning curve, yeah.
+
+SPEAKER 0
+know how it can be beneficial.
+
+SPEAKER 1
+For them Yeah, exactly. If we think about it, she's paid by the hour, and every quarter she can come in. And go, go through the store and um count a couple of items and get paid for uh for a very long shift um and. She, she just wants to do ours. And if there's a system, she might not be able to do that, to do this. It's the same with our markers. Uh, our markers, if we automate our er marking away to some AI they'll be very unhappy because they er get a lot of, you know, um, they do hours and hours and hours of marking and a a big paycheck at the end of a an exam period. And if, if a system comes in, they don't like that, and it's the same with our um employee. So yes, she might not be super eager to have a new solution because it's er changing what she does and actually, yeah, not be a benefit because she just wants to work a lot of hours at my grocer. OK. Yeah, those were the The hidden messages of our little role play. Um Very well spotted, so. This teaches us that we, that not all stakeholders are supportive or positive or equally engaged. And um There's uh again, you know, a little bit of a framework we can use to classify this, uh, the level or the types of attitude, active support, passive support, neutral, opposition, passive and active. And passive and active gives gives you another dimension, um, yeah, passive being, you know, er those who are affected, not really, um, involved or proactive and active ones are, uh, yeah, so the opposite. And yeah, this is something you can use to Classify your stakeholders. And it will help you to Draft your strategies and uh make sure that the stakeholders are engaged, and especially the right stakeholders are engaged. So another Framework here is from uh Babble. Which classifies stakeholders, not in terms of their attitude, but in terms of their influence and impact. So, I asked you this question about the owner already and the casual worker. So how would you, where would you put them here in this metric? So we have high impact and high influence of the stakeholder. And low and low and high and low and low and high, so where would be the owner? Low in what?
+
+SPEAKER 0
+No, I don't.
+
+SPEAKER 1
+Low in impact. And high in influence. High in influence, I agree. Low, why low in impact?
+
+SPEAKER 0
+Because you don't necessarily do.
+
+SPEAKER 1
+OK, yeah, he might skip meetings, might not be available. Yes, OK, but when the owner does something it might have high impact. So let's see how. OK. So this, um, Suggested solution. Kind of disagree, so it says both is quite high, so um here. They probably didn't know how I would role play the owner, so this influenced your decision, um, but yeah, if you, if you would just base it on my acting. We could put it lower. In impact, maybe like so. OK. Oh, now I revealed the other one. Sorry. Yeah, so casual, um. The casual employee is high in impact and low in influence. That's kind of What I got from you.
+
+SPEAKER 0
+Question? Customers on this one or only internal ones?
+
+SPEAKER 1
+Customers, mm, I mean, yeah, if they play a role in our project, we, we, we could map them, sure. Um, it depends on if you're getting feedback from them
+
+SPEAKER 0
+about the expired tomatoes.
+
+SPEAKER 1
+Yeah, if we get feedback from them about expired tomatoes, then I guess their impact would be there. It would be much lower than. Oopsie Yeah, say it again. You know So I don't think that customers would have higher influence than casual employees. That would be a bad boss. But er yeah and their um impact I guess would also be smaller, so I'll put them here. But only if they, if we include them as relevant stakeholders. But yeah, we could technically do that with any, any stakeholder group. OK. If you don't mind, we need to move on. Because we have Some more things to cover and not so much time. So yeah, this is um stakeholder metrics. That Milani gives you where you can, you know, score all the groups on influence and impact and then. Define a strategy, how to engage them over time. So the ones with higher influence you want to keep engaged, those with Lower influence you wanna monitor. And keeping them informed might not be as crucial as the key players. OK, so for um stakeholder management, communication and collaboration are very central. Mm Activities, but also yeah, skills I guess, and yeah, you could. Make use of different techniques like brain storming workshops, interviews, discussions, uh, and so on, um, techniques that are also at your disposal, uh, as, yeah, general elicitation techniques, which will be the part of, The final Set of slides. Elicitation. So again we do have. Oh, we do have a model here from Babok. Which is uh. In knowledge area 4. And it has 5 tasks, and managed stakeholder collaboration is 1. But the process only refers to the 1st 44. That's what I read from this. OK, um, yeah. This is if you're a Babok enthusiast, you know where it's er where it sits, and if you're new to elicitation, this is a short comic, please read it. OK, so in this cartoon we have a BA. And a yeah, stakeholder and They go in circles. So the BA is trying to get information from the stakeholder. And the stakeholders trying to get. You know Results or uh requirements uh and how a solution might look like but this is not possible without the stakeholder giving the information so it's like a conundrum it's going in circles so we need to um go baby steps and understand. The stakeholder, uh, their needs, etc. and then, um. Yeah, stay in constant collaboration with them, so this, this comic sort of shows that elicitation. Is a constant process, and that's, you know, how it's defined in Babo and shown in the BA process, uh, overview, and it's important to understand this, so, uh, it's not possible that if we do elicitation at one point in time that we then. Come to a solution, but it needs to be a continuous process. So what is elicitation, um, it means evoke or draw out. This shows that the information is not just sitting there and we can pick it up. We need to. Engage. We need to collaborate. In businesses there's a lot of um tacit knowledge that is not written down, you know, somewhere, but only the people have in their minds and in their daily interactions, and we do need to understand those things, and we can only do that by engaging with them. Or we can, we can only get to them those information. And we do need to elicit information or facts to be able to. Get to a point where we can have our defined requirements and a design for a potential solution. Which uh we will do later in, in, uh, in later steps. But the elicitation is, is sort of the the basis for all of that. We cannot define requirements without doing the work and eliciting facts and information. It occurs throughout the process and it can be planned and unplanned. Which I already told you. And this is the process broken down into 4 steps, uh, if we believe Milani, and we do, we, we love his book, so that's why, uh, yeah, we follow the 4 steps. And it's preparing, conducting, confirming, and communicating. And in the preparation, you know, BA's prepare a lot, we know this by now. We want to understand outcome and scope of the elicitation. We want to determine the techniques we're going to use, set it up. Prepare materials we might need and prepare also the stakeholders for what's coming. Then we can conduct the actual elicitation techniques. And Milani defines three types collaborative research and experiment. So we talked about collaboration, that could be a workshop, interview, etc. What is research? Well, research could be um independent of the stakeholders. We could just Go through documents, or we could go through a system and look at Excel spreadsheets over the years, things like that. Uh, we could do our own research, and the stakeholders might, they need to give us access, but they might not be even involved. And we could do experiments when it's unclear what the outcome is and even the stakeholders can't tell us, we could just get them in a room and have them do an experiment. For example, So common techniques are document analysis, observation, interview, workshop, focus group, and survey. So what's interesting, these are also research methods, you know, in academia. So as a business analyst, you are also a part-time researcher. Some of those are qualitative, some of them are more quantitative. And some involve a little bit uh of, you know, maybe computational skills even, uh especially in the in this day and age. So for document analysis, for example, you could work with a lot of data. A lot of documents, a lot of records, a very um structured. Uh, things like Excel sheets, archives, etc. and we might wanna work through them, or use AI or technologies to help us with that. And yeah, we want to identify information gaps, for example, compare how things evolved over time, and so on. OK, we're not gonna do the discussion. Because we run out of time quickly, but Um Next one would be interview. Which is a qualitative method. Um So here we engage one on one. So an interview is, you know, between two people, the BA and one particular stakeholder. There are of course also focus group interviews, it's sometimes called, but it's usually it's called focus group discussions, and a focus group then involves a larger group, so for example a team. So 1 BA or 2 and the whole team. And um yeah, an interview is just different in the sense that in a one on one, more intimate situation, they might also talk about, you know, tensions, things that are that are going on in their team that they might not be able or be willing to share in a focus group. It's typically very rich data that comes out of an interview. Uh, but it's, it's also based on trust and relationship building. Sometimes in interviews, things come up that you never expected because this is a space where those things can come up. If you have a very, very structured approach and just go through the motions of, you know, certain questions or a script, um, then. The interviewee might not tell you about their deepest, darkest secret or problem, er, because you just didn't ask for it. So if you give, give or create space for that, um, you might get information that Uh yeah, you didn't expect. But can be very valuable, so the more unstructured an interview is, the more open and the more space there is for the stakeholder to share. And yeah, like other techniques, it involves preparation. Uh, conduct and the follow up, so you always want to keep the stakeholder in the loop afterwards about what you found. You, what you don't want to do is have a one-sided relationship, like asking for interviews, can you give me this? Can you uh tell me that, and they never follow up and, um, yeah, keep them engaged. So it's always reciprocal. And um But that's only, not only the case for interviews. And then we have a survey which is a quantitative method just to contrast with the interview. Typically you have a questionnaire of set questions. And most of the time surveys are, are closed, uh, ended. So there's not like an open text field where people can put it, put stuff, but that obviously also exists, exists. And yeah, surveys, oh, I'm, I'm not gonna give it away because I'm asking you, but yeah. These are surveys I'm pretty sure you. You have done surveys in the past. Again, preparation. Uh, conduct and follow-up or documentation is involved. So final, um, final question for today. How would you, what would you say are the strengths and weaknesses between interviews and surveys? I mean, we already covered in-depth information. I'm, I'm gonna ask more directly, so. What do surveys allow you to do that interviews don't?
+
+SPEAKER 0
+Volume Volume more quant quantitative data.
+
+SPEAKER 1
+Yes, absolutely correct. So with surveys you can reach larger sample sizes because, you know, they are more scalable. You can dis distribute them to larger audiences, get more, uh, feedback from them. If you're in a large company, that would make sense. For my grocer, not so much, because if you have like 5 stakeholders, um, a survey wouldn't be very meaningful, so you would, you would be better off just doing interviews with them. Very well. There are of course, um, more strengths and weaknesses. Which are listed here and I'll also share those with you. Alongside the other solutions, you don't need to take a picture, but you can. 321, go. And other techniques are listed here, so there's an infinite number of elicitation techniques. Um, there's of course the question of generative AI, what they, what role these tools play for BAs in doing these techniques. So, um Yeah, actually there's a they they play a huge role, you know, in preparing questions, in, in analyzing data, etc. AI is a big deal, and that's also why, Some BAs are feel threatened by AI because they help so much with these techniques. And um Yeah, if you work in practice, you will be working closely with AI that would be my guess, um, in. Not in the engagement part, that's that that's a very human endeavor. But in anything related to the preparation, data analysis and so on of what comes out of, of the elicitation techniques. And yeah, last two steps of the framework are confirming the results. Um So, you, you know, are they painting a consistent picture, different people that you're consulting, um, for example, And uh In communicating the results. You would then Prepare materials, um, distribute them again, uh, or yeah, to, to the um people you worked with, you engaged with, and, um, based on that, determine next steps, obtain approval and so on. Um, and you might engage them again, uh, at the next milestone in the, in the project. And yeah, again, use the same or different elicitation techniques. So today we learned about engaging stakeholders, elicitation techniques, and assignment one, and I hope you could take something away. Yeah, please visit your tutorials this week. Ask all your questions, uh, to Stella in the ad discussion board and have a great week and see you back here next week. Thank you.
+
+SPEAKER 0
+Yeah. Mr. Yes Yeah because I saw the videos here there was a like So I'm wondering whether it's useful. Yeah, I live next. It's usually good. Very rarely is this form, um. I mean it's not impossible because you could still, but they face competition from a lot of theaters.
+
+SPEAKER 1
+Um, yeah, in, in this particular subject, you know, we,
+
+SPEAKER 0
+and she's, uh, she's not, she's possibly, so she's a
+
+SPEAKER 1
+staff member, um, and we don't have casual tutors anymore,
+
+SPEAKER 0
+but it might change if we have more enrollments next semester next year. Um, but currently it's all stellar, but in other subjects there are more casual. So if you really wanna do that, you could, um, keep an eye out on those and just send an email to the subject. You know, if you want to need to look for a. I'll think of it. Absolutely, no problem. Thank you very much. Thank you, Timothy. Have a good one. You too. No.

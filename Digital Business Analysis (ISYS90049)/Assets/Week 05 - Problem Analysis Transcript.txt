@@ -1,0 +1,293 @@
+SPEAKER 0
+Oh, you started right. And um Councils. You I So. All And I like you. there. I Yes. What we like to do the final. the liberals. Mr. I. Oh I. I I Yes. Oh. I. I. I. and no I. And there's no. uh. I, I have an open mind. I. I. I. I I the this is OK. Yes. So. Bye I OK, welcome back, everyone.
+
+SPEAKER 1
+How are you doing? Great. That's nice to hear. So, yeah, the last uh mic uh that's still standing is the one that I'm holding uh a little bit awkwardly, but I hope the sound is fine. Um, and yeah, so this week is week 5. Already, uh, we are one week before the Easter break, so don't come here next week, please. On Monday, it's a public holiday. Um, we will continue in 2 weeks with week 6, and we will have a guest speaker. So please, um, Please make sure you join that session because it's going to be a special one. But, um, speaking of that, I have a couple of announcements to start with. And um, This is probably something that I can. Talk to you about later because in a second we will Um, view the results of the mid-semester survey that your student reps, uh, have conducted, so, Yeah, we will, um, push that for now. So, yeah, Easter break, a guest lecture by Melini Yaya Ganish. She's the head of the Melbourne branch of IIBA, and she, she will prepare a talk for you, and then we'll have plenty of time for Q&A. And you can ask her anything you want or ever wanted to ask a business analyst. So, prepare questions that you have, um, they can be about the topics of this class, they can be about career, um, choices, um. Current, um, you know, how the market is, the labor market, uh, anything related to networking, all these kinds of things. So if I were you, I'd prepare some questions for Melini and, uh, yeah, join, uh, week six and. The the the guest lecture will be 60 minutes. Then we will have time for your questions, and if then there's still time, we can talk about the assignment as well because that's going to be due in week 7. So that's the plan for in 2 weeks, and for this week, um. Some of you who will join the Wednesday tutorials. The one at 3 p.m. and the one at 4:00 p.m. Uh, don't be scared. Uh, there will be um Akash sitting there and not Stella, so you're, you're not in the wrong room. It's just that Stella has to do replacements for a different subject. So we, we have Akash, who's one of your markers, uh, doing these two tutorials this week. OK. And yeah, he's been tutoring for this subject for several years, even longer than I have been teaching this. So, um Yeah, there's no No downside to that. Just don't be surprised. And yeah, then um the mid-semester survey. So thank you for filling this out. We had an 88% response rate, which is great, and I would love to have. Nearly as much, um, I can only dream of 88% for the end of semester survey. Uh, so if you can match that, that will be amazing. And yeah, Cheryl and Timothy, your student reps, are they here? Cheryl, hi. Timothy, hi. Thank you guys again. Um, they have prepared some slides, um, with the findings, and, um, yeah, so they will give us, uh give us a little bit of sentiment about this class, how we're doing, and, um, Also areas for improvement, and then I will comment on this directly, how we intend to do that, to make your experience better. So overall, um, very good. So this question was um about how well you think you can. Sort of follow the um the teaching materials and um, overall it's good. Uh 16% of you still find it challenging, and um, Have trouble following the contents, so this is um Of course, something that I would like to address. So if any of you find themselves in the 16%, I, I do have some recommendations in a second, but overall, the pace and everything seems to be OK. So what do you like is the lectures, uh, the pace, and the quizzes that we do. That's nice to hear. Uh, the explanation seemed to be clear overall, although we also have comments about, you know, all the concepts that we teach you that sometimes there could be a little bit more time spent on applying them and, and real world examples and so on, but we'll come to that. And you find the team to be very supportive, um, that's also very nice to hear. So Stella's tutorials are perceived well. That's nice, and, um, she'll be very happy about it. And then something interesting here, we have the student hub. So, um, Only 24.5% of you have visited the student hub. Maybe more, but it could be that you didn't check in with the the QR code. So, Professor Mendoza, Antoinette, she asked us to um Sort of tell you that when you are in the student hub, there's hub, there's a QR code, and she would appreciate if you can check in so they have a better understanding of when students um are there and use the student hub, and then the more the better and the longer we can keep it for you and make this your space. So please um do that. And if you are in the 71.6% That haven't used the student hub, and please do so because You know, if you find the topic topics challenging, So I bet there's uh some of these 16% that haven't used the student hub, and this is the first recommendation that I have, so if you have trouble following some of the contents, And then I highly, highly encourage you to show up Tuesday, um, 11 to 12 if this one's still correct, um. This is the the time slot dedicated for our subject. Stella will be there for the whole hour. You can ask her and um get um get you, you know, better um understanding in. You know, an informal environment and she can walk you through some things. And she also offered. That because some of you, or actually Cheryl told me, um, some of you do a lecture. At this time for a computer science class. So if you, if this clashes with our session in the student hub, you're also very welcome to join. The one between 2 and 3, which is information systems. 90026, where Stella is also present, but she doesn't mind if you ask her about DBA so um this is an alternative. And You can also visit the student at any time and there will be not Estella will not be there all the time, but you can use it for your study groups. Um, yeah, so please do that. Uh, this is, this is the last slide, um, areas of improvement, so many of the concepts feel abstract and students without, let's say a background in information systems or some other business, um, degrees sometimes find it challenging to follow the teaching. OK, so We do have one initiative planned to address this. And it's, it also concerns the Recommendation number 3 here, step by step explanation for difficult concepts. Um, or worksheet table activity, so. What I would like to show you. OK. This is the quiz. Um This is not online yet, but it will be added this week. It's planned for Wednesday. So this is the teacher view, so you don't see all these things that are not published, but. Under lecture 5 additional content, we will publish this on Wednesday, and I can give you a sneak. Um, preview. So you can go here and then find additional content. Which was developed. Uh OK, we can't see it now. But never mind, it will be posted here. I was in lecture 6? No, it's uh lecture 5. So it will be posted there and it will involve some additional. Uh, graphs and flow charts about the concepts, when to use them and when not to use them. So for example, We have um. Many students mixing up context analysis. And problem analysis, which we will do today. And then there will be like a decision tree and definitions and techniques, and all these things, uh, for you as an overview. Which will make it a little bit easier for you to study these. So this will be posted um shortly. And then the next thing. Is OK, some students find it challenging to keep up with the teaching pace. I commented on this, uh, use the student hub and if you can't make it to the student hub, use the discussion board. So for practicing real world challenges, I, I will include more real companies. So we did this with Duolingo the other week. Um, we, we, we still talk about my grocer, but it is more prominent in the 1st 6 weeks. So in, in the second half of the semester. We do not rely on my grocer anymore, uh, to that much extent, so there will be time for some other case studies. Um Oops, And then the other thing that I wanted to show you is a response to Exam practice. So this is 0.2. Um, because we haven't really prepared you for anything. Regarding the exam, and the exam, as you know, is a hurdle and it's like 50%, so. It's good for you to make yourselves familiar early. And this will start now. So if you are in LMS and go to quizzes. Then you will see. This one here published the practice exam section one. So, um, I think I told you about the exam, the final exam. will be Covering everything. We discuss And it will be made of 4 parts, basically the 4 areas that you see at every, at the beginning of every lecture. We have business planning and monitoring, we have strategy analysis, we have requirements and design, and we have uh solution evaluation. So right now we are here at the end of or we have sort of completed planning and monitoring, so that's why we released the practice quiz now and we sort of give it to you in in chunks. So you will have two questions about this topic. That are in the same format. Like in the final exam. And we can take a quick look. So, Here's the output for you, like how much time you have. If you, you know, think about that, your final exam is 2 hours, and this is 1 quarter. Then it will be 30 minutes to do these two questions. And then the, the uh the the rest here is like your exam, your real exam cover sheet will, will look like. And then you can scroll down and uh take the uh the quiz. So, um, here are the questions, and this is what you will encounter during your final exam. So there will be a case description. You're already familiar with this from my grocer, for example, and also assignment one. And then here are the questions, broken down into marks that you get for those, for answering those. And we have question 1 and question 2. And then you can. Sort of work on these questions and We will, we, we, we haven't released the suggested solutions yet, but we will obviously, so it would be a good exercise for you to work on those and then check your understanding with um yeah, in comparison with the suggested solutions and how. A good answer would look like. And I believe in week 6, so, yeah, in 2 weeks from now, Stella will also. Give you some more context on how to address these, um. Exam questions OK, So promote the student hub, done this, um. Yeah, these are my, my comments, and I hope that these initiatives will. Um, yeah, address some of these areas for improvement and will help you. Is there anything else? Do you have any questions or concerns or other suggestions? And now is the time OK. Yeah I want presenter mode. OK. So thanks again, Cheryl and Timothy, for um putting these together. And uh Let's continue. So we do have assignment one. Ahead of us still, so here's the suggested timeline of activities that we ask you or we suggest you complete to get the best result possible. So this week, this would mean that each student reviews the draft work of the other group members, uh, that you have posted on your group homepage. And then very important in week 6. So after the break. If you pull together um a draft of, um, everything that you've worked on so far. Then Akash and Abi, our markers, will give you feedback on your draft. But the prerequisite for this, for getting this feedback is that you upload this draft report to your group homepage in LMS. By Wednesday of week 6, which is um the 14th, I think. The 15th, 15th of April. So by Wednesday, if you have the markers will go through the group pages, and if they see a draft report, they will comment on it. And give you feedback and suggestions, and if there's no draft, then you miss out. So this is the offer that we give you and then the week after you need to submit the final report. For assignment one. OK. Yes, let's say 9 p.m. at the end of the day, um, so yeah, that will be 6 days before the due date, and yeah, Akash and Abi will start working on their feedback on Thursday, so. Yeah. Great. Um Yeah, so we can start posting the full draft
+
+SPEAKER 0
+like from the beginning of the week itself and they will go through it or just by Wednesdays when they start going. Does it help to post it?
+
+SPEAKER 1
+No, they will not start going through them earlier. Um, Yeah, no, you can take your time until Wednesday. I mean, if you're early, that's, um, that's fine too, as long as it's there on the Wednesday, but they will not start earlier. Yeah OK.
+
+SPEAKER 0
+Mm, all right.
+
+SPEAKER 1
+Here Uh, which was also mentioned in the in the feedback from your survey. An overview would be nice of tools and techniques, so I tried to put these into one table, and then when when we continue going through the the other sections and uh phases here. This table will grow, so we will learn more and more techniques that we have in our BA toolkit. And these are the main ones that Uh, we've covered so far and that you can reference and yeah, when you study, you should know. Um, what these are. And with this, we are um in week 5 now with problem analysis. So problem analysis is another task or activity that we need to deal with. And um Babo and also Milani's textbook, they have a very uh distinct definition for what problem analysis is, what a problem is, and um, yeah, provide us with concepts and frameworks that we can um refer to. When we define a problem and put it into our report for the business owners, for example, or the management, and then we do have 3 techniques that help us with our problem analysis. So in problem analysis we are digging deep into the root causes of this problem. So we do not want to name it and point at it, but we want to understand what is. At the very bottom, underneath this, let's say problem statement that we have, so my grocer has a problem with inefficient, um, Stock counting or every quarter in expired products. But that doesn't tell us what the cause of this is, so what's the the the root of it all, and this is what problem analysis is for. And for that we can, or to get to the bottom of it, we can do these techniques, the 5 Y's, the fish bone diagram, and perietal analysis, and yeah, we will go through those uh today. But before we start, I wanted to tell you about my weekend, and I went to the movies. And I watched a movie about business analysis. And it was called Project Hail Mary. So who of you has seen the movie?
+
+SPEAKER 0
+I'm going to watch.
+
+SPEAKER 1
+You're gonna go watch next week? OK, great. So I'm gonna ruin the movie now for you. No, I'm not, I'm not going to spoil you. I'm just going to ruin it because I'll, we'll interpret it, uh, through a business analysis lens today. OK, so. Let's watch the trailer, and then you tell me. What you think this has to do with business analysis? And specifically, problem analysis. OK, you ready?
+
+SPEAKER 2
+Person for this mission. I understand So.
+
+SPEAKER 3
+If we do nothing. Everything on this planet will go extinct, including us. Doctor Grace. The world is counting on I'm sorry, I'm sorry.
+
+SPEAKER 2
+I'm Grace. I'm gonna call you Rocky. We're here for the same reason. His son is dying too. We're gonna save our planet, so we have to learn how to communicate. Check this out. About 250 words. Let's find you a voice. in space. I like. I have. Hire. Together we're pretty smart, but no one's ever done this
+
+SPEAKER 0
+before. I think you're being go time, pal.
+
+SPEAKER 3
+for this to go wrong.
+
+SPEAKER 0
+This ship wasn't built for.
+
+SPEAKER 2
+Embrace Rocky saved stars. And go home I think this is a one way
+
+SPEAKER 1
+trip for me.
+
+SPEAKER 2
+I will not Let Grace die.
+
+SPEAKER 1
+OK, That's it. So what does this have to do with business analysis? Or an easier question. What is the problem?
+
+SPEAKER 0
+Complications.
+
+SPEAKER 1
+Communication is key. No, that's not the problem.
+
+SPEAKER 0
+Sorry?
+
+SPEAKER 1
+The world is ending.
+
+SPEAKER 0
+Yes.
+
+SPEAKER 1
+Why is the world ending? Why is it why is the world in danger? Yes, the sun is dying. So our sun, the son of our Earth is dying, and Rocky's son, he lives in a different solar system, is also dying. OK, so we have a problem. So is dying. Pretty big problem. And um so what do er Doctor Grace and Rocky, what do they do? You couldn't really see it, but what could they do? or. To um To solve this, first of all, they're trying to solve the communication issue. Of communicating between a human and an alien. What else could they do to solve the problem? Or what do they do, what did you see? Yes, some experiments. Oh yeah, experiments. So And what do they collect in those experiments? Data, yeah. Great And um One more question, we will cover this in more detail later, but are they About this problem analysis, are they proactive or are they reactive? Reactive So they only Decided to go to space, um, when they realized, oh, we have a problem here, the sun is dying. So that will be a reactive approach, um, tell you more about that later. Yeah Anything else you noticed? Yes, I think they're trying to find why the sun
+
+SPEAKER 0
+is dying, which is identifying the root cause. Yes, absolutely, very well.
+
+SPEAKER 1
+So, um, problem analysis, as I said, is not only stating the problem, so what we have done here, the sun is dying. But we want through experimentation and collecting data and other things, other techniques that we will learn today. is we want to find the root cause. Correct. So it was not really in the trailer, so I will not spoil the root cause, because then, you know, I don't want to ruin the. The movie for you. And if you don't, do not intend to go see me after the lecture, I'll tell you. OK, well done. So this was today's um lecture. No. We have more um. We have problem analysis, so now we go back from Project Hail Mary to Babok. Yay. So, uh, yeah, to revisit a little bit, we, we have learned that business analysis is about, um, enabling change in an organization by defining needs and recommending solutions that deliver value to stakeholders. We do have um an understanding of stakeholders. We learned that in the last couple of weeks and we also. Learned about needs and we, we learned that Problems can create needs. Opportunities can also create needs. But um yeah, in most cases we we will talk about problems. When we Talk about the components of these needs. And then in the end Which is not where we are at at the moment. We want to find a solution which in our case should be digital. And um we on our way to do that, we want to understand and define the needs in detail. So also our problems, our main problem. So this is what I just said. So needs are made up of problems or opportunities. That are of strategic importance, and Milani says that this sounds simple, but it's actually super complex, and if you remember the cartoon, sometimes, Employees, staff, management, users of existing systems, they don't really know themselves what the problem is. That they that they have and so it's our job to Uh, find out what the real problem is, and then not only do that, but get to the root cause. So, and the importance of this, I, I think I can. Tell you this now, but The importance of problem analysis and why we need to identify the root cause, and not only the problem is that later if we match this with our solution. Um So let's say we have a problem and then we have a solution. If this solution is not able to address the root cause, we might have designed something we think is addressing the problem. But might not be as effective because The problem, as it is stated, um. Is not really reflecting the root cause. So going back to the the the comic here. If there is a staff member. We might ask them what is the problem, and they will tell it to us from their perspective. But there's only one perspective, and they might not tell us the root cause, so the problem might also be, you know, multifaceted and from a different stakeholder's perspective, be different. So our solution therefore must address the root cause of the problem and not only the problem at its surface. So to put this into perspective with our BA process, we do have. The first phase is the planning and initiation of our BA work where we ask ourselves what the business needs are. And then in um in the next stage that we will do in week um after the, um, in week 7, after the guest lecture. Is the current state analysis. Here we deal a lot with problem analysis, so this is Sort of touching both of these. Areas And we do so also under or through the use of elicitation techniques. Here are experiments and collecting data and so on. It's going to be important again in problem analysis because last week we learned that elicitation techniques come in handy at different um. At different times throughout the BA process and here they are relevant. OK, and. Yeah, this fancy figure at the top. Oh, I'm not full screen. Is just to show you um that all components are connected, stakeholders who might have different uh perspectives on a problem and a need. And different requirements they have to deliver value, um, and, Yeah, they work under different contexts. So in problem analysis we kind of um Need to navigate all these perspectives and viewpoints. OK So when we identify the business need, which we did in our planning activities. We ask ourselves, Why we need something. Could be a problem because of a problem or to um pursue an opportunity, and problem analysis is then a deep dive into that. So the reasons why we do have this need. And if you remember this framework here where we talked about the context. So the more immediate context of Um, Our business need with the products and services processes and so on, and then the more wider context. What problem analysis really is. It's just focusing in on the very center, so the problem, uh, AKA the business need. AKA the Opportunity, or one of those. Um, so, yeah, we drill deep here, uh, whereas in our, in our context analysis. We have gone wide, OK. This is a little bit of the difference between context analysis and problem analysis. So what is the reason or what are the reasons behind the need? And problem analysis is also sometimes referred to as root cause analysis. And is defined as a systematic examination of a problem or situation that focuses on the problem's origin as the proper point of correction. Rather than dealing only with its effects. OK, so we have an exam, uh, yeah, problem analysis, as I mentioned, covers these two, faces here, current state and planning. And now I have a question. So if we have a fever and then we take some pain medication, will this solve the problem? No. What, what will it address? The symptoms, absolutely correct. So this is an analogy you can use, um. To understand what we're trying to do here. The symptom being, uh, the son is dying. Or someone telling us what their problem is, um, but the root cause is, is hidden at this point in time, and that's why we do need to do an examination. Like the doctor would have to do, um, into the problem to find the root cause. And then not only treat the symptoms with our solution, but the root cause or address the root cause. Yes, and this is another uh comic. This is from, from Shira, who's also teaching with me, so I have no idea why it's partly in German, but it's English too. So there are different people. Um, who are blind, and they are exploring this elephant, and depending on their Where they are relative to this elephant and how they touch and feel and smell this elephant. They have a totally different perception on what an elephant looks like. So one says it's like a tree. Sometimes someone at the tail says it's like a cord. The one on top says it's like a brush, so different perceptions, um, of one problem or phenomenon, um, yeah, do not, uh, in, in isolation reflect what we're actually dealing with. So our job as BA's is, To take all these perspectives and put them together in one coherent picture, and yeah, in problem analysis terms. Define the root cause. So different people have different views on the problem and um why and how it should be solved, and our job is to bring all of these together. And to do that, we need, um, yeah, I need to explain the causes, uh. In addition to the effects. So here this is another chart where You know, one problem could have different symptoms and one solution can address such a symptom, but if we just address the symptom, then our BA work. Did not really fulfill its purpose. And that's why um yeah, we need a solid understanding of the problem and the causes. Because if a solution only looks good, but it doesn't solve the underlying cause, then yeah, we get in trouble and we might not get another BA job. Yeah, so, and you can see that the actual root cause is sometimes even. Even deeper than some other causes, so that's why we need to dig deep to find the root. And yeah, this is what I meant by reactive versus um. Preventive So with our dying son we were reactive, but sometimes we may be preventive and have a forward looking approach. And this then is more related to opportunities rather than problems. And um Could also be connected to acting. Strategically when we are very preventive, uh, whereas when we always react to the problems that come up and try to just put out fires, then that's more tactical and of course ideally we want to get into a strategic position. OK, so, um, problem analysis can be divided into these components. First we want to define the problem and then collect data. And identify the causes. Including the root cause. And um Yeah, as everything else in BA work, it's not really linear, but we might go back and forth, uh, when we elicit information and with our problem definition and the root cause we might go back and forth uh because if we. Get access to another stakeholder that we didn't have access before. They provide a totally new perspective. We might, we might revisit the problem definition and so on. And um Yeah, the iterations probably mostly apply to these to the data collection and the cause identification. And problem definition and cause identification is what we will cover now because, you know, data collection or elicitation, you've already learned about that. So problem definition. It's a way of defining the problem, so there's clarity as to what is being solved and what a successful solution means. And such a definition can be broken down into these components. So if you were to define a problem, for example, for an assignment one. Then, uh, yeah, this can help and you can just go through these questions, address them step by step, and define. Your problem So a problem is is well defined if it also states who is affected. Um, Which we don't have here in our son is dying problem, for example. We could add humanity, for example, then the definition would be a little bit better. But we also don't wanna get too, uh, you know. Too long and have a very lengthy problem definition, because then it gets a little bit vague, so there's a fine line in, in defining a problem in, in a in a few sentences, it can be more than one, but not too many. So these are just some examples of common problems in different areas of businesses. There are IT related problems, strategy problems, product problems, process problems, and so on. Um, so these are just examples. You also have examples in through your migration case study and a problem there. But, but by the way, these are not complete problem definitions, so these are just, um, problems, but for each of them we could then go and work on a pro proper problem definition, and that's what we, what we will do with my grocer today. So for such a definition or statement, Um We wanna name the problem, who it affects, and how the problem impacts the stakeholders and their activities. So this is basically what we expect from you in your assignment, and yeah, it's a rule of thumb or. Some help for you to follow when you craft your problem statements. So the migration case, this is um This is the case, you've already seen this quite often. And we did have a couple of Um, problems. So I'll go back to this slide in a second, but here are some problems. So time-consuming stock counting process, difficulty in tracking expiry dates of products, inefficiency in inventory management, and so on. And we also had opportunities, but let's leave them aside for now. Then we talked about how are the problems affecting the business. Higher prices due to these inefficiencies, um, and so on. And now you could, um, take some of these components, so for example, how are the problems affecting the business and here are your problems. To make a problem statement. So that's what I would like for you to do in the next. 3 to 5 minutes, so you can work with your partner or alone, um, and write down one problem statement for the Mike Grocer case. And then I'll show you some examples of how this is. Uh, done So I'll let you guys work for 3 minutes and then we have a discussion. And a break. But not yet.
+
+SPEAKER 0
+Mr. And OK. her too for all. Council Yes. Just OK.
+
+SPEAKER 1
+So let's wrap up your discussions. And discuss. So anyone want to give it a try? With your problem statement, yes.
+
+SPEAKER 0
+I did in two sentences to address like all of the things. Yeah, that's fine. I said migration lacks digital integration in their operational processes, resulting in excessive manual handling of food waste in their stock management. This creates the necessary workloads for warehouse workers and gross margins for their owners.
+
+SPEAKER 1
+OK, very well. So you, you had, uh, clear stakeholders in your problem statement who was affected, and you had very um. The impact as well. So well done on that. About the the problem, or naming the problem, you started with um a lack of digital integration, if I remember correctly. So, um, what do the others think think about that part?
+
+SPEAKER 0
+Is it?
+
+SPEAKER 1
+Yeah, it's kind of in the middle, so it's not yet a solution, but it's kind of. Leading us into a direction that we do need digital integration which might not we might not need um I mean we are in digital business analysis so our solutions will always be digital but There might be non-digital solutions, um, and for the problem statement, we do not want anyone who's reading, um, you know, the, the problem statement or the, the report, uh. Yeah, lead them into any directions yet. So I would Just improve on that aspect and take away the lack of digital integration and just say, what's wrong with the inventory management. Does that make sense? OK. But thank you so much for sharing. Anyone else?
+
+SPEAKER 0
+Yes, is a tablet 1000 sqA too much?
+
+SPEAKER 1
+You mean 1000 prototypes.
+
+SPEAKER 0
+Um, I mean, For a, for a grocery store? Yeah, for caution. So if you have less of items you can negotiate better with the supplier.
+
+SPEAKER 1
+OK, fair point. Um, so, how would this affect your, or this judgment affect your problem statement?
+
+SPEAKER 0
+Having less types will make managing the stuff easier, you know.
+
+SPEAKER 1
+OK. OK. Um, here again. You are already suggesting something.
+
+SPEAKER 0
+No, not yet.
+
+SPEAKER 1
+I know you need to be patient as BAs. So for the problem statement, we, we only want to state. What's wrong?
+
+SPEAKER 0
+A lot of us.
+
+SPEAKER 1
+Sorry, a lot of things. A lot of waste. Yeah, yeah. So my grocery is creating a lot of waste. Problem. Sometimes it's, it's easier than you think. OK, yeah, thank you for sharing. OK. Someone else?
+
+SPEAKER 0
+The problem mainly affecting the shop owner and employee stakeholder. Like a shop opener have to pay more to the staff for counting the product, and the employee have to invest more hours to count the product and To break the expiry of the product and sometimes even the shop owner have to dispose the product, so he's Yeah, absolutely.
+
+SPEAKER 1
+So you said who are the key stakeholders here you mentioned the business owner and the employees and if you remember our stakeholder engagement lecture again here this is the same decision we discussed during that lecture who do we consider key stakeholders? Um, those two definitely we had a discussion about customers, but we lean towards not including them, um, for this particular problem. So then those two would go into your problem statement very well. So here are some, uh, examples. That you can look at So my grocer's manual inventory management process is time consuming and inefficient. Discovers the problem, right? Leading to increased labor costs and potential inaccuracies in stock counting. This covers the impact. And what's not covered Sorry, if you say manual inventory
+
+SPEAKER 0
+process, that is also in a way leaning towards the solution, would it not be better to then to say inefficient system, therefore we're not pointing to anything.
+
+SPEAKER 1
+Well, it is manual. So if we're describing what is, then the the counting is manual. I would say. No, no, it's a fair point. Yeah, if we, if we, if we insinuate or imply somehow that we want to have it automated by saying now it's manual, then you're right. Absolutely, but I, I don't think this was the intention here. But yeah, yeah, don't overthink. So the the the point of this example was mainly that this one covers the problem and the impact, but not the stakeholders. And this one, Microser's current system. So here you would have an alternative, so not manual inventory management process, but current system, whatever that is, we leave it open here for tracking product expiry dates is inadequate, resulting in frequent markdowns and disposal of expired items. So again we have problem and impact. And if you recall the list of problems here. You could make your problem statement around different problems, right? And the first one that we we saw uh would be about. Uh, I guess inefficient inventory management and the second about. Uh, the expiration dates. So again we have problem and impact but not stakeholders. So here we have an example where we um Have All of the three But again, Here we might um. Be critical of this So Let's remove that. Oh, like Um, and seasonal trends, and this affects, so you, you can see these signal words here, you can use them in your own problem statements like leading to, resulting in, or affecting. And then you have the impact, and in this 3rd example, you have very nicely have the stakeholders, the store owners. And um. Yeah, as the stakeholders here, we could even include the employees, as you suggested, and then we have all three covered, and that's what you want. OK. Any questions about problem statements? If not, then let's have a 5 minute break, get some fresh air, and then we continue with part two in 5 minutes.
+
+SPEAKER 0
+And I. I Which we know Right You. some I. I Mr. Yeah. Uh. is I. I Of And It. OK. I that. So Yeah. Thank you. And. for now. Just wanted to ask like when does uh this can be digital inventory right so like why not like you said like can we included or not. Like I just have an opinion or perspective. Like, uh, whenever we go to holidays that we scan the item after purchasing for like third party to order, like tracking the products, uh, there can be a digital system which can track the expiry date of the product, you know, so it can be managed as well. Yeah, absolutely, I'm, I'm not saying it shouldn't, and a very likely solution is gonna be digital, but for present statement we only want to describe. What is currently going on lacks lacking, what's what's going on? What are the problems if we say what's lacking, it's lacking, then we say something about what is not there, so we only want to focus on what for, and this is an inefficient. In the. No, not yet, not yet. We are, we are, we are good, right? Yes, in the problem statement, uh, we don't do that yet. OK, in the problems, but later we do, we do definitely in the next couple of lectures we will, we will open. That was, yeah, no, it's what you are already talking about.
+
+SPEAKER 1
+So next, next lecture after the guest lecture we do
+
+SPEAKER 0
+current state analysis. And then we do something that is called future state analysis. In the future state we do exactly what you said. In the future state, we imagine a data-driven digital process. Yeah. My Not much. No. Thank you It's fine. Oh, I'm Sometimes. I Council Oh. No. Oh. Yeah. OK.
+
+SPEAKER 1
+Please return to your seats. The air isn't really great in here, is it? So I did reach out to them after week one. And then it seemed to be better, but now it's, it's worse again, isn't it? So do you want me to reach out to them again about the aircon? Yes. Yes, OK, OK, I will do that. Sorry about that. And uh yeah, let's leave the doors open for now. And hope that this will do something. OK. Everybody back? Great. So, For part 2, we do have the 3 techniques for root cause analysis that we want to teach you. But we start part two with a quiz. Um, about, um, your understanding of problem analysis. So get your devices out, and we have 5 quiz questions about problem analysis. Although one of them might be about a movie.
+
+SPEAKER 4
+Hi. IT. Yes. They say the USB, no USB port available. I, I come back later after class. We need you. Yeah, we are the last ones.
+
+SPEAKER 1
+OK. OK. Is that possible? I don't know about USB. I don't need.
+
+SPEAKER 4
+Oh, do you need you now, or? OK. I'll come back after 5:00 p.m. OK. Thank you.
+
+SPEAKER 1
+Thank you. OK. Yeah, IT, they, they can't do aircon, right? So. Um, where were we? OK, did you scan the code? So then. Here's the code one more time. If you missed it. 30 seconds, 1000 points. And the prices are rocky road clusters. So let's start um with question one. What is problem analysis, also known as Business impact assessment, strategic needs evaluation, solution design analysis, or root cause analysis. Time's up and only 85%. OK, that's fine. So root cause analysis is. Synonymous to problem analysis. Question 2, what's the main difference between business needs and problem analysis? Business needs focus on solutions, problem analysis on stakeholders. Needs identify why we need something, while the problem analysis digs deeper into the reasons. Analysis becomes before identifying needs or needs are quantitative and problem analysis is qualitative. 5 seconds left. B is correct. Almost all of you got that right. Well done. Question 3. Why is problem analysis important according to Milani? It helps reduce the number of stakeholders involved. It guarantees that the first solution identified will be correct. It eliminates the need for data collection or without it, solutions may look good but fail to actually solve the problems. OK, number 4 is correct, 95%. So we had this here, the match between the, um, the solution and the problem could be that we're only tackling symptoms, uh, unless we get to the root cause. OK, question number 4, which of the following is not one of the aspects of a problem definition? Background and context, stakeholders affected, recommended solution or potential challenges. And this is of course a recommended solution because we are not there yet. We're just stating what is. Well done. And the final question. With two of you still being At the top, with no mistake. What is Ryan Grace's day job before he ends up in space? He's a NASA astronaut, a university professor of astrophysics, middle school science teacher, or a scientist at a government lab. So did you watch the trailer? So if you paid attention to the trailer, you know the answer. Doctor Grace has a PhD, but he's a middle school science teacher. So Rocky, Rocky told him, what's a school teacher doing in space? OK, well done, guest. 985, where are you?
+
+SPEAKER 0
+The bench.
+
+SPEAKER 1
+And Margaret, Congrats.
+
+SPEAKER 0
+Yeah, there you are. OK, well done. Oh.
+
+SPEAKER 1
+OK, now we're at the techniques. We have 3 ahead of us, 3 of the techniques to identify root causes. And after that, We have earned ourselves a nice Monday evening, um, but we will not, you know, spend too much on this. The, the goal is to introduce you to these techniques. Some of them you will apply in your tutorials, uh, some more, some less. But why do we do that? So just to give you a bit of context here, um, from the problem, if we go downwards and we do our dive, we encounter symptoms, and then we may encounter causes. But these causes may not be the root cause. So the actual root cause might be hidden, so we do need some techniques to unearth it and to get there. And we need to do that, you know, in our interactions with stakeholders who might know what the actual root cause is, or they might not have realized it, but they could give us some information so we can realize it. And um Yeah, not all causes of a problem are equally causing the problem. That's what this is supposed to say. And yeah, sometimes it's very difficult to to arrive there because so many causes are moving around and people tell us about and so on. And yeah, we already already know the difference between a cause and a symptom. So what we suggest, at least for this subject here, are these 3 techniques that you can apply. In combination or alone, um, you don't need to do all of them. Uh. Cause that might be a little bit much, but basically, there is uh the first one that's called a 5, the 5Y method. Which, um, yeah, gives you a technique to dig really deep in a conversation with yourself even or with others, obviously, if you're doing an elicitation, uh, the Fishbourne diagram where you can map different causes and classify them. In sort of the importance on how, how, yeah, how much they caused the actual problem. And then Pareto analysis is the the goes back to the famous 80/20 rule and finding those 20% that cause 80% of the problem. So let's start with the 5 whys. This is basically just asking why 5 times in a row, or 6 times, um, but at some point it gets, uh, it gets hard to, you know, come, come to an or get an answer to the 6th or 7th why, um, because you're, or you're getting a little bit philosophical at some point. But basically the goal is to arrive at the root cause after. In this case, 5 wives. So To apply these techniques, it's like it's it's very well suited for interviews or focus group discussions where you're interacting with others, with your stakeholders, and um there are some, you know, questions or specific questioning techniques um. That you can apply here so it doesn't always have to be a very uh if you sit there and just ask why, why, why, why, why they think you're crazy, but you can mix it up and and ask targeted questions about, you know, the time when this occurs, a problem or a symptom, so how often. Uh, how come? So it's just another way of saying why, um, what makes you think that, and so on. So you can hide your five whys a little bit behind these questions, if you will. And the objective is to find the root causes, uh, yeah, that if you remove that, the error will not occur again. So for example, and this is from the textbook. High laptop return rates are reducing profitability and customer satisfaction at an electronics store. So we could ask the question, why are the people returning the product? Well, most of them return it because it's uh scratched or dented. OK. And why are these uh scratches or dents on the laptop? Well, we inspect them before shipping, so, uh, it must be, or it must, must have something to do with the shipping process. It can't happen before that. And why are they damaged during the shipment? Well, it could be because they are not packaged according to the rules we have and specifications. And why are they not being packed according to the specifications? Um, well, because the people who pack them, they don't have them. Huh. So why, um, why don't, why don't they have them, uh, or why don't they have them, um, because they are not included in the product release process. Uh-huh. So here we arrived at, The root cause of this problem, why Customers returned the laptop, which, which would be our problem statement, right, they return it and this leads to, Less revenue and so on, very broad problem. And the root cause, as you can see, Is very, very, very much underneath the surface and specific, and has to do with the warehouse and how documents are being handled and how the specifications are being communicated. And you, you would never arrived there, um, without this questioning technique. So this is one example of how you get to A root cause So do this with your neighbor, um, just for, uh, 3 minutes, 23 minutes, and, um. One of you is the. Store owner and the other one is the BA and just try it with with this problem and ask why 5 times. And then you will see maybe you get to a root cause or maybe not, and then we will discuss it, OK? So 23 minutes, discuss in pairs and ask each other 5 whys. OK? Can you do that?
+
+SPEAKER 0
+Why is I. Why? Right People Why do you want. President. for instance. It's like. Yeah. Yes. I do. I. I I last discuss because. It. Yeah. Yes, thank you. OK. That should be enough.
+
+SPEAKER 1
+So how was that? Did that work? Did you get to the root cause, or did you end up somewhere where the earth is flat and we're all In a simulation How was the technique? Yeah, you wanna try? OK, I'll give you the mic. OK, thank you.
+
+SPEAKER 5
+And who is going to ask the whys? Oh, you, you add the I, OK, uh, yeah, yeah, yeah. So let's begin. Um, yeah, yeah, you asked me. Yes. OK, can you speak into the mic?
+
+SPEAKER 1
+OK.
+
+SPEAKER 6
+So, uh, why do you think my grocer has time-consuming and stock counting process?
+
+SPEAKER 5
+Um, because. Uh, my grocer doesn't have enough people.
+
+SPEAKER 6
+Why my grocer doesn't have enough people. Why my grocer should have enough people.
+
+SPEAKER 5
+Because, uh, with more people, they can, uh, Count the stocks more efficiently.
+
+SPEAKER 6
+Uh, what makes you think that?
+
+SPEAKER 5
+Uh, why, why, why? Because, because, uh, more people. Uh, less work.
+
+SPEAKER 0
+booga booga.
+
+SPEAKER 6
+OK, last, uh, why we need to count the stock using people?
+
+SPEAKER 5
+00, because, uh, that's our, our only option right now.
+
+SPEAKER 1
+OK, no, well done, well done for doing that. We can continue in one second. So did we arrive at the root cause? No. No. So did, did any one of you notice the question where we went a little bit astray? Yeah, which one?
+
+SPEAKER 0
+Uh, I think it's during. The more more, more people, less work like, why, what makes you. Things that you should go that direction.
+
+SPEAKER 1
+Yeah, the question, the question you asked was, uh, why do you think we need more people? The, the question, um, try the question. No, you try the question, why do you think you don't have enough people? Oh and then continue.
+
+SPEAKER 6
+OK. So why do you think you don't have enough people?
+
+SPEAKER 5
+Ah, because I don't have the money. Makes sense. Makes sense. That's the, that's the, the root cause.
+
+SPEAKER 1
+Fair enough.
+
+SPEAKER 5
+Oh yeah, because, uh. Because there is a bigger competitor in our, uh, in, uh, in our, uh, suburb.
+
+SPEAKER 0
+Yeah.
+
+SPEAKER 5
+So why is it a time consuming stock counting process because there is a bigger competitor in our suburb. It, it, I don't know.
+
+SPEAKER 1
+Not really, yeah, but you, you were closer, so I like the, the second question better but yeah, so if we reflect about. Um, sorry? The The limitations of this. So let's do this first. The limitations of this is that we can easily go down a path that we don't want, and we, we lose ourselves in some causes that are not connected to our problem anymore, right? Because you as the owner, you have some, you know, symptoms that are important to you, not having enough money to hire more staff and so on and uh being afraid of the competitors, so you, you will lead the conversation in that direction. So these are some of the limitations, and if you are a BA, you need to spot that and then direct. The questions again, um, back to the problem. So let's look at some uh one example. Where We might Arrive at the root cause. So let's see if it works. I hope so. Um, so why is the stock counting process time consuming? Well, because it's done manually for over 1000 products. Why is it done manually? Because there's no automated inventory management system. Makes sense. Um, why isn't there an automated system? Because the store hasn't invested in modern automated inventory system. Software. How come the store has not invested in this technology because of perceived high costs and implementing it. And why is there a perception of high cost? Because we don't understand the benefits of such a system and that they're actually low cost options, so uh I don't think the business owner would give this last answer, but, um, yeah, this would be a path where the five Ys, uh, work, but in a very ideal world, so I don't expect you to arrive there but you know the. The actual problem analysis will not be or it will not be done the elicitation with just one person. So the business owner might end up at the high costs, um, and so on, and the uh the inventory staff will, will tell, tell you something about, uh, oh they're actually, I saw this, uh, it's actually possible also to automate this and so on and then you get the components from different people. But as as the actual root cause. Um, You could identify the the lack of understanding of such solutions and um yeah, work with with that. OK. Thank you for volunteering again. And Yes, so this is, uh, these are some of the limitations we talked about in a slide. So you have them, um, when you study. So you might stop at a symptom. Because you think, oh, that's, that's where we end, or you get some answers that are not really facts, but actually you do need the facts, and you might not have the right person you talk to, talk to, so you need to workshop it and do this technique with others as well. And this is how you can overcome some of these limitations. So don't worry, I will post this slide. Uh, on LMS, so I'll update the slides and so you have all these, uh, solutions here. So we mentioned earlier with our Dr. Grace and Rocky that they do experiments and collect data and so on. And the 5 Ys is basically an interview conversational technique, but You know, we could also use surveys, customer data. Uh, surveys with employees, etc. so. Data, specifically large scale data, can give us facts that we can support our you know our interview-based elicitation techniques a little bit with, you know, harder facts, and then we can triangulate between different data sources, so we do not only want to rely on one approach, so a qualitative approach which would be an interview or a focus group. But we want to also then compare that with other data we might have access to. Technique number 2, that's the fish bone diagram. So I'm, I'm happy we didn't do the quiz about the fish bones, so you don't have to get fish. As a price and um The fish bone diagram uh in, in all seriousness is, is named like this because it looks like one, like a fish bone with different. Um, yeah, sort of. Um, I don't even know what they're called. What are these things called? The the fish ske skeleton.
+
+SPEAKER 0
+Sorry? Ribs? I don't know.
+
+SPEAKER 1
+Yeah, let's say the fish skeleton. Um, is it in here?
+
+SPEAKER 0
+No.
+
+SPEAKER 1
+It's not in here. Anyway, so we do have the problem, um. At the, the head, so the, the head of the fish signifies the problem, and the reasons or causes can then be, Mapped throughout this fish skeleton and grouped into categories. So, um, let's look at an example. So here, This is the fish, and then we have the problem at the, where the head is. So the low customer satisfaction. And then we go back backwards from there. We have paths that are sort of main paths. So the first one being people. And then under underneath people, we could have not enough personnel or not enough customer support, um, but they are, In the in the hierarchy underneath people. So we then open these new These new paths on the people path, and, If we have identified all the causes. Uh, for the, the people problems, then we can move to systems, for example, and the fact that systems comes after people would signal that the people causes or problems are mentioned more often, maybe by the stakeholders we talk to or is more salient in the data, and then under systems we can put a sub path of lacking functionality. And then we can move to management and methods and so on. So this is how you. Yeah, can draw this fishbone diagram, and you could, yeah, draw it for, for any case or for any problem uh in your case. And 11 way to do this if you don't know what the main paths should be, so to classify your statements that you get from people into categories, you could use this, it's just one structure that is predefined. So the 6 M's. It's just Ms, so it's easier to remember. And then you can use those as your categories. OK, so. For in this example, you will start with machine and method, which are equally important, and because they are closer to the head, they are more important in your fish bone diagram. And um yeah, have some points underneath, like the system does not keep the site engineer informed and so on and then. In other why questions, you get answers about material and about people. And then less often maybe about measurement and milieu. Questions about the fishbone diagram? OK. Then we move on to the final 10, primary cause, secondary cause. So this is the proper way to describe them. Technique number 3, Pareto analysis. So the 80/20 rule. So 80% of any given output is determined by 20% of its input. This is a very prominent concept in management and so on. So there's a video you can watch if you're not familiar with this. Um, we don't have time to watch it now, but it's like an explainer video. That gives different examples where this might be the case, so Parito, this Uh, this guy, he encountered in many different, uh, situations in his life that this rule applied, and that, um, actually 20%. Um, of things made up 80% of others, so this, um, this unequal distribution. So that it became a pattern and it became very famous and was named after him. So transferring this to root cause analysis, it's likely that 20% of the causes. Make up for 80% of the problem. So if we solve those, then we solve almost all of the issue. And that's what we should then focus on. So we're not gonna do this um exercise, we're just gonna look at this example. So if you see data um in in your business that you're analyzing, for example, here, um. Where you, where you could see or where you could map the course, the courses sorted by impact, so on the left hand side. Um, are the causes that have the highest impact, so customer support did not know how to resolve the issue, and it took a long time to get hold of customer support. Um, we do have many, many other courses, um, like I could not find info on the web page, but what such data tells us is that we should focus on, um, The ones, the causes that make up 80% of the problem, and um, yeah, bar charts, for example, can help us and, This is what the Pareto. Analysis is useful for. Any questions about Pareto?
+
+SPEAKER 0
+I just wanted to ask. Is uh is the uh As, as I know, like Pareto rule is generic now, right, like it can be applicable to it everywhere, yeah, but, uh, as, uh, it is mentioned that Pareto analysis, it is, uh, specific to the root cause analysis.
+
+SPEAKER 1
+Yeah, great question. So let's look at this, this overview slide here. Um, there it's shown. How we want you to think about it. Uh, but, um, here. So to um To identify the causes, or what is named factors here. I don't know what's factors, but it's causes.
+
+SPEAKER 0
+Um, You, you don't get the the causes identified through
+
+SPEAKER 1
+the Pareto analysis, but you, you do through the 5Y method, for example, and you might uh show them then in a fishbone diagram. But the decision to which root causes to focus on, that's what the Pareto analysis is for. That's why it's not up there, but. Sort of uh down there so this will will be the final step that you can use to decide what to address which of these causes.
+
+SPEAKER 0
+So it is, right? So it brings its specific to know the root cause of the problem, right? Yes, so in our, in our case we only want
+
+SPEAKER 1
+to apply this principle to weigh the causes against each other.
+
+SPEAKER 0
+Yes, OK.
+
+SPEAKER 1
+No worries. Any other questions?
+
+SPEAKER 0
+Yes. Do we need to use these three techniques together to analyze the top?
+
+SPEAKER 1
+Do you use the techniques together?
+
+SPEAKER 0
+Yes.
+
+SPEAKER 1
+Um, yeah, in an ideal world, you want to use the 5Y method first, then maybe bring the results into a fish bone diagram, and then do a Pareto analysis. But sometimes you don't have the time or the resources, and then you can only use, let's say, the 5 Y's. And a burrito, and you don't. Don't worry about the fish bone diagram, or you don't do the five whys, but you have, you only work with documents, and you directly put everything into the fish bone. And skip the five whys. What you cannot do is do only Pareto because it doesn't identify any causes. So you need one technique to identify the causes, and then ideally another one that will, that will help you to know what to focus on. Which of the causes to address. Does that help? OK. Perfect. So for the sake of time, um, I'll just have this summary slide you learned the Uh, Problem analysis, what this consists of, and then the techniques, um, how to identify root causes and how to decide what to do with them. And with this you are experts in problem analysis now, and I wish you a very nice Easter break and see you soon.
+
+SPEAKER 0
+just But it says that you should have the data to help you with. supposed to. Yeah. Well. I Yeah Yes. So. Yeah. one of the. So having a break. um Yeah. So yeah, at this point you could um make assumptions although we don't expect you to um to mention the root cause for assignment one so it's fine if you just uh have it probably safe. OK, no worries. I Bye bye.

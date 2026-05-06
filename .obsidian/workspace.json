@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ed6baf418eb58795",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e0f1df7efcf2d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a53bb3bc68fa06",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Digital Business Analysis (ISYS90049)/Assets/Week 10 - Requirements Analysis and Design Definition Slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week 10 - Requirements Analysis and Design Definition Slides"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c718d8ca94e50dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b9eeb90afcbf880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd71f1726d51d295",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d46e8f1b08cc3ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d55536f74db132e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "abcea2380d9d5751",
+    "type": "split",
+    "children": [
+      {
+        "id": "aacea765acde8ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506cf5becb6cc400",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Professional IS Consulting (ISYS90045)/Assignments/AT2b - Group Written Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AT2b - Group Written Report"
+            }
+          },
+          {
+            "id": "3d115e16f36d60c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Business Analysis (ISYS90049)/Assignments/assets/ISYS90049 2026S1_A2_Specification.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ISYS90049 2026S1_A2_Specification"
+            }
+          },
+          {
+            "id": "3c00c04e4c8a9b39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "369f0d59fa556cce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d6dc097852a9b9b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Business Analysis (ISYS90049)/Assignments/assets/ISYS90049 2026S1_A2_Specification.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ISYS90049 2026S1_A2_Specification"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "16a53bb3bc68fa06",
+  "lastOpenFiles": [
+    "Digital Business Analysis (ISYS90049)/Assets/Week 11 - Solution Evaluation Slides.pdf",
+    "Digital Business Analysis (ISYS90049)/Week 09/Lecture.md",
+    "Digital Business Analysis (ISYS90049)/Week 10/Lecture.md",
+    "Digital Business Analysis (ISYS90049)/Week 11/Lecture.md",
+    "Professional IS Consulting (ISYS90045)/Quizzes/Week 01 Quiz.md",
+    "Digital Business Analysis (ISYS90049)/Assignments/Assignment 1 - Feedback.md",
+    "Digital Business Analysis (ISYS90049)/Assets/Week 10 - Requirements Analysis and Design Definition Slides.pdf",
+    "Digital Business Analysis (ISYS90049)/Assets/Week 09 - Strategy Analysis Future State Transcript.txt",
+    "Digital Business Analysis (ISYS90049)/Assets/Week 09 - Strategy Analysis Future State Slides.pdf",
+    "Digital Business Analysis (ISYS90049)/Assets/ISYS90049_2026_SM1 M-transcript.txt",
+    "Digital Business Analysis (ISYS90049)/Assets/ISYS90049 2026S1 Week09 Strategy Analysis (Future State) (1) (1).pdf",
+    "Digital Business Analysis (ISYS90049)/Assets/DBA-Week 10.pdf",
+    "Digital Business Analysis (ISYS90049)/Assets/DBA-Week11.pdf",
+    "Digital Business Analysis (ISYS90049)/Quizzes/Week 01 Quiz.md",
+    "Digital Business Analysis (ISYS90049)/Week 02/Lecture.md",
+    "Professional IS Consulting (ISYS90045)/Quizzes",
+    "Professional IS Consulting (ISYS90045)/Week 01/Quiz - Week 01 Note Check.md",
+    "Digital Business Analysis (ISYS90049)/Week 01/Lecture.md",
+    "Digital Business Analysis (ISYS90049)/Quizzes/Week 02 Quiz.md",
+    "Digital Business Analysis (ISYS90049)/Week 01/Tutorial.md",
+    "Digital Business Analysis (ISYS90049)/Assignments/Assignment 2 - Strategy Analysis and Solution Evaluation.md",
+    "Digital Business Analysis (ISYS90049)/Quizzes",
+    "Professional IS Consulting (ISYS90045)/Assignments/AT2b - Group Written Report.md",
+    "AGENTS.md",
+    "Digital Business Analysis (ISYS90049)/Assets/README.md",
+    "Professional IS Consulting (ISYS90045)/Assets/README.md",
+    "Professional IS Consulting (ISYS90045)/Assignments/AT2a - Group Presentation.md",
+    "Professional IS Consulting (ISYS90045)/Week 02/Lecture.md",
+    "Professional IS Consulting (ISYS90045)/Week 01/Lecture.md",
+    "Digital Business Analysis (ISYS90049)/Week 07/Lecture.md",
+    "Digital Business Analysis (ISYS90049)/Assignments/Assignment 1 - Analysis Plan.md",
+    "Digital Business Analysis (ISYS90049)/Assignments/Exam.md",
+    "Digital Business Analysis (ISYS90049)/Assignments/Assignments Overview.md",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-image-10.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-stakeholder-matrix.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-image-02.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-image-01.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-discussion-log-2.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-discussion-log-1.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-ai-output-context.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-image-09.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-image-08.png",
+    "Digital Business Analysis (ISYS90049)/Assignments/assets/assignment-1-appendix-image-07.png",
+    "Professional IS Consulting (ISYS90045)/Assignments/Final Exam.md",
+    "Professional IS Consulting (ISYS90045)/Assignments/Assignments Overview.md",
+    "Untitled.canvas"
+  ]
+}
