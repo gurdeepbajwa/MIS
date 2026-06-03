@@ -106,6 +106,12 @@ The analyst therefore helps test:
 - Whether requirements trace back to the need.
 - Whether the delivered solution is fit for purpose.
 
+#### Extra Materials
+
+- [Business Analyst Interview Questions & Answers | Business Analyst Training For Beginners](https://www.youtube.com/watch?v=Dr34SHPcYNs) - Simplilearn. Shows how BA concepts such as elicitation, stakeholder handling, project approaches, and requirements appear in practice.
+- [Software Engineering Conference 1968](https://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF) - NATO conference report. Adds historical background to why structured analysis roles emerged: early software projects struggled with quality, cost, schedule, and unclear requirements, creating a need for better problem framing and requirements work.
+- [Business Analysis Global Standards of Practice](https://www.iiba.org/standards-and-resources/babok/) - IIBA. Useful for understanding why BA frameworks exist: they collect repeatable tasks and techniques so analysts do not rely only on intuition when handling complex organisational change.
+
 ## Textbook Connections
 
 - Milani Chapter 1 connects to the lecture by presenting business analysis as a discipline for enabling change and creating value, not only as a requirements documentation role.

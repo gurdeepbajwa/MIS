@@ -119,6 +119,13 @@ SWOT is useful for:
 - Comparing possible options for meeting organisational needs.
 - Anticipating barriers to success and planning responses.
 
+#### Extra Materials
+
+- [Business strategy - SWOT analysis](https://www.youtube.com/watch?v=9-NWhwskTO4) - 365 Financial Analyst. Helps revise how internal strengths/weaknesses and external opportunities/threats are separated in context analysis.
+- [The Five Forces](https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx) - Harvard Business School Institute for Strategy and Competitiveness. Adds the historical "why": Porter's 1979 framework was created to explain how industry structure affects profitability and strategic position, not just to list competitors.
+- [What is a business model?](https://www.strategyzer.com/library/what-is-a-business-model) - Strategyzer. Useful for connecting context analysis to value creation: a business model explains how an organisation creates, delivers, and captures value, so a digital solution should be checked against that logic.
+- [PEST Analysis](https://ods.consulting/insights/pest-analysis/) - ODS Consulting. Adds background on PEST as an environmental scanning tool derived from Aguilar's earlier ETPS work, explaining why analysts use it to look outside the organisation before recommending change.
+
 ### Textbook Connections
 
 - Milani Chapter 2 explains external context through PEST, Porter's Five Forces, and industry trends.

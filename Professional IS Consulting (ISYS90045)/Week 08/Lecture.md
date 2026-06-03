@@ -93,6 +93,11 @@ Professional Advice - Meetings and Interviews
 - How can technical concerns be reframed for business decision makers?
 - What meeting or workshop format would best surface both technical concerns and product-manager priorities?
 
+## Extra Resources
+
+- Grady, D. (2014). *How to save the world (or at least yourself) from bad meetings* [Video]. TED. https://www.youtube.com/watch?v=F6Qo8IDsVNg
+  Supports the meeting-discipline section by illustrating why vague meeting invitations, unclear purpose, and automatic attendance waste professional time.
+
 ## Summary
 
 Meetings and interviews are core consulting communication tools. They gather evidence, shape relationships, surface assumptions, and support decisions. The reading extends this by showing how workshops can convert specialist knowledge into shared priorities and business-facing action.

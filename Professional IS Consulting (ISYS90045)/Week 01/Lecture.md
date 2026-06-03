@@ -75,6 +75,11 @@ Introduction; The Consulting Role
 - What parts of consulting appeal to you, and what parts create risk or stress?
 - How might AI change entry-level consulting work, and which skills become more important as a result?
 
+## Extra Resources
+
+- Hussein, A. (2020). *A day in the life of a management consultant* [Video]. YouTube. https://www.youtube.com/watch?v=Z_ITiLOvWtE
+  Supports the lecture's practical view of consulting as analysis, meetings, communication, client management, and structured problem solving.
+
 ## Summary
 
 Consulting is a professional advisory role built around problem solving, trust, communication, and delivery. IS consultants need technical credibility, but the lecture emphasises that influence, judgement, stakeholder management, and professional behaviour are what turn expertise into useful advice.

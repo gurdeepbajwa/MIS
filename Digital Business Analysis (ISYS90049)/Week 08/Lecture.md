@@ -83,6 +83,12 @@ Personas help analysts:
 
 Personas can be used for external customers or internal users of a digital solution.
 
+#### Extra Materials
+
+- [Personas 101](https://www.youtube.com/watch?v=rv9yfrV-EAs) - NNgroup. Connects to persona creation, customer/user understanding, and using research-based representations of stakeholder groups.
+- [Personas: Practice and Theory](https://www.microsoft.com/en-us/research/publication/personas-practice-theory/) - Microsoft Research. Adds background on personas as an interaction-design technique that became useful because product teams needed a concrete way to keep real user goals visible during design decisions.
+- [Personas](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/personas) - Interaction Design Foundation. Useful for history: personas are commonly linked to Alan Cooper's goal-directed design, where the purpose is to design for user goals rather than abstract "users".
+
 ### Creating Personas
 
 Personas should be based on research rather than imagination.
@@ -124,6 +130,11 @@ Customer journey maps help analysts:
 - Reveal opportunities to improve the product, service, process, or digital solution.
 
 In digital business analysis, customer journey maps are useful because customer value often depends on the whole experience, not only on internal process efficiency.
+
+#### Extra Materials
+
+- [Customer Journey Mapping 101](https://www.youtube.com/watch?v=2W13ext26kQ) - NNgroup. Directly supports customer journey maps, touchpoints, pain points, emotions, and opportunity identification.
+- [Service Blueprinting in Practice](https://www.nngroup.com/articles/service-blueprints-definition/) - Nielsen Norman Group. Useful companion material because journey maps show the customer-facing experience, while service blueprints help connect that experience to backstage people, process, and system work.
 
 ### Components of a Customer Journey Map
 

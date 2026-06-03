@@ -82,6 +82,11 @@ Consulting Proposals and the Engagement Life Cycle
 - How can consultants challenge clients without becoming self-important?
 - What should be documented when the client changes scope after work has started?
 
+## Extra Resources
+
+- Designed Learning. (n.d.). *The 5 consulting phases* [Video]. YouTube/Designed Learning. https://designedlearning.com/prework/
+  Supports the engagement life cycle by showing consulting as a phased process rather than a single advice event.
+
 ## Summary
 
 The engagement life cycle shows how consulting work is won, contracted, delivered, and closed. Effective consultants manage risk, expectations, relationships, communication, and learning throughout the whole cycle, not just during the visible delivery phase.

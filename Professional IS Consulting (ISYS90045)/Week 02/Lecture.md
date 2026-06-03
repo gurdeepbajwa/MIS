@@ -93,6 +93,11 @@ Preparing Proposals - Understanding Your Audience
 - What would a proposal's budget and assumptions tell the client about what is really included?
 - Why might a large revenue relationship still remain vulnerable if the client sees the firm as a vendor rather than a trusted partner?
 
+## Extra Resources
+
+- InvGate. (2024). *Everything you need to know before sending a request for proposal (RFP)* [Video]. YouTube/OpsMatters. https://opsmatters.com/videos/everything-you-need-know-sending-request-proposal-rfp
+  Supports the lecture's proposal and audience themes by explaining RFP purpose, RFP components, and how buyers and suppliers use proposal documents.
+
 ## Summary
 
 Proposal writing combines problem interpretation, audience awareness, risk judgement, sales strategy, and disciplined structure. A strong proposal shows that the consultant understands the client's real need, can deliver credibly, and has thought through value, risk, method, people, and assumptions.

@@ -61,6 +61,11 @@ Revision and Exam Preparation; AT2 Presentations
 - How do trust, communication, and evidence interact in professional advice?
 - What are the likely risks if a consultant skips problem definition and moves straight to solution?
 
+## Extra Resources
+
+- Lobdell, M. (2011). *Study less, study smart* [Video]. YouTube. https://www.youtube.com/watch?v=IlU-zDU6aQ0
+  Supports the revision and exam preparation lecture by reinforcing active study habits, attention management, and structured preparation rather than passive rereading.
+
 ## Summary
 
 Revision should focus on applying the course frameworks to realistic consulting situations. The strongest answers will connect client context, stakeholder needs, evidence, risk, recommendation, and communication rather than listing concepts in isolation.

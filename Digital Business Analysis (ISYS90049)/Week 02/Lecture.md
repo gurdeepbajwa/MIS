@@ -36,6 +36,12 @@ Milani links these aspects to the business analysis plan. The plan does not need
 
 The business analysis plan is a living document. It may be approved at the start of the work, but it should be updated when scope, approach, governance, stakeholder access, or information needs change.
 
+#### Extra Materials
+
+- [Project Planning 101 - How to Build Effective Project Plans](https://www.youtube.com/watch?v=9G_LwG8ozpo) - Online PM Courses - Mike Clayton. Supports the lecture's planning themes: approach, activities, timing, governance, risk, and delivery control.
+- [History: The Agile Manifesto](https://agilemanifesto.org/history) - Agile Manifesto. Adds the "why" behind adaptive approaches: agile methods emerged as a response to heavyweight software processes that struggled with uncertainty, feedback, and changing needs.
+- [MoSCoW Prioritisation](https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation) - Agile Business Consortium. Useful for governance and prioritisation because it explains why fixed time and limited resources require explicit trade-offs about what must be delivered now and what can wait.
+
 ### Predictive and Adaptive Approaches
 
 | Aspect | Predictive approach | Adaptive approach |

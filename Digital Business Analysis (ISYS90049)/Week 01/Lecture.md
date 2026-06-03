@@ -40,6 +40,12 @@ These knowledge areas are supported by transferable underlying competencies such
 
 Frameworks, techniques, and models act as mental scaffolding for analysis. They may not always be used visibly or formally in every meeting, but they help the analyst structure questions, compare options, and produce clearer outcomes.
 
+#### Extra Materials
+
+- [What is Business Analysis? And what is a Business Analyst?](https://www.youtube.com/watch?v=xFsrdEtOqzg) - Online PM Courses - Mike Clayton. Supports the BA role as a bridge between business needs, stakeholders, and solution work.
+- [The Core Concepts that form Business Analysis](https://www.iiba.org/professional-development/knowledge-centre/ba-connection/baccm-overview---the-core-concepts-business-analysis-core-concept-model/) - IIBA. Useful for understanding why BACCO/BACCM exists: it gives business analysts a shared language for repeatedly checking whether change, need, solution, stakeholder, value, and context still fit together.
+- [20 Amazing Years of Business Analysis](https://www.iiba.org/business-analysis-blogs/20-amazing-years-of-business-analysis/) - IIBA. Adds historical context: IIBA's professionalisation of business analysis and the later introduction of BACCM show how BA matured from project requirements work into a broader change-and-value discipline.
+
 ## Summary
 
 - Successful digitalisation initiatives require strong alignment between business needs and technology capabilities, which can be difficult to achieve.

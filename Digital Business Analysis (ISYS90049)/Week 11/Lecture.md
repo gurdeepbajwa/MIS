@@ -16,6 +16,10 @@ Solution evaluation assesses the performance of and value delivered by an existi
 
 Solution evaluation is not the same as checking whether a project was delivered on time and budget. The business analysis focus is whether the solution creates the intended business value.
 
+The lecture frames solution evaluation as work that occurs after a solution is ready, delivered, implemented, or actively used. The business analyst is usually not responsible for building the solution, but returns to evaluate whether it performs as intended and whether the envisioned future state is being achieved.
+
+Evaluation can continue while the solution remains active. In some organisations the business analyst keeps monitoring value over time; in others, ongoing measurement may be handed to operational owners after the evaluation approach and metrics are established.
+
 ### Solution Evaluation Tasks
 
 | Task | Purpose |
@@ -41,6 +45,10 @@ The analyst should:
 
 Measures can be qualitative or quantitative.
 
+Performance measures should ideally be considered before the solution evaluation stage. Measures are often identified during strategy analysis, future state definition, or requirements analysis, because the analyst needs to know what value the solution is expected to produce before implementation.
+
+Digital solutions can generate large amounts of data, but not all available data is useful. The analyst needs to choose measures that represent the business value expected from the solution. Timing also matters: a measure collected during an unusual seasonal period, a short sample window, or before enough users have adopted the solution may misrepresent actual performance.
+
 ### Analyse Performance Measures
 
 Performance analysis asks whether the solution is delivering the desired value.
@@ -53,6 +61,8 @@ The analyst should consider:
 - Accuracy of performance measures.
 - Performance variances between expected and actual results.
 - Whether root cause analysis is needed to explain variance.
+
+The lecture emphasises the comparison between expected and actual performance. A gap between the two does not automatically mean the solution has failed. If the solution is new, benefits may appear gradually. An upward trend may justify continued monitoring, while flat or declining performance after several intervals may indicate a limitation that needs action.
 
 ### Assess Solution Limitations
 
@@ -68,6 +78,8 @@ This may involve:
 - Assessing whether problems should be resolved, mitigated, or accepted.
 
 A solution may underperform because one component limits the performance of the whole solution.
+
+The transcript distinguishes solution limitations from enterprise limitations. Solution limitations are problems inside the solution itself, such as missing features, weak design, poor integration, incorrect data, a weak component, or a holistic fit problem. Once identified, changes normally need to be reported, assessed, and approved before the solution is altered.
 
 ### Assess Enterprise Limitations
 
@@ -86,6 +98,8 @@ Examples include:
 
 The solution itself may be technically sound, but the enterprise may not be able to adapt to or use it effectively.
 
+The lecture treats enterprise limitations as socio-technical problems. A technically working system can still fail to create value if people do not understand it, do not trust it, are not trained to use it, or if organisational culture and processes do not support adoption. Further elicitation may be needed to understand user experience and stakeholder resistance. Training, change management, or process changes may be more appropriate than technical changes.
+
 ### Recommend Actions to Increase Value
 
 Recommendations should address the cause of the value gap.
@@ -103,6 +117,8 @@ Possible recommendations include:
 
 The goal is to align actual value with potential or intended value.
 
+Recommendations can include changing a feature, adding a feature, changing a policy, improving training, changing a process, doing nothing for the moment, or retiring the solution if it no longer creates value. Solution evaluation is therefore connected to future improvement cycles, not only post-implementation review.
+
 ### Continuous Monitoring
 
 Solution evaluation is not a one-off event. Metrics should be evaluated at appropriate intervals, such as weekly or monthly, depending on the solution and context.
@@ -116,6 +132,10 @@ Possible monitoring outcomes:
 | Progress better than expected | Investigate success factors so they can be reinforced or reused. |
 
 Continuous monitoring can also start the next improvement initiative.
+
+Monitoring intervals should be chosen deliberately. If there is no improvement after the first interval, the cause may be delayed adoption rather than failure. If expected value is reached, the analyst can still look for further improvement. If value is higher than expected, the analyst should identify success factors so they can be reinforced or reused in future initiatives.
+
+Dashboards and analytics tools can support monitoring, but the dashboard should be customised around meaningful measures rather than filled with whatever data is easiest to display.
 
 ### Measures and Metrics
 
@@ -137,6 +157,10 @@ Metrics can be used across the BA value spectrum:
 - Requirements analysis and design: define evaluation criteria and requirement quality.
 - Solution evaluation: measure actual solution performance and value.
 
+A measure is usually a direct count or value, such as number of customers, website visitors, successful deliveries, or customers leaving in a month. A metric relates measures to time, another measure, or a formula, such as churn rate, conversion rate, average delivery time, percentage of refunded orders, customer lifetime value, or customer acquisition cost.
+
+Customer lifetime value is useful only when interpreted with other metrics. For example, if the cost of acquiring a customer is higher than that customer's lifetime value, the business is not creating profitable customer growth.
+
 ### Good Metrics
 
 Good business metrics should be:
@@ -152,6 +176,14 @@ Good business metrics should be:
 
 Pre-defined metrics can be useful, but they may not fit the organisation's strategy, culture, context, processes, capabilities, or terminology. Analysts may need to adapt or develop metrics.
 
+Metrics can come from customer behaviour, known problems, business objectives, or expected solution value. Where no suitable pre-defined metric exists, the analyst may need to define the data points, formula, tracking interval, and reporting method. The important discipline is to start from the problem, objective, and expected value rather than from the data that happens to be easiest to collect.
+
+### A/B Testing
+
+A/B testing compares two variants of a solution element to see which performs better against a chosen metric. For example, two versions of a checkout button, page layout, message, or process step can be shown to different user groups and compared using conversion, completion, or error metrics.
+
+The better-performing version can then become the baseline for another test. A/B testing is most useful when there is enough traffic or usage volume to produce reliable results. Low sample sizes can make results misleading.
+
 ### Metrics and KPIs
 
 Metrics are broad. KPIs are narrower and more strategically important.
@@ -161,6 +193,17 @@ The relationship can be understood as:
 Goals and objectives -> critical success factors -> KPIs -> metrics -> measures.
 
 A KPI is a measurable value that demonstrates how effectively an organisation is achieving key business objectives. Not every metric is a KPI.
+
+The lecture explains this as a selection process: measures provide raw data, metrics interpret the data, and KPIs are the metrics promoted as key because they directly align with the organisation's goals, objectives, or needs. The same metric may be a KPI in one context and a secondary metric in another.
+
+Business objectives and KPIs are related but not identical. An objective defines the desired target, such as increasing annual recurring revenue by a specified percentage. The KPI is the metric monitored after the solution is live to assess whether progress toward that target is actually occurring.
+
+#### Extra Materials
+
+- [What is a Key Performance Indicator (KPI)?](https://www.youtube.com/watch?v=jvdPM6RZ3Xc) - Balanced Scorecard Institute. Reinforces the difference between measures, metrics, and KPIs when evaluating solution performance and value.
+- [The Balanced Scorecard - Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2) - Harvard Business Review. Adds the history behind strategic measurement: Kaplan and Norton argued that managers needed more than financial measures, which helps explain why KPIs should connect to customers, internal processes, learning, and business outcomes.
+- [Goodhart's law: when waiting times became a target, they stopped being a good measure](https://pubmed.ncbi.nlm.nih.gov/29180439/) - PubMed. Useful caution for solution evaluation: metrics can distort behaviour when people optimise the target instead of the underlying value.
+- [History of Benchmarking](https://www.globalbenchmarking.org/index.php/whats-benchmarking/development-of-benchmarking/) - Global Benchmarking Network. Adds background on benchmarking's connection to Xerox and quality improvement, explaining why benchmarking compares performance to practices outside the immediate team.
 
 ### Cautions About Metrics and KPIs
 
@@ -174,9 +217,13 @@ Common mistakes include:
 
 Metrics should support decisions and improvement, not create measurement noise.
 
+The transcript also warns that measurement can distort behaviour. When people are evaluated against a visible metric, they may optimise the metric rather than the underlying value. Metrics about individual work performance can also create privacy, fairness, surveillance, and bias problems if they are used without careful governance.
+
 ### Benchmarking
 
 Metrics alone do not show how an organisation compares with others. Benchmarking compares performance against internal units, competitors, industry peers, or world-class performers.
+
+Benchmarking helps establish what "good" performance means when the organisation does not yet have a clear target. It can compare performance against another department, another system, competitors, industry averages, or recognised leaders.
 
 Common benchmarking steps:
 
@@ -196,6 +243,8 @@ Benchmarking categories:
 | Shadow | Use publicly available competitor data. |
 | Functional | Compare similar processes outside the industry. |
 | World class | Compare processes across industries against leading performers. |
+
+Shadow benchmarking relies on public information, so it can be useful when direct competitor data is unavailable, but it may be incomplete or inaccurate.
 
 ## Textbook Connections
 
@@ -241,8 +290,10 @@ Milani also distinguishes measures, metrics, and KPIs. KPIs are tied to strategi
 - Evaluation includes measuring performance, analysing results, assessing solution and enterprise limitations, and recommending value-improving actions.
 - Metrics should be relevant, clear, economical, adequate, quantifiable, trustworthy, and tied to goals.
 - KPIs are strategically important metrics that show progress toward key business objectives.
+- Useful KPIs depend on the objective. The same metric can be critical in one context and secondary in another.
 - Continuous monitoring helps detect delayed benefits, missing value, and opportunities for further improvement.
-- Benchmarking helps compare performance and identify improvement targets.
+- Benchmarking and A/B testing help compare performance and identify practical improvement targets.
+- Poorly chosen metrics can distort behaviour, create privacy concerns, or distract from the value the solution was meant to deliver.
 
 ## Notes
 

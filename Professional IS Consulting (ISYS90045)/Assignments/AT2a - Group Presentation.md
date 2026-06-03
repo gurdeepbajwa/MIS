@@ -14,4 +14,6 @@ Group presentation
 
 ## Notes
 
+- See [[Assignment 2 Briefing]] for the Week 10 client briefing, case-study comparison, marking areas, and presentation expectations.
+
 ## Tasks

@@ -37,6 +37,12 @@ This knowledge area helps the analyst:
 
 The lecture distinguishes between the problem domain and the solution domain. Business needs, business requirements, and stakeholder requirements sit closer to the problem domain. Solution, functional, non-functional, and transition requirements sit closer to the solution domain.
 
+The transcript emphasises that Week 10 focuses mainly on solution or system requirements because these are the requirements that bridge analysis work to solution design. Functional and non-functional requirements are especially important at this point because they can be translated into prototypes, use cases, user stories, and system design discussions.
+
+Functional requirements describe capabilities the system should provide, such as allowing users to upload content, log in, create a study group, or track study sessions with a timer. Non-functional requirements describe qualities or constraints such as usability, reliability, scalability, security, compliance, availability, and performance. A useful test is whether the statement describes something the system does for the user, or a quality of how the system must operate.
+
+System requirements should not be confused with SMART objectives. A SMART objective might say that customer satisfaction should increase by 25% within one year. A system requirement should describe an implementable capability or quality, such as allowing users to track a study session with a 25-minute timer. The objective describes the desired business outcome; the requirement describes what the system must do or how it must perform.
+
 ### Requirements and Design Cycle
 
 Requirements and designs influence each other. Requirements express what needs to be satisfied; designs describe possible ways to satisfy those requirements.
@@ -79,6 +85,11 @@ Common formats include:
 - Process models such as BPMN.
 - Prototypes and wireframes.
 - Use case diagrams and narratives.
+- Requirements specification documents.
+- User stories.
+- Functional decomposition.
+
+The transcript highlights why multiple representations matter. A developer may benefit from process models, use cases, or structured matrices because they show activity flow, actors, or system behaviour more precisely. A senior manager may need a more natural-language or high-level representation because detailed modelling notation can obscure the decision they need to make. The analyst's job is to maintain enough representations to communicate requirements to different audiences without changing the underlying meaning.
 
 ### Model Categories
 
@@ -139,6 +150,10 @@ It includes:
 
 Requirements architecture helps reveal conflicts, dependencies, gaps, and trade-offs.
 
+The transcript distinguishes this from checking individual requirements. Verification and validation can assess whether one requirement is well written, feasible, and aligned with objectives. Requirements architecture checks how requirements relate to one another: dependencies, priorities, conflicts, integration with existing infrastructure, and whether the set of requirements collectively supports the objectives.
+
+Template architectures or existing patterns can be useful where similar problems have already been solved. Analysts do not always need to define every requirement relationship from scratch; they can adapt proven templates where they fit the context.
+
 ### Design Options
 
 Design options describe different possible ways to meet the need and reach the future state.
@@ -151,6 +166,10 @@ Defining design options includes:
 - Describing design options while considering the desired future state.
 
 Design options may include changes to business policies, processes, organisational structures, interfaces, data, software, or other solution components.
+
+The transcript explains this as a more detailed step than the future-state solution space. Future state analysis may identify broad options such as a CRM platform, vendor solution, or self-developed system. Requirements analysis and design definition then zooms in: mapping requirements to features, comparing vendors or build options, considering what must be customised, and estimating the cost and fit of specific options.
+
+When using existing platforms, requirements should be allocated at a granular level. A large system may contain more functions than the organisation needs, so the analyst should map requirements to specific components, features, releases, or configuration decisions rather than treating the whole vendor product as a single answer.
 
 ### Potential Value and Recommendation
 
@@ -166,6 +185,10 @@ Consider:
 
 The analyst recommends the option that best balances value, feasibility, cost, risk, and alignment with requirements.
 
+The transcript stresses that the analyst recommends; authorised stakeholders decide. The analyst should communicate a small number of viable options rather than overwhelming decision makers with every possible alternative.
+
+Expected benefits should relate back to the problem or opportunity being addressed. They do not need to be only financial, and they should not be exaggerated into unsupported revenue claims. Benefits may include solving the specific problem, reducing friction, improving access to information, creating new capabilities, improving user experience, or creating intermediate value that later supports revenue.
+
 ### Wireframes
 
 A wireframe is a simplified representation of a system interface.
@@ -179,6 +202,16 @@ Wireframes:
 - Help stakeholders discuss layout, content, flow, and interaction before expensive design or implementation work begins.
 
 All wireframes are prototypes, but not all prototypes are wireframes.
+
+The transcript distinguishes prototype fidelity:
+
+| Prototype type | Meaning |
+| --- | --- |
+| Low-fidelity prototype | A rough representation focused on structure. Wireframes sit here. They may be hand drawn and are cheap to change. |
+| Medium-fidelity prototype | Shows more realistic interface components, labels, pages, and navigation, but may not be fully functional. |
+| High-fidelity prototype | Looks and feels close to the final solution and may allow realistic interaction, but may not be connected to live data or production systems. |
+
+Low-fidelity wireframes are useful early because they create a basis for discussion without the cost and commitment of detailed design. AI tools can generate wireframes quickly, but the analyst still needs to judge whether the output is truly low fidelity or has drifted into a more detailed prototype than needed.
 
 ### Use Cases
 
@@ -205,6 +238,23 @@ Important concepts:
 | Alternative flow | A variation from the normal path. |
 
 Use case relationships can include include, extend, and generalisation relationships.
+
+Use cases can be written as narratives and then represented as diagrams. The narrative explains the step-by-step user-system interaction, while the diagram visualises actors, system boundaries, use cases, and relationships.
+
+The transcript highlights two common relationships:
+
+| Relationship | Meaning |
+| --- | --- |
+| Include | A required interaction that must occur for the use case to complete. |
+| Extend | An optional or conditional interaction that may occur but is not required for the main use case. |
+
+Use cases complement wireframes. Wireframes show the structural layout of an interface; use cases show the flow of interaction through the system.
+
+#### Extra Materials
+
+- [UML Use Case Diagram Tutorial](https://www.youtube.com/watch?v=1WHjaG_LHsQ) - Imerging Careers. Supports use cases, actors, system boundaries, relationships, and modelling user-system interaction.
+- [Use-Case Foundation](https://www.ivarjacobson.com/publications/use-case-foundation) - Ivar Jacobson International. Adds history and purpose: use cases were developed to describe all the ways a user can use a system to achieve a goal, making them a bridge between stakeholder needs and system behaviour.
+- [Use Cases: The Ideal Bridge Between Requirements and Design?](https://www.interaction-design.org/literature/article/uses-cases-diagrams-narratives) - Interaction Design Foundation. Useful for understanding why use cases are still taught: they make requirements concrete through scenarios before the solution is fully designed.
 
 ## Textbook Connections
 
@@ -248,6 +298,8 @@ Milani also treats prototypes and wireframes as useful design tools because they
 - Requirements should be specified, modelled, verified, validated, architected, and linked to design options.
 - Good requirements are atomic, complete, consistent, concise, feasible, unambiguous, testable, prioritised, and understandable.
 - Wireframes and use cases help stakeholders reason about system structure and interaction.
+- Prototype fidelity matters: low-fidelity wireframes are cheap discussion tools, while higher-fidelity prototypes are closer to final design but more costly to change.
+- System requirements should be distinguished from business goals or SMART objectives.
 - The textbook reinforces that requirements/design work bridges strategy analysis and delivery by refining the selected solution path into usable requirements and design detail.
 
 ## Notes

@@ -83,6 +83,11 @@ Presenting and Professional Communication Skills; Intro to AT1
 - What should a consultant do when presentation technology fails?
 - What behaviours give a client evidence that a consultant can be trusted?
 
+## Extra Resources
+
+- Treasure, J. (2013). *How to speak so that people want to listen* [Video]. TED. https://www.youtube.com/watch?v=eIho2S0ZahI
+  Supports the lecture's presentation and communication skills by focusing on voice, clarity, listening, and speaking behaviours that affect whether an audience pays attention.
+
 ## Summary
 
 Professional communication turns analysis into usable advice. The week connects presentation skill with trust: clients are more likely to act when advice is clear, evidence-based, appropriately tailored, and delivered by someone whose motive appears client-focused.

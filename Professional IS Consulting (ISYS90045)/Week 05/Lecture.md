@@ -65,6 +65,11 @@ Giving Professional Advice; AT1 Presentations
 - What makes advice actionable?
 - Why might relationship skill and character matter as much as technical intelligence in professional advice?
 
+## Extra Resources
+
+- AACSB. (2015). *The challenge of giving and seeking advice* [Video]. YouTube/AACSB. https://mc-55b3d54b-137a-4a07-a480-8220-cd.azurewebsites.net/insights/videos/2015/05/challenge-of-giving-seeking-advice
+  Supports the lecture's advice process by showing that giving and receiving advice are practical skills, not just matters of judgement.
+
 ## Summary
 
 Giving professional advice requires judgement, structure, evidence, and client awareness. The consultant's role is to help the client make a better decision by clarifying the problem, explaining the reasoning, and recommending action with appropriate confidence and caveats.

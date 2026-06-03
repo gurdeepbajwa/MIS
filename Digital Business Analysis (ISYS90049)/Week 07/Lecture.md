@@ -145,6 +145,12 @@ Possible prioritisation bases:
 
 Stakeholders often need to make trade-offs. Prioritisation should distinguish between what is needed, wanted, and merely liked.
 
+#### Extra Materials
+
+- [The MoSCoW Prioritization Method - Explanation and Best Practices](https://www.youtube.com/watch?v=NJ2JM_PKXjk) - airfocus by Lucid. Supports prioritising requirements and making trade-offs between must-have, should-have, could-have, and won't-have items.
+- [MoSCoW Prioritisation](https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation) - Agile Business Consortium. Adds the "why" behind MoSCoW: it is especially useful when time is fixed and stakeholders must agree what is essential for the current increment.
+- [Requirements Traceability: What, why and how](https://www.adaptiveus.com/blog/requirements-traceability-what-why-and-how) - Adaptive US. Useful for understanding traceability as a way to preserve the reason for each requirement, connect it to downstream work, and assess the impact of change.
+
 MoSCoW is one prioritisation method:
 
 | Priority | Meaning |

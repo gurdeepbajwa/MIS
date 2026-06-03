@@ -14,6 +14,8 @@ Group written report
 
 ## Notes
 
+- See [[Assignment 2 Briefing]] for the Week 10 client briefing, case-study comparison, proposal requirements, marking areas, and common pitfalls.
+
 ## Assignment Focus
 
 The written report is a consultancy proposal responding to one of the Assignment 2 case study RFPs. The proposal should explain the client's business problem and how the consultancy will execute the recommended implementation.
@@ -92,28 +94,25 @@ Appendix note: these role CVs are excluded from the report word count. Replace p
 
 #### CV 1: Project Director
 
-**Name:** [Insert name]  
-**Role on engagement:** Delivery lead and project governance owner  
-**Years of experience:** 10+ years  
+**Name:** [Insert name]
+**Role on engagement:** Delivery lead and project governance owner
+**Years of experience:** 10+ years
 **Relevant sectors:** Fitness and wellness, retail services, customer self-service, digital transformation
 
 ##### Professional Summary
 
 I will lead day-to-day delivery of the Harper Fitness technology refresh. I bring experience managing complex digital programs where customer-facing platforms, operational change and executive governance must be coordinated carefully. For Harper Fitness, I will ensure the website, mobile application, chatbot, integration, testing and change activities remain aligned to the agreed scope, budget and 12-15 month delivery timeline.
 
-##### Relevant Expertise
+##### Project Experience
 
-- I deliver digital platform implementations using hybrid Agile methods.
-- I manage project governance, steering committee reporting and issue escalation.
-- I control scope, timeline, dependencies, risks and budget.
-- I coordinate multidisciplinary teams across analysis, design, architecture, development, testing and change.
-- I facilitate stakeholder workshops with business, IT, marketing and operations teams.
+**Multi-site recreation provider - Member portal and online booking implementation | Mar 2024 - Nov 2024**
+Project Director for a member self-service program across multiple recreation facilities. I managed the hybrid Agile delivery plan, coordinated business analysis, UX, architecture, development, testing and change activities, and reported progress through weekly project governance. The project improved digital booking convenience and reduced manual booking pressure on front-desk staff.
 
-##### Selected Similar Experience
+**Customer service organisation - Mobile application rollout | Jun 2023 - Feb 2024**
+Project Director for a mobile application rollout across several service locations. I controlled scope, timeline, dependencies, risks and budget while coordinating design, integration, testing, training and staged deployment. The project required close stakeholder management because operational teams needed to adopt new digital processes while continuing daily service delivery.
 
-- I led a member portal and online booking implementation for a multi-site recreation provider, improving digital self-service and reducing manual booking pressure on staff.
-- I directed a mobile application rollout for a customer service organisation, coordinating design, integration, testing, training and staged deployment across multiple locations.
-- I managed a chatbot and customer database integration project where clear governance and phased testing were required to reduce operational disruption.
+**Subscription-based consumer business - Chatbot and customer database integration | Sep 2022 - May 2023**
+Delivery lead for a chatbot implementation connected to an existing customer database. I facilitated workshops with business, IT, marketing and operations teams, managed issue escalation, and used phased testing to reduce disruption before launch. The project strengthened my experience in customer self-service, integration risk and governance reporting.
 
 ##### Role on the Harper Fitness Project
 
@@ -134,28 +133,25 @@ I will lead day-to-day delivery of the Harper Fitness technology refresh. I brin
 
 #### CV 2: Business Analyst
 
-**Name:** [Insert name]  
-**Role on engagement:** Requirements, process and benefits analysis lead  
-**Years of experience:** 5+ years  
+**Name:** [Insert name]
+**Role on engagement:** Requirements, process and benefits analysis lead
+**Years of experience:** 5+ years
 **Relevant sectors:** Fitness and wellness, member services, digital self-service, customer operations
 
 ##### Professional Summary
 
 I will lead the business analysis work for the Harper Fitness technology refresh. I bring experience translating business problems into clear requirements, future-state processes and acceptance criteria. For Harper Fitness, I will help ensure the proposed website, mobile application, chatbot and integrations respond to real operational problems, including manual class booking, limited member self-service and disconnected customer data.
 
-##### Relevant Expertise
+##### Project Experience
 
-- I run requirements workshops and stakeholder interviews.
-- I document current-state issues and future-state workflows.
-- I define user stories, acceptance criteria and business rules.
-- I support benefits tracking and success measure definition.
-- I work across IT, operations, marketing and frontline teams to align business needs.
+**Recreation provider - Membership portal requirements and process mapping | Apr 2024 - Oct 2024**
+Business Analyst for a member portal redesign across several recreation facilities. I ran requirements workshops with operations, IT and frontline staff, documented current booking and joining pain points, and translated business needs into user stories and acceptance criteria. The work helped the delivery team prioritise self-service features that reduced manual administration.
 
-##### Selected Similar Experience
+**Health services network - Customer support process redesign | Jul 2023 - Jan 2024**
+Business Analyst for a customer support improvement project moving common enquiries from phone-based support to digital self-service. I mapped current and future workflows, documented escalation rules, and worked with service teams to define reporting measures. The project strengthened my experience in aligning digital requirements with operational processes.
 
-- I supported a membership portal redesign for a recreation provider, documenting booking, joining and member management requirements.
-- I mapped current and future customer support processes for a service organisation moving from phone-based support to digital self-service.
-- I helped define acceptance criteria for a mobile application rollout involving customer profiles, booking features and notification workflows.
+**Subscription-based consumer business - Mobile app requirements definition | Nov 2022 - Jun 2023**
+Business Analyst for a mobile application rollout involving customer profiles, booking features and notification workflows. I facilitated stakeholder interviews, defined business rules, and supported testing preparation by linking acceptance criteria to agreed requirements.
 
 ##### Role on the Harper Fitness Project
 
@@ -176,28 +172,25 @@ I will lead the business analysis work for the Harper Fitness technology refresh
 
 #### CV 3: Solution Architect
 
-**Name:** [Insert name]  
-**Role on engagement:** Technology architecture and integration lead  
-**Years of experience:** 8+ years  
+**Name:** [Insert name]
+**Role on engagement:** Technology architecture and integration lead
+**Years of experience:** 8+ years
 **Relevant sectors:** Digital platforms, cloud services, customer databases, secure integrations
 
 ##### Professional Summary
 
 I will design the target architecture for Harper Fitness's refreshed digital channels. I bring experience connecting websites, mobile applications, customer databases, payment tools and external platforms into reliable digital services. For Harper Fitness, I will define how the new website, mobile application, chatbot and analytics capability connect with the existing membership database, class booking processes, payment functions and approved third-party wearable platforms.
 
-##### Relevant Expertise
+##### Project Experience
 
-- I design scalable digital platform architectures.
-- I define API and systems integration requirements.
-- I apply cybersecurity-by-design and privacy-by-design principles.
-- I assess cloud, reliability, performance and supportability requirements.
-- I support technology and vendor decisions.
+**Recreation provider - Customer portal integration architecture | Mar 2024 - Nov 2024**
+Solution Architect for a customer portal connected to legacy membership, booking and payment systems. I designed the integration approach, defined API requirements and assessed security considerations for member data. The project required a practical architecture that allowed new digital services to work with existing operational systems.
 
-##### Selected Similar Experience
+**Customer service organisation - Mobile application platform design | Jun 2023 - Feb 2024**
+Solution Architect for a mobile application implementation requiring customer profile, booking, notification and reporting integrations. I assessed cloud hosting, reliability, performance and supportability requirements, then worked with developers and testers to reduce technical risk before staged rollout.
 
-- I designed the integration architecture for a customer portal connected to legacy membership and payment systems.
-- I supported a mobile application implementation requiring customer profile, booking and notification integrations.
-- I advised on chatbot architecture for a service organisation where customer data protection and escalation pathways were critical.
+**Subscription-based consumer business - Chatbot and data access design | Sep 2022 - May 2023**
+Architecture lead for a chatbot implementation connected to a customer database. I advised on privacy controls, escalation pathways and data access rules so the chatbot could answer common enquiries without exposing sensitive customer information.
 
 ##### Role on the Harper Fitness Project
 
@@ -218,28 +211,25 @@ I will design the target architecture for Harper Fitness's refreshed digital cha
 
 #### CV 4: UX and Digital Experience Lead
 
-**Name:** [Insert name]  
-**Role on engagement:** Member experience and interface design lead  
-**Years of experience:** 6+ years  
+**Name:** [Insert name]
+**Role on engagement:** Member experience and interface design lead
+**Years of experience:** 6+ years
 **Relevant sectors:** Fitness and wellness, customer experience, mobile applications, digital self-service
 
 ##### Professional Summary
 
 I will design the member experience for Harper Fitness's refreshed website and mobile application. I bring experience designing digital journeys that are simple, accessible and useful for different customer groups. For Harper Fitness, I will focus on journeys that matter most to prospective and current members, including joining, booking classes, managing memberships, checking in, tracking workouts and accessing wellness content.
 
-##### Relevant Expertise
+##### Project Experience
 
-- I conduct customer journey mapping and service design.
-- I create wireframes, prototypes and usability testing plans.
-- I design mobile-first digital experiences.
-- I apply accessibility and inclusive design principles.
-- I translate customer feedback into practical interface improvements.
+**Recreation provider - Member portal journey redesign | Apr 2024 - Oct 2024**
+UX Lead for a member portal redesign focused on joining, online booking and account management. I mapped customer journeys, created wireframes and tested prototype flows with representative users. The project improved the clarity of booking and membership tasks before the build phase.
 
-##### Selected Similar Experience
+**Customer service organisation - Mobile self-service app usability testing | Jul 2023 - Feb 2024**
+UX Lead for a mobile self-service application used across multiple service locations. I designed usability tests, analysed customer feedback and translated findings into interface improvements for booking, profile management and notifications.
 
-- I redesigned a member portal journey for a recreation provider, improving online booking and account management flows.
-- I led usability testing for a mobile self-service application used by customers across multiple locations.
-- I improved digital onboarding journeys for a subscription-based service, reducing friction in sign-up and account management.
+**Subscription-based consumer business - Digital onboarding improvement | Oct 2022 - May 2023**
+UX consultant for a digital onboarding project aimed at reducing friction in sign-up and account management. I reviewed user journeys, identified points of confusion and redesigned key screens to make customer self-service easier to complete.
 
 ##### Role on the Harper Fitness Project
 
@@ -260,28 +250,25 @@ I will design the member experience for Harper Fitness's refreshed website and m
 
 #### CV 5: Change and Training Manager
 
-**Name:** [Insert name]  
-**Role on engagement:** Adoption, readiness and training lead  
-**Years of experience:** 7+ years  
+**Name:** [Insert name]
+**Role on engagement:** Adoption, readiness and training lead
+**Years of experience:** 7+ years
 **Relevant sectors:** Service organisations, digital adoption, staff training, operational readiness
 
 ##### Professional Summary
 
 I will prepare Harper Fitness staff and members for the refreshed digital experience. I bring experience helping service-based organisations adopt new technology without disrupting day-to-day operations. For Harper Fitness, I will focus on making sure club staff, support teams and managers are ready to use and support online booking, digital check-in, member self-service and chatbot escalation processes.
 
-##### Relevant Expertise
+##### Project Experience
 
-- I manage change impact assessments and adoption planning.
-- I develop stakeholder communications and launch materials.
-- I create role-based training guides and support resources.
-- I prepare teams for go-live and post-launch stabilisation.
-- I track adoption risks and feedback during rollout.
+**Recreation provider - Digital booking rollout readiness | May 2024 - Nov 2024**
+Change and Training Manager for a digital booking rollout across multiple service locations. I assessed staff impacts, developed training guides and prepared go-live support materials for reception and operations teams. The work helped staff move from manual booking support to digital booking assistance.
 
-##### Selected Similar Experience
+**Customer service organisation - Self-service adoption program | Jul 2023 - Feb 2024**
+Change lead for a customer self-service implementation. I developed stakeholder communications, role-based training and adoption tracking so frontline teams could support customers during the transition. The project reduced confusion by clearly explaining new processes and support pathways.
 
-- I managed training and readiness for a digital booking rollout across multiple service locations.
-- I supported frontline teams during a customer self-service implementation, reducing confusion during transition.
-- I developed communications and training materials for a chatbot implementation involving new escalation processes.
+**Subscription-based consumer business - Chatbot launch support | Oct 2022 - May 2023**
+Training lead for a chatbot implementation involving new customer escalation processes. I created launch communications, support scripts and post-launch feedback processes to help staff understand when to rely on the chatbot and when to escalate to human support.
 
 ##### Role on the Harper Fitness Project
 
@@ -469,6 +456,7 @@ Key governance question to answer: how will issues be managed and by whom if bud
 - [[../Assets/Week 10 - AT2 Harper Fitness Case Study.pdf|Harper Fitness case study]]
 - [[../Assets/Week 10 - AT2 BrightMart Case Study.pdf|BrightMart case study]]
 - [[../Assets/Week 10 - AT2 Austech Manufacturing Alliance Case Study.pdf|Austech Manufacturing Alliance case study]]
+- [[Week 10 - AT2 Client Briefing and Case Studies Slides.pdf|Assignment 2 client briefing and case studies]]
 - [[../Assets/Week 10 - AT2 Risk and Governance Brief.pdf|Assignment 2 - Risk and Governance]]
 - [[../Assets/Week 09 - Project Management Tutorial Slides.pdf|Tutorial Week 9 - Project Management]]
 

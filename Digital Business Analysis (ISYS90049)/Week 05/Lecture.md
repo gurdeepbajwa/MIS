@@ -1,5 +1,3 @@
-# Lecture
-
 Course: [[Digital Business Analysis (ISYS90049)/Course Overview|Digital Business Analysis (ISYS90049)]]
 Week: 05
 Topic: Problem Analysis
@@ -127,6 +125,12 @@ Limitations:
 - Complex problems may require a workshop rather than a single chain of questioning.
 - The conversation can drift toward an unrelated concern if the analyst does not keep the questioning anchored to the original problem.
 
+#### Extra Materials
+
+- [The 5 Whys of Problem-Solving Method](https://www.youtube.com/watch?v=B-M3YlA2KDg) - Mindtools Kineo. Reinforces root cause analysis and the need to move beyond symptoms before recommending solutions.
+- [What is a Fishbone Diagram?](https://asq.org/learn-about-quality/cause-analysis-tools/overview/fishbone.html) - ASQ. Adds the history and purpose of Ishikawa/fishbone diagrams as one of the classic quality tools for organising many possible causes instead of forcing one linear explanation.
+- [Cause Analysis Tools](https://asq.org/quality-resources/root-cause-analysis/tools) - ASQ. Useful for seeing why Five Whys, fishbone diagrams, and Pareto charts are complementary: one probes causal chains, one organises possible causes, and one helps prioritise the most significant factors.
+
 ### Fishbone Diagram
 
 A fishbone diagram, also called an Ishikawa or cause-and-effect diagram, organises possible causes of a problem into categories.
@@ -178,6 +182,11 @@ Typical use:
 - A clear problem definition includes context, problem, stakeholders, impacts, and potential challenges.
 - The Five-Why method explores causal chains, fishbone diagrams organise multiple possible causes, and Pareto analysis helps prioritise the most significant causes.
 - Strong problem analysis improves the chance that later requirements and solutions address the real business issue.
+
+## Applied Diataxis Notes
+
+- [[Digital Business Analysis (ISYS90049)/Week 05/How to Apply the Five-Why Method|How to Apply the Five-Why Method]]
+- [[Digital Business Analysis (ISYS90049)/Week 05/Root Cause Analysis Techniques Reference|Root Cause Analysis Techniques Reference]]
 
 ## Notes
 

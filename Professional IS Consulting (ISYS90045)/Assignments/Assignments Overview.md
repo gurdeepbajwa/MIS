@@ -6,4 +6,5 @@
 - [[AT1b - Pairs Report]]
 - [[AT2a - Group Presentation]]
 - [[AT2b - Group Written Report]]
+- [[Assignment 2 Briefing]]
 - [[Final Exam]]

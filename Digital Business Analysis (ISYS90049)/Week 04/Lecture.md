@@ -1,5 +1,3 @@
-# Lecture
-
 Course: [[Digital Business Analysis (ISYS90049)/Course Overview|Digital Business Analysis (ISYS90049)]]
 Week: 04
 Topic: Elicitation and Collaboration
@@ -115,6 +113,12 @@ The stakeholder matrix maps stakeholders by influence and impact:
 Stakeholder analysis should not treat engagement, support, and decision authority as the same thing. A stakeholder may be cooperative and available but have limited authority, while a decision maker may be supportive but hard to access. The analyst needs to understand both who can contribute useful knowledge and who can approve or block change.
 
 Stakeholder attitudes can also be shaped by incentives. Someone may be useful to the analysis but still resist a proposed change if the change threatens their workload, status, autonomy, or perceived value.
+
+#### Extra Materials
+
+- [What Goes into a Full Stakeholder Analysis? Deep Dive](https://www.youtube.com/watch?v=VSS_R06xIJo) - Online PM Courses - Mike Clayton. Extends the stakeholder engagement material by showing how stakeholder interest, influence, attitudes, and management actions connect.
+- [Stakeholder Theory](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/abs/stakeholder-theory-the-state-of-the-art/F8919E9775A67C015D71BA6A604F70D4) - Business Ethics Quarterly. Adds historical context: stakeholder thinking grew as a response to narrow shareholder-focused management, which helps explain why BAs analyse people affected by change even when they do not formally own the project.
+- [How to Make a Stakeholder Map](https://www.nngroup.com/articles/stakeholder-mapping/) - Nielsen Norman Group. Useful for practice because it shows why stakeholder mapping is not only a list of names; it helps decide who to involve, inform, satisfy, or manage closely.
 
 ### Stakeholder Management Plan
 

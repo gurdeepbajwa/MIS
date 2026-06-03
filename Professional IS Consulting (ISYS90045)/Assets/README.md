@@ -53,11 +53,21 @@ Assets are named with a week prefix so agents can quickly map source material to
 
 ## Week 09
 
+- `Week 09 - Hypothesis Driven Consulting Slides.pdf`
+- `Week 09 - Hypothesis Driven Consulting Transcript.txt`
 - `Week 09 - Project Management Tutorial Slides.pdf`
 
 ## Week 10
 
+- `Week 10 - Problem Solving Slides.pdf`
+- `Week 10 - Problem Solving and AT2 Briefing Transcript.txt`
+- `Week 10 - Rosenberg Six-Step Process Reading.pdf`
+- `Week 10 - Summers Sweeney Wolk Problem Solving Style Reading.pdf`
 - `Week 10 - AT2 Harper Fitness Case Study.pdf`
 - `Week 10 - AT2 BrightMart Case Study.pdf`
 - `Week 10 - AT2 Austech Manufacturing Alliance Case Study.pdf`
 - `Week 10 - AT2 Risk and Governance Brief.pdf`
+
+## Week 11
+
+- `Week 11 - Conflict Close Out and Exam Preparation Transcript.txt`

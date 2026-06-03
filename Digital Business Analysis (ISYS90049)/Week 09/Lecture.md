@@ -75,6 +75,12 @@ SMART objectives should be:
 
 Objectives should support the relevant goal, and goals should support the business requirement and business need.
 
+#### Extra Materials
+
+- [How to Set SMART Goals](https://www.youtube.com/watch?v=OXA6gfzFA24) - Mindtools Kineo. Reinforces SMART objectives and the need to define measurable future-state outcomes.
+- [Being smart about writing SMART objectives](https://www.sciencedirect.com/science/article/pii/S0149718916302580) - Evaluation and Program Planning. Adds historical context: the SMART idea is commonly traced to Doran's 1981 work on writing management goals, explaining why objectives are made specific and measurable rather than left as vague aspirations.
+- [Goodhart's law: when waiting times became a target, they stopped being a good measure](https://pubmed.ncbi.nlm.nih.gov/29180439/) - PubMed. Useful caution for future-state objectives: once a measure becomes a target, people may optimise the number rather than the underlying value, so objectives need careful design.
+
 ### Solution Scope
 
 The scope of the solution space describes which parts of the business need to change. It identifies what is in scope and out of scope for the change.
@@ -249,6 +255,10 @@ Important textbook links:
 - Gap analysis compares current and future states to identify required changes.
 - Change strategy defines the high-level implementation approach, readiness work, and transition path.
 - Risk analysis identifies uncertainties that may affect the transition from current state to future state.
+
+## Applied Diataxis Notes
+
+- [[Digital Business Analysis (ISYS90049)/Week 09/How to Build a Future State and Gap Analysis|How to Build a Future State and Gap Analysis]]
 
 ## Notes
 

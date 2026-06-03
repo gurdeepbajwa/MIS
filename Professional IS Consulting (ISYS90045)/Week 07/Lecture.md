@@ -107,6 +107,11 @@ Reesan Case Study; Professional Advice - Report Writing and Workshops
 - How should a consultant respond if workshops reveal a different problem from the one assumed in the proposal?
 - How does the Reesan case show that technical debt can become an organisational trust problem?
 
+## Extra Resources
+
+- Miro. (2021). *Facilitating collaborative product development: Workshop* [Video]. YouTube/TeamRelated. https://teamrelated.com/videos/facilitating-collaborative-product-development-workshop
+  Supports the workshop component of the lecture by showing facilitation, collaboration, and group engagement in a product-development setting.
+
 ## Summary
 
 Professional advice is often delivered through reports and workshops. Reports turn evidence into structured recommendations; workshops create shared understanding and collaborative problem solving. Both require clarity about the client's question, scope, evidence, and decision needs.

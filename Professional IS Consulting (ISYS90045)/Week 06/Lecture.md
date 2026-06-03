@@ -89,6 +89,11 @@ Preparing Proposals - Negotiation Skills
 - Where should a consultant draw the line between compromise and unacceptable terms?
 - How can objective criteria help a consulting negotiation avoid becoming personal?
 
+## Extra Resources
+
+- Ury, W. (2010). *The walk from "no" to "yes"* [Video]. TED. https://www.youtube.com/watch?v=Hc6yi_FtoNo
+  Supports the negotiation lecture by connecting principled negotiation, listening, reframing, and moving from positions toward workable agreement.
+
 ## Summary
 
 Negotiation is a recurring consulting skill, not a one-off contract activity. Good negotiation requires preparation, clarity about limits, trust awareness, emotional control, and the discipline to reach agreements that can actually be delivered.
