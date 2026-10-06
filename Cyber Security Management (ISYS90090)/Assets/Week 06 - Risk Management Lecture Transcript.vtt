@@ -1,0 +1,4301 @@
+WEBVTT
+
+00:00:15.000 --> 00:00:20.709
+<v Speaker 0>OK, um, welcome to week 6 of cybersecurity management.
+
+NOTE CONF {"raw":[100,99,99,100,100,99,100,98,99]}
+
+00:00:21.680 --> 00:00:24.239
+<v Speaker 0>This week we're talking about risk management.
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100]}
+
+00:00:27.110 --> 00:00:31.909
+<v Speaker 0>This is an upload-only lecture, uh, recording because I was
+
+NOTE CONF {"raw":[100,100,100,98,100,94,99,100,100,100]}
+
+00:00:31.909 --> 00:00:34.069
+<v Speaker 0>not able to make it to the campus due to
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:00:34.069 --> 00:00:35.169
+<v Speaker 0>a foot injury.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:00:35.630 --> 00:00:37.270
+<v Speaker 0>Um, my apologies for that.
+
+NOTE CONF {"raw":[99,99,100,100,100]}
+
+00:00:37.590 --> 00:00:40.630
+<v Speaker 0>Uh, hopefully, next week we'll be back to our regular
+
+NOTE CONF {"raw":[99,99,100,100,99,100,100,100,100,100]}
+
+00:00:40.630 --> 00:00:42.450
+<v Speaker 0>program of face to face lectures.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:00:42.950 --> 00:00:45.000
+<v Speaker 0>So, Let's begin.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:00:47.630 --> 00:00:50.090
+<v Speaker 0>So this week, we're studying uh risk management.
+
+NOTE CONF {"raw":[100,100,100,100,100,99,99,99]}
+
+00:00:50.430 --> 00:00:54.110
+<v Speaker 0>Um, as always, you're going to have your canvas module,
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,54,99]}
+
+00:00:54.509 --> 00:00:57.229
+<v Speaker 0>which is going to cover the material that I'm going
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,100,99,100]}
+
+00:00:57.229 --> 00:00:59.810
+<v Speaker 0>to be talking about uh in more detail.
+
+NOTE CONF {"raw":[100,100,100,100,98,100,100,100]}
+
+00:01:00.470 --> 00:01:04.430
+<v Speaker 0>There is a textbook, 121 to 175, approximately 40, 50
+
+NOTE CONF {"raw":[100,99,100,100,100,100,99,100,100,98]}
+
+00:01:04.430 --> 00:01:05.069
+<v Speaker 0>pages, yes.
+
+NOTE CONF {"raw":[100,99]}
+
+00:01:05.469 --> 00:01:08.369
+<v Speaker 0>Again, a lot of reading for risk management, mainly because
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:01:08.628 --> 00:01:11.948
+<v Speaker 0>the textbook goes into a lot of detail explaining the
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:01:11.948 --> 00:01:13.088
+<v Speaker 0>precise process.
+
+NOTE CONF {"raw":[100,100]}
+
+00:01:13.429 --> 00:01:14.768
+<v Speaker 0>And it is very helpful.
+
+NOTE CONF {"raw":[73,100,100,100,100]}
+
+00:01:14.988 --> 00:01:17.528
+<v Speaker 0>I'm going to try to go into detail as well.
+
+NOTE CONF {"raw":[100,99,99,100,100,100,100,100,100,100]}
+
+00:01:17.708 --> 00:01:21.379
+<v Speaker 0>And as I said last week, um, The textbook is
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,99,99,99]}
+
+00:01:21.379 --> 00:01:22.989
+<v Speaker 0>there to support your understanding.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:01:23.470 --> 00:01:27.309
+<v Speaker 0>So whatever I do not, uh, whatever you don't understand
+
+NOTE CONF {"raw":[83,99,98,98,97,6,99,99,99,99]}
+
+00:01:27.309 --> 00:01:29.150
+<v Speaker 0>from what I'm saying, you can go to the textbook
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:29.150 --> 00:01:33.709
+<v Speaker 0>and look for more detail or more understanding, but we
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,55,99]}
+
+00:01:33.709 --> 00:01:37.269
+<v Speaker 0>certainly won't be examining you on material that is in
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99,100]}
+
+00:01:37.269 --> 00:01:41.389
+<v Speaker 0>the textbook but is not covered in this presentation or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:41.389 --> 00:01:42.750
+<v Speaker 0>referenced in this presentation.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:01:44.940 --> 00:01:49.059
+<v Speaker 0>Uh, answer discussion questions on Canvas, chat with your peers
+
+NOTE CONF {"raw":[99,99,100,100,100,99,99,100,100,100]}
+
+00:01:49.059 --> 00:01:54.360
+<v Speaker 0>there, attend the workshop, of course, and after this, uh,
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,100,99,99]}
+
+00:01:54.639 --> 00:01:58.800
+<v Speaker 0>well, after the, uh, Tuesday slot, you can continue to,
+
+NOTE CONF {"raw":[99,100,100,99,99,100,100,100,100,100]}
+
+00:01:59.379 --> 00:02:02.120
+<v Speaker 0>um, discuss with your peers throughout the week.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100]}
+
+00:02:03.300 --> 00:02:05.459
+<v Speaker 0>In this week's workshop, uh, we are going to have
+
+NOTE CONF {"raw":[100,100,100,100,73,99,99,100,100,100]}
+
+00:02:05.459 --> 00:02:06.099
+<v Speaker 0>a quiz.
+
+NOTE CONF {"raw":[100,100]}
+
+00:02:06.769 --> 00:02:09.539
+<v Speaker 0>Uh, this is the 2nd of your 5 quizzes.
+
+NOTE CONF {"raw":[83,80,99,100,99,100,100,99,100]}
+
+00:02:09.979 --> 00:02:12.380
+<v Speaker 0>Uh, for most of the workshops running this week, there
+
+NOTE CONF {"raw":[96,95,100,100,100,100,100,100,100,99]}
+
+00:02:12.380 --> 00:02:13.539
+<v Speaker 0>will be more presentations.
+
+NOTE CONF {"raw":[99,100,100,100]}
+
+00:02:13.589 --> 00:02:16.979
+<v Speaker 0>This is the 2nd and hopefully last week of presentations.
+
+NOTE CONF {"raw":[99,100,100,99,100,99,100,100,100,100]}
+
+00:02:17.339 --> 00:02:21.940
+<v Speaker 0>Uh, for perhaps 1 class, there won't be presentations covering
+
+NOTE CONF {"raw":[94,96,99,97,100,99,100,100,99,100]}
+
+00:02:21.940 --> 00:02:23.979
+<v Speaker 0>the entire, uh, slot.
+
+NOTE CONF {"raw":[100,100,64,100]}
+
+00:02:24.139 --> 00:02:28.500
+<v Speaker 0>So look to your tutor for activities, um, for the
+
+NOTE CONF {"raw":[65,100,100,100,100,100,100,92,99,100]}
+
+00:02:28.500 --> 00:02:29.580
+<v Speaker 0>rest of the 2 hours.
+
+NOTE CONF {"raw":[100,100,99,99,99]}
+
+00:02:31.710 --> 00:02:34.330
+<v Speaker 0>If there is time, there will be a Q&A session
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,98,100]}
+
+00:02:34.330 --> 00:02:36.940
+<v Speaker 0>on this week's material, and if there is time, there
+
+NOTE CONF {"raw":[100,100,100,100,98,100,100,97,100,99]}
+
+00:02:36.940 --> 00:02:40.830
+<v Speaker 0>will be a teaching case, uh, the Horizon teaching case
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,100]}
+
+00:02:40.830 --> 00:02:42.050
+<v Speaker 0>will be discussed.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:02:42.380 --> 00:02:44.630
+<v Speaker 0>Uh, I believe there will be, uh, you need to
+
+NOTE CONF {"raw":[99,100,100,99,99,99,98,99,100,100]}
+
+00:02:44.630 --> 00:02:47.710
+<v Speaker 0>catch up on previous scenes from that story.
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100]}
+
+00:02:49.380 --> 00:02:53.330
+<v Speaker 0>This week's learning objectives are to understand the purpose, uh,
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,99]}
+
+00:02:53.339 --> 00:02:57.410
+<v Speaker 0>role, and real-world drivers for information security management, the process,
+
+NOTE CONF {"raw":[99,99,98,100,100,99,99,99,100,100]}
+
+00:02:57.759 --> 00:02:59.720
+<v Speaker 0>and identify the key phases.
+
+NOTE CONF {"raw":[100,100,100,100,99]}
+
+00:03:00.220 --> 00:03:02.580
+<v Speaker 0>So, uh, we're now gonna talk about how you do
+
+NOTE CONF {"raw":[99,99,99,99,88,100,100,100,100,100]}
+
+00:03:02.580 --> 00:03:06.100
+<v Speaker 0>risk management, what is the process, and what are the
+
+NOTE CONF {"raw":[100,100,99,100,100,100,99,100,100,100]}
+
+00:03:06.100 --> 00:03:09.179
+<v Speaker 0>key deficiencies or key issues with the way that security
+
+NOTE CONF {"raw":[100,100,98,100,100,100,100,100,100,99]}
+
+00:03:09.179 --> 00:03:12.300
+<v Speaker 0>risk management is practiced in organizations.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:03:13.550 --> 00:03:16.279
+<v Speaker 0>So let's go back to the triplet model, our favorite
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,100,82,100]}
+
+00:03:16.279 --> 00:03:17.100
+<v Speaker 0>place to start.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:03:17.399 --> 00:03:20.559
+<v Speaker 0>As you know, a security problem really has to have
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,100,100,100]}
+
+00:03:20.559 --> 00:03:23.679
+<v Speaker 0>two aspects to it for there to be a viable
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,100,100]}
+
+00:03:23.679 --> 00:03:24.160
+<v Speaker 0>security problem.
+
+NOTE CONF {"raw":[100,100]}
+
+00:03:24.199 --> 00:03:26.289
+<v Speaker 0>You have to have something that's worth protecting, which is
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,100]}
+
+00:03:26.289 --> 00:03:28.630
+<v Speaker 0>an asset, and you have to have a danger to
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:03:28.630 --> 00:03:30.720
+<v Speaker 0>that asset, otherwise known as a threat.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:03:31.440 --> 00:03:34.649
+<v Speaker 0>And as we said, as we have been saying every
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,100,100,100]}
+
+00:03:34.649 --> 00:03:40.710
+<v Speaker 0>week, the risk exposure that an organization has in totality
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,99]}
+
+00:03:40.809 --> 00:03:46.990
+<v Speaker 0>collectively is all the scenarios where a particular specific asset
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:03:47.770 --> 00:03:50.149
+<v Speaker 0>is threatened by a specific threat.
+
+NOTE CONF {"raw":[99,100,100,99,99,100]}
+
+00:03:50.369 --> 00:03:52.889
+<v Speaker 0>In a sense there's a specific threat actor that is
+
+NOTE CONF {"raw":[67,43,99,99,100,100,100,99,100,99]}
+
+00:03:52.889 --> 00:03:58.770
+<v Speaker 0>exploiting a specific vulnerability to be able to impact that
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,99,99,100]}
+
+00:03:58.770 --> 00:03:59.330
+<v Speaker 0>asset.
+
+NOTE CONF {"raw":[99]}
+
+00:03:59.850 --> 00:04:02.919
+<v Speaker 0>And create a loss in value of some sort.
+
+NOTE CONF {"raw":[95,99,99,99,99,100,100,99,99]}
+
+00:04:03.380 --> 00:04:07.539
+<v Speaker 0>And as we have said again repeatedly, an organization is
+
+NOTE CONF {"raw":[54,99,100,99,100,99,100,99,100,100]}
+
+00:04:07.539 --> 00:04:11.539
+<v Speaker 0>likely to have quite a few assets, and there are
+
+NOTE CONF {"raw":[100,100,100,99,100,100,99,99,99,99]}
+
+00:04:11.539 --> 00:04:14.889
+<v Speaker 0>likely to be a lot of scenarios where where that
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,64,95,99]}
+
+00:04:14.889 --> 00:04:18.519
+<v Speaker 0>asset could be impacted, and each scenario is a risk
+
+NOTE CONF {"raw":[99,99,100,100,95,99,100,100,100,100]}
+
+00:04:18.519 --> 00:04:26.630
+<v Speaker 0>that has to be identified, enumerated, and Considered for some
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,99,99,99]}
+
+00:04:26.630 --> 00:04:33.470
+<v Speaker 0>kind of control and ultimately security management then becomes the
+
+NOTE CONF {"raw":[99,99,99,99,100,99,100,99,99,99]}
+
+00:04:33.470 --> 00:04:38.329
+<v Speaker 0>ability to control the portfolio of risks that an organization
+
+NOTE CONF {"raw":[100,100,100,100,100,77,99,99,99,100]}
+
+00:04:38.329 --> 00:04:43.429
+<v Speaker 0>is exposed to by leveraging its budget, its personnel, its.
+
+NOTE CONF {"raw":[99,100,100,100,100,99,99,99,99,98]}
+
+00:04:44.089 --> 00:04:48.700
+<v Speaker 0>Administrative managerial technological controls to its best advantage and the,
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,99,99]}
+
+00:04:49.140 --> 00:04:52.480
+<v Speaker 0>the target here, the um outcome that we are looking
+
+NOTE CONF {"raw":[99,100,100,99,99,100,100,100,94,100]}
+
+00:04:52.480 --> 00:04:55.929
+<v Speaker 0>for is the balance, the balance between the resources that
+
+NOTE CONF {"raw":[100,100,100,100,97,100,100,100,100,100]}
+
+00:04:55.929 --> 00:04:58.609
+<v Speaker 0>we have to spend on security and the amount of
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:04:58.609 --> 00:05:03.540
+<v Speaker 0>exposure that we can reduce to control our situation, right?
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,99]}
+
+00:05:03.619 --> 00:05:05.160
+<v Speaker 0>That's what we're trying to get to.
+
+NOTE CONF {"raw":[98,100,99,100,100,100,100]}
+
+00:05:05.760 --> 00:05:07.799
+<v Speaker 0>So in this week, we're gonna talk about.
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100]}
+
+00:05:08.420 --> 00:05:11.700
+<v Speaker 0>How we actually do the risk management bit, right, which
+
+NOTE CONF {"raw":[99,99,99,100,99,100,100,99,95,99]}
+
+00:05:11.700 --> 00:05:19.339
+<v Speaker 0>is how do we approach the task of identifying these
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,99,100,99]}
+
+00:05:19.339 --> 00:05:24.779
+<v Speaker 0>scenarios and assessing them and then deciding on what approach
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100,99,100,100]}
+
+00:05:24.779 --> 00:05:27.179
+<v Speaker 0>to take to control them and so forth.
+
+NOTE CONF {"raw":[100,99,100,100,99,99,99,99]}
+
+00:05:29.130 --> 00:05:33.809
+<v Speaker 0>So, in a big picture, the overview here is.
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100]}
+
+00:05:34.480 --> 00:05:39.480
+<v Speaker 0>That risk management has 3 main phases to it identification,
+
+NOTE CONF {"raw":[99,100,100,100,93,100,100,100,100,99]}
+
+00:05:39.559 --> 00:05:40.880
+<v Speaker 0>assessment, and control.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:05:41.859 --> 00:05:46.450
+<v Speaker 0>In the bigger picture, identification is fundamentally about.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:05:47.220 --> 00:05:52.970
+<v Speaker 0>Um Figuring out first, what is the scope of the
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,100]}
+
+00:05:52.970 --> 00:05:55.350
+<v Speaker 0>problem that we are trying to address here.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:05:55.850 --> 00:05:59.049
+<v Speaker 0>If we're trying to identify risks, it's risks about what?
+
+NOTE CONF {"raw":[99,99,100,100,100,99,99,100,100,100]}
+
+00:05:59.880 --> 00:06:02.480
+<v Speaker 0>And you can, you can imagine if you were doing
+
+NOTE CONF {"raw":[100,99,99,99,99,100,100,100,92,100]}
+
+00:06:02.480 --> 00:06:05.760
+<v Speaker 0>a risk assessment in your departmental unit, it could be
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,99,99,99]}
+
+00:06:05.920 --> 00:06:07.839
+<v Speaker 0>the scope could be just the risks that apply to
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,100]}
+
+00:06:07.839 --> 00:06:10.200
+<v Speaker 0>this unit, or it could be the risks that apply
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,99]}
+
+00:06:10.200 --> 00:06:13.040
+<v Speaker 0>to my department, or it could be risks that apply
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,100,100,99]}
+
+00:06:13.040 --> 00:06:16.279
+<v Speaker 0>to my organization, or it could be risks that apply
+
+NOTE CONF {"raw":[100,100,100,99,100,99,100,100,100,99]}
+
+00:06:16.279 --> 00:06:20.429
+<v Speaker 0>to the ecosystem within which my organization operates.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:06:20.799 --> 00:06:24.029
+<v Speaker 0>So, as you can see in each of these cases,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:06:24.440 --> 00:06:27.040
+<v Speaker 0>the pool of risks that you're going to identify is
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100,100]}
+
+00:06:27.040 --> 00:06:29.040
+<v Speaker 0>going to be different.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:06:29.459 --> 00:06:32.820
+<v Speaker 0>And so knowing what the right scope is, is critical.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,99,100]}
+
+00:06:32.920 --> 00:06:35.459
+<v Speaker 0>You don't want to start off with just trying to
+
+NOTE CONF {"raw":[99,100,98,99,100,100,100,100,100,100]}
+
+00:06:35.459 --> 00:06:39.059
+<v Speaker 0>identify randomly whatever risks occur to you to find out
+
+NOTE CONF {"raw":[100,100,99,100,100,100,99,100,100,100]}
+
+00:06:39.059 --> 00:06:42.859
+<v Speaker 0>later that you've been focusing or spending a lot of
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:06:42.859 --> 00:06:45.459
+<v Speaker 0>energy identifying and worrying about risks that are not your
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,100,100]}
+
+00:06:45.459 --> 00:06:51.940
+<v Speaker 0>problem, or conversely, that you have confidently identified certain risks
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:06:51.940 --> 00:06:56.910
+<v Speaker 0>and, and omitted others that also are your problem, um,
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,74]}
+
+00:06:57.220 --> 00:06:59.160
+<v Speaker 0>but they were never in scope.
+
+NOTE CONF {"raw":[99,99,100,100,100,100]}
+
+00:07:00.040 --> 00:07:02.510
+<v Speaker 0>So it's important to get the context establishment right.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100]}
+
+00:07:02.799 --> 00:07:05.440
+<v Speaker 0>And then what are the assets that we're trying to
+
+NOTE CONF {"raw":[83,99,100,100,100,100,99,99,100,100]}
+
+00:07:05.440 --> 00:07:05.829
+<v Speaker 0>protect?
+
+NOTE CONF {"raw":[100]}
+
+00:07:06.190 --> 00:07:09.000
+<v Speaker 0>Without knowing what the assets are, we certainly can't know
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,100]}
+
+00:07:09.279 --> 00:07:10.559
+<v Speaker 0>what the scenarios are.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:07:11.200 --> 00:07:15.899
+<v Speaker 0>Then, not just identifying the assets, but valuing these assets,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,100]}
+
+00:07:15.920 --> 00:07:18.600
+<v Speaker 0>because if you have a lot of assets and you
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:07:18.600 --> 00:07:21.920
+<v Speaker 0>start your risk management process, you certainly don't want to
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:07:21.920 --> 00:07:24.940
+<v Speaker 0>start with the least important or least valued assets.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100]}
+
+00:07:25.000 --> 00:07:27.480
+<v Speaker 0>You want to start with the most valued assets to
+
+NOTE CONF {"raw":[84,99,99,100,100,100,100,100,100,100]}
+
+00:07:27.480 --> 00:07:29.200
+<v Speaker 0>save on time, to be efficient.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:07:30.059 --> 00:07:32.630
+<v Speaker 0>And then, how do I develop scenarios?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:07:32.700 --> 00:07:35.589
+<v Speaker 0>If I know what the asset is, and I know
+
+NOTE CONF {"raw":[99,100,100,100,100,91,100,100,100,100]}
+
+00:07:35.589 --> 00:07:38.309
+<v Speaker 0>what the, you know, threat actors are that are operating
+
+NOTE CONF {"raw":[100,100,99,99,100,99,100,100,100,100]}
+
+00:07:38.309 --> 00:07:42.790
+<v Speaker 0>my space, how do I come up with these scenarios?
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:07:43.760 --> 00:07:46.519
+<v Speaker 0>That's the, these are the, the questions that we ask
+
+NOTE CONF {"raw":[99,99,99,100,99,98,99,99,100,99]}
+
+00:07:46.519 --> 00:07:47.589
+<v Speaker 0>for risk identification.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:07:47.920 --> 00:07:51.320
+<v Speaker 0>For risk assessment, once we have the scenarios from the
+
+NOTE CONF {"raw":[99,100,100,99,100,100,99,100,100,100]}
+
+00:07:51.320 --> 00:07:56.049
+<v Speaker 0>identification phase, we need to ask the question, well, How
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,99]}
+
+00:07:56.049 --> 00:07:59.470
+<v Speaker 0>do we work out the risk, right?
+
+NOTE CONF {"raw":[99,99,100,99,100,100,95]}
+
+00:07:59.589 --> 00:08:03.109
+<v Speaker 0>So we've got a risk scenario, but what is the
+
+NOTE CONF {"raw":[98,99,99,100,100,100,99,100,100,100]}
+
+00:08:03.109 --> 00:08:04.670
+<v Speaker 0>risk coming from the scenario?
+
+NOTE CONF {"raw":[100,99,100,99,100]}
+
+00:08:04.720 --> 00:08:08.559
+<v Speaker 0>And here we'll we'll explain that risk is probability times
+
+NOTE CONF {"raw":[99,99,14,99,100,99,100,99,99,99]}
+
+00:08:08.559 --> 00:08:08.769
+<v Speaker 0>impact.
+
+NOTE CONF {"raw":[99]}
+
+00:08:09.190 --> 00:08:11.470
+<v Speaker 0>So we need to know these two factors in order
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,100,99,99]}
+
+00:08:11.470 --> 00:08:15.109
+<v Speaker 0>to calculate the risk, which is what is the likelihood
+
+NOTE CONF {"raw":[99,100,100,100,99,99,99,99,100,100]}
+
+00:08:15.109 --> 00:08:17.309
+<v Speaker 0>that this scenario is going to happen and what is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,100,99]}
+
+00:08:17.309 --> 00:08:19.140
+<v Speaker 0>the impact if it does happen.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:08:19.429 --> 00:08:22.429
+<v Speaker 0>And once we have these two factors, we can assign
+
+NOTE CONF {"raw":[99,99,100,100,100,99,100,100,100,100]}
+
+00:08:22.429 --> 00:08:25.119
+<v Speaker 0>them numbers based on some yardstick.
+
+NOTE CONF {"raw":[99,100,100,100,99,99]}
+
+00:08:25.549 --> 00:08:29.519
+<v Speaker 0>And that yardstick will help us to determine what is
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,100,99]}
+
+00:08:29.519 --> 00:08:29.959
+<v Speaker 0>the.
+
+NOTE CONF {"raw":[97]}
+
+00:08:31.420 --> 00:08:33.419
+<v Speaker 0>Highest likelihood, highest consequence.
+
+NOTE CONF {"raw":[99,100,100,100]}
+
+00:08:34.218 --> 00:08:37.068
+<v Speaker 0>As opposed to lowest likelihood, lowest consequence, if we can
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,71,99,98]}
+
+00:08:37.068 --> 00:08:39.348
+<v Speaker 0>in that way, once we have a yardstick, we can
+
+NOTE CONF {"raw":[71,99,100,99,100,100,100,99,99,100]}
+
+00:08:39.348 --> 00:08:44.148
+<v Speaker 0>start prioritizing these and then come up with a, a
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,100,90,98]}
+
+00:08:44.148 --> 00:08:44.828
+<v Speaker 0>mega list.
+
+NOTE CONF {"raw":[99,99]}
+
+00:08:45.960 --> 00:08:49.799
+<v Speaker 0>That will have the highest criticality or highest risk at
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:08:49.799 --> 00:08:51.619
+<v Speaker 0>the top and the lowest at the bottom.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:08:53.030 --> 00:08:55.059
+<v Speaker 0>And that would conclude the risk assessment phase, and then
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,98,99]}
+
+00:08:55.059 --> 00:08:57.710
+<v Speaker 0>we've got risk control, which is, OK, now that we've
+
+NOTE CONF {"raw":[100,100,100,100,99,100,99,99,100,100]}
+
+00:08:57.710 --> 00:09:02.909
+<v Speaker 0>got our sorted list of risk scenarios, what is our
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,100,100]}
+
+00:09:02.909 --> 00:09:08.250
+<v Speaker 0>approach to controlling this portfolio of risks, and what tools
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,94,100,100]}
+
+00:09:08.250 --> 00:09:11.030
+<v Speaker 0>do we have at our disposal to control these risks?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:09:11.409 --> 00:09:13.159
+<v Speaker 0>And how can we apply these tools.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100]}
+
+00:09:13.250 --> 00:09:15.289
+<v Speaker 0>We won't spend so much time on the control side
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:09:15.289 --> 00:09:18.849
+<v Speaker 0>of things, other than to give you a satisfactory ending
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:09:18.849 --> 00:09:23.369
+<v Speaker 0>to this long process of identifying risks to controlling risks.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,100]}
+
+00:09:26.340 --> 00:09:28.289
+<v Speaker 0>So let's talk about risk identification.
+
+NOTE CONF {"raw":[100,99,100,100,100,100]}
+
+00:09:30.039 --> 00:09:33.869
+<v Speaker 0>Um, The first step, as I said, was to establish
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,100]}
+
+00:09:33.869 --> 00:09:38.260
+<v Speaker 0>context and As I also said, there are different ways,
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,99,52]}
+
+00:09:38.369 --> 00:09:41.049
+<v Speaker 0>different scopes, and it really makes a big difference what
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,100,100,100]}
+
+00:09:41.049 --> 00:09:41.890
+<v Speaker 0>your scope is.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:09:42.289 --> 00:09:44.690
+<v Speaker 0>Here's some of the considerations that you would, you would
+
+NOTE CONF {"raw":[50,100,100,100,100,100,99,99,99,99]}
+
+00:09:44.690 --> 00:09:47.369
+<v Speaker 0>look at when you're trying to establish what is the
+
+NOTE CONF {"raw":[100,100,100,82,100,100,100,100,100,100]}
+
+00:09:47.369 --> 00:09:50.789
+<v Speaker 0>scope of my risk, you know, problem.
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100]}
+
+00:09:51.309 --> 00:09:53.729
+<v Speaker 0>Um, and one is, what are the, who are the
+
+NOTE CONF {"raw":[65,86,99,100,99,99,99,99,99,99]}
+
+00:09:53.729 --> 00:09:58.109
+<v Speaker 0>external partners and who are the internal partners or stakeholders
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,99,100]}
+
+00:09:58.450 --> 00:10:00.400
+<v Speaker 0>that I have to be concerned about.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:10:00.890 --> 00:10:03.820
+<v Speaker 0>So, suppliers, customers, regulators.
+
+NOTE CONF {"raw":[99,100,100,100]}
+
+00:10:04.349 --> 00:10:07.919
+<v Speaker 0>And, you know, internal finance, you know, HR, all of
+
+NOTE CONF {"raw":[99,100,100,100,100,99,99,100,100,100]}
+
+00:10:07.919 --> 00:10:14.640
+<v Speaker 0>these different parties that constitute the ecosystem within which my
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:10:14.640 --> 00:10:18.929
+<v Speaker 0>organization operates, um, they all have, they're all a source
+
+NOTE CONF {"raw":[100,100,98,99,100,100,99,99,99,99]}
+
+00:10:18.929 --> 00:10:20.369
+<v Speaker 0>of risk, right?
+
+NOTE CONF {"raw":[100,100,99]}
+
+00:10:20.520 --> 00:10:24.859
+<v Speaker 0>So, for instance, a, um, supplier sends you.
+
+NOTE CONF {"raw":[99,100,100,99,98,100,99,100]}
+
+00:10:25.890 --> 00:10:30.469
+<v Speaker 0>You know, materials that are substandard and that substandard material,
+
+NOTE CONF {"raw":[63,96,99,100,99,99,99,99,99,99]}
+
+00:10:31.010 --> 00:10:33.690
+<v Speaker 0>well, let's say they're providing electronic parts and you put
+
+NOTE CONF {"raw":[99,99,100,99,100,100,100,100,100,100]}
+
+00:10:33.690 --> 00:10:37.630
+<v Speaker 0>that into your operating environment and it sabotages your environment.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:10:37.729 --> 00:10:42.729
+<v Speaker 0>Well, you've just, you know, created a cyber risk and
+
+NOTE CONF {"raw":[87,99,100,95,96,99,99,99,99,99]}
+
+00:10:42.729 --> 00:10:45.000
+<v Speaker 0>that has the source of that is your supplier.
+
+NOTE CONF {"raw":[98,96,99,99,100,100,100,100,100]}
+
+00:10:45.409 --> 00:10:49.369
+<v Speaker 0>So it's an example of how it's important that your
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,100,100,100]}
+
+00:10:49.369 --> 00:10:51.450
+<v Speaker 0>context establishment covers.
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:10:52.179 --> 00:10:55.260
+<v Speaker 0>You know, um, upstream and downstream risk.
+
+NOTE CONF {"raw":[99,99,99,99,100,100,99]}
+
+00:10:56.500 --> 00:10:59.090
+<v Speaker 0>Um, identify assets well.
+
+NOTE CONF {"raw":[96,98,100,99]}
+
+00:11:01.549 --> 00:11:04.900
+<v Speaker 0>So for identify assets, you will need to do a
+
+NOTE CONF {"raw":[100,99,99,100,100,100,100,100,100,100]}
+
+00:11:04.900 --> 00:11:08.539
+<v Speaker 0>big inventory um of all the different assets in your
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:11:08.539 --> 00:11:10.780
+<v Speaker 0>company and you'll have to come up with a definition
+
+NOTE CONF {"raw":[100,99,99,100,100,100,100,100,97,100]}
+
+00:11:10.780 --> 00:11:11.960
+<v Speaker 0>of what's an asset.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:11:12.419 --> 00:11:14.909
+<v Speaker 0>And in many cases, this is easy, right?
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100]}
+
+00:11:15.010 --> 00:11:18.340
+<v Speaker 0>So for example, every digital platform that plays a significant
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:11:18.340 --> 00:11:20.580
+<v Speaker 0>role in your company, whether it be email or a
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,99]}
+
+00:11:20.580 --> 00:11:25.260
+<v Speaker 0>database or a customer relationship management system, a CRM or
+
+NOTE CONF {"raw":[100,100,99,100,99,100,100,87,100,100]}
+
+00:11:25.260 --> 00:11:26.500
+<v Speaker 0>any IT service.
+
+NOTE CONF {"raw":[100,99,100]}
+
+00:11:26.950 --> 00:11:30.440
+<v Speaker 0>Uh, that's important to your firm, e-commerce service, you know,
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,99,99,99]}
+
+00:11:30.599 --> 00:11:31.940
+<v Speaker 0>web, website, etc.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:11:32.070 --> 00:11:34.599
+<v Speaker 0>These are all digital platforms, they're all assets.
+
+NOTE CONF {"raw":[99,100,100,100,100,96,100,100]}
+
+00:11:36.770 --> 00:11:39.380
+<v Speaker 0>And this is actually easy to do, right, because digital
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,99,68,100]}
+
+00:11:39.380 --> 00:11:41.659
+<v Speaker 0>platforms are easy to enumerate.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:11:42.020 --> 00:11:45.260
+<v Speaker 0>But sensitive data, there are, there's a lot of sensitive
+
+NOTE CONF {"raw":[95,100,100,99,99,99,100,100,100,100]}
+
+00:11:45.260 --> 00:11:46.500
+<v Speaker 0>data in your organization.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:11:46.979 --> 00:11:49.340
+<v Speaker 0>How are we going to figure out and make an
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:11:49.340 --> 00:11:51.080
+<v Speaker 0>inventory of all the sensitive data?
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:11:51.539 --> 00:11:52.820
+<v Speaker 0>And there's a bit of a trick to it.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100]}
+
+00:11:52.940 --> 00:11:55.299
+<v Speaker 0>So I remember when I did this, I was, I
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,99,99]}
+
+00:11:55.299 --> 00:11:59.580
+<v Speaker 0>was working as a consultant some 20 years ago, and
+
+NOTE CONF {"raw":[99,99,100,100,100,99,93,100,100,99]}
+
+00:11:59.580 --> 00:12:02.099
+<v Speaker 0>one of the big projects that I was doing pretty
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:12:02.099 --> 00:12:06.580
+<v Speaker 0>much on my own was to identify.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:12:06.989 --> 00:12:11.559
+<v Speaker 0>To do a risk assessment of the information resources of
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,100]}
+
+00:12:11.559 --> 00:12:12.119
+<v Speaker 0>a.
+
+NOTE CONF {"raw":[99]}
+
+00:12:12.729 --> 00:12:16.429
+<v Speaker 0>Um, a multinational company that was headquartered here in Melbourne.
+
+NOTE CONF {"raw":[80,91,99,100,100,100,100,100,100,100]}
+
+00:12:17.200 --> 00:12:20.330
+<v Speaker 0>And I basically started with an organization chart and I
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:12:20.330 --> 00:12:23.369
+<v Speaker 0>asked the question, OK, for every department, I'm going to
+
+NOTE CONF {"raw":[99,99,100,100,99,100,99,100,91,91]}
+
+00:12:23.369 --> 00:12:25.650
+<v Speaker 0>go to every department's head and I'm going to sit
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,99,100,100]}
+
+00:12:25.650 --> 00:12:28.289
+<v Speaker 0>with them and say, what information do you have in
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,100]}
+
+00:12:28.289 --> 00:12:28.830
+<v Speaker 0>your department?
+
+NOTE CONF {"raw":[100,99]}
+
+00:12:28.929 --> 00:12:30.590
+<v Speaker 0>Do you use to be able to do your job?
+
+NOTE CONF {"raw":[81,100,100,100,100,100,100,100,100,100]}
+
+00:12:30.919 --> 00:12:31.590
+<v Speaker 0>Let's make a list.
+
+NOTE CONF {"raw":[99,100,100,100]}
+
+00:12:31.609 --> 00:12:33.570
+<v Speaker 0>And together we would make a long list of all
+
+NOTE CONF {"raw":[67,99,100,100,100,100,100,100,100,100]}
+
+00:12:33.570 --> 00:12:37.190
+<v Speaker 0>the different information assets, and we'd go through motion by
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100,100,99,100]}
+
+00:12:37.190 --> 00:12:38.429
+<v Speaker 0>motion what they do.
+
+NOTE CONF {"raw":[99,100,100,100]}
+
+00:12:38.880 --> 00:12:39.190
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:12:39.520 --> 00:12:41.429
+<v Speaker 0>So, what are the types of things that you output?
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,96,100]}
+
+00:12:41.599 --> 00:12:42.380
+<v Speaker 0>What's your input?
+
+NOTE CONF {"raw":[89,100,100]}
+
+00:12:42.760 --> 00:12:45.119
+<v Speaker 0>Where does, you know, where does the information come from?
+
+NOTE CONF {"raw":[99,99,100,99,99,99,61,100,100,100]}
+
+00:12:45.390 --> 00:12:48.840
+<v Speaker 0>Um, what are your processes and what information do they
+
+NOTE CONF {"raw":[98,99,100,100,100,99,100,100,100,100]}
+
+00:12:48.840 --> 00:12:49.210
+<v Speaker 0>use?
+
+NOTE CONF {"raw":[100]}
+
+00:12:49.280 --> 00:12:52.520
+<v Speaker 0>How many people exist, what's, what's their job, and so
+
+NOTE CONF {"raw":[71,100,100,100,45,99,99,100,99,100]}
+
+00:12:52.520 --> 00:12:52.640
+<v Speaker 0>forth.
+
+NOTE CONF {"raw":[99]}
+
+00:12:52.679 --> 00:12:54.080
+<v Speaker 0>And we would just keep on, I just keep on
+
+NOTE CONF {"raw":[83,99,99,100,100,99,97,99,100,100]}
+
+00:12:54.080 --> 00:12:57.445
+<v Speaker 0>querying until the, the Head of the department, say, yep,
+
+NOTE CONF {"raw":[99,100,99,99,99,100,100,99,99,93]}
+
+00:12:57.684 --> 00:13:00.794
+<v Speaker 0>this pretty much sums up all the information that we
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:13:00.794 --> 00:13:01.184
+<v Speaker 0>have.
+
+NOTE CONF {"raw":[100]}
+
+00:13:01.484 --> 00:13:04.625
+<v Speaker 0>And from that, I'd come up with an inventory and
+
+NOTE CONF {"raw":[64,100,100,99,100,100,100,95,100,99]}
+
+00:13:04.625 --> 00:13:07.395
+<v Speaker 0>where I'd have to, I'd cluster documents together to say,
+
+NOTE CONF {"raw":[99,99,100,99,77,100,100,100,100,100]}
+
+00:13:07.405 --> 00:13:11.164
+<v Speaker 0>OK, this is all documents that work together are essentially
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,99,100]}
+
+00:13:11.164 --> 00:13:13.085
+<v Speaker 0>the same thing, they're just copies of each other, etc.
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,100,99]}
+
+00:13:13.155 --> 00:13:13.544
+<v Speaker 0>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:13:14.265 --> 00:13:16.424
+<v Speaker 0>um, and that would be my, my big inventory.
+
+NOTE CONF {"raw":[61,98,100,100,100,99,99,99,100]}
+
+00:13:17.080 --> 00:13:21.320
+<v Speaker 0>Um, capabilities is a lot harder, so capability, uh, in
+
+NOTE CONF {"raw":[99,15,99,100,100,100,98,100,99,100]}
+
+00:13:21.320 --> 00:13:24.719
+<v Speaker 0>the sense that it's harder to identify, but there's less
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,99,100]}
+
+00:13:24.719 --> 00:13:25.159
+<v Speaker 0>of that.
+
+NOTE CONF {"raw":[100,99]}
+
+00:13:25.280 --> 00:13:28.479
+<v Speaker 0>So, asking the organization, what is your key capability and
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,100,100]}
+
+00:13:28.479 --> 00:13:32.000
+<v Speaker 0>then figuring out how that capability is broken down into
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:13:32.000 --> 00:13:35.559
+<v Speaker 0>people's process technology integrations, that's something you'll need to do.
+
+NOTE CONF {"raw":[99,99,99,100,99,100,99,100,100,100]}
+
+00:13:37.159 --> 00:13:39.679
+<v Speaker 0>And so, once we've done all of this, we need
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,100]}
+
+00:13:39.679 --> 00:13:41.760
+<v Speaker 0>to value assets, right?
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:13:41.840 --> 00:13:44.719
+<v Speaker 0>Which is to figure out what, how do we put
+
+NOTE CONF {"raw":[97,100,100,100,100,99,100,100,100,100]}
+
+00:13:44.719 --> 00:13:47.679
+<v Speaker 0>a dollar value to an asset to be able to
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,100,100,100]}
+
+00:13:47.679 --> 00:13:48.979
+<v Speaker 0>value it, right?
+
+NOTE CONF {"raw":[100,100,99]}
+
+00:13:49.390 --> 00:13:52.799
+<v Speaker 0>Um, now, we'll come to the details of how to
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,100]}
+
+00:13:52.799 --> 00:13:55.799
+<v Speaker 0>do the valuation in a moment, but here's an example
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,99,100,100]}
+
+00:13:55.799 --> 00:13:57.679
+<v Speaker 0>of all the different types of information.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:13:59.409 --> 00:14:01.559
+<v Speaker 0>Excuse me, all the different types of information assets that
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,100,100]}
+
+00:14:01.559 --> 00:14:02.320
+<v Speaker 0>you might have, right?
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:14:02.479 --> 00:14:06.119
+<v Speaker 0>So, if you look at IT operations, you've got passwords,
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,100]}
+
+00:14:06.200 --> 00:14:09.320
+<v Speaker 0>you've got cert digital certificates, you've got security tokens, you've
+
+NOTE CONF {"raw":[100,100,25,99,100,99,99,99,100,62]}
+
+00:14:09.320 --> 00:14:12.000
+<v Speaker 0>got biometrics, a huge amount of information.
+
+NOTE CONF {"raw":[99,100,15,99,100,100,100]}
+
+00:14:12.080 --> 00:14:15.320
+<v Speaker 0>You've got systems and data, then in hardware configurations.
+
+NOTE CONF {"raw":[98,100,99,92,100,97,99,99,100]}
+
+00:14:16.510 --> 00:14:22.229
+<v Speaker 0>Business operations information, customer information, financial information, intellectual property information
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,100,100,100]}
+
+00:14:22.229 --> 00:14:28.250
+<v Speaker 0>like trademarks and copyrights and R&D data, employee information, and
+
+NOTE CONF {"raw":[100,100,100,99,100,99,100,99,100,99]}
+
+00:14:28.429 --> 00:14:29.049
+<v Speaker 0>there's more.
+
+NOTE CONF {"raw":[100,100]}
+
+00:14:29.229 --> 00:14:34.349
+<v Speaker 0>There's confidential information of, uh, from your legal, you know,
+
+NOTE CONF {"raw":[99,100,100,99,99,100,100,100,100,99]}
+
+00:14:34.549 --> 00:14:37.630
+<v Speaker 0>team, uh, the advice that they give you, the contracts
+
+NOTE CONF {"raw":[100,90,99,99,100,100,99,100,100,99]}
+
+00:14:37.630 --> 00:14:43.469
+<v Speaker 0>that you signed, litigation documents, non-disclosure agreements, uh, internal investigations,
+
+NOTE CONF {"raw":[100,100,53,100,100,61,100,99,100,100]}
+
+00:14:43.619 --> 00:14:44.950
+<v Speaker 0>whistleblower complaints.
+
+NOTE CONF {"raw":[100,100]}
+
+00:14:45.549 --> 00:14:49.590
+<v Speaker 0>And then there's regulatory compliance information, audit reports, etc.
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,99]}
+
+00:14:49.950 --> 00:14:55.070
+<v Speaker 0>There's employee records, um, internal employee records, the salaries of
+
+NOTE CONF {"raw":[99,100,100,99,99,100,100,90,100,100]}
+
+00:14:55.070 --> 00:14:58.090
+<v Speaker 0>your employees if you're a private company can be hugely,
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,100,100,100]}
+
+00:14:58.210 --> 00:15:01.469
+<v Speaker 0>you know, sensitive, unlike in a public organization where everybody
+
+NOTE CONF {"raw":[99,99,100,83,99,100,100,100,100,100]}
+
+00:15:01.469 --> 00:15:02.900
+<v Speaker 0>knows what, what everybody makes.
+
+NOTE CONF {"raw":[100,99,99,99,100]}
+
+00:15:03.150 --> 00:15:06.150
+<v Speaker 0>In a private organization, it's quite possible that, you know,
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,99,99]}
+
+00:15:06.270 --> 00:15:09.590
+<v Speaker 0>a supervisor earns less than a, an employee, an employee
+
+NOTE CONF {"raw":[89,100,100,100,100,79,99,99,99,99]}
+
+00:15:09.590 --> 00:15:11.150
+<v Speaker 0>they supervise, but they don't know it.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100]}
+
+00:15:11.820 --> 00:15:16.979
+<v Speaker 0>Um, and recruitment information, people's CVs, maybe people's, you know,
+
+NOTE CONF {"raw":[67,76,100,100,99,99,99,99,94,91]}
+
+00:15:17.150 --> 00:15:20.940
+<v Speaker 0>medical records that were queried at the recruitment time.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,57,100,100]}
+
+00:15:21.640 --> 00:15:25.140
+<v Speaker 0>And then physical security information like, you know, CCTV camera
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:15:25.140 --> 00:15:29.119
+<v Speaker 0>information and third-party contracts, you know, service-level agreements with other
+
+NOTE CONF {"raw":[100,99,98,100,100,100,44,100,100,100]}
+
+00:15:29.119 --> 00:15:29.719
+<v Speaker 0>parties, etc.
+
+NOTE CONF {"raw":[100,99]}
+
+00:15:29.789 --> 00:15:30.200
+<v Speaker 0>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:15:30.440 --> 00:15:33.760
+<v Speaker 0>and what you're paying, you know, these, these contractors to
+
+NOTE CONF {"raw":[98,100,100,100,100,100,99,99,100,100]}
+
+00:15:33.760 --> 00:15:34.700
+<v Speaker 0>do particular work.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:15:35.580 --> 00:15:39.130
+<v Speaker 0>So there is a lot of information out there that's
+
+NOTE CONF {"raw":[100,99,89,100,100,100,100,100,100,99]}
+
+00:15:39.130 --> 00:15:43.299
+<v Speaker 0>at different levels of value that need to be inventoried
+
+NOTE CONF {"raw":[97,100,100,100,100,100,100,100,100,99]}
+
+00:15:43.299 --> 00:15:44.539
+<v Speaker 0>in order to be assessed.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:15:46.150 --> 00:15:50.580
+<v Speaker 0>So, an example of how you might um create an
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,99,99]}
+
+00:15:50.580 --> 00:15:53.909
+<v Speaker 0>inventory, I've already discussed like how you go from, you
+
+NOTE CONF {"raw":[100,99,99,100,99,100,100,100,100,100]}
+
+00:15:53.909 --> 00:15:56.469
+<v Speaker 0>know, one part of the organization to another part to
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,100]}
+
+00:15:56.469 --> 00:15:58.130
+<v Speaker 0>find the information assets.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:15:58.429 --> 00:16:00.869
+<v Speaker 0>But once you have like a, an, a list of
+
+NOTE CONF {"raw":[99,100,100,100,100,81,88,99,100,100]}
+
+00:16:00.869 --> 00:16:03.309
+<v Speaker 0>information assets which you can see here on the left-hand
+
+NOTE CONF {"raw":[100,99,99,100,100,100,100,100,100,98]}
+
+00:16:03.309 --> 00:16:08.469
+<v Speaker 0>side, you want to um figure out what is the
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,100]}
+
+00:16:08.469 --> 00:16:13.309
+<v Speaker 0>impact of to profitability if something happened to this asset.
+
+NOTE CONF {"raw":[100,99,99,100,100,100,99,100,100,100]}
+
+00:16:13.940 --> 00:16:17.539
+<v Speaker 0>And, you know, that is an important way to value
+
+NOTE CONF {"raw":[100,99,99,100,100,100,100,100,100,100]}
+
+00:16:17.539 --> 00:16:18.140
+<v Speaker 0>your asset.
+
+NOTE CONF {"raw":[100,100]}
+
+00:16:18.460 --> 00:16:22.219
+<v Speaker 0>The data classification bit is a sensitivity analysis, which we
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100,100]}
+
+00:16:22.219 --> 00:16:25.460
+<v Speaker 0>are not really covering this week, but you do, you
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,99,100]}
+
+00:16:25.460 --> 00:16:29.900
+<v Speaker 0>would probably have a classification protocol, what is confidential, what
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,100,100,100]}
+
+00:16:29.900 --> 00:16:31.859
+<v Speaker 0>is public, what is private, etc.
+
+NOTE CONF {"raw":[100,100,100,100,100,99]}
+
+00:16:32.299 --> 00:16:35.859
+<v Speaker 0>and definitions in your organization about what constitutes.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100]}
+
+00:16:36.200 --> 00:16:39.479
+<v Speaker 0>Um, uh, this category, and then you would apply it
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,100,99]}
+
+00:16:39.479 --> 00:16:42.559
+<v Speaker 0>across the board, and that would, you know, be listed
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,100,100]}
+
+00:16:42.559 --> 00:16:43.219
+<v Speaker 0>here as well.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:16:43.520 --> 00:16:46.989
+<v Speaker 0>But from an impact of profitability, you would have on
+
+NOTE CONF {"raw":[99,100,99,99,90,100,100,99,100,100]}
+
+00:16:46.989 --> 00:16:49.280
+<v Speaker 0>your right-hand side, all of these.
+
+NOTE CONF {"raw":[100,98,100,100,100,99]}
+
+00:16:50.039 --> 00:16:53.700
+<v Speaker 0>You know, ratings How do we get to that impact
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,100,100]}
+
+00:16:53.700 --> 00:16:55.280
+<v Speaker 0>to profitability figure?
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:16:55.580 --> 00:17:00.380
+<v Speaker 0>Well, we probably will decide that impact to profitability has
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,99,100,100]}
+
+00:17:00.380 --> 00:17:01.969
+<v Speaker 0>multiple criteria, right?
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:17:02.219 --> 00:17:04.500
+<v Speaker 0>Impact to revenue might be one.
+
+NOTE CONF {"raw":[99,99,100,100,100,100]}
+
+00:17:05.328 --> 00:17:06.688
+<v Speaker 0>It's all right, let me just go back.
+
+NOTE CONF {"raw":[29,23,93,99,99,100,100,100]}
+
+00:17:08.760 --> 00:17:12.680
+<v Speaker 0>Um, sorry, um, impact in general will have multiple criteria.
+
+NOTE CONF {"raw":[99,99,94,99,100,100,99,100,100,100]}
+
+00:17:13.188 --> 00:17:17.199
+<v Speaker 0>Impact revenue, impact to profitability, public image impact, etc.
+
+NOTE CONF {"raw":[54,100,100,99,100,100,100,100,99]}
+
+00:17:17.270 --> 00:17:17.719
+<v Speaker 0>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:17:18.079 --> 00:17:20.599
+<v Speaker 0>and you'd have to go to different people to figure
+
+NOTE CONF {"raw":[55,100,100,100,100,100,100,100,100,100]}
+
+00:17:20.599 --> 00:17:22.239
+<v Speaker 0>out what these figures mean.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:17:22.349 --> 00:17:25.599
+<v Speaker 0>So for example, the person who actually owns this do
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,88]}
+
+00:17:25.599 --> 00:17:28.469
+<v Speaker 0>these documents and uses it on a day to day
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:17:28.469 --> 00:17:31.719
+<v Speaker 0>basis can only qualitatively describe what would happen if they
+
+NOTE CONF {"raw":[100,100,100,100,100,99,99,99,100,100]}
+
+00:17:31.719 --> 00:17:32.520
+<v Speaker 0>lost the document.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:17:33.319 --> 00:17:36.359
+<v Speaker 0>They can't describe at an organizational level what would be
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,99]}
+
+00:17:36.359 --> 00:17:37.699
+<v Speaker 0>the impact to revenue.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:17:38.160 --> 00:17:40.239
+<v Speaker 0>They would say, hey, if I lost this document, I
+
+NOTE CONF {"raw":[99,100,100,97,100,100,100,99,100,100]}
+
+00:17:40.239 --> 00:17:41.599
+<v Speaker 0>wouldn't be able to do A, B, and Z.
+
+NOTE CONF {"raw":[100,100,100,100,100,99,99,99,99]}
+
+00:17:41.750 --> 00:17:43.060
+<v Speaker 0>This process would stop.
+
+NOTE CONF {"raw":[99,99,99,100]}
+
+00:17:43.390 --> 00:17:46.479
+<v Speaker 0>This would be the impact qualitatively, right?
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99]}
+
+00:17:46.640 --> 00:17:50.400
+<v Speaker 0>And they can describe the crisis situation, right?
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99]}
+
+00:17:50.760 --> 00:17:53.319
+<v Speaker 0>Um, at an operations level, but you eventually have to
+
+NOTE CONF {"raw":[99,99,100,100,100,99,100,100,100,100]}
+
+00:17:53.319 --> 00:17:55.680
+<v Speaker 0>go to the to the CFO, right?
+
+NOTE CONF {"raw":[100,99,99,99,100,99,100]}
+
+00:17:55.839 --> 00:17:59.300
+<v Speaker 0>And ask the CFO, well, you know, the whole organization,
+
+NOTE CONF {"raw":[99,99,100,99,99,100,100,100,100,100]}
+
+00:17:59.359 --> 00:18:02.239
+<v Speaker 0>what it's worth, it's, you know, productivity, blah, blah, blah,
+
+NOTE CONF {"raw":[100,100,100,99,100,100,99,99,93,99]}
+
+00:18:02.500 --> 00:18:03.890
+<v Speaker 0>uh, what it's operating budget is.
+
+NOTE CONF {"raw":[88,100,36,100,100,100]}
+
+00:18:04.160 --> 00:18:07.839
+<v Speaker 0>So tell me, if this happened, what percent, what, what,
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,99,99,99]}
+
+00:18:07.949 --> 00:18:10.800
+<v Speaker 0>how would you value this or, you know, what would
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,100]}
+
+00:18:10.800 --> 00:18:12.910
+<v Speaker 0>be the impact, um, in a dollar sense?
+
+NOTE CONF {"raw":[99,100,100,99,100,99,100,100]}
+
+00:18:12.920 --> 00:18:14.459
+<v Speaker 0>And they would, they would give you.
+
+NOTE CONF {"raw":[90,100,100,100,100,100,100]}
+
+00:18:14.869 --> 00:18:15.819
+<v Speaker 0>That figure, right?
+
+NOTE CONF {"raw":[99,100,100]}
+
+00:18:16.069 --> 00:18:18.459
+<v Speaker 0>What looks to be like a crisis at an operations
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,96,99,99]}
+
+00:18:18.459 --> 00:18:22.010
+<v Speaker 0>level might be, you know, meh, nothing major at a
+
+NOTE CONF {"raw":[100,100,100,100,100,86,100,100,100,100]}
+
+00:18:22.189 --> 00:18:23.130
+<v Speaker 0>strategic level.
+
+NOTE CONF {"raw":[100,100]}
+
+00:18:23.630 --> 00:18:28.250
+<v Speaker 0>So, these numbers here, 30, 40, 30 are basically awaiting.
+
+NOTE CONF {"raw":[100,99,100,100,100,99,99,100,100,99]}
+
+00:18:28.550 --> 00:18:32.739
+<v Speaker 0>You're basically saying, This is a weighted factor analysis worksheet,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:18:32.760 --> 00:18:36.510
+<v Speaker 0>which says of the total impact, right?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:18:36.680 --> 00:18:42.000
+<v Speaker 0>We're gonna derive the impact rating from 3 sub-ratings, impact
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,41,88,99]}
+
+00:18:42.000 --> 00:18:46.270
+<v Speaker 0>revenue, impact of profitability, impact from public image or impact
+
+NOTE CONF {"raw":[99,100,81,100,100,100,100,100,100,100]}
+
+00:18:46.270 --> 00:18:47.140
+<v Speaker 0>from reputation.
+
+NOTE CONF {"raw":[99,100]}
+
+00:18:47.520 --> 00:18:51.750
+<v Speaker 0>And we're going to We are going to weight impact
+
+NOTE CONF {"raw":[98,100,100,100,99,99,100,100,99,99]}
+
+00:18:51.750 --> 00:18:57.729
+<v Speaker 0>revenues 30% of the overall impact, profitability 40%, and reputation
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,99,100,100]}
+
+00:18:57.829 --> 00:19:00.770
+<v Speaker 0>or public image 30%, so these add to 100%.
+
+NOTE CONF {"raw":[99,100,100,100,83,99,99,100,99]}
+
+00:19:01.270 --> 00:19:04.969
+<v Speaker 0>Then we are going to work out what the individual
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,100,100]}
+
+00:19:04.969 --> 00:19:08.400
+<v Speaker 0>ratings are for each of these columns, and we are
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,99]}
+
+00:19:08.400 --> 00:19:15.030
+<v Speaker 0>going to multiply, you know, these by the weighting and
+
+NOTE CONF {"raw":[100,100,100,76,64,99,100,99,99,100]}
+
+00:19:15.030 --> 00:19:17.829
+<v Speaker 0>come to a total impact score, which is a weighted
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,100]}
+
+00:19:17.829 --> 00:19:18.349
+<v Speaker 0>score.
+
+NOTE CONF {"raw":[100]}
+
+00:19:18.640 --> 00:19:24.319
+<v Speaker 0>And this way, if we decide suddenly that revenue matters
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:19:24.319 --> 00:19:27.880
+<v Speaker 0>more than profitability, we can change these ratings.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,98]}
+
+00:19:28.280 --> 00:19:30.439
+<v Speaker 0>This will not change, right?
+
+NOTE CONF {"raw":[93,100,100,100,99]}
+
+00:19:31.579 --> 00:19:36.040
+<v Speaker 0>But the Overall impact the way the organization looks at
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,100,100]}
+
+00:19:36.040 --> 00:19:36.619
+<v Speaker 0>it will change.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:19:37.760 --> 00:19:37.979
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:19:38.119 --> 00:19:42.359
+<v Speaker 0>That is important because it then allows us to correctly
+
+NOTE CONF {"raw":[90,100,100,100,100,100,100,100,100,100]}
+
+00:19:42.359 --> 00:19:44.520
+<v Speaker 0>weight the value of assets.
+
+NOTE CONF {"raw":[99,100,100,100,100]}
+
+00:19:46.680 --> 00:19:49.550
+<v Speaker 0>OK, once we have valued assets, we can now go
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:19:49.550 --> 00:19:50.069
+<v Speaker 0>to.
+
+NOTE CONF {"raw":[100]}
+
+00:19:51.640 --> 00:19:54.300
+<v Speaker 0>Assess to the probability assessment.
+
+NOTE CONF {"raw":[98,81,100,100,100]}
+
+00:19:54.640 --> 00:19:57.040
+<v Speaker 0>How do we figure out the likelihood of a scenario?
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,100]}
+
+00:19:57.349 --> 00:19:59.359
+<v Speaker 0>The way I used to do it was to simply
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:19:59.359 --> 00:20:02.119
+<v Speaker 0>interview people who handle the document and to say, you
+
+NOTE CONF {"raw":[100,100,100,95,99,100,100,100,100,100]}
+
+00:20:02.119 --> 00:20:07.469
+<v Speaker 0>know, Well, you know, how often has this document been,
+
+NOTE CONF {"raw":[100,97,100,100,100,100,100,100,100,99]}
+
+00:20:07.829 --> 00:20:11.459
+<v Speaker 0>you know, leaked to your knowledge, right?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99]}
+
+00:20:11.719 --> 00:20:16.390
+<v Speaker 0>Once a week, once a month, once 6 months, once
+
+NOTE CONF {"raw":[99,100,100,79,99,100,76,99,100,99]}
+
+00:20:16.390 --> 00:20:16.930
+<v Speaker 0>in a year.
+
+NOTE CONF {"raw":[99,99,100]}
+
+00:20:17.790 --> 00:20:20.119
+<v Speaker 0>And I asked the same question to everybody, right?
+
+NOTE CONF {"raw":[100,100,90,100,100,100,100,100,100]}
+
+00:20:20.199 --> 00:20:23.000
+<v Speaker 0>The important thing with likelihood scaling is that you have
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:20:23.000 --> 00:20:26.280
+<v Speaker 0>to ask everybody the same question and use the same
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:20:26.280 --> 00:20:27.000
+<v Speaker 0>yardstick.
+
+NOTE CONF {"raw":[100]}
+
+00:20:27.239 --> 00:20:29.839
+<v Speaker 0>You can't switch yardsticks or all the likelihoods will be
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,100]}
+
+00:20:29.839 --> 00:20:30.869
+<v Speaker 0>wrong, right?
+
+NOTE CONF {"raw":[100,99]}
+
+00:20:31.199 --> 00:20:35.030
+<v Speaker 0>So you basically decide high probability might be once a
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,100,100,100]}
+
+00:20:35.030 --> 00:20:38.400
+<v Speaker 0>week, low probability might be once a year, medium probability
+
+NOTE CONF {"raw":[100,99,100,99,100,100,100,100,98,100]}
+
+00:20:38.400 --> 00:20:41.300
+<v Speaker 0>might be once, I don't know, in 6 months.
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100]}
+
+00:20:41.760 --> 00:20:44.400
+<v Speaker 0>You can decide as long as you use a consistent.
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,100,99,100]}
+
+00:20:45.270 --> 00:20:50.430
+<v Speaker 0>Yardstick, you will be able to do your risk assessment
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,100]}
+
+00:20:50.430 --> 00:20:53.989
+<v Speaker 0>because it is a it is a relative rating.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,100,100]}
+
+00:20:55.540 --> 00:20:58.140
+<v Speaker 0>Um, where can I get likelihood information from?
+
+NOTE CONF {"raw":[89,78,99,100,100,99,100,100]}
+
+00:20:58.219 --> 00:21:00.819
+<v Speaker 0>You could also, you can interview people, which is what
+
+NOTE CONF {"raw":[99,99,99,99,96,100,100,100,100,100]}
+
+00:21:00.819 --> 00:21:03.060
+<v Speaker 0>I did when I didn't have time, but you could
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100,99,100,100]}
+
+00:21:03.060 --> 00:21:04.280
+<v Speaker 0>look up past records.
+
+NOTE CONF {"raw":[100,99,100,100]}
+
+00:21:04.619 --> 00:21:07.619
+<v Speaker 0>You could look up, um, you could do a simulation.
+
+NOTE CONF {"raw":[97,99,99,99,79,99,99,99,99,100]}
+
+00:21:07.979 --> 00:21:10.880
+<v Speaker 0>You could experiment, you could try things out.
+
+NOTE CONF {"raw":[93,100,100,76,99,100,100,100]}
+
+00:21:11.260 --> 00:21:13.979
+<v Speaker 0>You could get an external expert to come in and
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:21:13.979 --> 00:21:16.219
+<v Speaker 0>say, well, I've worked in organizations for a long time
+
+NOTE CONF {"raw":[100,94,99,100,100,99,100,100,100,100]}
+
+00:21:16.219 --> 00:21:18.939
+<v Speaker 0>using this kind of information, and I know that, you
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,99,95]}
+
+00:21:18.939 --> 00:21:22.339
+<v Speaker 0>know, that these documents disappear every, you know, 1 week
+
+NOTE CONF {"raw":[91,89,99,100,100,100,98,95,25,99]}
+
+00:21:22.339 --> 00:21:25.219
+<v Speaker 0>or something, not every 6 months like they're saying.
+
+NOTE CONF {"raw":[100,100,99,100,99,100,100,99,100]}
+
+00:21:25.839 --> 00:21:28.719
+<v Speaker 0>So, again, lots of different sources from which you can
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:21:28.719 --> 00:21:29.760
+<v Speaker 0>derive your likelihoods.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:21:31.250 --> 00:21:37.119
+<v Speaker 0>Impact Um, So the impact can come from direct cost,
+
+NOTE CONF {"raw":[99,99,100,98,100,100,100,100,100,100]}
+
+00:21:37.579 --> 00:21:37.979
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[100]}
+
+00:21:38.180 --> 00:21:41.060
+<v Speaker 0>If this document gets destroyed, how much will it cost
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:21:41.060 --> 00:21:42.040
+<v Speaker 0>to recreate?
+
+NOTE CONF {"raw":[100,100]}
+
+00:21:42.579 --> 00:21:44.380
+<v Speaker 0>Could be, you know, how many hours of time will
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,100,100,100]}
+
+00:21:44.380 --> 00:21:46.199
+<v Speaker 0>it take you to be able to recreate this.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100]}
+
+00:21:46.569 --> 00:21:49.910
+<v Speaker 0>Uh, if we breach, you know, if this is, if
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,99,99,99]}
+
+00:21:49.910 --> 00:21:53.380
+<v Speaker 0>this document happens to be a confidential document and by
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:21:53.380 --> 00:21:55.660
+<v Speaker 0>losing it or destroying it, we are in breach of
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:21:55.660 --> 00:21:58.619
+<v Speaker 0>a contract, how much is the penalty, right?
+
+NOTE CONF {"raw":[93,100,99,100,100,99,100,99]}
+
+00:21:58.959 --> 00:22:03.239
+<v Speaker 0>So all of these are ways to figure out what
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:22:03.239 --> 00:22:07.239
+<v Speaker 0>the cost of um a risk scenario might be.
+
+NOTE CONF {"raw":[100,100,100,87,100,100,100,100,100]}
+
+00:22:09.130 --> 00:22:14.989
+<v Speaker 0>Ultimately, when you have A, uh, the probability rating, which
+
+NOTE CONF {"raw":[99,100,100,100,99,88,99,100,100,100]}
+
+00:22:14.989 --> 00:22:20.380
+<v Speaker 0>we can say is low, medium, high, and, Impact rating,
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,99,99,100]}
+
+00:22:20.390 --> 00:22:21.510
+<v Speaker 0>which is low, medium, high.
+
+NOTE CONF {"raw":[99,100,100,100,99]}
+
+00:22:21.949 --> 00:22:26.449
+<v Speaker 0>So, as I said before, we say low in probability
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,99]}
+
+00:22:26.449 --> 00:22:28.270
+<v Speaker 0>might be once a year, high might be.
+
+NOTE CONF {"raw":[99,100,100,100,100,99,99,99]}
+
+00:22:29.219 --> 00:22:32.199
+<v Speaker 0>Um, once a week, and media might be every 6
+
+NOTE CONF {"raw":[99,99,100,100,99,99,100,100,100,96]}
+
+00:22:32.199 --> 00:22:32.540
+<v Speaker 0>months.
+
+NOTE CONF {"raw":[100]}
+
+00:22:33.989 --> 00:22:39.349
+<v Speaker 0>For A dollar value, we can decide on impact what
+
+NOTE CONF {"raw":[99,99,100,100,99,100,99,100,99,100]}
+
+00:22:39.349 --> 00:22:42.689
+<v Speaker 0>low, medium, and high is by making dollar ranges.
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100]}
+
+00:22:43.150 --> 00:22:45.079
+<v Speaker 0>But now, how do we calculate the risk?
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100]}
+
+00:22:45.189 --> 00:22:47.750
+<v Speaker 0>Well, we can say low is a 1, medium is
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,99,99,100]}
+
+00:22:47.750 --> 00:22:51.469
+<v Speaker 0>a 2, and high is a 3 for likelihood.
+
+NOTE CONF {"raw":[99,99,99,99,100,99,100,99,100]}
+
+00:22:51.550 --> 00:22:53.349
+<v Speaker 0>And then similarly for impact, we can say low is
+
+NOTE CONF {"raw":[71,99,100,99,99,99,99,100,99,100]}
+
+00:22:53.349 --> 00:22:56.869
+<v Speaker 0>a 1, medium is a 2, and high impact is
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,99,100]}
+
+00:22:56.869 --> 00:22:57.469
+<v Speaker 0>a 3.
+
+NOTE CONF {"raw":[99,100]}
+
+00:22:58.359 --> 00:23:01.459
+<v Speaker 0>And so we just multiply these out.
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100]}
+
+00:23:01.910 --> 00:23:07.390
+<v Speaker 0>So the criticality rating of a scenario is the probability
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:23:07.390 --> 00:23:08.130
+<v Speaker 0>times the impact.
+
+NOTE CONF {"raw":[100,99,100]}
+
+00:23:08.589 --> 00:23:12.069
+<v Speaker 0>So a high criticality scenario will have high probability, high
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:23:12.069 --> 00:23:13.589
+<v Speaker 0>impact, and so that will rate a 9.
+
+NOTE CONF {"raw":[100,99,100,100,99,100,100,99]}
+
+00:23:13.949 --> 00:23:16.949
+<v Speaker 0>A low criticality will be low probability, low impact, which
+
+NOTE CONF {"raw":[100,100,99,99,100,100,99,99,99,100]}
+
+00:23:16.949 --> 00:23:18.650
+<v Speaker 0>will be rated a 1.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:23:18.910 --> 00:23:20.109
+<v Speaker 0>So 1 times 1 is 1.
+
+NOTE CONF {"raw":[94,99,99,99,100,99]}
+
+00:23:20.390 --> 00:23:22.670
+<v Speaker 0>And now that you've got a rating number for each
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:23:22.670 --> 00:23:25.319
+<v Speaker 0>scenario, you can simply sort the 9s go to the
+
+NOTE CONF {"raw":[100,100,100,100,100,97,99,100,100,100]}
+
+00:23:25.319 --> 00:23:27.109
+<v Speaker 0>top, the 1s go to the bottom, and everything else
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:23:27.109 --> 00:23:27.989
+<v Speaker 0>comes in between.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:23:28.339 --> 00:23:34.150
+<v Speaker 0>And we now have a Sorted, prioritized list of scenarios.
+
+NOTE CONF {"raw":[99,100,100,100,99,99,99,99,99,100]}
+
+00:23:34.449 --> 00:23:36.469
+<v Speaker 0>The most important ones that we need to pay attention
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,100,100]}
+
+00:23:36.469 --> 00:23:38.609
+<v Speaker 0>to are at the top, and the least important ones
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:23:38.609 --> 00:23:39.469
+<v Speaker 0>are at the bottom.
+
+NOTE CONF {"raw":[99,100,100,100]}
+
+00:23:40.609 --> 00:23:43.430
+<v Speaker 0>You could also use a grid like this one, where
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,99]}
+
+00:23:43.430 --> 00:23:47.410
+<v Speaker 0>you, and, and here in this grid, we've got 12345
+
+NOTE CONF {"raw":[92,99,99,99,100,100,100,99,100,55]}
+
+00:23:47.410 --> 00:23:52.410
+<v Speaker 0>different ratings for likelihood and 12345 different ratings for severity.
+
+NOTE CONF {"raw":[100,100,100,100,99,55,99,100,100,100]}
+
+00:23:52.680 --> 00:23:55.079
+<v Speaker 0>And if I hit play here, you can see, right,
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,99,100,99]}
+
+00:23:55.199 --> 00:23:58.560
+<v Speaker 0>low, medium, medium to high, it's medium high and then
+
+NOTE CONF {"raw":[99,100,100,100,100,66,99,99,99,99]}
+
+00:23:58.560 --> 00:23:59.000
+<v Speaker 0>high.
+
+NOTE CONF {"raw":[100]}
+
+00:23:59.280 --> 00:24:01.060
+<v Speaker 0>These are the different.
+
+NOTE CONF {"raw":[99,100,100,99]}
+
+00:24:01.750 --> 00:24:05.209
+<v Speaker 0>Uh, you know, ratings that a particular scenario can have.
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,99,100]}
+
+00:24:05.630 --> 00:24:09.270
+<v Speaker 0>And these would be your sort of, you know, 1s
+
+NOTE CONF {"raw":[96,99,99,100,99,99,99,99,99,99]}
+
+00:24:09.270 --> 00:24:12.390
+<v Speaker 0>and 2s and so forth, 1s and 2s and maybe
+
+NOTE CONF {"raw":[100,99,100,100,100,99,99,99,99,99]}
+
+00:24:12.390 --> 00:24:16.459
+<v Speaker 0>3s, and then your, if you're doing uh 12, sorry,
+
+NOTE CONF {"raw":[99,99,99,99,100,99,100,90,49,93]}
+
+00:24:16.469 --> 00:24:19.270
+<v Speaker 0>5 by 5, that's your highest will be 25, these
+
+NOTE CONF {"raw":[99,94,99,99,99,100,99,100,100,98]}
+
+00:24:19.270 --> 00:24:21.719
+<v Speaker 0>will be 25s and 24s maybe, right?
+
+NOTE CONF {"raw":[99,99,99,100,99,99,96]}
+
+00:24:21.869 --> 00:24:27.380
+<v Speaker 0>So, this kind of grid helps you to imagine, the
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,100,99]}
+
+00:24:27.380 --> 00:24:32.270
+<v Speaker 0>greater the If the risk scenario is positioned towards the
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,99,100]}
+
+00:24:32.280 --> 00:24:35.390
+<v Speaker 0>top right, it's higher, if it's towards the bottom left,
+
+NOTE CONF {"raw":[100,100,100,100,99,100,99,100,100,100]}
+
+00:24:35.449 --> 00:24:36.119
+<v Speaker 0>it's lower.
+
+NOTE CONF {"raw":[100,100]}
+
+00:24:36.890 --> 00:24:37.150
+<v Speaker 0>Right.
+
+NOTE CONF {"raw":[99]}
+
+00:24:39.170 --> 00:24:42.979
+<v Speaker 0>OK, once we have done that, once we have prioritized
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:24:42.979 --> 00:24:45.660
+<v Speaker 0>our risk scenarios, and we have a long list, and
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:24:45.660 --> 00:24:48.670
+<v Speaker 0>we know exactly what's the most critical and what's the
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:24:48.670 --> 00:24:51.579
+<v Speaker 0>least critical, we now need to decide how are we
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:24:51.579 --> 00:24:54.400
+<v Speaker 0>going to control this list of scenarios.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100]}
+
+00:24:54.859 --> 00:25:00.219
+<v Speaker 0>And that's pretty, you know, that's also pretty uh challenging.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,99,100]}
+
+00:25:01.329 --> 00:25:03.689
+<v Speaker 0>One thing we should do, which is not on this
+
+NOTE CONF {"raw":[100,100,99,99,99,99,99,99,100,99]}
+
+00:25:03.689 --> 00:25:06.449
+<v Speaker 0>list here, is we should probably decide what our risk
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,100,99,100]}
+
+00:25:06.449 --> 00:25:07.520
+<v Speaker 0>appetite is.
+
+NOTE CONF {"raw":[100,100]}
+
+00:25:08.010 --> 00:25:11.130
+<v Speaker 0>So if you've got risks rated from 1 to 9,
+
+NOTE CONF {"raw":[99,99,99,99,100,99,100,100,100,100]}
+
+00:25:11.250 --> 00:25:14.130
+<v Speaker 0>for instance, you're using only 3 ratings for likelihood, 3
+
+NOTE CONF {"raw":[100,99,99,99,99,99,100,99,99,99]}
+
+00:25:14.130 --> 00:25:17.079
+<v Speaker 0>ratings for impact, and you've got risks rated from 1
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,100]}
+
+00:25:17.079 --> 00:25:17.650
+<v Speaker 0>to 9.
+
+NOTE CONF {"raw":[99,99]}
+
+00:25:18.089 --> 00:25:21.930
+<v Speaker 0>If that is the case, then you can decide that
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,99]}
+
+00:25:21.930 --> 00:25:25.770
+<v Speaker 0>you're going to address and do something about every every
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,99]}
+
+00:25:25.770 --> 00:25:27.579
+<v Speaker 0>risk that's rated above a 4.
+
+NOTE CONF {"raw":[99,99,99,100,99,100]}
+
+00:25:27.959 --> 00:25:30.390
+<v Speaker 0>And you're simply not going to do anything that's below
+
+NOTE CONF {"raw":[100,100,100,100,76,80,100,100,100,100]}
+
+00:25:30.569 --> 00:25:31.130
+<v Speaker 0>a 4.
+
+NOTE CONF {"raw":[99,99]}
+
+00:25:31.780 --> 00:25:34.839
+<v Speaker 0>And that's called, you know, deciding on your risk appetite.
+
+NOTE CONF {"raw":[100,100,100,99,99,100,100,100,100,100]}
+
+00:25:36.079 --> 00:25:38.160
+<v Speaker 0>Right, that is something that you'll probably need to do
+
+NOTE CONF {"raw":[99,78,100,100,100,99,100,100,100,100]}
+
+00:25:38.160 --> 00:25:39.060
+<v Speaker 0>at some stage.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:25:39.640 --> 00:25:42.560
+<v Speaker 0>But in terms of risk control strategies, what can we
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:25:42.560 --> 00:25:43.579
+<v Speaker 0>do about a risk?
+
+NOTE CONF {"raw":[100,100,93,100]}
+
+00:25:43.959 --> 00:25:44.719
+<v Speaker 0>We can.
+
+NOTE CONF {"raw":[99,100]}
+
+00:25:45.939 --> 00:25:48.219
+<v Speaker 0>Put in, we can transfer the risk, we can take
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:25:48.219 --> 00:25:51.099
+<v Speaker 0>out insurance on a scenario, say if this happens, insurance
+
+NOTE CONF {"raw":[100,100,100,89,100,99,99,100,100,100]}
+
+00:25:51.099 --> 00:25:51.829
+<v Speaker 0>will cover it.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:25:52.060 --> 00:25:53.199
+<v Speaker 0>That's one possibility.
+
+NOTE CONF {"raw":[97,100,100]}
+
+00:25:53.660 --> 00:25:59.140
+<v Speaker 0>We can avoid the risk by re-engineering.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,98]}
+
+00:26:00.010 --> 00:26:00.989
+<v Speaker 0>The scenario.
+
+NOTE CONF {"raw":[99,99]}
+
+00:26:01.410 --> 00:26:05.890
+<v Speaker 0>So for example, if the risk is, hey, somebody can
+
+NOTE CONF {"raw":[97,99,100,100,100,100,100,99,99,100]}
+
+00:26:05.890 --> 00:26:06.609
+<v Speaker 0>send us an.
+
+NOTE CONF {"raw":[100,99,91]}
+
+00:26:07.770 --> 00:26:11.469
+<v Speaker 0>You know, somebody can send us an SMS that will,
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:26:11.790 --> 00:26:15.329
+<v Speaker 0>um, you know, trigger something really bad in a, in
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:26:15.329 --> 00:26:16.719
+<v Speaker 0>a system of sorts, right?
+
+NOTE CONF {"raw":[99,100,100,100,100]}
+
+00:26:17.130 --> 00:26:19.890
+<v Speaker 0>We can just say, look, don't use SMS, use email.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,100]}
+
+00:26:20.640 --> 00:26:21.000
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:26:21.359 --> 00:26:25.069
+<v Speaker 0>And that swaps one risk scenario for another risk scenario,
+
+NOTE CONF {"raw":[99,100,99,100,99,100,100,100,99,100]}
+
+00:26:25.160 --> 00:26:29.439
+<v Speaker 0>but you can certainly avoid one risk scenario by simply
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:26:29.439 --> 00:26:32.640
+<v Speaker 0>saying, we're not gonna use SMS for this type of,
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,100,100]}
+
+00:26:32.760 --> 00:26:36.939
+<v Speaker 0>you know, um, process, and by doing that, you basically
+
+NOTE CONF {"raw":[99,99,99,100,98,100,100,100,100,100]}
+
+00:26:36.939 --> 00:26:40.800
+<v Speaker 0>have completely negated every risk that comes natively from the
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:26:40.800 --> 00:26:42.479
+<v Speaker 0>SMS service, right?
+
+NOTE CONF {"raw":[100,99,99]}
+
+00:26:44.670 --> 00:26:46.910
+<v Speaker 0>So, and then the other thing you can do is
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:26:46.910 --> 00:26:49.910
+<v Speaker 0>you can also put in, let's say for example, a,
+
+NOTE CONF {"raw":[100,99,100,100,100,100,99,100,100,89]}
+
+00:26:50.030 --> 00:26:52.750
+<v Speaker 0>a fire, you know, like a, a mechanism that simply
+
+NOTE CONF {"raw":[99,99,91,99,99,84,99,100,100,100]}
+
+00:26:52.750 --> 00:26:56.380
+<v Speaker 0>avoids that, for example, somebody um can go through my
+
+NOTE CONF {"raw":[99,99,91,100,100,93,100,100,100,100]}
+
+00:26:56.380 --> 00:27:00.349
+<v Speaker 0>firewall and move from one subnet to another subnet, I
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:27:00.349 --> 00:27:03.589
+<v Speaker 0>can say, well, how about we, we only want traffic
+
+NOTE CONF {"raw":[100,100,99,100,100,99,99,99,100,99]}
+
+00:27:03.589 --> 00:27:06.270
+<v Speaker 0>to be going in one direction because of the nature
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:27:06.270 --> 00:27:07.099
+<v Speaker 0>of the subnets.
+
+NOTE CONF {"raw":[100,100,99]}
+
+00:27:07.420 --> 00:27:09.829
+<v Speaker 0>Why allow traffic to come back the other way when
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,99]}
+
+00:27:09.829 --> 00:27:10.829
+<v Speaker 0>that, we don't need that to happen.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100]}
+
+00:27:10.949 --> 00:27:14.189
+<v Speaker 0>So let's put a, a diode.
+
+NOTE CONF {"raw":[99,100,100,99,99,99]}
+
+00:27:14.530 --> 00:27:18.369
+<v Speaker 0>In the electrical circuitry that only allows traffic hardwired to
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,100]}
+
+00:27:18.369 --> 00:27:19.849
+<v Speaker 0>go in one way, right?
+
+NOTE CONF {"raw":[100,100,100,100,99]}
+
+00:27:20.219 --> 00:27:23.040
+<v Speaker 0>So by doing that, it's impossible for traffic to go
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:27:23.500 --> 00:27:24.199
+<v Speaker 0>backwards.
+
+NOTE CONF {"raw":[100]}
+
+00:27:25.099 --> 00:27:30.099
+<v Speaker 0>Because it's electrically now hardwired into the network, the traffic
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,98,100]}
+
+00:27:30.099 --> 00:27:33.380
+<v Speaker 0>can only flow one way, so that's me avoiding that
+
+NOTE CONF {"raw":[100,100,100,100,100,87,100,100,100,100]}
+
+00:27:33.380 --> 00:27:34.140
+<v Speaker 0>risk scenario.
+
+NOTE CONF {"raw":[99,100]}
+
+00:27:36.390 --> 00:27:40.790
+<v Speaker 0>Mitigation is when the scenario, the risk scenario that you're
+
+NOTE CONF {"raw":[99,100,100,99,99,99,99,100,100,99]}
+
+00:27:40.790 --> 00:27:43.949
+<v Speaker 0>concerned about has happened, and then you do something after
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,100]}
+
+00:27:43.949 --> 00:27:46.209
+<v Speaker 0>the scenario to try to reduce the impact.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100]}
+
+00:27:46.829 --> 00:27:49.540
+<v Speaker 0>And an instant response team is a classic example, right?
+
+NOTE CONF {"raw":[99,99,98,99,100,100,100,100,100,100]}
+
+00:27:49.949 --> 00:27:52.430
+<v Speaker 0>Some attacker has gone through your firewalls, they've broken through
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,100]}
+
+00:27:52.430 --> 00:27:55.390
+<v Speaker 0>your shield, they're inside your organization, and now you've got
+
+NOTE CONF {"raw":[100,100,99,100,100,100,99,100,100,100]}
+
+00:27:55.390 --> 00:27:58.030
+<v Speaker 0>an instant response team whose job it is to find
+
+NOTE CONF {"raw":[99,96,99,100,100,100,100,100,100,100]}
+
+00:27:58.030 --> 00:28:00.150
+<v Speaker 0>them and to cut them out of the organization.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100]}
+
+00:28:01.510 --> 00:28:04.260
+<v Speaker 0>Um, acceptance is simply saying I'm not gonna do anything,
+
+NOTE CONF {"raw":[99,99,100,99,99,100,100,99,100,100]}
+
+00:28:04.430 --> 00:28:04.589
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:28:04.660 --> 00:28:06.510
+<v Speaker 0>If it happens, it happens, right?
+
+NOTE CONF {"raw":[99,100,100,100,100,99]}
+
+00:28:08.780 --> 00:28:11.170
+<v Speaker 0>So here's a really interesting um.
+
+NOTE CONF {"raw":[100,99,100,100,100,99]}
+
+00:28:11.780 --> 00:28:15.849
+<v Speaker 0>It's called, it's a, it's a methodology of risk assessment
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,100,100,100]}
+
+00:28:15.849 --> 00:28:16.930
+<v Speaker 0>called Octave.
+
+NOTE CONF {"raw":[100,99]}
+
+00:28:17.260 --> 00:28:19.339
+<v Speaker 0>Octave is actually a full-blown, very complex one.
+
+NOTE CONF {"raw":[99,100,100,100,61,100,100,100]}
+
+00:28:19.420 --> 00:28:23.699
+<v Speaker 0>This is Octave S, which is a very shortened view
+
+NOTE CONF {"raw":[99,100,99,87,100,100,100,100,100,100]}
+
+00:28:23.699 --> 00:28:24.099
+<v Speaker 0>of it.
+
+NOTE CONF {"raw":[100,100]}
+
+00:28:24.760 --> 00:28:26.920
+<v Speaker 0>And it's from Carnegie Mellon University.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:28:27.069 --> 00:28:28.709
+<v Speaker 0>They pioneered this and created it.
+
+NOTE CONF {"raw":[99,100,100,100,100,100]}
+
+00:28:28.920 --> 00:28:31.439
+<v Speaker 0>And I found it very useful because it sort of
+
+NOTE CONF {"raw":[87,100,100,100,100,100,100,100,100,100]}
+
+00:28:31.439 --> 00:28:34.880
+<v Speaker 0>gives you a really good idea of how all these
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:28:34.880 --> 00:28:40.599
+<v Speaker 0>risk scenarios collectively um can be identified and then, and
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,100,100,100]}
+
+00:28:40.599 --> 00:28:41.400
+<v Speaker 0>then controlled.
+
+NOTE CONF {"raw":[100,100]}
+
+00:28:47.199 --> 00:28:49.079
+<v Speaker 0>So on your left hand side, you have the asset.
+
+NOTE CONF {"raw":[100,99,100,100,96,100,100,100,100,99]}
+
+00:28:51.229 --> 00:28:54.489
+<v Speaker 0>This is the customer relationship management system or CRM system.
+
+NOTE CONF {"raw":[100,100,100,99,99,99,99,100,100,100]}
+
+00:28:54.969 --> 00:28:58.569
+<v Speaker 0>And We say, for instance, that, hey, if somebody were
+
+NOTE CONF {"raw":[87,100,100,100,100,99,99,99,99,100]}
+
+00:28:58.569 --> 00:29:01.209
+<v Speaker 0>to attack the asset, they'd come through the network, they
+
+NOTE CONF {"raw":[100,100,100,100,99,100,99,100,100,74]}
+
+00:29:01.209 --> 00:29:03.130
+<v Speaker 0>could be an insider or an outsider.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:29:03.449 --> 00:29:06.930
+<v Speaker 0>The insider could be, you know, have an accidental motivation
+
+NOTE CONF {"raw":[98,100,100,99,99,99,99,100,99,100]}
+
+00:29:06.930 --> 00:29:11.089
+<v Speaker 0>or a deliberate motivation, and the outcome of that scenario
+
+NOTE CONF {"raw":[100,99,100,100,99,100,100,100,100,100]}
+
+00:29:11.089 --> 00:29:15.250
+<v Speaker 0>could be that information was disclosed or it was modified
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:29:15.250 --> 00:29:19.069
+<v Speaker 0>or it was destroyed or it was temporarily just interrupted.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,100]}
+
+00:29:19.449 --> 00:29:21.920
+<v Speaker 0>And the same four scenarios for each of that, of
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,99,99,99]}
+
+00:29:21.920 --> 00:29:23.270
+<v Speaker 0>each of those types of.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:29:23.750 --> 00:29:24.530
+<v Speaker 0>Scenarios.
+
+NOTE CONF {"raw":[99]}
+
+00:29:24.750 --> 00:29:28.910
+<v Speaker 0>So basically, every pathway is another risk scenario.
+
+NOTE CONF {"raw":[80,100,100,100,100,100,100,100]}
+
+00:29:30.430 --> 00:29:34.430
+<v Speaker 0>The dotted lines are the ones that in, for instance,
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,100]}
+
+00:29:34.510 --> 00:29:38.109
+<v Speaker 0>are considered to be not possible in that scenario.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100]}
+
+00:29:38.189 --> 00:29:42.670
+<v Speaker 0>So everything that's read is a legitimate validated possibility.
+
+NOTE CONF {"raw":[76,100,100,99,100,100,100,100,100]}
+
+00:29:43.589 --> 00:29:51.430
+<v Speaker 0>And so you can just count 123456789, 1011, 1213 different
+
+NOTE CONF {"raw":[99,99,100,100,99,100,49,99,99,100]}
+
+00:29:51.430 --> 00:29:55.189
+<v Speaker 0>scenarios have been validated as possible and for this particular
+
+NOTE CONF {"raw":[100,100,100,99,100,100,92,100,100,100]}
+
+00:29:55.189 --> 00:29:56.780
+<v Speaker 0>CRM system, right?
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:29:57.390 --> 00:30:00.569
+<v Speaker 0>So, yeah, each pathway, another scenario.
+
+NOTE CONF {"raw":[99,99,99,100,100,100]}
+
+00:30:01.150 --> 00:30:06.939
+<v Speaker 0>Now, We've identified all the scenarios for this high-value asset.
+
+NOTE CONF {"raw":[94,100,100,100,100,100,100,100,65,100]}
+
+00:30:06.989 --> 00:30:09.130
+<v Speaker 0>We've already determined that it's high value, right?
+
+NOTE CONF {"raw":[98,100,100,100,100,100,99,99]}
+
+00:30:09.589 --> 00:30:12.469
+<v Speaker 0>Now, the question that we wanna pursue here is, what
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,100]}
+
+00:30:12.469 --> 00:30:15.930
+<v Speaker 0>is the risk to the organization of each scenario?
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100]}
+
+00:30:16.229 --> 00:30:20.630
+<v Speaker 0>And the impact and the probability you can see in
+
+NOTE CONF {"raw":[98,100,100,100,100,100,100,100,100,100]}
+
+00:30:20.630 --> 00:30:21.449
+<v Speaker 0>these columns.
+
+NOTE CONF {"raw":[99,100]}
+
+00:30:21.750 --> 00:30:28.910
+<v Speaker 0>Impact has been, um, has 123456 contributing factors.
+
+NOTE CONF {"raw":[97,99,99,99,99,54,100,100]}
+
+00:30:29.660 --> 00:30:36.410
+<v Speaker 0>So, here, you'll see there's reputation, there's financial, there's productivity,
+
+NOTE CONF {"raw":[100,100,99,100,14,99,82,100,99,100]}
+
+00:30:36.699 --> 00:30:39.579
+<v Speaker 0>there's fines, there's safety, and there's other.
+
+NOTE CONF {"raw":[99,99,99,100,100,99,100]}
+
+00:30:39.930 --> 00:30:42.020
+<v Speaker 0>And what they've done here, what you can do here
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100,100]}
+
+00:30:42.020 --> 00:30:43.979
+<v Speaker 0>if you're using this kind of method is you can
+
+NOTE CONF {"raw":[100,99,100,100,100,99,100,100,100,100]}
+
+00:30:43.979 --> 00:30:50.199
+<v Speaker 0>decide if each scenario, for each scenario, whether the reputation
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,99,100,100]}
+
+00:30:50.219 --> 00:30:52.550
+<v Speaker 0>is low, medium, high, the financial is low, medium, high,
+
+NOTE CONF {"raw":[100,100,100,99,99,99,99,99,99,99]}
+
+00:30:52.790 --> 00:30:54.660
+<v Speaker 0>productivity is low, medium, high, blah blah, and you obviously
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:54.660 --> 00:30:58.729
+<v Speaker 0>have, you know, a categorization of what constitutes low, what
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,100,100,99]}
+
+00:30:58.729 --> 00:31:01.739
+<v Speaker 0>constitutes medium, what constitutes high for each one of these.
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,100,100,100]}
+
+00:31:02.339 --> 00:31:04.540
+<v Speaker 0>So, filling out all of this.
+
+NOTE CONF {"raw":[99,99,100,100,100,99]}
+
+00:31:05.609 --> 00:31:07.890
+<v Speaker 0>Right, so obviously you've only filled out where there's where
+
+NOTE CONF {"raw":[99,99,99,99,100,100,99,99,99,99]}
+
+00:31:07.890 --> 00:31:08.569
+<v Speaker 0>the reds.
+
+NOTE CONF {"raw":[99,98]}
+
+00:31:09.290 --> 00:31:10.760
+<v Speaker 0>You know, are solid lines.
+
+NOTE CONF {"raw":[99,99,99,99,100]}
+
+00:31:11.369 --> 00:31:13.859
+<v Speaker 0>Filling out all of this, in some cases, you might
+
+NOTE CONF {"raw":[59,100,100,100,99,99,100,100,100,99]}
+
+00:31:13.859 --> 00:31:17.290
+<v Speaker 0>say there where there's dashes that they don't apply, um,
+
+NOTE CONF {"raw":[100,93,99,99,100,100,100,100,100,99]}
+
+00:31:17.579 --> 00:31:21.180
+<v Speaker 0>you can now determine what the impact is collectively.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100]}
+
+00:31:22.030 --> 00:31:23.229
+<v Speaker 0>Right, from that.
+
+NOTE CONF {"raw":[99,74,100]}
+
+00:31:24.060 --> 00:31:27.140
+<v Speaker 0>Now, in terms of probability, there are 2.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99]}
+
+00:31:27.920 --> 00:31:29.329
+<v Speaker 0>Different subcolumns here.
+
+NOTE CONF {"raw":[99,99,100]}
+
+00:31:29.630 --> 00:31:32.550
+<v Speaker 0>There is low, medium, high, which is obviously a mark
+
+NOTE CONF {"raw":[97,100,100,100,99,100,100,100,100,100]}
+
+00:31:32.550 --> 00:31:33.650
+<v Speaker 0>of frequency.
+
+NOTE CONF {"raw":[99,100]}
+
+00:31:34.349 --> 00:31:37.140
+<v Speaker 0>Is it very likely to, is it high likely to
+
+NOTE CONF {"raw":[99,100,100,99,98,99,99,99,99,100]}
+
+00:31:37.140 --> 00:31:39.250
+<v Speaker 0>happen or not so likely to happen?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:31:39.630 --> 00:31:43.449
+<v Speaker 0>But there's this interesting confidence bar here, which basically says,
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,100,100]}
+
+00:31:43.989 --> 00:31:47.589
+<v Speaker 0>yeah, I've put medium, but how confident am I that
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,100,100]}
+
+00:31:47.589 --> 00:31:50.510
+<v Speaker 0>this medium likelihood is actually true.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:31:51.000 --> 00:31:52.719
+<v Speaker 0>And so if you're not at all, you put an
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:31:52.719 --> 00:31:54.880
+<v Speaker 0>X there, and if you're very confident, you put an
+
+NOTE CONF {"raw":[99,100,99,100,99,100,100,100,100,100]}
+
+00:31:54.880 --> 00:31:57.239
+<v Speaker 0>X on this side, and this is a really neat
+
+NOTE CONF {"raw":[99,100,99,100,65,100,100,100,100,100]}
+
+00:31:57.239 --> 00:32:00.560
+<v Speaker 0>way of trying to record here, what your gut feel
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,99]}
+
+00:32:00.560 --> 00:32:06.260
+<v Speaker 0>was, because with likelihood, it is usually the least, Anchored
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,99]}
+
+00:32:06.260 --> 00:32:08.689
+<v Speaker 0>in the least likely to be anchored in a metric
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:32:08.689 --> 00:32:12.260
+<v Speaker 0>of any kind, it's usually just gut feel, so you
+
+NOTE CONF {"raw":[100,100,100,16,100,100,100,100,96,100]}
+
+00:32:12.260 --> 00:32:15.079
+<v Speaker 0>want to record that gut feel somewhere in your sheet.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,99]}
+
+00:32:15.410 --> 00:32:15.739
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:32:16.969 --> 00:32:20.290
+<v Speaker 0>Now that you've identified each scenario, you've assessed the impact,
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,100]}
+
+00:32:20.369 --> 00:32:24.979
+<v Speaker 0>you've assessed the probability, the question now then becomes, What
+
+NOTE CONF {"raw":[99,100,100,100,98,100,100,99,100,99]}
+
+00:32:24.979 --> 00:32:26.550
+<v Speaker 0>do we do about something, right?
+
+NOTE CONF {"raw":[100,100,100,100,100,99]}
+
+00:32:26.630 --> 00:32:30.550
+<v Speaker 0>And you can see here now, this is the result
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,100]}
+
+00:32:30.550 --> 00:32:34.099
+<v Speaker 0>of an audit of all the different practice areas of
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:32:34.099 --> 00:32:37.339
+<v Speaker 0>your security, you know, in across the organization.
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,100]}
+
+00:32:37.630 --> 00:32:40.849
+<v Speaker 0>So it covers security training to contingency planning, to physical
+
+NOTE CONF {"raw":[99,99,100,100,100,99,99,100,99,100]}
+
+00:32:40.849 --> 00:32:42.479
+<v Speaker 0>access control, blah, blah blah.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:32:42.780 --> 00:32:47.489
+<v Speaker 0>All of these, right, are legitimate practice areas.
+
+NOTE CONF {"raw":[99,100,99,99,99,100,100,100]}
+
+00:32:47.550 --> 00:32:51.020
+<v Speaker 0>And REDD is where you've done an audit according to
+
+NOTE CONF {"raw":[56,94,100,100,100,100,100,100,100,100]}
+
+00:32:51.020 --> 00:32:53.750
+<v Speaker 0>some international standard, and you've decided that this practice area
+
+NOTE CONF {"raw":[100,99,100,100,99,100,100,100,100,100]}
+
+00:32:53.750 --> 00:32:54.290
+<v Speaker 0>is weak.
+
+NOTE CONF {"raw":[99,100]}
+
+00:32:55.219 --> 00:32:58.300
+<v Speaker 0>And yellow is where it's, you know, sort of in
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:32:58.300 --> 00:32:58.689
+<v Speaker 0>the middle.
+
+NOTE CONF {"raw":[100,100]}
+
+00:32:58.989 --> 00:33:01.430
+<v Speaker 0>It's got some weak points, some strong points, and green
+
+NOTE CONF {"raw":[95,100,100,100,99,99,100,100,99,100]}
+
+00:33:01.430 --> 00:33:03.949
+<v Speaker 0>is where you are fully compliant or you feel like
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:33:03.949 --> 00:33:05.910
+<v Speaker 0>you are very strong on that, right?
+
+NOTE CONF {"raw":[100,93,100,100,100,100,99]}
+
+00:33:06.189 --> 00:33:10.619
+<v Speaker 0>And so, for each scenario, you can then decide, look,
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:33:10.949 --> 00:33:11.670
+<v Speaker 0>what am I gonna do?
+
+NOTE CONF {"raw":[100,100,100,99,100]}
+
+00:33:11.739 --> 00:33:12.869
+<v Speaker 0>Am I gonna accept the risk?
+
+NOTE CONF {"raw":[99,100,99,100,100,100]}
+
+00:33:12.949 --> 00:33:15.829
+<v Speaker 0>Am I going to mitigate the risk, or am I
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,71,100,100]}
+
+00:33:15.829 --> 00:33:16.400
+<v Speaker 0>gonna defer?
+
+NOTE CONF {"raw":[99,99]}
+
+00:33:16.469 --> 00:33:18.910
+<v Speaker 0>Defer just means that I haven't made a decision yet,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:33:18.989 --> 00:33:20.150
+<v Speaker 0>I'll come back to it later.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:33:20.650 --> 00:33:24.229
+<v Speaker 0>But where, for instance, the organization has said, hey, we're
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,99,99,99]}
+
+00:33:24.229 --> 00:33:27.619
+<v Speaker 0>going to mitigate, we're going to do something to mitigate
+
+NOTE CONF {"raw":[99,100,100,99,99,100,100,100,100,100]}
+
+00:33:27.619 --> 00:33:32.170
+<v Speaker 0>the risk, they've actually circled what that mitigation means.
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100]}
+
+00:33:32.380 --> 00:33:35.459
+<v Speaker 0>It means that we're going to invest in numbers 12
+
+NOTE CONF {"raw":[99,100,100,99,60,68,100,100,99,100]}
+
+00:33:35.459 --> 00:33:40.300
+<v Speaker 0>and 13, which is vulnerability management and encryption and security
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100,99]}
+
+00:33:40.300 --> 00:33:42.650
+<v Speaker 0>policy and regulation, right?
+
+NOTE CONF {"raw":[100,100,100,99]}
+
+00:33:42.859 --> 00:33:44.579
+<v Speaker 0>That's what mitigation means for us.
+
+NOTE CONF {"raw":[99,100,100,100,100,100]}
+
+00:33:44.979 --> 00:33:45.160
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:33:45.380 --> 00:33:49.930
+<v Speaker 0>Similarly here, mitigation here means we're gonna do contingency planning,
+
+NOTE CONF {"raw":[42,100,99,100,100,100,99,100,100,100]}
+
+00:33:50.140 --> 00:33:54.219
+<v Speaker 0>and we're going to do, um, again, vulnerability management and
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100,100]}
+
+00:33:54.219 --> 00:33:54.839
+<v Speaker 0>encryption.
+
+NOTE CONF {"raw":[100]}
+
+00:33:55.560 --> 00:33:55.819
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:33:56.579 --> 00:34:00.579
+<v Speaker 0>So now you see a whole on one page risk
+
+NOTE CONF {"raw":[99,99,100,100,100,73,99,99,99,100]}
+
+00:34:00.579 --> 00:34:05.540
+<v Speaker 0>assessment for the CRM system, from what scenarios we're concerned
+
+NOTE CONF {"raw":[100,100,100,99,100,99,100,100,68,100]}
+
+00:34:05.540 --> 00:34:09.060
+<v Speaker 0>about to what is the impact if they happened to
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,99,100]}
+
+00:34:09.060 --> 00:34:12.459
+<v Speaker 0>the likelihood of that happening, to the risk approach of
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:34:12.459 --> 00:34:14.739
+<v Speaker 0>the organization, to what we're going to do about the
+
+NOTE CONF {"raw":[100,100,100,100,99,99,99,100,100,100]}
+
+00:34:14.739 --> 00:34:15.169
+<v Speaker 0>risk.
+
+NOTE CONF {"raw":[100]}
+
+00:34:15.459 --> 00:34:16.898
+<v Speaker 0>What does that approach actually mean?
+
+NOTE CONF {"raw":[99,99,100,99,100,100]}
+
+00:34:20.959 --> 00:34:27.260
+<v Speaker 0>So, in terms of deficiencies, um, There are some very
+
+NOTE CONF {"raw":[100,100,100,100,100,99,99,100,100,100]}
+
+00:34:27.260 --> 00:34:31.719
+<v Speaker 0>significant issues with the way that um.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,97]}
+
+00:35:17.860 --> 00:36:14.709
+<v Speaker 0>But it's Sorry, continuing.
+
+NOTE CONF {"raw":[59,35,99,99]}
+
+00:36:20.659 --> 00:36:24.139
+<v Speaker 0>So, there are 3 possible deficiencies, right?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100]}
+
+00:36:24.820 --> 00:36:32.000
+<v Speaker 0>Uh Deficiency one is information security risk identification is common
+
+NOTE CONF {"raw":[64,99,99,100,99,99,99,99,98,99]}
+
+00:36:32.000 --> 00:36:32.820
+<v Speaker 0>perfunctory.
+
+NOTE CONF {"raw":[99]}
+
+00:36:33.280 --> 00:36:36.290
+<v Speaker 0>So what that means here is that when we do
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,100,100]}
+
+00:36:36.290 --> 00:36:39.320
+<v Speaker 0>risk when we come up with risk scenarios, we come
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,99,100,100]}
+
+00:36:39.320 --> 00:36:43.739
+<v Speaker 0>up with separate individual scenarios and we assess the likelihood
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:36:44.080 --> 00:36:47.389
+<v Speaker 0>and impact separate to each scenario.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:36:47.959 --> 00:36:51.199
+<v Speaker 0>So we have like 100 scenarios, it's like 100 snapshots.
+
+NOTE CONF {"raw":[100,100,100,99,99,100,99,100,99,100]}
+
+00:36:51.870 --> 00:36:55.510
+<v Speaker 0>Of what might happen, and then we, we individually look
+
+NOTE CONF {"raw":[99,100,100,100,99,100,99,99,100,100]}
+
+00:36:55.510 --> 00:36:58.139
+<v Speaker 0>at each snapshot and decide, what is the risk that
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,99]}
+
+00:36:58.149 --> 00:37:00.379
+<v Speaker 0>that might happen and then put in a control or
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:37:00.379 --> 00:37:02.820
+<v Speaker 0>something or avoid it or put in a plan to
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,100,100]}
+
+00:37:02.820 --> 00:37:03.350
+<v Speaker 0>manage it.
+
+NOTE CONF {"raw":[100,100]}
+
+00:37:04.439 --> 00:37:05.860
+<v Speaker 0>Now, in the real world.
+
+NOTE CONF {"raw":[99,100,100,100,100]}
+
+00:37:07.520 --> 00:37:12.429
+<v Speaker 0>Risks don't occur independent of each other, they actually combine,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:37:12.850 --> 00:37:13.159
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:37:13.689 --> 00:37:16.590
+<v Speaker 0>So my favorite example, it comes from aviation.
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100]}
+
+00:37:17.010 --> 00:37:22.110
+<v Speaker 0>If, so if, for instance, in aviation, risk, risk management
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,99,99,99]}
+
+00:37:22.110 --> 00:37:24.489
+<v Speaker 0>and risk assessment is much more sophisticated.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100]}
+
+00:37:24.850 --> 00:37:28.090
+<v Speaker 0>If you've got an airplane sitting on the tarmac, and
+
+NOTE CONF {"raw":[81,100,100,100,100,100,100,100,100,100]}
+
+00:37:28.090 --> 00:37:30.610
+<v Speaker 0>there is a bolt that has fallen off the wing
+
+NOTE CONF {"raw":[100,99,100,100,100,99,100,100,100,100]}
+
+00:37:30.610 --> 00:37:32.649
+<v Speaker 0>of the airplane and is on the floor.
+
+NOTE CONF {"raw":[100,100,100,99,99,100,100,100]}
+
+00:37:33.600 --> 00:37:35.239
+<v Speaker 0>They're not just going to pick up the bolt and
+
+NOTE CONF {"raw":[99,99,99,95,96,100,100,100,100,100]}
+
+00:37:35.239 --> 00:37:37.879
+<v Speaker 0>put the bolt back into the wing and say, oh,
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,100,99]}
+
+00:37:38.159 --> 00:37:42.290
+<v Speaker 0>there was a risk that the bolt could fall, and,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,99]}
+
+00:37:42.639 --> 00:37:45.439
+<v Speaker 0>you know, what is the likelihood and impact of that
+
+NOTE CONF {"raw":[99,99,99,100,100,100,99,100,100,100]}
+
+00:37:45.439 --> 00:37:48.760
+<v Speaker 0>happening, and we will put in a plan to make
+
+NOTE CONF {"raw":[100,97,100,100,100,100,100,100,100,100]}
+
+00:37:48.760 --> 00:37:50.629
+<v Speaker 0>sure that that part of the wing, if a bolt
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,99,99]}
+
+00:37:50.629 --> 00:37:52.500
+<v Speaker 0>falls, is not going to be affected.
+
+NOTE CONF {"raw":[100,99,100,98,99,100,99]}
+
+00:37:53.040 --> 00:37:55.919
+<v Speaker 0>What they will do is they'll say, oh, if a
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,92,99,100]}
+
+00:37:55.919 --> 00:37:59.800
+<v Speaker 0>bolt falls, and what if this was in the middle
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:37:59.800 --> 00:38:00.540
+<v Speaker 0>of the air?
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:38:01.189 --> 00:38:04.050
+<v Speaker 0>What would the change in forces be on the entire
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:38:04.050 --> 00:38:04.590
+<v Speaker 0>aircraft?
+
+NOTE CONF {"raw":[99]}
+
+00:38:04.669 --> 00:38:07.050
+<v Speaker 0>Would it require, would it be likely that another bolt
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,100,100,99]}
+
+00:38:07.050 --> 00:38:09.540
+<v Speaker 0>would fall, and then another bolt and another bolt, like,
+
+NOTE CONF {"raw":[100,100,97,99,100,99,99,100,99,78]}
+
+00:38:09.790 --> 00:38:14.310
+<v Speaker 0>what is the combinatorial impact of one risk happening on
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:38:14.310 --> 00:38:16.669
+<v Speaker 0>other things in the airplane?
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:38:17.149 --> 00:38:20.669
+<v Speaker 0>So the likelihood of one risk happening changes the likelihood
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:38:20.669 --> 00:38:22.209
+<v Speaker 0>of other risks happening.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:38:22.550 --> 00:38:25.449
+<v Speaker 0>And that is what the real world is like.
+
+NOTE CONF {"raw":[66,100,100,100,100,100,100,100,100]}
+
+00:38:25.550 --> 00:38:26.949
+<v Speaker 0>It's a snowball effect.
+
+NOTE CONF {"raw":[70,100,100,100]}
+
+00:38:27.429 --> 00:38:30.639
+<v Speaker 0>And so, we don't normally deal with that kind of
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:38:30.639 --> 00:38:35.179
+<v Speaker 0>scenario because our modeling capability is very primitive.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:38:35.510 --> 00:38:38.959
+<v Speaker 0>We pretend that each scenario happens separately, and that is
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,99,100,100]}
+
+00:38:38.959 --> 00:38:41.199
+<v Speaker 0>a problem in the real organization, right?
+
+NOTE CONF {"raw":[99,100,100,100,100,99,99]}
+
+00:38:41.439 --> 00:38:46.060
+<v Speaker 0>And I think it's particularly problematic because risks, when we,
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,99,98]}
+
+00:38:46.149 --> 00:38:49.320
+<v Speaker 0>our risk assessments look like they're all happening because of
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,100]}
+
+00:38:49.320 --> 00:38:53.879
+<v Speaker 0>natural hazards, you know, lightning, fire, you know, flood.
+
+NOTE CONF {"raw":[100,100,99,99,99,100,99,99,100]}
+
+00:38:54.229 --> 00:38:58.729
+<v Speaker 0>But actually when somebody's attacking you, they are actually deliberately
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,99,100,100]}
+
+00:38:58.729 --> 00:39:02.120
+<v Speaker 0>going after every vulnerability that they can find, and that
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,75,100]}
+
+00:39:02.120 --> 00:39:05.560
+<v Speaker 0>means if one vulnerability is being exploited and there are
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:39:05.560 --> 00:39:08.030
+<v Speaker 0>others, the attacker's going to go after those as well.
+
+NOTE CONF {"raw":[100,100,71,90,62,100,100,100,100,100]}
+
+00:39:08.399 --> 00:39:11.030
+<v Speaker 0>So it looks more like the snowballing effect than it
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,99,99,100]}
+
+00:39:11.030 --> 00:39:16.719
+<v Speaker 0>does the natural, you know, the natural hazard effect, but
+
+NOTE CONF {"raw":[100,100,99,99,99,99,100,100,99,99]}
+
+00:39:16.959 --> 00:39:17.959
+<v Speaker 0>we don't deal with that.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:39:19.580 --> 00:39:25.300
+<v Speaker 0>The second deficiency is uh Information security risks are commonly
+
+NOTE CONF {"raw":[62,99,100,100,99,99,100,100,100,100]}
+
+00:39:25.300 --> 00:39:28.580
+<v Speaker 0>estimated with little reference to the organization's actual situation.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,100,100]}
+
+00:39:28.620 --> 00:39:31.780
+<v Speaker 0>So for example, you know, you ask somebody whose job
+
+NOTE CONF {"raw":[98,100,100,99,99,100,99,100,100,100]}
+
+00:39:31.780 --> 00:39:35.340
+<v Speaker 0>it is to, to come up with scenarios of risk
+
+NOTE CONF {"raw":[100,100,99,99,100,100,100,100,100,99]}
+
+00:39:35.340 --> 00:39:38.610
+<v Speaker 0>to say, oh, is this likely to happen?
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100]}
+
+00:39:38.939 --> 00:39:42.860
+<v Speaker 0>What scenarios might happen with this asset, but.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,95]}
+
+00:39:43.610 --> 00:39:47.360
+<v Speaker 0>What happens frequently is somebody will say, oh, nothing's gonna
+
+NOTE CONF {"raw":[100,100,100,100,100,99,99,99,99,99]}
+
+00:39:47.360 --> 00:39:50.320
+<v Speaker 0>happen to this asset, it's never been an issue, right?
+
+NOTE CONF {"raw":[100,99,99,100,93,100,100,100,100,100]}
+
+00:39:50.479 --> 00:39:53.629
+<v Speaker 0>But the instant response team that is logging all the
+
+NOTE CONF {"raw":[99,100,99,99,100,100,100,99,100,100]}
+
+00:39:53.629 --> 00:39:56.020
+<v Speaker 0>things that they're seeing on the network are seeing that
+
+NOTE CONF {"raw":[100,100,99,100,100,100,99,100,100,100]}
+
+00:39:56.030 --> 00:39:58.760
+<v Speaker 0>that issue, that the person who manages that information or
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:39:58.760 --> 00:40:01.399
+<v Speaker 0>the owner of the assets that never happened, is happening
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,98,100,100]}
+
+00:40:01.399 --> 00:40:02.600
+<v Speaker 0>all the time, right?
+
+NOTE CONF {"raw":[100,100,100,99]}
+
+00:40:03.030 --> 00:40:07.590
+<v Speaker 0>So, because security management teams, you know, the, the risk
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,99,100]}
+
+00:40:07.590 --> 00:40:10.459
+<v Speaker 0>assessment teams and the instant response team rarely talk to
+
+NOTE CONF {"raw":[100,100,100,100,72,99,100,100,100,100]}
+
+00:40:10.459 --> 00:40:14.350
+<v Speaker 0>each other, it's very common for risk assessors to say,
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:40:14.429 --> 00:40:17.149
+<v Speaker 0>oh, this won't happen, and then instant responders say, oh,
+
+NOTE CONF {"raw":[99,100,100,100,99,99,98,99,100,99]}
+
+00:40:17.189 --> 00:40:18.739
+<v Speaker 0>it happens all the time, right?
+
+NOTE CONF {"raw":[100,100,100,100,100,99]}
+
+00:40:19.030 --> 00:40:22.389
+<v Speaker 0>So that, what is actually going on in the organization
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:40:22.389 --> 00:40:26.469
+<v Speaker 0>can be a matter of dispute, and that then shows
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,100,100,100]}
+
+00:40:26.469 --> 00:40:30.110
+<v Speaker 0>itself or manifests itself in your risk assessment.
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100]}
+
+00:40:30.850 --> 00:40:35.790
+<v Speaker 0>Deficiency 3 information security risk assessment is not done, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,100,99,99]}
+
+00:40:35.790 --> 00:40:37.199
+<v Speaker 0>know, is not done.
+
+NOTE CONF {"raw":[99,96,99,100]}
+
+00:40:38.729 --> 00:40:43.320
+<v Speaker 0>Consistently and periodically, uh, rout so I should say routinely,
+
+NOTE CONF {"raw":[98,100,100,99,28,91,99,99,99,100]}
+
+00:40:43.629 --> 00:40:43.770
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:40:43.850 --> 00:40:47.250
+<v Speaker 0>It's done intermittently on a non-historical basis.
+
+NOTE CONF {"raw":[99,100,100,100,100,99,99]}
+
+00:40:47.330 --> 00:40:48.669
+<v Speaker 0>So it may happen once a year.
+
+NOTE CONF {"raw":[91,100,100,100,100,100,100]}
+
+00:40:49.530 --> 00:40:49.800
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:40:50.010 --> 00:40:52.209
+<v Speaker 0>Maybe it happened once in 6 months if you're lucky,
+
+NOTE CONF {"raw":[99,92,58,100,100,99,100,100,100,100]}
+
+00:40:52.729 --> 00:40:54.250
+<v Speaker 0>but risks are changing every day.
+
+NOTE CONF {"raw":[99,100,100,100,100,99]}
+
+00:40:55.330 --> 00:41:00.389
+<v Speaker 0>So One of the reasons why risks aren't risk assessments
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,95,99,99]}
+
+00:41:00.389 --> 00:41:04.310
+<v Speaker 0>aren't being done very frequently is because of the expense
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:41:04.310 --> 00:41:05.389
+<v Speaker 0>of it, right?
+
+NOTE CONF {"raw":[100,100,99]}
+
+00:41:05.669 --> 00:41:08.189
+<v Speaker 0>It's really expensive to do this big assessment.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100]}
+
+00:41:08.469 --> 00:41:10.429
+<v Speaker 0>Now, this is not to say that there is a
+
+NOTE CONF {"raw":[99,98,100,100,100,100,100,100,99,100]}
+
+00:41:10.429 --> 00:41:13.189
+<v Speaker 0>live risk register and people are recording risks as they're
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,99]}
+
+00:41:13.189 --> 00:41:16.429
+<v Speaker 0>going, but my point here is that taking the holistic
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:41:16.429 --> 00:41:20.350
+<v Speaker 0>big picture of the organization, understanding what the risk, what
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,99,99]}
+
+00:41:20.350 --> 00:41:22.629
+<v Speaker 0>the, you know, what are the, what is the risk
+
+NOTE CONF {"raw":[99,99,99,99,95,78,99,99,99,100]}
+
+00:41:22.629 --> 00:41:24.169
+<v Speaker 0>context and going through this whole.
+
+NOTE CONF {"raw":[99,99,100,99,100,99]}
+
+00:41:24.909 --> 00:41:28.469
+<v Speaker 0>You know, sort of comprehensive risk review doesn't happen very
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,99,100,100]}
+
+00:41:28.469 --> 00:41:30.209
+<v Speaker 0>often because it's really expensive.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:41:35.850 --> 00:41:40.570
+<v Speaker 0>So lastly, um, I've got this really interesting scenario here,
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:41:40.689 --> 00:41:41.969
+<v Speaker 0>this really, um.
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:41:42.689 --> 00:41:43.409
+<v Speaker 0>I love the story.
+
+NOTE CONF {"raw":[100,100,92,100]}
+
+00:41:43.449 --> 00:41:45.270
+<v Speaker 0>It's um from ancient China.
+
+NOTE CONF {"raw":[99,97,100,99,100]}
+
+00:41:45.330 --> 00:41:49.169
+<v Speaker 0>I think it is 3rd century BC.
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100]}
+
+00:41:49.909 --> 00:41:52.790
+<v Speaker 0>Um And the story goes like this.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100]}
+
+00:41:54.429 --> 00:41:57.989
+<v Speaker 0>The lord of ancient China once asked his physician, who
+
+NOTE CONF {"raw":[99,99,100,99,99,99,88,99,100,99]}
+
+00:41:57.989 --> 00:42:01.209
+<v Speaker 0>is a member of a family of healers, which of
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,99,99,99]}
+
+00:42:02.709 --> 00:42:06.060
+<v Speaker 0>which of his family of healers was most skilled in
+
+NOTE CONF {"raw":[99,99,99,100,100,99,100,100,100,100]}
+
+00:42:06.060 --> 00:42:06.750
+<v Speaker 0>healing.
+
+NOTE CONF {"raw":[100]}
+
+00:42:07.139 --> 00:42:09.989
+<v Speaker 0>And he said, My eldest brother sees the spirit of
+
+NOTE CONF {"raw":[76,100,100,83,100,100,99,100,100,100]}
+
+00:42:09.989 --> 00:42:13.100
+<v Speaker 0>sickness and removes it before it takes shape.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:42:13.590 --> 00:42:15.699
+<v Speaker 0>So his name does not get out of the house.
+
+NOTE CONF {"raw":[96,99,100,100,100,100,100,100,100,99]}
+
+00:42:16.590 --> 00:42:19.870
+<v Speaker 0>My elder brother cures sickness when it is still extremely
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:42:19.870 --> 00:42:22.590
+<v Speaker 0>minute, so his name does not get out of the
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,100]}
+
+00:42:22.590 --> 00:42:23.370
+<v Speaker 0>neighborhood.
+
+NOTE CONF {"raw":[100]}
+
+00:42:23.709 --> 00:42:28.229
+<v Speaker 0>As for me, I puncture veins, prescribe potions, and massage
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,100]}
+
+00:42:28.229 --> 00:42:28.879
+<v Speaker 0>skin.
+
+NOTE CONF {"raw":[100]}
+
+00:42:29.189 --> 00:42:31.870
+<v Speaker 0>So from time to time my name gets out and
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:42:31.870 --> 00:42:33.510
+<v Speaker 0>is heard among the lords.
+
+NOTE CONF {"raw":[100,100,100,100,99]}
+
+00:42:34.899 --> 00:42:36.439
+<v Speaker 0>So there's 3 brothers here.
+
+NOTE CONF {"raw":[100,99,100,100,100]}
+
+00:42:36.820 --> 00:42:40.620
+<v Speaker 0>The eldest brother, who is such an expert healer that
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:42:40.620 --> 00:42:44.060
+<v Speaker 0>he sees the spirit, the sickness as it is emerging
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:42:44.060 --> 00:42:45.659
+<v Speaker 0>in its most minute state.
+
+NOTE CONF {"raw":[100,100,100,99,100]}
+
+00:42:46.489 --> 00:42:49.270
+<v Speaker 0>And removes it before it even has a chance.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100]}
+
+00:42:50.290 --> 00:42:51.689
+<v Speaker 0>His elder brother.
+
+NOTE CONF {"raw":[78,100,100]}
+
+00:42:53.879 --> 00:42:57.959
+<v Speaker 0>Is not as skilled, so the illness is is able
+
+NOTE CONF {"raw":[63,100,100,99,99,100,100,99,99,100]}
+
+00:42:57.959 --> 00:42:59.500
+<v Speaker 0>to take shape.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:43:00.429 --> 00:43:03.399
+<v Speaker 0>And he cures it at a much later stage than
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:43:03.399 --> 00:43:04.320
+<v Speaker 0>the eldest brother.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:43:04.760 --> 00:43:08.360
+<v Speaker 0>As for the youngest brother, he is the one who
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,100]}
+
+00:43:08.360 --> 00:43:12.679
+<v Speaker 0>is the least skilled, so the illness takes hold of
+
+NOTE CONF {"raw":[100,100,100,100,99,100,99,100,100,100]}
+
+00:43:12.679 --> 00:43:16.919
+<v Speaker 0>the patient, and the younger brother goes to war, so
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,89,100,100]}
+
+00:43:16.919 --> 00:43:21.040
+<v Speaker 0>to speak, to try to save the person's life, and
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,97]}
+
+00:43:21.040 --> 00:43:27.360
+<v Speaker 0>it's an epic battle, and he obviously does, does succeed.
+
+NOTE CONF {"raw":[100,99,99,100,99,100,99,99,97,100]}
+
+00:43:27.709 --> 00:43:30.709
+<v Speaker 0>And when he does succeed, he becomes famous because people
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:43:30.709 --> 00:43:33.110
+<v Speaker 0>are obviously saying, oh, this person's never gonna survive, blah
+
+NOTE CONF {"raw":[100,100,99,99,100,90,100,99,99,98]}
+
+00:43:33.110 --> 00:43:35.770
+<v Speaker 0>blah, and then he lives and he becomes famous.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100]}
+
+00:43:36.389 --> 00:43:40.679
+<v Speaker 0>Now, Which, there are two questions here.
+
+NOTE CONF {"raw":[99,99,99,100,99,100,100]}
+
+00:43:40.810 --> 00:43:43.290
+<v Speaker 0>Which of the brothers is most risk aware?
+
+NOTE CONF {"raw":[84,100,100,100,100,100,100,99]}
+
+00:43:44.729 --> 00:43:44.969
+<v Speaker 0>Right.
+
+NOTE CONF {"raw":[99]}
+
+00:43:45.820 --> 00:43:47.429
+<v Speaker 0>Which is least risk aware?
+
+NOTE CONF {"raw":[99,100,100,100,99]}
+
+00:43:48.379 --> 00:43:48.689
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:43:48.939 --> 00:43:52.459
+<v Speaker 0>Who can see the scenario, the risk scenario at the
+
+NOTE CONF {"raw":[99,100,100,99,99,100,100,100,100,100]}
+
+00:43:52.459 --> 00:43:53.239
+<v Speaker 0>earliest stage?
+
+NOTE CONF {"raw":[99,100]}
+
+00:43:54.239 --> 00:43:57.360
+<v Speaker 0>And which is the least competent in seeing the risk
+
+NOTE CONF {"raw":[99,100,100,100,100,100,95,100,100,100]}
+
+00:43:57.360 --> 00:43:57.969
+<v Speaker 0>scenario.
+
+NOTE CONF {"raw":[100]}
+
+00:43:58.820 --> 00:44:03.550
+<v Speaker 0>Right, and I think If you need a second pause.
+
+NOTE CONF {"raw":[99,44,100,100,100,100,100,100,99,100]}
+
+00:44:05.050 --> 00:44:07.129
+<v Speaker 0>Pause the video, have a think about it.
+
+NOTE CONF {"raw":[99,100,100,92,100,100,100,100]}
+
+00:44:08.310 --> 00:44:10.989
+<v Speaker 0>And then we'll play it, and I'll tell you what
+
+NOTE CONF {"raw":[100,100,99,100,100,99,100,100,100,100]}
+
+00:44:10.989 --> 00:44:11.550
+<v Speaker 0>the answer is.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:44:15.909 --> 00:44:20.489
+<v Speaker 0>So the answer is The eldest brother is the most
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:44:20.489 --> 00:44:23.129
+<v Speaker 0>risk aware and the and the youngest brother is the
+
+NOTE CONF {"raw":[100,99,99,99,94,99,100,100,100,99]}
+
+00:44:23.129 --> 00:44:23.889
+<v Speaker 0>least risk aware.
+
+NOTE CONF {"raw":[100,100,99]}
+
+00:44:24.679 --> 00:44:24.939
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:44:25.939 --> 00:44:28.879
+<v Speaker 0>And the reason, of course, is because the eldest brother
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:44:28.879 --> 00:44:33.260
+<v Speaker 0>is able to see the emergence of the Of the
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,87,100]}
+
+00:44:33.260 --> 00:44:35.659
+<v Speaker 0>sickness at its earliest stage, right?
+
+NOTE CONF {"raw":[100,100,100,98,99,99]}
+
+00:44:35.899 --> 00:44:38.580
+<v Speaker 0>Has the foresight to be able to tell that this
+
+NOTE CONF {"raw":[99,100,99,100,100,100,100,100,99,100]}
+
+00:44:38.580 --> 00:44:41.659
+<v Speaker 0>person is going to become sick, perhaps, right?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,99]}
+
+00:44:42.020 --> 00:44:45.219
+<v Speaker 0>Because of the lifestyle or the diet or whatever, right?
+
+NOTE CONF {"raw":[98,100,100,100,100,100,100,100,100,99]}
+
+00:44:48.250 --> 00:44:49.370
+<v Speaker 0>Question 2.
+
+NOTE CONF {"raw":[99,99]}
+
+00:44:50.040 --> 00:44:51.760
+<v Speaker 0>Is, is a bit more tricky.
+
+NOTE CONF {"raw":[63,99,100,100,100,100]}
+
+00:44:52.600 --> 00:44:55.679
+<v Speaker 0>What's the key lesson that we learned from this story
+
+NOTE CONF {"raw":[100,100,100,100,100,100,97,100,100,100]}
+
+00:44:55.679 --> 00:44:57.229
+<v Speaker 0>from a security point of view?
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:44:57.760 --> 00:45:01.399
+<v Speaker 0>Why is it that the youngest brother is the most
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:45:01.399 --> 00:45:02.040
+<v Speaker 0>famous?
+
+NOTE CONF {"raw":[100]}
+
+00:45:03.189 --> 00:45:05.709
+<v Speaker 0>And the eldest brother is unknown.
+
+NOTE CONF {"raw":[100,100,100,100,100,100]}
+
+00:45:06.419 --> 00:45:07.419
+<v Speaker 0>Outside of the house.
+
+NOTE CONF {"raw":[99,99,100,99]}
+
+00:45:08.590 --> 00:45:09.229
+<v Speaker 0>How come?
+
+NOTE CONF {"raw":[99,99]}
+
+00:45:13.179 --> 00:45:16.949
+<v Speaker 0>Or in other words, who is the most accomplished or
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:45:16.949 --> 00:45:22.629
+<v Speaker 0>most famous or most well-paid security or risk manager, let's
+
+NOTE CONF {"raw":[100,100,100,100,68,100,100,100,100,100]}
+
+00:45:22.629 --> 00:45:25.489
+<v Speaker 0>say, in these three brothers, right?
+
+NOTE CONF {"raw":[100,100,100,99,100,99]}
+
+00:45:25.989 --> 00:45:29.739
+<v Speaker 0>I think it's obvious that the most famous and most
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:45:29.739 --> 00:45:33.429
+<v Speaker 0>well-paid risk manager is the youngest brother, not the eldest
+
+NOTE CONF {"raw":[93,100,100,100,100,100,100,100,100,100]}
+
+00:45:33.429 --> 00:45:33.790
+<v Speaker 0>brother.
+
+NOTE CONF {"raw":[100]}
+
+00:45:34.620 --> 00:45:38.340
+<v Speaker 0>So, what lesson do we derive from this?
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100]}
+
+00:45:39.199 --> 00:45:39.439
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:45:40.669 --> 00:45:42.370
+<v Speaker 0>Have a think about that.
+
+NOTE CONF {"raw":[99,99,100,100,100]}
+
+00:45:43.149 --> 00:45:44.340
+<v Speaker 0>How do you?
+
+NOTE CONF {"raw":[99,99,100]}
+
+00:45:45.909 --> 00:45:47.679
+<v Speaker 0>How do you, um.
+
+NOTE CONF {"raw":[99,100,100,99]}
+
+00:45:52.840 --> 00:45:54.439
+<v Speaker 0>How do you, um?
+
+NOTE CONF {"raw":[99,100,100,99]}
+
+00:45:57.050 --> 00:45:58.219
+<v Speaker 0>How do you justify this?
+
+NOTE CONF {"raw":[100,99,100,100,100]}
+
+00:45:59.379 --> 00:46:04.179
+<v Speaker 0>Well, the interesting thing here is the risk manager that
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:46:04.179 --> 00:46:06.540
+<v Speaker 0>is most likely to be fired is the eldest brother.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:46:07.429 --> 00:46:13.320
+<v Speaker 0>Because Think about a security manager who is well paid,
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,100,100,100]}
+
+00:46:13.729 --> 00:46:16.610
+<v Speaker 0>but there's no crisis, there's no incident.
+
+NOTE CONF {"raw":[100,99,100,99,95,100,99]}
+
+00:46:17.050 --> 00:46:18.969
+<v Speaker 0>The organization's going to say, Well, why do we need
+
+NOTE CONF {"raw":[99,42,99,99,99,95,99,100,100,100]}
+
+00:46:18.969 --> 00:46:19.350
+<v Speaker 0>this person?
+
+NOTE CONF {"raw":[100,100]}
+
+00:46:19.409 --> 00:46:21.330
+<v Speaker 0>We're paying them to do nothing and they'll get fired.
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,99,99,100]}
+
+00:46:21.689 --> 00:46:24.250
+<v Speaker 0>Not realizing that the reason why nothing is happening is
+
+NOTE CONF {"raw":[97,100,45,99,100,99,99,99,100,99]}
+
+00:46:24.250 --> 00:46:27.129
+<v Speaker 0>because it's being dealt with at a very early stage.
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99,99]}
+
+00:46:29.159 --> 00:46:31.100
+<v Speaker 0>So there's a bit of a paradox here, right?
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100,100,99]}
+
+00:46:31.719 --> 00:46:36.620
+<v Speaker 0>The least competent risk manager is the most well paid.
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,100,100,99]}
+
+00:46:36.919 --> 00:46:39.600
+<v Speaker 0>The most competent is the least well paid and most
+
+NOTE CONF {"raw":[81,100,100,100,100,99,100,99,100,100]}
+
+00:46:39.600 --> 00:46:40.560
+<v Speaker 0>likely to be fired.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:46:41.000 --> 00:46:42.070
+<v Speaker 0>So what's the lesson?
+
+NOTE CONF {"raw":[99,99,100,100]}
+
+00:46:42.280 --> 00:46:45.320
+<v Speaker 0>And the lesson here is that not only do you
+
+NOTE CONF {"raw":[99,98,100,99,100,100,100,100,100,100]}
+
+00:46:45.320 --> 00:46:48.600
+<v Speaker 0>need to be doing good security risk management, you also
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,99,100,100]}
+
+00:46:48.600 --> 00:46:50.989
+<v Speaker 0>need to be seen to be doing good security risk
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,100]}
+
+00:46:50.989 --> 00:46:53.719
+<v Speaker 0>management, which means you have to convey.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99]}
+
+00:46:54.389 --> 00:46:58.159
+<v Speaker 0>To all the people around you, what you're doing to
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:46:58.159 --> 00:47:01.959
+<v Speaker 0>make the organization secure so that they appreciate all the
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:47:01.959 --> 00:47:06.429
+<v Speaker 0>effort you're putting into security and they can correlate that
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:47:06.429 --> 00:47:10.280
+<v Speaker 0>effort with the stability or the lack of incidents that
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,100]}
+
+00:47:10.280 --> 00:47:11.679
+<v Speaker 0>are happening in the organization.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:47:14.110 --> 00:47:19.270
+<v Speaker 0>So that concludes uh today's presentation, and I thank you
+
+NOTE CONF {"raw":[100,100,100,97,100,100,99,100,100,100]}
+
+00:47:19.270 --> 00:47:21.669
+<v Speaker 0>for listening and I will see you next week.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100]}

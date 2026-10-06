@@ -1,0 +1,5371 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:03.039
+<v Speaker 0>This material is made available to you by or on
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,99]}
+
+00:00:03.039 --> 00:00:06.809
+<v Speaker 0>behalf of the University of Melbourne under section 113P of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,69,89,99]}
+
+00:00:06.809 --> 00:00:08.689
+<v Speaker 0>the Copyright Act 1968.
+
+NOTE CONF {"raw":[99,99,98,99]}
+
+00:00:08.850 --> 00:00:10.529
+<v Speaker 0>It may be subject to copyright.
+
+NOTE CONF {"raw":[99,82,60,100,99,99]}
+
+00:00:10.729 --> 00:00:14.430
+<v Speaker 0>For more information, visit the university copyright website.
+
+NOTE CONF {"raw":[99,99,100,99,99,89,98,99]}
+
+00:00:19.290 --> 00:00:37.979
+<v Speaker 1>OK Good morning.
+
+NOTE CONF {"raw":[5,99,99]}
+
+00:00:38.240 --> 00:00:43.139
+<v Speaker 2>Um, I expect to get fewer people tending because today
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99,69,99,98]}
+
+00:00:43.139 --> 00:00:45.619
+<v Speaker 2>is, uh, this week is assessment week.
+
+NOTE CONF {"raw":[95,70,99,99,99,98,99]}
+
+00:00:46.819 --> 00:00:51.750
+<v Speaker 2>And experience tells me that during assessment weeks, Attendance in
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,97,99]}
+
+00:00:51.750 --> 00:00:53.909
+<v Speaker 2>lectures usually drops significantly.
+
+NOTE CONF {"raw":[99,99,72,99]}
+
+00:00:55.619 --> 00:00:58.340
+<v Speaker 2>Well, we still have 50 students out of 210, roughly
+
+NOTE CONF {"raw":[6,96,99,99,99,99,99,99,99,99]}
+
+00:00:58.340 --> 00:01:00.240
+<v Speaker 2>25%, which isn't too bad.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:01:01.189 --> 00:01:03.430
+<v Speaker 2>I hope that you're getting something out of attending the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:03.430 --> 00:01:04.169
+<v Speaker 2>lecture.
+
+NOTE CONF {"raw":[99]}
+
+00:01:05.220 --> 00:01:05.959
+<v Speaker 2>In person.
+
+NOTE CONF {"raw":[97,99]}
+
+00:01:09.809 --> 00:01:14.330
+<v Speaker 2>Especially nowadays everything is recorded and it's just easier to
+
+NOTE CONF {"raw":[44,91,99,99,99,99,98,98,99,99]}
+
+00:01:14.330 --> 00:01:15.430
+<v Speaker 2>sit home and watch it.
+
+NOTE CONF {"raw":[98,99,99,99,84]}
+
+00:01:16.580 --> 00:01:18.160
+<v Speaker 2>While doing a few other things.
+
+NOTE CONF {"raw":[97,99,99,99,99,99]}
+
+00:01:19.589 --> 00:01:25.800
+<v Speaker 2>Um So this week we're talking about technological controls, but
+
+NOTE CONF {"raw":[76,99,99,99,99,100,100,99,99,99]}
+
+00:01:25.800 --> 00:01:29.940
+<v Speaker 2>we're going to do it in a Strategic sense.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,71,99]}
+
+00:01:30.019 --> 00:01:33.819
+<v Speaker 2>So the aim is not to focus on the technical
+
+NOTE CONF {"raw":[54,99,99,99,99,99,99,99,99,99]}
+
+00:01:33.819 --> 00:01:39.690
+<v Speaker 2>aspects of the technological controls, but the strategic aspects of
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:01:39.690 --> 00:01:45.589
+<v Speaker 2>technological controls, which is In what circumstances would you deploy
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:01:45.589 --> 00:01:46.699
+<v Speaker 2>a particular control?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:01:47.720 --> 00:01:48.040
+<v Speaker 2>Right.
+
+NOTE CONF {"raw":[96]}
+
+00:01:48.360 --> 00:01:49.720
+<v Speaker 2>What is the control for?
+
+NOTE CONF {"raw":[92,97,99,99,99]}
+
+00:01:49.879 --> 00:01:52.519
+<v Speaker 2>How does it allow you to or enable you to
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:01:52.879 --> 00:01:55.769
+<v Speaker 2>reach or achieve your strategic purposes?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:01:56.279 --> 00:02:02.029
+<v Speaker 2>So, we're gonna use A castle, medieval castle as a,
+
+NOTE CONF {"raw":[99,99,96,99,67,99,99,99,99,99]}
+
+00:02:02.650 --> 00:02:08.850
+<v Speaker 2>a framework or an, an architecture to explain How to
+
+NOTE CONF {"raw":[99,99,99,88,95,99,99,100,88,99]}
+
+00:02:08.850 --> 00:02:10.789
+<v Speaker 2>categorize controls and where to put them.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:02:11.330 --> 00:02:15.169
+<v Speaker 2>And so today's objective is to do exactly that, which
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:02:15.169 --> 00:02:20.410
+<v Speaker 2>is to introduce some technological controls and to explain how
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:02:20.410 --> 00:02:22.990
+<v Speaker 2>they get used in the strategic picture.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:02:24.929 --> 00:02:31.009
+<v Speaker 2>So, studying module 5, of course, uh, there is quite
+
+NOTE CONF {"raw":[99,97,72,70,99,99,90,99,99,99]}
+
+00:02:31.009 --> 00:02:32.070
+<v Speaker 2>a bit of reading.
+
+NOTE CONF {"raw":[99,99,99,100]}
+
+00:02:36.880 --> 00:02:38.600
+<v Speaker 2>Why are my page numbers the wrong way?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:02:38.679 --> 00:02:40.320
+<v Speaker 2>I don't know to go back and fix that.
+
+NOTE CONF {"raw":[99,99,99,80,96,99,99,99,99]}
+
+00:02:40.520 --> 00:02:40.940
+<v Speaker 2>Sorry.
+
+NOTE CONF {"raw":[90]}
+
+00:02:42.199 --> 00:02:42.949
+<v Speaker 2>It's a lot of pages.
+
+NOTE CONF {"raw":[63,99,99,99,99]}
+
+00:02:43.000 --> 00:02:43.479
+<v Speaker 2>Yes.
+
+NOTE CONF {"raw":[79]}
+
+00:02:45.550 --> 00:02:52.789
+<v Speaker 2>Well, um, we are not going to ask you to,
+
+NOTE CONF {"raw":[99,99,86,93,99,99,99,99,99,87]}
+
+00:02:53.380 --> 00:02:55.899
+<v Speaker 2>we're not going to test you on the content of
+
+NOTE CONF {"raw":[65,99,99,99,99,99,99,99,99,99]}
+
+00:02:55.899 --> 00:02:59.899
+<v Speaker 2>those 88 pages outside of what's in this lecture.
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99]}
+
+00:03:00.020 --> 00:03:04.660
+<v Speaker 2>So the idea is don't hit the textbook yet, go
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,83]}
+
+00:03:04.660 --> 00:03:08.929
+<v Speaker 2>through the lecture, understand what we're after, and then Pick
+
+NOTE CONF {"raw":[99,99,99,99,99,96,99,99,99,99]}
+
+00:03:09.070 --> 00:03:12.350
+<v Speaker 2>from the textbook the parts that you need in order
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:12.350 --> 00:03:14.229
+<v Speaker 2>to help you to understand what we're saying in the
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,99]}
+
+00:03:14.229 --> 00:03:15.779
+<v Speaker 2>lecture, OK?
+
+NOTE CONF {"raw":[99,99]}
+
+00:03:16.139 --> 00:03:20.949
+<v Speaker 2>So don't read the textbook pages, all of the 88
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99,99,99,96]}
+
+00:03:20.949 --> 00:03:22.699
+<v Speaker 2>pages, uh, word for word.
+
+NOTE CONF {"raw":[99,98,99,99,99]}
+
+00:03:22.770 --> 00:03:24.190
+<v Speaker 2>You can, we stop here.
+
+NOTE CONF {"raw":[85,99,89,99,81]}
+
+00:03:24.330 --> 00:03:26.570
+<v Speaker 2>It's good for your general knowledge, but we're not going
+
+NOTE CONF {"raw":[15,63,98,99,99,99,96,95,99,94]}
+
+00:03:26.570 --> 00:03:29.649
+<v Speaker 2>to test you on the intricacies of the technical, you
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,94,92]}
+
+00:03:29.649 --> 00:03:30.809
+<v Speaker 2>know, the technologies.
+
+NOTE CONF {"raw":[92,96,97]}
+
+00:03:31.169 --> 00:03:33.529
+<v Speaker 2>What we want you to do is to understand the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:33.529 --> 00:03:37.610
+<v Speaker 2>technologies insofar as they support the strategy, so you can
+
+NOTE CONF {"raw":[98,88,99,99,99,99,74,84,99,99]}
+
+00:03:37.610 --> 00:03:40.220
+<v Speaker 2>decide how little or how much you need to read
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:40.729 --> 00:03:42.429
+<v Speaker 2>in order to get you to that point.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:03:43.070 --> 00:03:47.210
+<v Speaker 2>So the textbook is background reading to support, not primary
+
+NOTE CONF {"raw":[89,56,99,99,99,99,99,99,99,99]}
+
+00:03:47.210 --> 00:03:48.850
+<v Speaker 2>reading for examination.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:03:51.149 --> 00:03:53.990
+<v Speaker 2>This is generally true, by the way, for most of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:53.990 --> 00:03:57.149
+<v Speaker 2>the weeks, but especially true for this week.
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99]}
+
+00:03:58.490 --> 00:04:03.649
+<v Speaker 2>So, study the Canvas module, read the textbook, and so
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:03.649 --> 00:04:05.110
+<v Speaker 2>as much as it will support you.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:04:05.529 --> 00:04:08.160
+<v Speaker 2>Uh, discussion questions on Canvas, attend the workshop.
+
+NOTE CONF {"raw":[64,74,99,99,99,93,99,99]}
+
+00:04:08.210 --> 00:04:10.970
+<v Speaker 2>In the workshop this week is going to be presentations
+
+NOTE CONF {"raw":[94,99,99,99,99,95,60,59,99,99]}
+
+00:04:10.970 --> 00:04:13.729
+<v Speaker 2>for the whole 2 hours, uh, and maybe even for
+
+NOTE CONF {"raw":[99,99,99,84,99,75,99,99,99,99]}
+
+00:04:13.729 --> 00:04:14.220
+<v Speaker 2>the next week.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:04:14.330 --> 00:04:17.648
+<v Speaker 2>So I suspect, depending on which workshop you're in, you
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:04:17.648 --> 00:04:20.648
+<v Speaker 2>will not get a chance to speak about the actual
+
+NOTE CONF {"raw":[99,99,99,76,99,99,99,99,99,99]}
+
+00:04:20.648 --> 00:04:23.250
+<v Speaker 2>content with your tutor in this week, but the tutors
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:23.250 --> 00:04:23.929
+<v Speaker 2>will catch up.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:04:24.700 --> 00:04:25.850
+<v Speaker 2>In a following week.
+
+NOTE CONF {"raw":[94,98,99,99]}
+
+00:04:27.190 --> 00:04:29.350
+<v Speaker 2>So, oral presentations.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:04:30.649 --> 00:04:32.100
+<v Speaker 2>If there's time, there'll be Q&A.
+
+NOTE CONF {"raw":[99,94,99,40,99,61]}
+
+00:04:32.179 --> 00:04:34.200
+<v Speaker 2>If there's time, there'll be the teaching case.
+
+NOTE CONF {"raw":[85,88,99,48,99,99,99,99]}
+
+00:04:37.109 --> 00:04:40.910
+<v Speaker 2>So two main learning objectives, defense and depth, which is
+
+NOTE CONF {"raw":[99,98,100,99,100,99,99,99,99,99]}
+
+00:04:40.910 --> 00:04:41.809
+<v Speaker 2>one of the key.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:04:43.230 --> 00:04:47.200
+<v Speaker 2>Themes of this week and technological controls.
+
+NOTE CONF {"raw":[38,99,99,99,99,98,99]}
+
+00:04:48.230 --> 00:04:50.869
+<v Speaker 2>You should be able to understand what is defense in
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,97]}
+
+00:04:50.869 --> 00:04:51.350
+<v Speaker 2>depth.
+
+NOTE CONF {"raw":[96]}
+
+00:04:52.329 --> 00:04:54.640
+<v Speaker 2>You should be able to explore the concept of defense
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:04:54.640 --> 00:04:55.100
+<v Speaker 2>in depth.
+
+NOTE CONF {"raw":[85,99]}
+
+00:04:55.500 --> 00:04:58.640
+<v Speaker 2>You should have the castle model very clearly in your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:58.640 --> 00:04:59.000
+<v Speaker 2>mind.
+
+NOTE CONF {"raw":[99]}
+
+00:04:59.320 --> 00:05:01.679
+<v Speaker 2>You should be able to identify the parts of a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,97]}
+
+00:05:01.679 --> 00:05:05.399
+<v Speaker 2>castle in the physical world and explain what role they
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:05.399 --> 00:05:05.640
+<v Speaker 2>play.
+
+NOTE CONF {"raw":[99]}
+
+00:05:05.720 --> 00:05:08.200
+<v Speaker 2>And then in the digital environment you should be able
+
+NOTE CONF {"raw":[73,99,99,99,99,99,99,99,99,99]}
+
+00:05:08.200 --> 00:05:09.320
+<v Speaker 2>to overlay.
+
+NOTE CONF {"raw":[99,98]}
+
+00:05:10.140 --> 00:05:13.570
+<v Speaker 2>Digital controls on the castle to be able to explain
+
+NOTE CONF {"raw":[76,98,99,99,98,99,99,99,99,99]}
+
+00:05:13.570 --> 00:05:16.170
+<v Speaker 2>how these digital controls achieve strategic objectives.
+
+NOTE CONF {"raw":[99,99,98,99,99,98,99]}
+
+00:05:18.079 --> 00:05:19.820
+<v Speaker 2>Going back to the triplet model.
+
+NOTE CONF {"raw":[96,99,99,99,99,99]}
+
+00:05:22.980 --> 00:05:26.980
+<v Speaker 2>You should now know this really, really.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:05:27.899 --> 00:05:29.500
+<v Speaker 2>You should know this well, um.
+
+NOTE CONF {"raw":[98,99,99,99,99,66]}
+
+00:05:31.709 --> 00:05:33.309
+<v Speaker 2>The asset is what we're protecting.
+
+NOTE CONF {"raw":[98,96,99,99,50,99]}
+
+00:05:33.829 --> 00:05:37.910
+<v Speaker 2>The threat is the actor that is trying to reduce
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99,99,99,99]}
+
+00:05:37.910 --> 00:05:39.130
+<v Speaker 2>the value of the asset.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:05:39.709 --> 00:05:44.309
+<v Speaker 2>Every combination of asset, threat and vulnerability creates a scenario,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,75]}
+
+00:05:44.350 --> 00:05:45.359
+<v Speaker 2>a unique scenario.
+
+NOTE CONF {"raw":[98,99,98]}
+
+00:05:45.709 --> 00:05:51.269
+<v Speaker 2>Those unique scenarios collectively constitute your risk exposure, and your
+
+NOTE CONF {"raw":[99,99,98,99,98,99,99,99,99,99]}
+
+00:05:51.269 --> 00:05:54.750
+<v Speaker 2>security is designed to reduce your risk exposure, and it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,95,99]}
+
+00:05:54.750 --> 00:05:56.670
+<v Speaker 2>does that by applying.
+
+NOTE CONF {"raw":[99,99,99,67]}
+
+00:05:56.725 --> 00:05:58.125
+<v Speaker 2>A range of controls.
+
+NOTE CONF {"raw":[89,99,99,99]}
+
+00:05:58.484 --> 00:06:03.005
+<v Speaker 2>These can be administrative controls, managerial controls, technological controls, etc.
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:06:03.404 --> 00:06:04.484
+<v Speaker 2>behavioral controls, etc.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:06:04.515 --> 00:06:04.964
+<v Speaker 2>etc.
+
+NOTE CONF {"raw":[98]}
+
+00:06:05.325 --> 00:06:07.725
+<v Speaker 2>We're talking this week now for the first time we're
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,94]}
+
+00:06:07.725 --> 00:06:10.744
+<v Speaker 2>going to start to dig deep into a particular category
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:10.744 --> 00:06:13.804
+<v Speaker 2>of controls, and we're going to start with technological controls.
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99,98,99]}
+
+00:06:14.230 --> 00:06:16.970
+<v Speaker 2>And in order to understand technological controls, we're going to
+
+NOTE CONF {"raw":[98,97,99,99,99,99,99,94,99,98]}
+
+00:06:16.970 --> 00:06:21.959
+<v Speaker 2>take a non-technological example, something physical, something concrete, something we
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99,99,99,99]}
+
+00:06:21.959 --> 00:06:26.160
+<v Speaker 2>can all identify with, and something that puts together a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:26.160 --> 00:06:30.200
+<v Speaker 2>story or a or actually operates on an existing mental
+
+NOTE CONF {"raw":[99,97,53,88,99,99,99,99,99,99]}
+
+00:06:30.200 --> 00:06:32.140
+<v Speaker 2>model that you already have.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:06:32.480 --> 00:06:34.339
+<v Speaker 2>Everybody knows what a castle looks like.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:06:35.290 --> 00:06:38.369
+<v Speaker 2>Everybody's seen the movie where a castle has been the,
+
+NOTE CONF {"raw":[62,99,94,99,99,98,57,99,99,97]}
+
+00:06:38.690 --> 00:06:39.609
+<v Speaker 2>you know, the main.
+
+NOTE CONF {"raw":[94,93,97,99]}
+
+00:06:40.309 --> 00:06:45.609
+<v Speaker 2>The main setting So whether you have deliberately desired to
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,98,98,99]}
+
+00:06:45.609 --> 00:06:48.320
+<v Speaker 2>or not, you have learned a lot about castles, and
+
+NOTE CONF {"raw":[99,99,99,99,86,99,99,99,98,99]}
+
+00:06:48.320 --> 00:06:51.679
+<v Speaker 2>we're going to tap into that existing mental model and
+
+NOTE CONF {"raw":[97,87,85,99,99,99,99,99,99,99]}
+
+00:06:51.679 --> 00:06:54.220
+<v Speaker 2>maybe dig a little bit deeper.
+
+NOTE CONF {"raw":[99,98,99,99,99,99]}
+
+00:06:55.540 --> 00:06:57.549
+<v Speaker 2>And then we're going to explain how this has to
+
+NOTE CONF {"raw":[99,99,99,63,57,100,99,99,99,99]}
+
+00:06:57.549 --> 00:06:59.130
+<v Speaker 2>do with technological controls.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:06:59.709 --> 00:07:06.799
+<v Speaker 2>So, I don't know why somebody's struggling with the door.
+
+NOTE CONF {"raw":[99,90,90,99,99,95,99,99,99,99]}
+
+00:07:07.769 --> 00:07:11.369
+<v Speaker 2>Oh, he is struggling with the door because pushing the
+
+NOTE CONF {"raw":[58,31,93,92,99,99,99,99,94,96]}
+
+00:07:11.369 --> 00:07:11.869
+<v Speaker 2>wrong way.
+
+NOTE CONF {"raw":[98,99]}
+
+00:07:13.279 --> 00:07:13.720
+<v Speaker 2>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:07:14.279 --> 00:07:18.869
+<v Speaker 2>So, um, Once upon a time, thousands of years ago.
+
+NOTE CONF {"raw":[88,99,99,99,99,99,97,99,99,99]}
+
+00:07:21.170 --> 00:07:26.350
+<v Speaker 2>When an army invades a territory and conquers the territory,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:07:26.690 --> 00:07:30.839
+<v Speaker 2>um, generals, leaders, kings found out very quickly that it's
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,98]}
+
+00:07:30.839 --> 00:07:33.239
+<v Speaker 2>easy to conquer new territory.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:07:33.290 --> 00:07:34.910
+<v Speaker 2>It's hard to keep the territory.
+
+NOTE CONF {"raw":[66,99,99,99,99,99]}
+
+00:07:35.869 --> 00:07:40.869
+<v Speaker 2>So you can't keep a standing army, hundreds of thousands
+
+NOTE CONF {"raw":[99,92,99,99,99,99,99,97,99,97]}
+
+00:07:40.869 --> 00:07:46.670
+<v Speaker 2>of soldiers, and feed them and keep them fed and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:46.670 --> 00:07:49.630
+<v Speaker 2>taken care of just to control a piece of land.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:49.890 --> 00:07:52.429
+<v Speaker 2>You can use them to invade and to conquer and
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:07:52.429 --> 00:07:55.829
+<v Speaker 2>to acquire the prize, but once you've acquired it, how
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:55.829 --> 00:07:56.630
+<v Speaker 2>do you keep it?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:07:56.989 --> 00:07:59.350
+<v Speaker 2>The issue here now is in order to keep it,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:59.420 --> 00:08:00.950
+<v Speaker 2>you have to have some presence on the land.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:08:00.989 --> 00:08:02.149
+<v Speaker 2>It can't be as big as an army.
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99]}
+
+00:08:02.190 --> 00:08:04.750
+<v Speaker 2>It's got to be a very small army, a small
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,34,99]}
+
+00:08:04.750 --> 00:08:05.350
+<v Speaker 2>garrison.
+
+NOTE CONF {"raw":[98]}
+
+00:08:05.730 --> 00:08:07.859
+<v Speaker 2>But the issue is a small army or a small
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,13,99]}
+
+00:08:07.859 --> 00:08:10.880
+<v Speaker 2>number of people that are holding the land are easily.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:11.809 --> 00:08:15.220
+<v Speaker 2>Conquered by another invading large army.
+
+NOTE CONF {"raw":[81,99,99,99,99,99]}
+
+00:08:15.929 --> 00:08:17.089
+<v Speaker 2>So you can't keep the land.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:08:17.209 --> 00:08:18.920
+<v Speaker 2>So what do we do, right?
+
+NOTE CONF {"raw":[62,99,99,99,99,71]}
+
+00:08:19.209 --> 00:08:23.600
+<v Speaker 2>We need to find a way to Level the playing
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,32,99,99]}
+
+00:08:23.600 --> 00:08:27.559
+<v Speaker 2>field between a small army that's designed to hold the
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,99,99]}
+
+00:08:27.559 --> 00:08:31.119
+<v Speaker 2>land and a large army that's invading, and what they
+
+NOTE CONF {"raw":[99,99,99,99,99,95,99,88,98,99]}
+
+00:08:31.119 --> 00:08:32.539
+<v Speaker 2>designed was a castle.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:08:33.039 --> 00:08:38.440
+<v Speaker 2>A castle is an asymmetric construct, an asymmetric mechanism by
+
+NOTE CONF {"raw":[98,99,99,99,98,99,99,98,99,99]}
+
+00:08:38.440 --> 00:08:42.200
+<v Speaker 2>which a small group of people can leverage can be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,7,84,99]}
+
+00:08:42.200 --> 00:08:46.919
+<v Speaker 2>leveraged to defend against a very large group of people.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:47.080 --> 00:08:50.440
+<v Speaker 2>So instead of 1 to 1, we're talking about one
+
+NOTE CONF {"raw":[94,99,99,99,99,99,81,99,99,99]}
+
+00:08:50.440 --> 00:08:51.070
+<v Speaker 2>to many.
+
+NOTE CONF {"raw":[99,99]}
+
+00:08:51.719 --> 00:08:53.809
+<v Speaker 2>Now how is the castle able to do this?
+
+NOTE CONF {"raw":[96,94,99,99,99,99,99,99,99]}
+
+00:08:54.400 --> 00:08:58.320
+<v Speaker 2>Well, it's taken hundreds of years to refine the strategy
+
+NOTE CONF {"raw":[97,95,99,98,99,99,99,99,99,99]}
+
+00:08:58.320 --> 00:09:01.570
+<v Speaker 2>and the architecture and the engineering behind castles, so we're
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,70,96]}
+
+00:09:01.570 --> 00:09:03.520
+<v Speaker 2>going to take a look at the best of the
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:09:03.520 --> 00:09:06.679
+<v Speaker 2>castles rather than the most, not the most primitive, but
+
+NOTE CONF {"raw":[99,99,99,98,98,99,99,99,99,99]}
+
+00:09:06.679 --> 00:09:07.619
+<v Speaker 2>the most advanced.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:09:08.039 --> 00:09:11.159
+<v Speaker 2>So starting point, you always build a castle on the
+
+NOTE CONF {"raw":[93,98,99,99,99,99,93,99,99,99]}
+
+00:09:11.159 --> 00:09:12.500
+<v Speaker 2>highest point in the land.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:09:12.880 --> 00:09:15.799
+<v Speaker 2>So if you've got a mountainous territory, you choose the
+
+NOTE CONF {"raw":[96,99,96,99,99,99,99,99,99,99]}
+
+00:09:15.799 --> 00:09:18.000
+<v Speaker 2>top of the mountain to build your castle.
+
+NOTE CONF {"raw":[99,99,66,99,99,99,99,99]}
+
+00:09:18.359 --> 00:09:18.679
+<v Speaker 2>Why?
+
+NOTE CONF {"raw":[96]}
+
+00:09:19.349 --> 00:09:20.340
+<v Speaker 2>Because it's hard to get to.
+
+NOTE CONF {"raw":[99,98,99,99,99,95]}
+
+00:09:20.880 --> 00:09:23.289
+<v Speaker 2>In order to conquer the castle, an army has to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:23.289 --> 00:09:27.739
+<v Speaker 2>actually get to the castle, which means traveling upwards on
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:27.739 --> 00:09:29.630
+<v Speaker 2>a mountain, which is very difficult to do.
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99]}
+
+00:09:30.090 --> 00:09:32.690
+<v Speaker 2>Second of all, if you are on top of a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:32.690 --> 00:09:35.369
+<v Speaker 2>mountain and you are living in a castle, you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:35.369 --> 00:09:39.330
+<v Speaker 2>see an invading army coming days away, which gives you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:39.330 --> 00:09:40.609
+<v Speaker 2>lots of time to prepare.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:09:41.169 --> 00:09:43.450
+<v Speaker 2>If you were at the bottom of a valley, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,22,96,99,99]}
+
+00:09:43.450 --> 00:09:45.849
+<v Speaker 2>would not know until the army is almost on top
+
+NOTE CONF {"raw":[99,99,99,99,99,99,91,99,99,99]}
+
+00:09:45.849 --> 00:09:49.070
+<v Speaker 2>of you and you have no forewarning.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,98]}
+
+00:09:49.530 --> 00:09:49.940
+<v Speaker 2>So.
+
+NOTE CONF {"raw":[56]}
+
+00:09:50.929 --> 00:09:54.090
+<v Speaker 2>Being on top of a mountain gives you surveillance, gives
+
+NOTE CONF {"raw":[98,96,99,99,86,98,99,99,98,99]}
+
+00:09:54.090 --> 00:09:59.049
+<v Speaker 2>you the distance, and it gives you an easier terrain
+
+NOTE CONF {"raw":[99,99,99,99,93,99,99,93,99,99]}
+
+00:09:59.049 --> 00:09:59.489
+<v Speaker 2>to defend.
+
+NOTE CONF {"raw":[99,99]}
+
+00:09:59.570 --> 00:10:02.130
+<v Speaker 2>So you fight downwards as an army that's invading fights
+
+NOTE CONF {"raw":[59,99,99,99,28,90,99,69,99,82]}
+
+00:10:02.130 --> 00:10:02.650
+<v Speaker 2>upwards.
+
+NOTE CONF {"raw":[99]}
+
+00:10:03.090 --> 00:10:05.169
+<v Speaker 2>Gravity is on your side, so if you have archers
+
+NOTE CONF {"raw":[99,94,99,99,99,72,99,99,99,99]}
+
+00:10:05.169 --> 00:10:08.289
+<v Speaker 2>and they're firing off arrows, they go a lot further
+
+NOTE CONF {"raw":[99,66,99,99,99,99,99,99,99,99]}
+
+00:10:08.289 --> 00:10:09.890
+<v Speaker 2>if they're coming from the top of the mountain than
+
+NOTE CONF {"raw":[99,77,99,99,99,99,99,99,98,98]}
+
+00:10:09.890 --> 00:10:11.280
+<v Speaker 2>if they're coming from the bottom of the mountain.
+
+NOTE CONF {"raw":[97,73,99,99,99,99,99,99,98]}
+
+00:10:11.809 --> 00:10:13.729
+<v Speaker 2>So there are a lot of advantages in setting the
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:10:13.729 --> 00:10:15.369
+<v Speaker 2>castle at the top of the mountain.
+
+NOTE CONF {"raw":[99,99,99,99,99,49,97]}
+
+00:10:16.239 --> 00:10:17.869
+<v Speaker 2>But that's just the beginning.
+
+NOTE CONF {"raw":[99,96,99,99,99]}
+
+00:10:18.479 --> 00:10:20.590
+<v Speaker 2>The location is just the beginning.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:10:21.210 --> 00:10:23.940
+<v Speaker 2>Then come all the features of the castle.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:10:24.330 --> 00:10:26.409
+<v Speaker 2>So you build a moat around the castle.
+
+NOTE CONF {"raw":[71,99,99,99,99,99,99,99]}
+
+00:10:26.489 --> 00:10:29.169
+<v Speaker 2>You dig a deep, deep, deep trench all the way
+
+NOTE CONF {"raw":[67,99,99,99,97,99,99,99,99,99]}
+
+00:10:29.169 --> 00:10:31.250
+<v Speaker 2>around the castle if you can, and you fill it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:10:31.250 --> 00:10:33.510
+<v Speaker 2>with water so that horses can't jump over it.
+
+NOTE CONF {"raw":[99,99,99,98,99,97,99,99,99]}
+
+00:10:33.849 --> 00:10:37.950
+<v Speaker 2>That will slow down an invading army to a standstill
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,98]}
+
+00:10:38.650 --> 00:10:40.890
+<v Speaker 2>while they try to fill the boat and try to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,10,99,91,85]}
+
+00:10:40.890 --> 00:10:41.289
+<v Speaker 2>cross it.
+
+NOTE CONF {"raw":[99,64]}
+
+00:10:41.659 --> 00:10:44.299
+<v Speaker 2>Then, as you can see in this image, there are
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:44.299 --> 00:10:47.400
+<v Speaker 2>lots of individual features of the building itself.
+
+NOTE CONF {"raw":[99,99,100,99,99,99,100,100]}
+
+00:10:48.020 --> 00:10:51.260
+<v Speaker 2>There is the fact that the passages are winding.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:10:51.969 --> 00:10:54.859
+<v Speaker 2>And the passages are narrow, which means a small army
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:10:54.859 --> 00:10:56.640
+<v Speaker 2>on the inside can block.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:10:57.669 --> 00:11:01.140
+<v Speaker 2>The approach to the castle and fight in small groups
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:11:01.349 --> 00:11:04.760
+<v Speaker 2>which really negates the advantage of the invading army because
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:11:04.760 --> 00:11:07.080
+<v Speaker 2>of their I mean they can't use their large numbers
+
+NOTE CONF {"raw":[60,61,56,64,99,99,99,99,99,99]}
+
+00:11:07.080 --> 00:11:09.280
+<v Speaker 2>to put pressure or to rush you or to surround
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,94,99]}
+
+00:11:09.280 --> 00:11:11.640
+<v Speaker 2>you and they have to fight in small groups which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:11.640 --> 00:11:15.940
+<v Speaker 2>gives you the ability to delay the invading army's approach
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,60,99]}
+
+00:11:15.940 --> 00:11:17.919
+<v Speaker 2>to you or their acquisition of the asset.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,97]}
+
+00:11:18.219 --> 00:11:23.380
+<v Speaker 2>And really sophisticated castles are concentric, so there's a castle
+
+NOTE CONF {"raw":[99,99,99,99,99,99,90,96,99,99]}
+
+00:11:23.380 --> 00:11:26.659
+<v Speaker 2>within a castle within a castle, so a retreating garrison
+
+NOTE CONF {"raw":[99,99,99,99,99,99,60,99,98,99]}
+
+00:11:26.659 --> 00:11:29.619
+<v Speaker 2>can just simply, even if the outer walls are breached,
+
+NOTE CONF {"raw":[99,83,99,99,99,99,99,99,99,98]}
+
+00:11:29.659 --> 00:11:32.880
+<v Speaker 2>they can lock themselves in an inner castle, and then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:32.880 --> 00:11:35.179
+<v Speaker 2>the invading army has to breach that inner castle, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:35.179 --> 00:11:38.820
+<v Speaker 2>they keep locking themselves in inner castles until you get
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:38.820 --> 00:11:41.859
+<v Speaker 2>to the keep or wherever these crown jewels or assets
+
+NOTE CONF {"raw":[99,99,99,97,98,99,99,99,98,98]}
+
+00:11:41.859 --> 00:11:42.239
+<v Speaker 2>are.
+
+NOTE CONF {"raw":[99]}
+
+00:11:42.539 --> 00:11:44.919
+<v Speaker 2>And of course along the way there's lots of additional
+
+NOTE CONF {"raw":[77,99,99,99,99,99,64,99,99,99]}
+
+00:11:45.659 --> 00:11:46.460
+<v Speaker 2>traps.
+
+NOTE CONF {"raw":[98]}
+
+00:11:47.000 --> 00:11:50.719
+<v Speaker 2>Uh, you know, surprises that the invading army will, will
+
+NOTE CONF {"raw":[42,63,99,99,99,99,99,99,98,95]}
+
+00:11:50.719 --> 00:11:54.299
+<v Speaker 2>face, and the castle is engineered in a way.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:11:54.599 --> 00:11:57.280
+<v Speaker 2>That it's got winding passages so you can't put pressure.
+
+NOTE CONF {"raw":[82,33,84,99,99,99,99,99,99,99]}
+
+00:11:57.320 --> 00:11:58.960
+<v Speaker 2>You have to do quick turns.
+
+NOTE CONF {"raw":[97,99,99,99,99,99]}
+
+00:11:59.239 --> 00:12:01.640
+<v Speaker 2>You've got staircases that are winding as well, so if
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,93,99]}
+
+00:12:01.640 --> 00:12:04.280
+<v Speaker 2>you're going up a staircase, then you can't use your
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:12:04.280 --> 00:12:09.359
+<v Speaker 2>right arm to fight, whereas the descending person you're fighting
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,93,99]}
+
+00:12:09.359 --> 00:12:10.799
+<v Speaker 2>has a free right arm to fight.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:12:11.049 --> 00:12:14.260
+<v Speaker 2>All of these are very, very carefully engineered.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99]}
+
+00:12:15.000 --> 00:12:18.119
+<v Speaker 2>The end product of this is that a small group
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:18.119 --> 00:12:22.000
+<v Speaker 2>of people in a castle withstand a very large army.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:12:22.909 --> 00:12:24.369
+<v Speaker 2>That's the asymmetry of it.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:12:24.669 --> 00:12:27.150
+<v Speaker 2>And within the castle are all these controls.
+
+NOTE CONF {"raw":[86,99,100,99,99,99,99,100]}
+
+00:12:27.510 --> 00:12:29.669
+<v Speaker 2>There are lots of them that are working together.
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99]}
+
+00:12:29.830 --> 00:12:33.869
+<v Speaker 2>There's the guards and the archers and the surveillance and
+
+NOTE CONF {"raw":[45,99,99,99,99,99,99,99,100,99]}
+
+00:12:33.869 --> 00:12:35.309
+<v Speaker 2>the passages and everything, right?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:12:35.390 --> 00:12:37.250
+<v Speaker 2>So there's a whole range of things.
+
+NOTE CONF {"raw":[99,99,99,99,100,100,100]}
+
+00:12:37.830 --> 00:12:39.710
+<v Speaker 2>Now, here is.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:12:40.869 --> 00:12:45.750
+<v Speaker 2>The same castle Much more sophisticated design, but we can
+
+NOTE CONF {"raw":[99,99,98,75,99,99,100,86,99,99]}
+
+00:12:45.750 --> 00:12:48.440
+<v Speaker 2>now see on the left hand side, I don't know
+
+NOTE CONF {"raw":[99,99,99,99,100,88,99,99,99,99]}
+
+00:12:48.440 --> 00:12:51.950
+<v Speaker 2>if you can read, unfortunately, you can't because the cameras
+
+NOTE CONF {"raw":[99,99,99,99,53,85,98,99,99,99]}
+
+00:12:51.950 --> 00:12:52.729
+<v Speaker 2>here are really small.
+
+NOTE CONF {"raw":[98,89,99,100]}
+
+00:12:53.630 --> 00:12:55.719
+<v Speaker 2>Um, but you've got on the left hand side, all
+
+NOTE CONF {"raw":[95,95,99,99,99,99,100,86,99,99]}
+
+00:12:55.719 --> 00:12:58.159
+<v Speaker 2>the physical features, and then on the right hand side,
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,97,99]}
+
+00:12:58.200 --> 00:13:01.719
+<v Speaker 2>you have, you can actually overlay digital features on this.
+
+NOTE CONF {"raw":[96,55,99,99,99,99,99,99,99,71]}
+
+00:13:02.239 --> 00:13:07.229
+<v Speaker 2>So for instance, what is the You've got the perimeter
+
+NOTE CONF {"raw":[99,99,100,99,99,99,98,99,99,99]}
+
+00:13:07.229 --> 00:13:08.190
+<v Speaker 2>wall of a castle.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:13:08.510 --> 00:13:11.469
+<v Speaker 2>What is the closest digital technology to a perimeter wall?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:13.219 --> 00:13:16.820
+<v Speaker 2>How do you enforce a perimeter around your organization in
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:13:16.820 --> 00:13:18.020
+<v Speaker 2>the digital environment?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:13:18.380 --> 00:13:22.260
+<v Speaker 2>What is the equivalent of a Perimeter wall in the
+
+NOTE CONF {"raw":[99,99,99,99,99,46,37,99,99,99]}
+
+00:13:22.260 --> 00:13:23.159
+<v Speaker 2>digital environment.
+
+NOTE CONF {"raw":[98,99]}
+
+00:13:32.159 --> 00:13:33.419
+<v Speaker 2>No, so we said, sorry?
+
+NOTE CONF {"raw":[99,30,43,86,98]}
+
+00:13:34.239 --> 00:13:35.359
+<v Speaker 2>A firewall.
+
+NOTE CONF {"raw":[93,99]}
+
+00:13:35.880 --> 00:13:40.559
+<v Speaker 2>So a firewall, not really a wall, but In the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:40.559 --> 00:13:44.280
+<v Speaker 2>digital environment, unlike in the physical environment, there's no concept
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,71,99,99]}
+
+00:13:44.280 --> 00:13:46.030
+<v Speaker 2>of land, right?
+
+NOTE CONF {"raw":[99,99,96]}
+
+00:13:46.479 --> 00:13:47.179
+<v Speaker 2>There is no land.
+
+NOTE CONF {"raw":[98,99,99,99]}
+
+00:13:47.280 --> 00:13:49.760
+<v Speaker 2>So in the physical world, land has been set up
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99,99,99,99]}
+
+00:13:49.760 --> 00:13:51.020
+<v Speaker 2>for us, right?
+
+NOTE CONF {"raw":[99,99,94]}
+
+00:13:51.320 --> 00:13:53.640
+<v Speaker 2>We didn't construct the land, we didn't engineer the land,
+
+NOTE CONF {"raw":[99,99,99,99,99,79,98,99,99,99]}
+
+00:13:53.840 --> 00:13:55.510
+<v Speaker 2>we just, the land is there.
+
+NOTE CONF {"raw":[70,99,99,99,97,99]}
+
+00:13:55.909 --> 00:14:00.159
+<v Speaker 2>So in order to create separation, and this is an
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:14:00.159 --> 00:14:04.520
+<v Speaker 2>important thing, right, the fundamental, the fundamental strategy in security
+
+NOTE CONF {"raw":[99,99,99,69,98,96,98,99,99,99]}
+
+00:14:04.520 --> 00:14:06.080
+<v Speaker 2>when you've got an asset and a threat.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,76,99]}
+
+00:14:06.729 --> 00:14:08.460
+<v Speaker 2>And you want to put in a control is to
+
+NOTE CONF {"raw":[97,98,99,99,99,99,93,99,99,99]}
+
+00:14:08.460 --> 00:14:09.960
+<v Speaker 2>separate the asset from the threat.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:14:10.299 --> 00:14:13.340
+<v Speaker 2>You have to create a separation and you have to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:13.340 --> 00:14:14.700
+<v Speaker 2>enforce that boundary.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:14:14.859 --> 00:14:18.770
+<v Speaker 2>That's how you create security by separating assets from threats.
+
+NOTE CONF {"raw":[95,99,99,99,99,99,100,99,100,99]}
+
+00:14:19.179 --> 00:14:24.099
+<v Speaker 2>So separation on a flat piece of land looks like
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:24.099 --> 00:14:26.400
+<v Speaker 2>a wall that goes around an asset.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:14:27.510 --> 00:14:29.669
+<v Speaker 2>Right, you put the asset in the center, you build
+
+NOTE CONF {"raw":[78,48,99,99,99,99,99,99,90,99]}
+
+00:14:29.669 --> 00:14:31.950
+<v Speaker 2>a wall around the asset, and now you've separated the
+
+NOTE CONF {"raw":[33,99,99,99,99,99,99,82,99,99]}
+
+00:14:31.950 --> 00:14:32.929
+<v Speaker 2>asset from the threat.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:14:33.469 --> 00:14:36.030
+<v Speaker 2>In the digital environment, there's no land, but there are
+
+NOTE CONF {"raw":[99,99,98,99,41,99,60,99,99,99]}
+
+00:14:36.030 --> 00:14:40.549
+<v Speaker 2>IP addresses, and IP addresses can contact other IP addresses
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:14:40.549 --> 00:14:42.049
+<v Speaker 2>and traffic can flow between them.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:14:42.590 --> 00:14:47.789
+<v Speaker 2>So there's no land, but if I could control traffic
+
+NOTE CONF {"raw":[98,80,99,96,96,99,99,99,99,99]}
+
+00:14:47.789 --> 00:14:50.669
+<v Speaker 2>moving from one IP address to another IP address by
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:50.669 --> 00:14:51.880
+<v Speaker 2>putting a filter.
+
+NOTE CONF {"raw":[99,99,98]}
+
+00:14:53.169 --> 00:14:54.169
+<v Speaker 2>A firewall.
+
+NOTE CONF {"raw":[69,88]}
+
+00:14:54.489 --> 00:14:57.659
+<v Speaker 2>I essentially have a wall, a perimeter wall.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99]}
+
+00:14:58.609 --> 00:15:01.880
+<v Speaker 2>Yeah, it's essentially, you'll have to think about it, but
+
+NOTE CONF {"raw":[99,55,99,56,99,99,99,99,99,99]}
+
+00:15:01.880 --> 00:15:03.109
+<v Speaker 2>it's essentially the same thing.
+
+NOTE CONF {"raw":[98,99,99,99,99]}
+
+00:15:03.609 --> 00:15:07.549
+<v Speaker 2>So a firewall sits between, sits on the traffic and
+
+NOTE CONF {"raw":[97,37,99,98,98,97,99,99,99,99]}
+
+00:15:07.549 --> 00:15:09.309
+<v Speaker 2>it filters traffic.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:15:10.409 --> 00:15:13.559
+<v Speaker 2>We'll talk about it in detail in a moment, but
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,95]}
+
+00:15:13.559 --> 00:15:16.260
+<v Speaker 2>it's an example of how you create a boundary.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:15:16.609 --> 00:15:19.369
+<v Speaker 2>The boundary has to be enforced on the traffic, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:19.369 --> 00:15:20.530
+<v Speaker 2>that's what creates the wall.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:15:20.849 --> 00:15:24.570
+<v Speaker 2>So you see here, you've got these concentric castles can
+
+NOTE CONF {"raw":[99,99,99,99,93,99,98,99,99,99]}
+
+00:15:24.570 --> 00:15:27.729
+<v Speaker 2>be created by having an internet connection that goes into
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:27.729 --> 00:15:32.960
+<v Speaker 2>an organization, connects thousands of terminals, and you create subgroups
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,98]}
+
+00:15:32.960 --> 00:15:36.770
+<v Speaker 2>of these terminals by using multiple firewalls in series to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,68,99,99]}
+
+00:15:36.770 --> 00:15:38.909
+<v Speaker 2>create essentially concentric castles.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:15:41.840 --> 00:15:46.799
+<v Speaker 2>If I put my most valuable document behind the last
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:15:46.799 --> 00:15:50.049
+<v Speaker 2>firewall in a series of 2 to 3 firewalls, then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,94,96,98,98]}
+
+00:15:50.049 --> 00:15:53.440
+<v Speaker 2>you have to actually break through firewall number 1, then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,60,99,85]}
+
+00:15:53.440 --> 00:15:57.559
+<v Speaker 2>firewall 23 to get to the document, and that is
+
+NOTE CONF {"raw":[16,65,99,99,99,99,99,91,99,99]}
+
+00:15:57.559 --> 00:16:01.520
+<v Speaker 2>the same as breaking through castle 1, castle 2, castle
+
+NOTE CONF {"raw":[99,99,99,99,99,95,99,87,99,92]}
+
+00:16:01.520 --> 00:16:03.020
+<v Speaker 2>3 to get to the king.
+
+NOTE CONF {"raw":[99,99,99,99,99,95]}
+
+00:16:04.000 --> 00:16:05.219
+<v Speaker 2>Do you see the parallel?
+
+NOTE CONF {"raw":[96,99,99,99,98]}
+
+00:16:06.820 --> 00:16:07.239
+<v Speaker 2>Yeah.
+
+NOTE CONF {"raw":[99]}
+
+00:16:08.169 --> 00:16:11.729
+<v Speaker 2>So in the olden days, 20, you know, up until
+
+NOTE CONF {"raw":[99,99,99,99,99,2,99,99,99,99]}
+
+00:16:11.729 --> 00:16:17.030
+<v Speaker 2>recently, all organizations, their digital environments were structured like castles.
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,100,99]}
+
+00:16:17.919 --> 00:16:21.349
+<v Speaker 2>And what was creating the castle environment was firewalls, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,33,100,99,99,99]}
+
+00:16:21.590 --> 00:16:27.760
+<v Speaker 2>Trying to actually segregate or compartmentalize digital terminals, assets from
+
+NOTE CONF {"raw":[77,99,99,99,99,99,99,99,99,99]}
+
+00:16:27.760 --> 00:16:29.960
+<v Speaker 2>other assets, right?
+
+NOTE CONF {"raw":[100,99,96]}
+
+00:16:30.400 --> 00:16:35.960
+<v Speaker 2>Using firewalls as pinching mechanisms or filtering mechanisms to segment
+
+NOTE CONF {"raw":[41,99,99,99,99,99,99,99,99,99]}
+
+00:16:35.960 --> 00:16:36.750
+<v Speaker 2>traffic.
+
+NOTE CONF {"raw":[99]}
+
+00:16:37.200 --> 00:16:40.390
+<v Speaker 2>So if you can segment traffic, you're essentially creating a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,81,99,99,99]}
+
+00:16:40.390 --> 00:16:41.039
+<v Speaker 2>castle.
+
+NOTE CONF {"raw":[99]}
+
+00:16:42.869 --> 00:16:44.429
+<v Speaker 2>We're going to go through, so I want you to
+
+NOTE CONF {"raw":[98,51,49,99,99,92,99,99,99,99]}
+
+00:16:44.429 --> 00:16:48.150
+<v Speaker 2>keep in your mind, this castle architecture because as we
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99,99]}
+
+00:16:48.150 --> 00:16:50.849
+<v Speaker 2>go through the slides today, we're going to look at
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:16:51.150 --> 00:16:55.429
+<v Speaker 2>the different digital technologies that allow this castle, the castle
+
+NOTE CONF {"raw":[99,99,99,99,99,99,80,99,99,99]}
+
+00:16:55.429 --> 00:16:56.489
+<v Speaker 2>environment to exist.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:16:58.340 --> 00:17:01.750
+<v Speaker 2>So, first line of defense is always separation.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:17:02.210 --> 00:17:04.050
+<v Speaker 2>Just like in the castle where you've got outer walls,
+
+NOTE CONF {"raw":[58,99,99,95,99,99,99,99,99,99]}
+
+00:17:04.109 --> 00:17:06.810
+<v Speaker 2>you've got a moat, you want to separate the invading
+
+NOTE CONF {"raw":[98,99,99,99,93,86,79,99,99,99]}
+
+00:17:06.810 --> 00:17:10.140
+<v Speaker 2>army from the actual asset.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:17:11.780 --> 00:17:16.599
+<v Speaker 2>The first line of defense is your ability to separate.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:17.140 --> 00:17:18.219
+<v Speaker 2>So what is a firewall?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:17:18.349 --> 00:17:19.989
+<v Speaker 2>It just basically is a filter.
+
+NOTE CONF {"raw":[98,98,99,98,99,99]}
+
+00:17:24.109 --> 00:17:27.129
+<v Speaker 2>Discriminates against information that's flowing into your organization.
+
+NOTE CONF {"raw":[66,99,99,66,99,99,95,99]}
+
+00:17:27.359 --> 00:17:28.489
+<v Speaker 2>It can be a physical device.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:17:28.568 --> 00:17:30.168
+<v Speaker 2>It can be a piece of software.
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99]}
+
+00:17:30.409 --> 00:17:32.808
+<v Speaker 2>It can be a combination of hardware and software, but
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99,99,98]}
+
+00:17:32.808 --> 00:17:37.599
+<v Speaker 2>it's basically a barrier between What you want to protect
+
+NOTE CONF {"raw":[91,99,99,99,99,90,99,98,96,99]}
+
+00:17:37.780 --> 00:17:38.920
+<v Speaker 2>and what you don't trust.
+
+NOTE CONF {"raw":[99,99,99,98,99]}
+
+00:17:39.459 --> 00:17:43.619
+<v Speaker 2>So your organization's inner sanctum is your trusted environment and
+
+NOTE CONF {"raw":[73,99,95,99,98,99,99,99,99,99]}
+
+00:17:43.619 --> 00:17:47.449
+<v Speaker 2>outside the internet and other organizations would be the untrusted
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,98]}
+
+00:17:47.449 --> 00:17:47.819
+<v Speaker 2>environment.
+
+NOTE CONF {"raw":[99]}
+
+00:17:48.020 --> 00:17:51.930
+<v Speaker 2>What enforces the boundary between the trusted and the untrusted
+
+NOTE CONF {"raw":[98,98,99,98,99,99,99,99,98,98]}
+
+00:17:51.930 --> 00:17:57.540
+<v Speaker 2>environment is essentially your firewall, that kind of device, that
+
+NOTE CONF {"raw":[99,99,99,99,99,95,99,99,99,99]}
+
+00:17:57.540 --> 00:17:58.489
+<v Speaker 2>kind of mechanism.
+
+NOTE CONF {"raw":[99,99,98]}
+
+00:18:02.339 --> 00:18:06.979
+<v Speaker 2>This is a very simple diagram from the textbook, a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,88]}
+
+00:18:06.979 --> 00:18:08.260
+<v Speaker 2>very simple packet filter.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:18:08.579 --> 00:18:14.060
+<v Speaker 2>There are there are successive, increasingly sophisticated mechanisms to enforce
+
+NOTE CONF {"raw":[98,89,51,95,99,98,99,99,99,99]}
+
+00:18:14.060 --> 00:18:15.819
+<v Speaker 2>this boundary, but this is the simplest.
+
+NOTE CONF {"raw":[99,99,84,99,99,99,99]}
+
+00:18:15.920 --> 00:18:17.500
+<v Speaker 2>On the left hand side is the internet.
+
+NOTE CONF {"raw":[99,99,99,97,99,99,99,99]}
+
+00:18:17.660 --> 00:18:19.420
+<v Speaker 2>On the right hand side is your organization.
+
+NOTE CONF {"raw":[78,99,99,99,99,99,99,99]}
+
+00:18:19.619 --> 00:18:22.099
+<v Speaker 2>In the middle, on the dotted line, the dotted line
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,91,99,99]}
+
+00:18:22.099 --> 00:18:26.020
+<v Speaker 2>is your internet traffic or your network traffic, and basically
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,90,99]}
+
+00:18:26.020 --> 00:18:29.939
+<v Speaker 2>that device that sits on that traffic line.
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99]}
+
+00:18:31.160 --> 00:18:33.890
+<v Speaker 2>Filters all the information, looks at the header of all
+
+NOTE CONF {"raw":[81,99,99,99,97,99,99,99,99,99]}
+
+00:18:33.890 --> 00:18:36.410
+<v Speaker 2>these packets, and says, Do I want to allow this
+
+NOTE CONF {"raw":[99,99,99,99,83,99,99,99,99,99]}
+
+00:18:36.410 --> 00:18:38.010
+<v Speaker 2>traffic to come in or do I not?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:18:38.089 --> 00:18:39.239
+<v Speaker 2>If I don't, I reject it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:18:39.290 --> 00:18:41.290
+<v Speaker 2>If I do, I allow it to go through, and
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,93]}
+
+00:18:41.290 --> 00:18:41.810
+<v Speaker 2>that's it.
+
+NOTE CONF {"raw":[98,82]}
+
+00:18:43.000 --> 00:18:45.829
+<v Speaker 2>At a very simple level, It can just look at
+
+NOTE CONF {"raw":[99,99,99,100,99,62,76,83,99,99]}
+
+00:18:45.829 --> 00:18:49.069
+<v Speaker 2>the source and destination of each of these packets and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:49.069 --> 00:18:51.989
+<v Speaker 2>decide if it wants to allow the packet to come
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:18:51.989 --> 00:18:56.339
+<v Speaker 2>in or not, and just that filtering mechanism creates a
+
+NOTE CONF {"raw":[99,99,99,83,98,99,99,99,99,99]}
+
+00:18:56.339 --> 00:19:02.390
+<v Speaker 2>boundary, a logical boundary, and that boundary, if enforced consistently.
+
+NOTE CONF {"raw":[98,99,99,99,98,99,99,95,98,98]}
+
+00:19:03.380 --> 00:19:09.979
+<v Speaker 2>Creates that protective wall or protective separation, and you don't
+
+NOTE CONF {"raw":[50,99,99,99,99,99,98,88,99,99]}
+
+00:19:09.979 --> 00:19:12.219
+<v Speaker 2>normally have just one firewall or you don't normally have
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,98,96,99]}
+
+00:19:12.219 --> 00:19:13.949
+<v Speaker 2>just one internet connection.
+
+NOTE CONF {"raw":[96,99,99,99]}
+
+00:19:14.140 --> 00:19:17.079
+<v Speaker 2>You might have a number of connections to the internet
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,99,99,99]}
+
+00:19:17.500 --> 00:19:20.979
+<v Speaker 2>across your organization and you need to have a boundary
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:20.979 --> 00:19:23.510
+<v Speaker 2>across each of them because if you have a boundary
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:19:23.510 --> 00:19:26.305
+<v Speaker 2>on just one of them, then they'll Be traffic just
+
+NOTE CONF {"raw":[99,99,99,99,99,97,9,42,94,97]}
+
+00:19:26.305 --> 00:19:27.224
+<v Speaker 2>going around it, right?
+
+NOTE CONF {"raw":[99,99,99,74]}
+
+00:19:27.314 --> 00:19:30.984
+<v Speaker 2>That's equivalent to having a castle with walls on one
+
+NOTE CONF {"raw":[79,98,99,99,99,99,99,99,99,99]}
+
+00:19:30.984 --> 00:19:33.385
+<v Speaker 2>or two sides, but open territory on the other.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:19:33.704 --> 00:19:35.025
+<v Speaker 2>Makes no sense at all, right?
+
+NOTE CONF {"raw":[44,99,99,99,99,65]}
+
+00:19:35.385 --> 00:19:37.785
+<v Speaker 2>For the castle to be effective, it's got to have
+
+NOTE CONF {"raw":[75,99,99,99,99,99,93,96,98,99]}
+
+00:19:37.785 --> 00:19:40.295
+<v Speaker 2>a boundary that goes all the way around it, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:19:40.295 --> 00:19:43.655
+<v Speaker 2>that means for all your internet traffic coming into your
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:19:43.655 --> 00:19:45.925
+<v Speaker 2>organization, you need to enforce a boundary, which is usually
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99,99,99,99]}
+
+00:19:45.925 --> 00:19:47.314
+<v Speaker 2>done with a firewall.
+
+NOTE CONF {"raw":[99,99,99,98]}
+
+00:19:49.250 --> 00:19:55.569
+<v Speaker 2>There are, the more sophisticated firewalls actually have enforced different
+
+NOTE CONF {"raw":[70,98,98,99,99,99,99,99,92,99]}
+
+00:19:55.569 --> 00:19:56.209
+<v Speaker 2>addressing schemes.
+
+NOTE CONF {"raw":[99,99]}
+
+00:19:56.290 --> 00:19:59.109
+<v Speaker 2>So the internet may be using TCPIP as a protocol
+
+NOTE CONF {"raw":[72,99,99,72,36,99,93,99,99,99]}
+
+00:19:59.449 --> 00:20:04.010
+<v Speaker 2>and using an addressing scheme that looks like 192.250250.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,85]}
+
+00:20:04.199 --> 00:20:07.250
+<v Speaker 2>blah blah blah, and internally within the organization, you can
+
+NOTE CONF {"raw":[43,72,85,91,99,99,99,99,99,99]}
+
+00:20:07.250 --> 00:20:11.170
+<v Speaker 2>have a different addressing scheme, like 10.1.1.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97]}
+
+00:20:11.439 --> 00:20:12.290
+<v Speaker 2>whatever, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:20:12.572 --> 00:20:15.493
+<v Speaker 2>And the whole point of having different adversing scheme is
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,16,98,99]}
+
+00:20:15.493 --> 00:20:16.812
+<v Speaker 2>like having different languages.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:20:17.093 --> 00:20:21.892
+<v Speaker 2>Imagine if everybody on the internet communicated using English and
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:20:21.892 --> 00:20:24.003
+<v Speaker 2>you inside your organization spoke in French.
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99]}
+
+00:20:24.292 --> 00:20:28.312
+<v Speaker 2>Any traffic that goes around the firewall is like somebody
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:20:28.932 --> 00:20:32.012
+<v Speaker 2>who is speaking English trying to speak to somebody who
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:32.012 --> 00:20:34.262
+<v Speaker 2>only understands French without a translator.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:20:34.572 --> 00:20:35.932
+<v Speaker 2>The firewall acts like the.
+
+NOTE CONF {"raw":[99,99,99,99,93]}
+
+00:20:36.166 --> 00:20:39.166
+<v Speaker 2>Translator, it's like a network addressing tool that says, oh,
+
+NOTE CONF {"raw":[84,68,99,99,99,99,99,99,99,84]}
+
+00:20:39.576 --> 00:20:41.456
+<v Speaker 2>outside traffic you can come inside, but I'm going to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96,88]}
+
+00:20:41.456 --> 00:20:44.135
+<v Speaker 2>change your address so that you can actually find your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:44.135 --> 00:20:44.816
+<v Speaker 2>destination.
+
+NOTE CONF {"raw":[99]}
+
+00:20:45.095 --> 00:20:47.895
+<v Speaker 2>If you find a way around me, you're not, you
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,98,99,91]}
+
+00:20:47.895 --> 00:20:50.176
+<v Speaker 2>can find, you can get onto the network, but you'll
+
+NOTE CONF {"raw":[99,99,97,99,99,97,99,99,99,99]}
+
+00:20:50.176 --> 00:20:54.495
+<v Speaker 2>never find anything inside because the addressing scheme inside is
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,99,99,99]}
+
+00:20:54.495 --> 00:20:56.215
+<v Speaker 2>a different language to what you can speak.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:20:56.816 --> 00:20:59.395
+<v Speaker 2>So if you can enforce a translator on the boundary.
+
+NOTE CONF {"raw":[97,99,99,99,99,94,99,99,99,99]}
+
+00:21:00.030 --> 00:21:03.329
+<v Speaker 2>Then you can ensure that nobody can get around your
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,99]}
+
+00:21:03.329 --> 00:21:06.170
+<v Speaker 2>firewall, even if somehow internet traffic gets around it.
+
+NOTE CONF {"raw":[99,99,99,98,99,98,99,99,99]}
+
+00:21:06.530 --> 00:21:09.369
+<v Speaker 2>So there's some pretty sophisticated mechanisms to try to enforce
+
+NOTE CONF {"raw":[83,63,99,99,99,99,99,99,95,98]}
+
+00:21:09.369 --> 00:21:09.910
+<v Speaker 2>that boundary.
+
+NOTE CONF {"raw":[99,98]}
+
+00:21:10.130 --> 00:21:11.270
+<v Speaker 2>That is the bottom line.
+
+NOTE CONF {"raw":[87,99,99,99,99]}
+
+00:21:13.079 --> 00:21:15.229
+<v Speaker 2>But if we create a boundary, how do we get
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:15.229 --> 00:21:17.260
+<v Speaker 2>authorized individuals to get through it?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:21:18.119 --> 00:21:19.969
+<v Speaker 2>Again, if you have a castle and you pulled your
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,87,99]}
+
+00:21:19.969 --> 00:21:22.170
+<v Speaker 2>drawbridge, nobody's going to get in until you put your
+
+NOTE CONF {"raw":[99,94,97,93,99,99,99,99,99,99]}
+
+00:21:22.170 --> 00:21:24.689
+<v Speaker 2>drawbridge down and people walk through.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:21:25.199 --> 00:21:27.890
+<v Speaker 2>Well, in the digital world, we have a drawbridge as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:27.890 --> 00:21:29.689
+<v Speaker 2>well that we can pull down and it's called a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:21:29.689 --> 00:21:33.329
+<v Speaker 2>VPN, right, a virtual private network, and it's really quite
+
+NOTE CONF {"raw":[99,89,97,99,99,99,99,99,99,99]}
+
+00:21:33.329 --> 00:21:33.910
+<v Speaker 2>simple.
+
+NOTE CONF {"raw":[99]}
+
+00:21:34.609 --> 00:21:36.209
+<v Speaker 2>The VPN is like a gate.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:21:36.650 --> 00:21:37.530
+<v Speaker 2>It can be opened.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:21:37.609 --> 00:21:39.050
+<v Speaker 2>It can allow you to come in.
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99]}
+
+00:21:39.520 --> 00:21:41.959
+<v Speaker 2>I'm sure you've used a VPN before, right?
+
+NOTE CONF {"raw":[98,99,99,99,96,99,99,99]}
+
+00:21:42.170 --> 00:21:45.760
+<v Speaker 2>A piece of software, you have a username or password
+
+NOTE CONF {"raw":[1,88,99,99,97,99,99,91,99,99]}
+
+00:21:46.160 --> 00:21:50.400
+<v Speaker 2>to allow you to log in to a remote device,
+
+NOTE CONF {"raw":[99,99,99,99,99,62,74,99,99,99]}
+
+00:21:50.719 --> 00:21:55.699
+<v Speaker 2>gives you credentials, and you basically then acquire an addressing,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,90,99]}
+
+00:21:55.790 --> 00:21:59.599
+<v Speaker 2>an address that allows you to navigate a, a domain
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,68,99,99]}
+
+00:21:59.599 --> 00:22:01.619
+<v Speaker 2>that you would not otherwise be able to get into.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:01.989 --> 00:22:04.670
+<v Speaker 2>So if I'm an organization and I have, you know,
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,99]}
+
+00:22:04.800 --> 00:22:09.239
+<v Speaker 2>assets like special documents, services like printers, etc.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:22:09.599 --> 00:22:12.040
+<v Speaker 2>and you work in my organization, but you say, hey,
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,99,50]}
+
+00:22:12.160 --> 00:22:14.199
+<v Speaker 2>I need to go overseas, and I still need to
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,99]}
+
+00:22:14.199 --> 00:22:15.160
+<v Speaker 2>work on these documents.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:22:15.280 --> 00:22:16.270
+<v Speaker 2>How am I going to do that?
+
+NOTE CONF {"raw":[69,99,99,97,97,99,99]}
+
+00:22:16.599 --> 00:22:19.079
+<v Speaker 2>Well, we can give you VPN software and you can
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:22:19.079 --> 00:22:19.680
+<v Speaker 2>log in.
+
+NOTE CONF {"raw":[100,99]}
+
+00:22:19.839 --> 00:22:23.530
+<v Speaker 2>And it'll be as if you're inside the organization, but
+
+NOTE CONF {"raw":[98,76,99,99,99,99,99,99,99,99]}
+
+00:22:23.530 --> 00:22:25.079
+<v Speaker 2>actually physically you're outside.
+
+NOTE CONF {"raw":[99,99,98,99]}
+
+00:22:25.439 --> 00:22:27.880
+<v Speaker 2>All that means is there's an envelope, you know, a
+
+NOTE CONF {"raw":[99,99,99,86,98,99,99,99,99,99]}
+
+00:22:27.880 --> 00:22:32.520
+<v Speaker 2>logical envelope around you that allows you to enter or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:32.520 --> 00:22:36.709
+<v Speaker 2>to cross that boundary, and we just given your addressing
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99,99,99,99]}
+
+00:22:36.709 --> 00:22:39.920
+<v Speaker 2>scheme, we just think of you as your inside, even
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,92,99,99]}
+
+00:22:39.920 --> 00:22:41.290
+<v Speaker 2>though physically you're outside.
+
+NOTE CONF {"raw":[99,99,98,99]}
+
+00:22:41.640 --> 00:22:44.680
+<v Speaker 2>So you can see the mechanism here, teleworker, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,49,98,99]}
+
+00:22:44.920 --> 00:22:46.540
+<v Speaker 2>request internet connection.
+
+NOTE CONF {"raw":[99,98,99]}
+
+00:22:47.199 --> 00:22:48.520
+<v Speaker 2>Uses a piece of software.
+
+NOTE CONF {"raw":[34,93,99,99,98]}
+
+00:22:48.959 --> 00:22:54.479
+<v Speaker 2>That software then envelopes the traffic from that teleworker in
+
+NOTE CONF {"raw":[70,99,99,99,99,99,99,99,96,99]}
+
+00:22:54.849 --> 00:22:58.239
+<v Speaker 2>a special encrypted packet which travels across the internet, which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:58.239 --> 00:23:02.239
+<v Speaker 2>is untrusted territory, gets dropped, gets the packet gets taken
+
+NOTE CONF {"raw":[99,85,98,98,98,72,98,97,99,99]}
+
+00:23:02.239 --> 00:23:05.030
+<v Speaker 2>out, and then the traffic gets dropped inside the organization,
+
+NOTE CONF {"raw":[99,99,99,99,99,29,99,99,99,99]}
+
+00:23:05.040 --> 00:23:08.300
+<v Speaker 2>and it's as if that person was inside all along.
+
+NOTE CONF {"raw":[99,86,96,99,99,99,99,99,97,98]}
+
+00:23:09.790 --> 00:23:11.270
+<v Speaker 2>So that is the first line of defense.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:23:11.349 --> 00:23:15.430
+<v Speaker 2>It's the boundary, and then we deal with how to
+
+NOTE CONF {"raw":[82,99,99,90,99,99,99,99,99,99]}
+
+00:23:15.430 --> 00:23:16.680
+<v Speaker 2>cross the boundary if you're authorized.
+
+NOTE CONF {"raw":[99,99,99,99,95,99]}
+
+00:23:16.829 --> 00:23:19.910
+<v Speaker 2>So unauthorized people, here's the boundary you cannot cross.
+
+NOTE CONF {"raw":[99,96,99,55,67,99,99,99,99]}
+
+00:23:20.119 --> 00:23:22.949
+<v Speaker 2>Authorized people, you can cross the boundary, we'll give you
+
+NOTE CONF {"raw":[48,99,99,99,99,99,99,61,99,99]}
+
+00:23:22.949 --> 00:23:24.229
+<v Speaker 2>special privileges to do that.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:23:25.270 --> 00:23:28.949
+<v Speaker 2>So, up until now, we've just explained how to compartmentalize,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:29.030 --> 00:23:33.150
+<v Speaker 2>how to create compartments, how to create separation, how to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:33.150 --> 00:23:34.739
+<v Speaker 2>take a piece of land and to break it up
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:34.739 --> 00:23:36.589
+<v Speaker 2>into pieces, right?
+
+NOTE CONF {"raw":[99,99,92]}
+
+00:23:37.760 --> 00:23:42.150
+<v Speaker 2>Maybe something I, I, I should probably say is The
+
+NOTE CONF {"raw":[99,99,91,59,99,99,99,99,99,98]}
+
+00:23:42.150 --> 00:23:44.619
+<v Speaker 2>whole reason why you set up a castle isn't just
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:23:44.619 --> 00:23:47.680
+<v Speaker 2>to deny the invader from getting access to your asset.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:47.989 --> 00:23:51.390
+<v Speaker 2>It's actually to delay the invader because the right way
+
+NOTE CONF {"raw":[67,99,99,99,99,99,99,99,99,99]}
+
+00:23:51.390 --> 00:23:54.030
+<v Speaker 2>to think about it is the invader will ultimately get
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:54.030 --> 00:23:57.430
+<v Speaker 2>to the asset because it will ultimately break through those
+
+NOTE CONF {"raw":[99,99,99,99,62,81,99,99,99,99]}
+
+00:23:57.430 --> 00:23:58.170
+<v Speaker 2>barriers.
+
+NOTE CONF {"raw":[99]}
+
+00:23:58.750 --> 00:24:01.910
+<v Speaker 2>So the aim, you can't expect that you'll be able
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,92,99,99]}
+
+00:24:01.910 --> 00:24:04.229
+<v Speaker 2>to deny them completely.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:24:04.869 --> 00:24:07.430
+<v Speaker 2>You can, however, expect that you will delay them.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:24:07.510 --> 00:24:09.390
+<v Speaker 2>That's predictable and consistent.
+
+NOTE CONF {"raw":[98,99,99,98]}
+
+00:24:09.760 --> 00:24:13.000
+<v Speaker 2>So what's my strategy if I am relying entirely on
+
+NOTE CONF {"raw":[99,98,99,99,99,99,98,99,99,99]}
+
+00:24:13.000 --> 00:24:13.689
+<v Speaker 2>a delay?
+
+NOTE CONF {"raw":[99,99]}
+
+00:24:14.609 --> 00:24:17.640
+<v Speaker 2>The strategy is that no castle sits in isolation.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:24:17.880 --> 00:24:21.329
+<v Speaker 2>There's always a network of castles, each castle 50 kilometers,
+
+NOTE CONF {"raw":[97,99,99,99,99,99,96,99,99,27]}
+
+00:24:21.400 --> 00:24:22.670
+<v Speaker 2>100 kilometers from each other.
+
+NOTE CONF {"raw":[99,89,99,99,99]}
+
+00:24:22.930 --> 00:24:25.170
+<v Speaker 2>And so if you can delay the invader long enough,
+
+NOTE CONF {"raw":[86,98,99,99,99,99,99,99,99,99]}
+
+00:24:25.290 --> 00:24:28.770
+<v Speaker 2>help will come from the nearby castle, and that help
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:28.770 --> 00:24:31.010
+<v Speaker 2>will be in the form of an army, and that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,90,99]}
+
+00:24:31.010 --> 00:24:34.849
+<v Speaker 2>army will sandwich the invader between your castle walls and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:34.849 --> 00:24:35.900
+<v Speaker 2>the army behind them.
+
+NOTE CONF {"raw":[99,99,100,99]}
+
+00:24:36.569 --> 00:24:38.410
+<v Speaker 2>That is the ultimate strategy.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:24:39.000 --> 00:24:44.239
+<v Speaker 2>So in the digital environment, this strategy is the digital
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:44.239 --> 00:24:47.819
+<v Speaker 2>space that you have in your organization can be compartmentalized,
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,99,99,99]}
+
+00:24:48.079 --> 00:24:51.099
+<v Speaker 2>and if somebody attacks your organization and they get into
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:24:51.099 --> 00:24:53.640
+<v Speaker 2>a certain segment or part of it, they shouldn't be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:53.640 --> 00:24:56.349
+<v Speaker 2>able to get into all of the organization, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,76]}
+
+00:24:56.640 --> 00:25:01.839
+<v Speaker 2>So each compartment slows down the attacker from getting to
+
+NOTE CONF {"raw":[76,99,99,99,99,99,99,99,99,99]}
+
+00:25:01.839 --> 00:25:02.719
+<v Speaker 2>another compartment.
+
+NOTE CONF {"raw":[99,99]}
+
+00:25:03.630 --> 00:25:09.119
+<v Speaker 2>OK, that's why you Break up your organization structurally into
+
+NOTE CONF {"raw":[99,59,99,99,44,95,98,99,97,99]}
+
+00:25:09.119 --> 00:25:14.359
+<v Speaker 2>compartments which are enforced by firewalls, and each compartment presents
+
+NOTE CONF {"raw":[99,99,99,98,99,98,99,99,99,99]}
+
+00:25:14.359 --> 00:25:15.140
+<v Speaker 2>another challenge.
+
+NOTE CONF {"raw":[99,99]}
+
+00:25:16.739 --> 00:25:20.989
+<v Speaker 2>Of course you can increase the challenge by buying firewalls
+
+NOTE CONF {"raw":[98,99,96,99,99,99,99,99,99,99]}
+
+00:25:20.989 --> 00:25:24.189
+<v Speaker 2>from different vendors to ensure that just because they can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:24.189 --> 00:25:27.550
+<v Speaker 2>break through one boundary doesn't mean they understand how to
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:25:27.550 --> 00:25:28.729
+<v Speaker 2>break through the next boundary.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:25:29.589 --> 00:25:30.989
+<v Speaker 2>The same vendor is not a good idea.
+
+NOTE CONF {"raw":[94,99,99,98,99,99,99,99]}
+
+00:25:31.140 --> 00:25:34.150
+<v Speaker 2>Multiple vendors raises the bar for the attacker.
+
+NOTE CONF {"raw":[74,99,99,99,99,99,99,99]}
+
+00:25:34.719 --> 00:25:36.640
+<v Speaker 2>OK, so that's the boundary part.
+
+NOTE CONF {"raw":[99,91,99,99,99,99]}
+
+00:25:36.719 --> 00:25:38.670
+<v Speaker 2>The second part is observation.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:25:39.119 --> 00:25:41.400
+<v Speaker 2>So in a castle, you have castle guards who are
+
+NOTE CONF {"raw":[99,99,97,99,99,99,99,99,99,99]}
+
+00:25:41.400 --> 00:25:45.030
+<v Speaker 2>surveilling the environment, because not all attacks look like an
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:45.030 --> 00:25:45.520
+<v Speaker 2>army.
+
+NOTE CONF {"raw":[99]}
+
+00:25:45.839 --> 00:25:50.479
+<v Speaker 2>It could be somebody who's dressed in plain clothes, somebody
+
+NOTE CONF {"raw":[6,84,99,99,98,99,99,99,99,99]}
+
+00:25:50.479 --> 00:25:54.119
+<v Speaker 2>who smuggles themselves pretending to be somebody else, and come
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:54.119 --> 00:25:57.119
+<v Speaker 2>into the castle and then open the castle gates for
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:57.119 --> 00:26:00.719
+<v Speaker 2>somebody, for another group of people coming in, etc.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98]}
+
+00:26:00.760 --> 00:26:01.099
+<v Speaker 2>etc.
+
+NOTE CONF {"raw":[98]}
+
+00:26:01.170 --> 00:26:03.640
+<v Speaker 2>The point is, what does good traffic.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:26:03.760 --> 00:26:06.439
+<v Speaker 2>And bad traffic look like inside a castle, that is
+
+NOTE CONF {"raw":[89,99,99,99,99,99,87,99,96,99]}
+
+00:26:06.439 --> 00:26:11.079
+<v Speaker 2>usually enforced by castle guards, right, whose job it is
+
+NOTE CONF {"raw":[99,98,99,99,99,94,90,99,99,99]}
+
+00:26:11.079 --> 00:26:15.599
+<v Speaker 2>to watch people move in crowds and to see which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:15.599 --> 00:26:19.560
+<v Speaker 2>crowds look like they are benign and which ones are
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:19.560 --> 00:26:19.979
+<v Speaker 2>not.
+
+NOTE CONF {"raw":[99]}
+
+00:26:21.010 --> 00:26:23.270
+<v Speaker 2>We have the same sort of thing called intrusion detection
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:23.270 --> 00:26:23.739
+<v Speaker 2>systems.
+
+NOTE CONF {"raw":[99]}
+
+00:26:24.180 --> 00:26:26.810
+<v Speaker 2>Idea systems are basically computer programs.
+
+NOTE CONF {"raw":[34,99,99,99,99,99]}
+
+00:26:27.180 --> 00:26:28.709
+<v Speaker 2>They are a second line of defense.
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99]}
+
+00:26:29.099 --> 00:26:33.739
+<v Speaker 2>They watch traffic on the network and they try to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:33.739 --> 00:26:37.119
+<v Speaker 2>decide if the traffic is problematic or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:26:37.660 --> 00:26:39.699
+<v Speaker 2>And if it is problematic, they'll send an alert to
+
+NOTE CONF {"raw":[81,99,99,99,99,84,99,99,99,99]}
+
+00:26:39.699 --> 00:26:43.540
+<v Speaker 2>an administrator saying look at this, look at that, or
+
+NOTE CONF {"raw":[99,99,99,66,99,99,97,99,99,82]}
+
+00:26:43.540 --> 00:26:46.660
+<v Speaker 2>maybe if they're an intrusion detection and prevention system, they
+
+NOTE CONF {"raw":[99,99,38,82,99,99,99,99,99,99]}
+
+00:26:46.660 --> 00:26:48.199
+<v Speaker 2>may shut down the network.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:26:48.920 --> 00:26:51.410
+<v Speaker 2>As soon as they detect a certain type of malicious
+
+NOTE CONF {"raw":[76,98,99,99,99,99,99,99,99,99]}
+
+00:26:51.410 --> 00:26:51.800
+<v Speaker 2>traffic.
+
+NOTE CONF {"raw":[99]}
+
+00:26:52.050 --> 00:26:55.739
+<v Speaker 2>But the idea is they're primary, primarily there to observe.
+
+NOTE CONF {"raw":[74,99,100,99,75,48,99,99,99,99]}
+
+00:26:56.410 --> 00:27:03.339
+<v Speaker 2>And in the olden days of IDF systems, In the
+
+NOTE CONF {"raw":[82,99,99,99,100,99,97,99,68,71]}
+
+00:27:03.339 --> 00:27:05.140
+<v Speaker 2>olden days of idea systems.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:27:06.430 --> 00:27:11.670
+<v Speaker 2>They used to just look at databases of signatures, so
+
+NOTE CONF {"raw":[98,99,99,99,99,99,98,99,99,96]}
+
+00:27:11.670 --> 00:27:15.390
+<v Speaker 2>bad traffic had a signature, and so a database of
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,99,99]}
+
+00:27:15.390 --> 00:27:18.170
+<v Speaker 2>signatures was all the ID system had to go on,
+
+NOTE CONF {"raw":[99,99,99,99,15,99,99,99,99,99]}
+
+00:27:18.589 --> 00:27:21.530
+<v Speaker 2>looking at the traffic, trying constantly to match the traffic
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:27:21.750 --> 00:27:23.680
+<v Speaker 2>against the database to see if it matched.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:27:23.750 --> 00:27:25.349
+<v Speaker 2>If it matched, then it's malicious.
+
+NOTE CONF {"raw":[97,99,99,99,96,99]}
+
+00:27:25.430 --> 00:27:28.869
+<v Speaker 2>If it doesn't match, it's not very primitive, but that's
+
+NOTE CONF {"raw":[93,99,99,99,99,99,72,99,99,98]}
+
+00:27:28.869 --> 00:27:30.010
+<v Speaker 2>what they used to use.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:27:31.290 --> 00:27:34.660
+<v Speaker 2>Of course, as time went on, anomaly detection became the
+
+NOTE CONF {"raw":[95,98,96,99,99,99,99,99,99,99]}
+
+00:27:34.660 --> 00:27:38.619
+<v Speaker 2>norm, trying to figure out what is normal traffic by
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:38.619 --> 00:27:42.819
+<v Speaker 2>collecting statistics, empirical data about the traffic to establish what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:42.819 --> 00:27:45.939
+<v Speaker 2>is normality and then to use that as a way
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:45.939 --> 00:27:50.020
+<v Speaker 2>to identify what is abnormal and then to find or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:50.020 --> 00:27:53.420
+<v Speaker 2>to at least suspect that traffic and to raise an
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:27:53.420 --> 00:27:55.699
+<v Speaker 2>alarm so that somebody, a human, can look at it
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:27:55.699 --> 00:27:57.380
+<v Speaker 2>and decide if it is anomalous or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:27:57.790 --> 00:28:00.510
+<v Speaker 2>I mean, anomaly detection and signature detection have been there
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:00.510 --> 00:28:03.390
+<v Speaker 2>for a while, but with AI and machine learning and
+
+NOTE CONF {"raw":[99,99,99,93,99,99,99,99,99,99]}
+
+00:28:03.390 --> 00:28:07.750
+<v Speaker 2>all these new tools, being able to develop more sophisticated
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:08.589 --> 00:28:10.849
+<v Speaker 2>definitions of what's normal is possible.
+
+NOTE CONF {"raw":[99,99,99,99,98,99]}
+
+00:28:11.150 --> 00:28:13.510
+<v Speaker 2>And that was always the issue with observation.
+
+NOTE CONF {"raw":[68,99,99,99,99,99,99,99]}
+
+00:28:14.400 --> 00:28:16.640
+<v Speaker 2>One, a lot of the traffic is encrypted.
+
+NOTE CONF {"raw":[71,70,99,99,99,98,91,99]}
+
+00:28:16.949 --> 00:28:18.640
+<v Speaker 2>Number 2, what's normal?
+
+NOTE CONF {"raw":[12,79,93,99]}
+
+00:28:18.719 --> 00:28:20.920
+<v Speaker 2>It's impossible to tell what's normal because all the traffic
+
+NOTE CONF {"raw":[83,93,99,99,98,99,99,99,99,99]}
+
+00:28:20.920 --> 00:28:21.670
+<v Speaker 2>is so varied.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:28:21.920 --> 00:28:23.400
+<v Speaker 2>People do weird things all the time.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:28:23.640 --> 00:28:26.160
+<v Speaker 2>How do I decide whether what they're doing is normal
+
+NOTE CONF {"raw":[99,99,99,99,99,99,75,99,99,99]}
+
+00:28:26.160 --> 00:28:26.680
+<v Speaker 2>or not?
+
+NOTE CONF {"raw":[99,99]}
+
+00:28:27.000 --> 00:28:31.560
+<v Speaker 2>And so anomaly detection never really got anywhere because anomalies,
+
+NOTE CONF {"raw":[96,98,99,99,99,98,99,99,99,98]}
+
+00:28:31.760 --> 00:28:34.339
+<v Speaker 2>I mean I remember in 1995.
+
+NOTE CONF {"raw":[85,76,99,99,98,98]}
+
+00:28:35.359 --> 00:28:37.869
+<v Speaker 2>In the computer science department we were playing with an
+
+NOTE CONF {"raw":[66,96,99,99,99,99,99,99,99,99]}
+
+00:28:37.869 --> 00:28:39.089
+<v Speaker 2>anomaly detection system.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:28:39.229 --> 00:28:43.189
+<v Speaker 2>We actually had a neural network based system which basically
+
+NOTE CONF {"raw":[96,99,99,99,99,99,88,99,99,100]}
+
+00:28:43.189 --> 00:28:47.869
+<v Speaker 2>said, hey, we can, if we collect data on your
+
+NOTE CONF {"raw":[99,77,99,99,99,99,99,100,99,99]}
+
+00:28:47.869 --> 00:28:51.829
+<v Speaker 2>rhythm of typing on your keyboard and which applications you
+
+NOTE CONF {"raw":[99,99,100,99,99,100,99,99,99,99]}
+
+00:28:51.829 --> 00:28:54.069
+<v Speaker 2>open up when you log in and when you open
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:54.069 --> 00:28:56.920
+<v Speaker 2>them up and what you do in those applications, etc.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:56.939 --> 00:28:57.270
+<v Speaker 2>etc.
+
+NOTE CONF {"raw":[98]}
+
+00:28:57.390 --> 00:28:59.510
+<v Speaker 2>we collect all that data and we run it through
+
+NOTE CONF {"raw":[98,99,99,99,100,99,99,99,99,99]}
+
+00:28:59.510 --> 00:29:02.530
+<v Speaker 2>a neural network, you know, system which is like a
+
+NOTE CONF {"raw":[99,99,99,97,96,99,99,99,99,79]}
+
+00:29:03.069 --> 00:29:06.069
+<v Speaker 2>It's a very powerful mathematical algorithm that has the ability
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,99,100]}
+
+00:29:06.069 --> 00:29:07.619
+<v Speaker 2>to forget, right?
+
+NOTE CONF {"raw":[100,100,99]}
+
+00:29:07.989 --> 00:29:11.989
+<v Speaker 2>Forget is good because people change and, and the algorithm
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,99,100,100]}
+
+00:29:11.989 --> 00:29:15.430
+<v Speaker 2>would learn your behavior and then would forget your old
+
+NOTE CONF {"raw":[99,100,100,100,99,99,99,100,100,99]}
+
+00:29:15.430 --> 00:29:16.949
+<v Speaker 2>behavior, so it would always be current.
+
+NOTE CONF {"raw":[100,96,99,73,99,99,99]}
+
+00:29:17.270 --> 00:29:19.150
+<v Speaker 2>And by doing that, it could set up an alarm
+
+NOTE CONF {"raw":[54,100,100,100,99,99,100,100,100,100]}
+
+00:29:19.150 --> 00:29:23.430
+<v Speaker 2>to say, hey, student X is logged in as student
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,90,96]}
+
+00:29:23.430 --> 00:29:25.869
+<v Speaker 2>X, but that Looks like the rhythm of student Y
+
+NOTE CONF {"raw":[99,99,99,75,99,99,99,99,96,99]}
+
+00:29:25.869 --> 00:29:26.479
+<v Speaker 2>typing.
+
+NOTE CONF {"raw":[99]}
+
+00:29:26.959 --> 00:29:30.170
+<v Speaker 2>That's not student X, that's student Y using student X's
+
+NOTE CONF {"raw":[88,99,98,99,95,96,99,99,98,98]}
+
+00:29:30.170 --> 00:29:31.010
+<v Speaker 2>account, right?
+
+NOTE CONF {"raw":[99,98]}
+
+00:29:31.130 --> 00:29:33.650
+<v Speaker 2>So that was a really powerful tool, but again, in
+
+NOTE CONF {"raw":[97,99,99,99,99,100,100,76,99,99]}
+
+00:29:33.650 --> 00:29:38.040
+<v Speaker 2>those days, it was very difficult to establish people's signatures
+
+NOTE CONF {"raw":[100,99,99,99,99,100,100,100,99,99]}
+
+00:29:38.449 --> 00:29:41.729
+<v Speaker 2>because people vary so much, their behavior changes depending on
+
+NOTE CONF {"raw":[99,100,99,99,100,85,100,99,99,99]}
+
+00:29:41.729 --> 00:29:43.930
+<v Speaker 2>what assignments they're doing, what subjects they're doing, blah, blah,
+
+NOTE CONF {"raw":[99,99,31,99,99,99,27,99,98,98]}
+
+00:29:43.959 --> 00:29:45.390
+<v Speaker 2>blah, very, very hard to do.
+
+NOTE CONF {"raw":[98,83,99,99,99,99]}
+
+00:29:47.030 --> 00:29:50.300
+<v Speaker 2>So when it comes to observation, one of the key
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:29:50.300 --> 00:29:53.170
+<v Speaker 2>things is where do you observe from, and on a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,72,99,96]}
+
+00:29:53.170 --> 00:29:55.500
+<v Speaker 2>network there are so many different points that you can
+
+NOTE CONF {"raw":[99,99,93,99,99,99,99,98,99,99]}
+
+00:29:55.500 --> 00:29:59.010
+<v Speaker 2>observe traffic from which lead you to different conclusions.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:29:59.099 --> 00:30:03.260
+<v Speaker 2>So for example, you'll see at location 2, which sits
+
+NOTE CONF {"raw":[93,96,99,78,99,99,99,82,99,98]}
+
+00:30:03.260 --> 00:30:06.119
+<v Speaker 2>outside your organization, you see traffic coming into your organization,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:06.500 --> 00:30:10.339
+<v Speaker 2>and location 1 is traffic that passes your firewall.
+
+NOTE CONF {"raw":[83,99,83,99,99,99,99,99,99]}
+
+00:30:10.579 --> 00:30:12.900
+<v Speaker 2>And if you compare location 2 to location 1, you
+
+NOTE CONF {"raw":[79,99,99,99,99,79,99,99,80,99]}
+
+00:30:12.900 --> 00:30:15.000
+<v Speaker 2>can figure out whether your firewall is working or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:15.979 --> 00:30:16.609
+<v Speaker 2>Yeah.
+
+NOTE CONF {"raw":[99]}
+
+00:30:17.319 --> 00:30:18.109
+<v Speaker 2>Can you see that?
+
+NOTE CONF {"raw":[90,99,99,99]}
+
+00:30:19.640 --> 00:30:22.880
+<v Speaker 2>If you collect traffic at location 2 and location 1
+
+NOTE CONF {"raw":[95,94,99,98,98,99,97,99,99,97]}
+
+00:30:23.239 --> 00:30:26.079
+<v Speaker 2>and you compare the two, you can tell whether your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:26.079 --> 00:30:28.060
+<v Speaker 2>firewall rules are working or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,97]}
+
+00:30:30.780 --> 00:30:32.829
+<v Speaker 2>But even if you were to do that and see
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:32.829 --> 00:30:35.589
+<v Speaker 2>all the traffic at that level, so most of the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:35.589 --> 00:30:38.300
+<v Speaker 2>traffic is coming to location 2, coming into your organization,
+
+NOTE CONF {"raw":[99,97,99,99,99,37,99,99,90,99]}
+
+00:30:38.510 --> 00:30:40.329
+<v Speaker 2>the content is probably encrypted.
+
+NOTE CONF {"raw":[89,99,99,99,99]}
+
+00:30:41.069 --> 00:30:44.020
+<v Speaker 2>So you can see the traffic, you can see the
+
+NOTE CONF {"raw":[87,99,99,99,99,99,91,99,99,99]}
+
+00:30:44.020 --> 00:30:46.979
+<v Speaker 2>pattern of traffic, you can see the source destination address,
+
+NOTE CONF {"raw":[99,99,99,89,99,99,99,99,99,99]}
+
+00:30:47.030 --> 00:30:49.969
+<v Speaker 2>but the contents of the body of it is encrypted.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96,99]}
+
+00:30:50.469 --> 00:30:51.910
+<v Speaker 2>So where does it get decrypted?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:30:51.959 --> 00:30:55.170
+<v Speaker 2>It gets decrypted probably at location 4.
+
+NOTE CONF {"raw":[98,99,99,99,74,99,97]}
+
+00:30:55.829 --> 00:30:59.520
+<v Speaker 2>So you want to have an observer sitting maybe on
+
+NOTE CONF {"raw":[99,99,99,98,99,61,99,99,99,99]}
+
+00:30:59.520 --> 00:31:03.099
+<v Speaker 2>the computer, where the traffic is going to end up.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:04.160 --> 00:31:07.160
+<v Speaker 2>Eventually for the computer to understand the traffic, it's the,
+
+NOTE CONF {"raw":[36,99,99,99,99,100,99,99,16,64]}
+
+00:31:07.319 --> 00:31:09.119
+<v Speaker 2>the encryption has got to be removed.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:31:09.319 --> 00:31:11.439
+<v Speaker 2>And that's where you watch the contents of it.
+
+NOTE CONF {"raw":[63,99,99,99,99,99,99,99,99]}
+
+00:31:11.510 --> 00:31:12.780
+<v Speaker 2>That's where you observe it, right?
+
+NOTE CONF {"raw":[88,99,99,99,99,99]}
+
+00:31:13.199 --> 00:31:15.359
+<v Speaker 2>So there's no one single point that's perfect.
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99]}
+
+00:31:15.400 --> 00:31:18.130
+<v Speaker 2>You have to have a number of vantage points on
+
+NOTE CONF {"raw":[95,99,99,99,69,99,99,99,99,99]}
+
+00:31:18.130 --> 00:31:20.160
+<v Speaker 2>your network in order to get a holistic view of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:20.160 --> 00:31:21.800
+<v Speaker 2>what's going on, right?
+
+NOTE CONF {"raw":[99,99,99,88]}
+
+00:31:25.130 --> 00:31:27.609
+<v Speaker 2>The bottom line, observation.
+
+NOTE CONF {"raw":[99,100,100,99]}
+
+00:31:28.339 --> 00:31:31.660
+<v Speaker 2>is an essential part of your defense in depth.
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,69,99]}
+
+00:31:31.939 --> 00:31:35.459
+<v Speaker 2>You had separation, and now you have observation.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99]}
+
+00:31:37.589 --> 00:31:40.339
+<v Speaker 2>And the third line of defense is mediation.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:31:41.380 --> 00:31:46.280
+<v Speaker 2>Which is OK, we can take our digital environment and
+
+NOTE CONF {"raw":[94,99,99,75,99,99,99,98,99,99]}
+
+00:31:46.540 --> 00:31:49.859
+<v Speaker 2>break it down into pieces and set up security around
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:49.859 --> 00:31:53.619
+<v Speaker 2>each piece so that it creates a very challenging series
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:53.619 --> 00:31:55.800
+<v Speaker 2>of obstacles for an attacker.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:31:56.300 --> 00:31:59.699
+<v Speaker 2>We can observe what's happening in each piece so we
+
+NOTE CONF {"raw":[99,99,99,93,99,99,99,99,99,99]}
+
+00:31:59.699 --> 00:32:02.459
+<v Speaker 2>can tell if the traffic is normal or abnormal and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:02.459 --> 00:32:05.910
+<v Speaker 2>raise alarms that way, but ultimately we have to give
+
+NOTE CONF {"raw":[99,99,99,99,80,98,99,99,99,99]}
+
+00:32:05.910 --> 00:32:07.079
+<v Speaker 2>people access.
+
+NOTE CONF {"raw":[99,99]}
+
+00:32:07.650 --> 00:32:11.489
+<v Speaker 2>So, authentication is, are you who you say you are?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:12.760 --> 00:32:15.680
+<v Speaker 2>When you present your credentials, we have to determine if
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,100,99]}
+
+00:32:15.680 --> 00:32:16.959
+<v Speaker 2>you are genuine or not.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:32:17.359 --> 00:32:23.050
+<v Speaker 2>So that's authentication and then authorization is Given you say
+
+NOTE CONF {"raw":[99,99,99,92,99,99,99,98,99,99]}
+
+00:32:23.050 --> 00:32:25.170
+<v Speaker 2>you are who you say you are, what are you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:25.170 --> 00:32:26.930
+<v Speaker 2>allowed to do in this environment?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:32:27.770 --> 00:32:33.390
+<v Speaker 2>And again, going back 2030 years, maybe 40, 50 years,
+
+NOTE CONF {"raw":[99,99,99,99,79,99,99,99,85,99]}
+
+00:32:33.530 --> 00:32:37.969
+<v Speaker 2>in the very early days when cybersecurity, when the, well,
+
+NOTE CONF {"raw":[99,99,99,100,100,99,31,99,52,98]}
+
+00:32:38.050 --> 00:32:41.650
+<v Speaker 2>when networking didn't exist, when there was no such thing
+
+NOTE CONF {"raw":[99,99,99,100,98,99,99,99,99,99]}
+
+00:32:41.650 --> 00:32:43.530
+<v Speaker 2>as a network, it was just terminals.
+
+NOTE CONF {"raw":[99,99,99,91,99,99,99]}
+
+00:32:43.770 --> 00:32:46.410
+<v Speaker 2>You would put terminals in secure buildings and put a
+
+NOTE CONF {"raw":[58,99,99,99,99,99,99,99,99,99]}
+
+00:32:46.410 --> 00:32:49.199
+<v Speaker 2>padlock on the building and that was your security, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:32:50.199 --> 00:32:53.839
+<v Speaker 2>There's no network, so the only way to interact with
+
+NOTE CONF {"raw":[89,99,99,86,99,99,99,99,99,68]}
+
+00:32:53.839 --> 00:32:55.839
+<v Speaker 2>the digital environment is to walk up to a computer
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:32:55.839 --> 00:32:57.040
+<v Speaker 2>and use that terminal.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:32:57.250 --> 00:33:02.420
+<v Speaker 2>That terminal cannot communicate with anything else, so individual terminals
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,75,99,99]}
+
+00:33:02.560 --> 00:33:05.140
+<v Speaker 2>in a locked building is all the security you need.
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:33:05.569 --> 00:33:08.560
+<v Speaker 2>Then when networks became a thing, there was no building
+
+NOTE CONF {"raw":[99,99,99,99,69,99,99,99,99,99]}
+
+00:33:08.560 --> 00:33:10.800
+<v Speaker 2>big enough to house the whole network because they were
+
+NOTE CONF {"raw":[99,99,99,99,87,99,99,99,99,99]}
+
+00:33:10.800 --> 00:33:11.900
+<v Speaker 2>going from city to city.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:33:12.239 --> 00:33:16.329
+<v Speaker 2>So then there was this assumption that when you came
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,100,100,100]}
+
+00:33:16.329 --> 00:33:19.130
+<v Speaker 2>up to a computer and you presented your credentials, you
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,100,99]}
+
+00:33:19.130 --> 00:33:21.329
+<v Speaker 2>could access everything on that computer.
+
+NOTE CONF {"raw":[99,99,100,99,99,100]}
+
+00:33:21.410 --> 00:33:23.689
+<v Speaker 2>If that computer was networked you could access everything on
+
+NOTE CONF {"raw":[64,99,99,99,99,99,99,99,99,99]}
+
+00:33:23.689 --> 00:33:24.650
+<v Speaker 2>the entire network.
+
+NOTE CONF {"raw":[99,100,100]}
+
+00:33:24.930 --> 00:33:28.420
+<v Speaker 2>So somebody decided that this isn't right.
+
+NOTE CONF {"raw":[64,99,100,99,99,77,99]}
+
+00:33:28.729 --> 00:33:29.250
+<v Speaker 2>You have many.
+
+NOTE CONF {"raw":[49,99,98]}
+
+00:33:29.364 --> 00:33:31.484
+<v Speaker 2>Different types of people getting access to the computer.
+
+NOTE CONF {"raw":[56,99,99,99,91,99,99,99,99]}
+
+00:33:31.604 --> 00:33:34.484
+<v Speaker 2>Some people should be restricted to only reading documents.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:33:34.564 --> 00:33:36.204
+<v Speaker 2>Others reading and writing documents.
+
+NOTE CONF {"raw":[51,99,99,99,99]}
+
+00:33:36.435 --> 00:33:38.385
+<v Speaker 2>Others executing programs, etc.
+
+NOTE CONF {"raw":[48,99,99,99]}
+
+00:33:38.395 --> 00:33:38.885
+<v Speaker 2>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:33:39.125 --> 00:33:41.635
+<v Speaker 2>And not everybody who reads a document should be able
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,99,99]}
+
+00:33:41.635 --> 00:33:43.155
+<v Speaker 2>to read all documents, etc.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:33:43.165 --> 00:33:43.604
+<v Speaker 2>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:33:43.925 --> 00:33:46.464
+<v Speaker 2>So multi-level access control was created.
+
+NOTE CONF {"raw":[95,59,99,99,99,99]}
+
+00:33:47.270 --> 00:33:49.979
+<v Speaker 2>And that was then assigned to your identity.
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,100]}
+
+00:33:50.310 --> 00:33:53.109
+<v Speaker 2>You are person X, you have very particular rights, you
+
+NOTE CONF {"raw":[97,99,99,99,90,99,99,99,99,93]}
+
+00:33:53.109 --> 00:33:55.290
+<v Speaker 2>can do certain things and you cannot do other things.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:57.209 --> 00:34:02.349
+<v Speaker 2>That control is now embedded into operating systems and networks.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:34:04.819 --> 00:34:11.020
+<v Speaker 2>And There is also an acceptance that sometimes the 1st
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:11.020 --> 00:34:17.300
+<v Speaker 2>3 things, authentication, authorization, and control fall over, they, they
+
+NOTE CONF {"raw":[37,99,98,99,99,99,99,99,68,98]}
+
+00:34:17.300 --> 00:34:17.929
+<v Speaker 2>don't work.
+
+NOTE CONF {"raw":[99,99]}
+
+00:34:18.260 --> 00:34:20.419
+<v Speaker 2>So in that case, the asset should always be in
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,70,99]}
+
+00:34:20.419 --> 00:34:22.378
+<v Speaker 2>its native state be encrypted.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:34:22.739 --> 00:34:25.939
+<v Speaker 2>So that if a, if the approach to the asset
+
+NOTE CONF {"raw":[83,99,99,72,98,99,99,99,99,99]}
+
+00:34:25.939 --> 00:34:28.989
+<v Speaker 2>doesn't work, you, well, the approach to the asset has
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:34:28.989 --> 00:34:32.929
+<v Speaker 2>to work for it, the encryption to be unlocked, right?
+
+NOTE CONF {"raw":[99,99,99,99,44,99,99,99,99,92]}
+
+00:34:33.138 --> 00:34:36.110
+<v Speaker 2>So that's your four level progression in mediation.
+
+NOTE CONF {"raw":[98,99,99,90,98,99,96,99]}
+
+00:34:37.050 --> 00:34:39.128
+<v Speaker 2>How do you give people access to the assets that
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,99,99,99]}
+
+00:34:39.128 --> 00:34:40.560
+<v Speaker 2>they need and the services they need?
+
+NOTE CONF {"raw":[99,99,99,99,95,99,99]}
+
+00:34:40.810 --> 00:34:43.888
+<v Speaker 2>Well, you give them you authenticate them, check who they
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,99]}
+
+00:34:43.888 --> 00:34:49.148
+<v Speaker 2>are, authorize them, give them certain credentials, control their access.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:49.959 --> 00:34:52.479
+<v Speaker 2>At preferably at the point where they're trying to access
+
+NOTE CONF {"raw":[71,98,99,99,99,99,97,99,99,99]}
+
+00:34:52.479 --> 00:34:55.679
+<v Speaker 2>an asset and encrypt the asset or protect the asset
+
+NOTE CONF {"raw":[99,99,99,93,99,99,99,99,99,99]}
+
+00:34:55.679 --> 00:34:57.919
+<v Speaker 2>in a place where if anything else fails, and the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:57.919 --> 00:35:00.320
+<v Speaker 2>asset is taken out of its native environment, it's not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:35:00.320 --> 00:35:01.600
+<v Speaker 2>automatically accessible or usable.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:35:04.439 --> 00:35:07.080
+<v Speaker 2>Now, having said all those three things, you can now
+
+NOTE CONF {"raw":[96,94,99,99,99,87,99,99,99,99]}
+
+00:35:07.080 --> 00:35:12.360
+<v Speaker 2>actually create a castle architecture with those three categories of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,66,99,88]}
+
+00:35:12.360 --> 00:35:12.929
+<v Speaker 2>controls.
+
+NOTE CONF {"raw":[99]}
+
+00:35:13.320 --> 00:35:15.280
+<v Speaker 2>You can, if you think about it, you can come
+
+NOTE CONF {"raw":[90,94,89,99,99,99,99,99,99,99]}
+
+00:35:15.280 --> 00:35:20.639
+<v Speaker 2>up with a very comprehensive security system or architecture which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:20.639 --> 00:35:24.439
+<v Speaker 2>will create some very challenging environments for an attacker with
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:24.439 --> 00:35:26.239
+<v Speaker 2>those 3 types of controls.
+
+NOTE CONF {"raw":[99,31,99,99,99]}
+
+00:35:27.979 --> 00:35:34.939
+<v Speaker 2>But Complex systems and architectures usually have flaws in them.
+
+NOTE CONF {"raw":[97,96,99,99,98,99,99,99,99,99]}
+
+00:35:35.209 --> 00:35:38.270
+<v Speaker 2>There will always be something that you forgot, some asset
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:38.270 --> 00:35:42.370
+<v Speaker 2>that's public when it should be private, some control that
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,98,97,87]}
+
+00:35:42.370 --> 00:35:46.090
+<v Speaker 2>was some multi-level access control that was set incorrectly, etc.
+
+NOTE CONF {"raw":[80,99,94,99,99,99,99,99,99,98]}
+
+00:35:46.129 --> 00:35:46.540
+<v Speaker 2>etc.
+
+NOTE CONF {"raw":[96]}
+
+00:35:46.739 --> 00:35:49.860
+<v Speaker 2>So there are certain things that you should do to
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:35:49.860 --> 00:35:51.340
+<v Speaker 2>know what your attack surface is.
+
+NOTE CONF {"raw":[99,99,99,99,98,97]}
+
+00:35:51.379 --> 00:35:52.669
+<v Speaker 2>What is an attack surface?
+
+NOTE CONF {"raw":[95,99,99,99,99]}
+
+00:35:53.020 --> 00:35:58.689
+<v Speaker 2>That is the fully exposed surface of your digital assets.
+
+NOTE CONF {"raw":[68,99,99,99,99,99,99,99,99,98]}
+
+00:35:59.669 --> 00:36:02.860
+<v Speaker 2>That's visible to the outside world that can be attacked.
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99,99]}
+
+00:36:03.699 --> 00:36:08.189
+<v Speaker 2>And so knowing which systems can be attacked, which ports
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99,99]}
+
+00:36:08.189 --> 00:36:11.709
+<v Speaker 2>are open, what services can be exploited, that is part
+
+NOTE CONF {"raw":[99,100,99,99,100,100,100,99,99,100]}
+
+00:36:11.709 --> 00:36:16.199
+<v Speaker 2>of your security system, and you do that using Penetration
+
+NOTE CONF {"raw":[100,99,100,100,99,99,99,99,99,61]}
+
+00:36:16.199 --> 00:36:19.760
+<v Speaker 2>testers, whose job it is to sit outside the organization
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,100,99,99]}
+
+00:36:19.879 --> 00:36:22.879
+<v Speaker 2>and to study the attack surface, and to tell you
+
+NOTE CONF {"raw":[99,99,100,100,99,99,99,99,99,99]}
+
+00:36:23.239 --> 00:36:26.699
+<v Speaker 2>which things you thought you had controlled or not controlled,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,24,99,99]}
+
+00:36:27.080 --> 00:36:27.500
+<v Speaker 1>right?
+
+NOTE CONF {"raw":[96]}
+
+00:36:29.969 --> 00:36:31.850
+<v Speaker 2>What is the problem with penetration testing?
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99]}
+
+00:36:34.389 --> 00:36:35.830
+<v Speaker 2>People love penetration testers.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:36:35.879 --> 00:36:38.360
+<v Speaker 2>In fact, if you go to most organizations, everything you
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:36:38.360 --> 00:36:40.830
+<v Speaker 2>go, Oh, you've got this problem, ah, penetration testers will
+
+NOTE CONF {"raw":[99,63,98,99,99,99,43,98,99,98]}
+
+00:36:40.830 --> 00:36:41.229
+<v Speaker 2>fix it.
+
+NOTE CONF {"raw":[99,99]}
+
+00:36:41.600 --> 00:36:43.360
+<v Speaker 2>What is the problem with penetration testing?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:36:57.360 --> 00:36:58.719
+<v Speaker 1>It's kind of obvious, isn't it?
+
+NOTE CONF {"raw":[98,78,89,99,98,99]}
+
+00:37:01.969 --> 00:37:04.370
+<v Speaker 1>Yeah, maybe the behavioral aspect is.
+
+NOTE CONF {"raw":[99,73,99,98,99,91]}
+
+00:37:05.350 --> 00:37:09.250
+<v Speaker 1>Of like human beings Oh yeah, OK, I wasn't thinking
+
+NOTE CONF {"raw":[7,80,99,37,99,99,99,99,99,99]}
+
+00:37:09.250 --> 00:37:11.540
+<v Speaker 2>about that one, but yeah, yeah, for sure, yeah, yeah.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,77,97]}
+
+00:37:13.060 --> 00:37:16.189
+<v Speaker 2>The the penetration testers are looking at the technology layer
+
+NOTE CONF {"raw":[74,86,99,99,99,99,99,99,99,99]}
+
+00:37:16.189 --> 00:37:17.479
+<v Speaker 2>and they're not looking at the human layer.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:37:17.719 --> 00:37:20.000
+<v Speaker 2>Sure, I wasn't thinking about that one, but yeah, that's
+
+NOTE CONF {"raw":[72,55,97,99,99,99,99,88,99,99]}
+
+00:37:20.000 --> 00:37:20.479
+<v Speaker 2>a good one.
+
+NOTE CONF {"raw":[98,99,99]}
+
+00:37:21.679 --> 00:37:24.350
+<v Speaker 2>The main one is that your technology systems are evolving.
+
+NOTE CONF {"raw":[100,100,100,100,99,99,99,100,100,100]}
+
+00:37:24.689 --> 00:37:27.409
+<v Speaker 2>Your penetration testing is done on day one, and on
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,38,99,99]}
+
+00:37:27.409 --> 00:37:29.750
+<v Speaker 2>day 2, your system doesn't look anything like day 1.
+
+NOTE CONF {"raw":[99,74,99,100,99,100,99,100,99,46]}
+
+00:37:30.250 --> 00:37:32.949
+<v Speaker 2>So now what's the point of penetration testing, right?
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,100,60]}
+
+00:37:33.250 --> 00:37:36.169
+<v Speaker 2>Well, actually it's a bit unfair to say that penetration
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,100,99,79]}
+
+00:37:36.169 --> 00:37:39.469
+<v Speaker 2>testing is very useful when you have a long standing
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,100,100,74]}
+
+00:37:39.469 --> 00:37:43.310
+<v Speaker 2>hole or exposure that you're not aware exists.
+
+NOTE CONF {"raw":[99,100,100,100,99,100,100,99]}
+
+00:37:44.010 --> 00:37:47.209
+<v Speaker 2>The penetration testers will say, here's an exposure, and you
+
+NOTE CONF {"raw":[99,100,99,99,100,68,99,100,99,99]}
+
+00:37:47.209 --> 00:37:50.129
+<v Speaker 2>go, Oh, I thought that was, that was addressed.
+
+NOTE CONF {"raw":[99,74,100,100,99,99,99,99,100]}
+
+00:37:51.020 --> 00:37:51.899
+<v Speaker 2>Very helpful.
+
+NOTE CONF {"raw":[95,99]}
+
+00:37:52.320 --> 00:37:55.439
+<v Speaker 2>But if a penetration tester says, here are the 50
+
+NOTE CONF {"raw":[83,99,99,99,99,99,91,99,99,99]}
+
+00:37:55.439 --> 00:37:58.120
+<v Speaker 2>problems that you have, and you go, Ah, I fixed
+
+NOTE CONF {"raw":[99,95,99,99,99,99,97,57,99,99]}
+
+00:37:58.120 --> 00:38:00.530
+<v Speaker 2>all the 50 problems and I'm secure, guess what?
+
+NOTE CONF {"raw":[99,99,99,99,28,89,98,98,99]}
+
+00:38:01.080 --> 00:38:03.479
+<v Speaker 2>The next week or the next day you just acquired
+
+NOTE CONF {"raw":[77,99,99,99,99,99,99,99,99,98]}
+
+00:38:03.479 --> 00:38:05.360
+<v Speaker 2>a new piece of technology and you configured it and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,67,78,96]}
+
+00:38:05.360 --> 00:38:07.120
+<v Speaker 2>you add it to your environment, and now you've got
+
+NOTE CONF {"raw":[87,99,91,99,99,99,99,99,94,99]}
+
+00:38:07.120 --> 00:38:07.719
+<v Speaker 2>new holes.
+
+NOTE CONF {"raw":[99,98]}
+
+00:38:08.489 --> 00:38:10.209
+<v Speaker 2>So what are you going to do penetration testing every
+
+NOTE CONF {"raw":[99,99,99,99,99,96,99,99,99,99]}
+
+00:38:10.209 --> 00:38:10.409
+<v Speaker 2>day?
+
+NOTE CONF {"raw":[99]}
+
+00:38:10.649 --> 00:38:11.120
+<v Speaker 2>You don't.
+
+NOTE CONF {"raw":[99,99]}
+
+00:38:11.449 --> 00:38:13.580
+<v Speaker 2>Most organizations will do it what, once in 3 months,
+
+NOTE CONF {"raw":[98,99,99,99,99,85,93,99,99,99]}
+
+00:38:13.699 --> 00:38:15.229
+<v Speaker 2>once in 6 months, once in a year.
+
+NOTE CONF {"raw":[92,99,99,99,99,99,94,99]}
+
+00:38:15.530 --> 00:38:19.770
+<v Speaker 2>If that, So penetration testing is very useful, but in
+
+NOTE CONF {"raw":[76,99,99,99,100,99,99,99,99,99]}
+
+00:38:19.770 --> 00:38:22.199
+<v Speaker 2>a very, very narrow situation, right?
+
+NOTE CONF {"raw":[99,99,99,99,100,96]}
+
+00:38:22.489 --> 00:38:25.290
+<v Speaker 2>It's like they take a snapshot of your organization and
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,100,99]}
+
+00:38:25.290 --> 00:38:27.169
+<v Speaker 2>they give you a snapshot assessment.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:38:27.489 --> 00:38:28.600
+<v Speaker 2>You are not a snapshot.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:38:28.689 --> 00:38:31.449
+<v Speaker 2>You are a living, evolving organization.
+
+NOTE CONF {"raw":[74,99,99,100,99,100]}
+
+00:38:31.649 --> 00:38:34.510
+<v Speaker 2>Your infrastructure changes maybe even every day.
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99]}
+
+00:38:39.540 --> 00:38:43.229
+<v Speaker 2>But knowing what is my attack surface, very important.
+
+NOTE CONF {"raw":[99,100,99,99,99,99,98,99,100]}
+
+00:38:43.899 --> 00:38:47.919
+<v Speaker 2>What system surfaces are exposed, what configurations didn't didn't work,
+
+NOTE CONF {"raw":[84,99,28,99,99,92,99,67,99,99]}
+
+00:38:48.300 --> 00:38:49.979
+<v Speaker 2>what documents are leaking?
+
+NOTE CONF {"raw":[86,99,99,99]}
+
+00:38:50.419 --> 00:38:52.820
+<v Speaker 2>What's on my website that shouldn't be on my website,
+
+NOTE CONF {"raw":[67,99,99,99,99,99,99,99,99,99]}
+
+00:38:52.899 --> 00:38:53.760
+<v Speaker 2>for instance.
+
+NOTE CONF {"raw":[99,100]}
+
+00:38:55.939 --> 00:39:01.800
+<v Speaker 2>Now, This part is a little bit more harder to
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:39:01.800 --> 00:39:01.979
+<v Speaker 2>understand.
+
+NOTE CONF {"raw":[100]}
+
+00:39:02.199 --> 00:39:04.219
+<v Speaker 2>So I need you to really sort of, you know,
+
+NOTE CONF {"raw":[81,99,99,99,99,99,99,99,99,99]}
+
+00:39:05.860 --> 00:39:07.459
+<v Speaker 2>Yeah, really dig deep here.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:39:09.100 --> 00:39:13.419
+<v Speaker 2>The reason why castles, so you know we have something
+
+NOTE CONF {"raw":[100,100,100,99,99,100,100,100,100,100]}
+
+00:39:13.419 --> 00:39:14.659
+<v Speaker 2>called the cloud.
+
+NOTE CONF {"raw":[100,99,99]}
+
+00:39:15.709 --> 00:39:17.209
+<v Speaker 2>Yes, everybody's heard of the cloud.
+
+NOTE CONF {"raw":[99,98,99,99,99,98]}
+
+00:39:19.189 --> 00:39:20.800
+<v Speaker 2>Yes, the crowd, yes.
+
+NOTE CONF {"raw":[99,98,99,96]}
+
+00:39:22.050 --> 00:39:23.590
+<v Speaker 2>Yes, everybody's heard of the cloud.
+
+NOTE CONF {"raw":[99,87,99,99,99,99]}
+
+00:39:24.050 --> 00:39:25.429
+<v Speaker 2>The cloud is a problem.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:39:26.290 --> 00:39:31.969
+<v Speaker 2>Because castles, building a castle around your asset works when
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:31.969 --> 00:39:33.050
+<v Speaker 2>you have two things.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:33.449 --> 00:39:36.489
+<v Speaker 2>Number 1, you own the asset, obviously, but number 2,
+
+NOTE CONF {"raw":[46,99,99,99,99,99,99,76,97,98]}
+
+00:39:36.649 --> 00:39:38.110
+<v Speaker 2>you possess the asset.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:38.649 --> 00:39:41.179
+<v Speaker 2>In order to build a castle around your asset, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:41.179 --> 00:39:43.290
+<v Speaker 2>have to not only own your asset, which you obviously
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:43.290 --> 00:39:45.610
+<v Speaker 2>do, but you have to have possession of the asset.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:45.649 --> 00:39:46.929
+<v Speaker 2>It has to be in your possession.
+
+NOTE CONF {"raw":[96,99,99,99,99,99,98]}
+
+00:39:47.620 --> 00:39:51.459
+<v Speaker 2>So if you buy, you know, a digital environment with
+
+NOTE CONF {"raw":[99,99,100,99,93,92,99,99,100,99]}
+
+00:39:51.459 --> 00:39:55.020
+<v Speaker 2>all these IP addresses inside your organization, you can set
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,99,100]}
+
+00:39:55.020 --> 00:39:56.860
+<v Speaker 2>up a castle inside your organization.
+
+NOTE CONF {"raw":[99,99,99,100,99,99]}
+
+00:39:57.870 --> 00:40:00.080
+<v Speaker 2>But the day that you decide that you pick up
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:00.080 --> 00:40:03.199
+<v Speaker 2>your asset and you put it in the cloud, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:03.199 --> 00:40:04.899
+<v Speaker 2>don't own the territory.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:40:05.669 --> 00:40:07.459
+<v Speaker 2>Somebody else owns the land.
+
+NOTE CONF {"raw":[45,99,99,99,99]}
+
+00:40:08.080 --> 00:40:11.149
+<v Speaker 2>You cannot build a castle on somebody else's land, in
+
+NOTE CONF {"raw":[99,99,99,97,99,99,99,99,99,99]}
+
+00:40:11.149 --> 00:40:12.510
+<v Speaker 2>principle, right?
+
+NOTE CONF {"raw":[99,95]}
+
+00:40:13.520 --> 00:40:16.760
+<v Speaker 2>So when you put your asset in somebody else's cloud
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,100,100]}
+
+00:40:16.760 --> 00:40:20.189
+<v Speaker 2>like Amazon, AWS, blah blah blah, you don't control the
+
+NOTE CONF {"raw":[100,100,99,99,99,99,99,100,100,100]}
+
+00:40:20.189 --> 00:40:24.120
+<v Speaker 2>castle, so you cannot build a castle around the asset.
+
+NOTE CONF {"raw":[100,97,100,99,100,95,100,100,100,100]}
+
+00:40:25.280 --> 00:40:29.070
+<v Speaker 2>Yeah, you own the asset, but you don't have possession
+
+NOTE CONF {"raw":[87,80,99,99,99,99,99,99,99,99]}
+
+00:40:29.070 --> 00:40:29.469
+<v Speaker 2>of it.
+
+NOTE CONF {"raw":[99,99]}
+
+00:40:29.750 --> 00:40:31.979
+<v Speaker 2>They have possession of it, and you write a service
+
+NOTE CONF {"raw":[91,99,99,99,99,96,99,99,99,99]}
+
+00:40:31.979 --> 00:40:34.300
+<v Speaker 2>level agreement to say this is the level of security
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:34.300 --> 00:40:37.590
+<v Speaker 2>that you need to put in place, but you don't
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,96]}
+
+00:40:37.590 --> 00:40:42.889
+<v Speaker 2>have, you don't have the ability to enforce those controls
+
+NOTE CONF {"raw":[94,88,95,99,99,99,99,99,99,99]}
+
+00:40:43.310 --> 00:40:45.739
+<v Speaker 2>because it's somebody else's cloud.
+
+NOTE CONF {"raw":[99,98,99,99,90]}
+
+00:40:46.639 --> 00:40:49.600
+<v Speaker 2>So, how, what do we do here?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:40:49.760 --> 00:40:51.919
+<v Speaker 2>What is, what is going on in the cloud environment?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:52.239 --> 00:40:55.830
+<v Speaker 2>Well, actually, the cloud environment may give you three options.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,89,99]}
+
+00:40:56.199 --> 00:41:01.610
+<v Speaker 2>Number 1, It's called infrastructure as a service where they
+
+NOTE CONF {"raw":[60,85,99,100,99,99,99,99,99,100]}
+
+00:41:01.610 --> 00:41:02.610
+<v Speaker 2>give you the land.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:41:03.489 --> 00:41:04.669
+<v Speaker 2>And you build the castle.
+
+NOTE CONF {"raw":[98,99,99,98,99]}
+
+00:41:05.679 --> 00:41:07.850
+<v Speaker 2>Number 2 is platform as a service.
+
+NOTE CONF {"raw":[37,99,97,99,99,99,99]}
+
+00:41:07.909 --> 00:41:10.050
+<v Speaker 2>They give you the land and they build the castle,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:10.389 --> 00:41:12.250
+<v Speaker 2>but you have to furnish the castle yourself.
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99]}
+
+00:41:13.899 --> 00:41:16.639
+<v Speaker 2>And then the third is software as a service where
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:16.939 --> 00:41:19.459
+<v Speaker 2>the land is there, the castle is there, they've furnished
+
+NOTE CONF {"raw":[99,100,100,99,99,99,100,100,72,99]}
+
+00:41:19.459 --> 00:41:19.620
+<v Speaker 2>it.
+
+NOTE CONF {"raw":[99]}
+
+00:41:19.699 --> 00:41:21.729
+<v Speaker 2>All you can do is make rules about how your
+
+NOTE CONF {"raw":[81,99,99,100,100,100,100,99,100,99]}
+
+00:41:21.729 --> 00:41:23.439
+<v Speaker 2>asset can be accessed.
+
+NOTE CONF {"raw":[99,99,100,99]}
+
+00:41:25.709 --> 00:41:27.370
+<v Speaker 2>Do you see the three different things.
+
+NOTE CONF {"raw":[56,67,99,99,80,99,99]}
+
+00:41:30.110 --> 00:41:34.219
+<v Speaker 2>Before this, it was our land, our castle, our furnishing,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:34.330 --> 00:41:35.679
+<v Speaker 2>our rules.
+
+NOTE CONF {"raw":[99,99]}
+
+00:41:36.459 --> 00:41:39.419
+<v Speaker 2>When we moved to the cloud, now the land is
+
+NOTE CONF {"raw":[99,99,57,99,99,99,99,99,99,99]}
+
+00:41:39.419 --> 00:41:40.439
+<v Speaker 2>not ours.
+
+NOTE CONF {"raw":[99,99]}
+
+00:41:40.860 --> 00:41:43.949
+<v Speaker 2>But the question is, The land is not ours.
+
+NOTE CONF {"raw":[77,99,99,99,98,99,99,99,99]}
+
+00:41:44.070 --> 00:41:47.050
+<v Speaker 2>Are they going to build a castle on it and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:47.250 --> 00:41:50.250
+<v Speaker 2>furnish it and say, OK, you tell us what rules
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:50.469 --> 00:41:53.270
+<v Speaker 2>you want to apply, what protocols exist, and we will
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:41:53.270 --> 00:41:54.360
+<v Speaker 2>enforce them for you.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:41:54.909 --> 00:41:56.870
+<v Speaker 2>So that is the software as a service, like if
+
+NOTE CONF {"raw":[99,99,99,66,99,99,99,99,59,99]}
+
+00:41:56.870 --> 00:41:59.610
+<v Speaker 2>you are in the SAS environment, that's what's happening.
+
+NOTE CONF {"raw":[99,98,99,96,24,99,98,96,99]}
+
+00:42:00.070 --> 00:42:02.570
+<v Speaker 2>They have set up all the infrastructure.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:42:02.709 --> 00:42:05.080
+<v Speaker 2>All you can do is tell them what rules you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:05.080 --> 00:42:06.489
+<v Speaker 2>want to have enforced.
+
+NOTE CONF {"raw":[99,99,99,98]}
+
+00:42:07.469 --> 00:42:10.689
+<v Speaker 2>That's as much control as they allow you to have.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:42:11.729 --> 00:42:14.639
+<v Speaker 2>But if you decide, no, I actually want more control,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:14.780 --> 00:42:16.620
+<v Speaker 2>you can go for a platform as a surface and
+
+NOTE CONF {"raw":[99,99,99,99,21,99,97,95,85,99]}
+
+00:42:16.620 --> 00:42:19.300
+<v Speaker 2>say, you make the building, but I will design the
+
+NOTE CONF {"raw":[99,96,82,99,99,99,99,99,99,99]}
+
+00:42:19.300 --> 00:42:22.899
+<v Speaker 2>rooms and I'll design the rules, and I'll design where
+
+NOTE CONF {"raw":[99,99,75,99,99,99,99,90,99,99]}
+
+00:42:22.899 --> 00:42:24.020
+<v Speaker 2>my assets get placed.
+
+NOTE CONF {"raw":[99,98,99,99]}
+
+00:42:24.260 --> 00:42:25.800
+<v Speaker 2>You just give me an empty building.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99]}
+
+00:42:27.070 --> 00:42:30.199
+<v Speaker 2>And then infrastructure service, there's no building.
+
+NOTE CONF {"raw":[50,99,98,98,84,99,99]}
+
+00:42:30.899 --> 00:42:34.219
+<v Speaker 2>You have to bring in your developers and create the
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:42:34.219 --> 00:42:37.820
+<v Speaker 2>environment and the rooms and the rules, and then you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:37.820 --> 00:42:42.530
+<v Speaker 2>can control that, but you don't control the The infrastructure
+
+NOTE CONF {"raw":[99,99,99,64,99,99,99,96,98,98]}
+
+00:42:42.530 --> 00:42:43.429
+<v Speaker 2>itself, you control.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:42:44.520 --> 00:42:46.679
+<v Speaker 2>The, what's happening on the infrastructure.
+
+NOTE CONF {"raw":[82,99,99,99,99,99]}
+
+00:42:47.750 --> 00:42:50.360
+<v Speaker 2>You see the difference between the three things, right?
+
+NOTE CONF {"raw":[99,99,99,99,100,99,84,99,95]}
+
+00:42:50.459 --> 00:42:54.000
+<v Speaker 2>The 3 different environments, from a security strategy point of
+
+NOTE CONF {"raw":[76,44,99,99,98,99,99,99,100,99]}
+
+00:42:54.000 --> 00:42:56.179
+<v Speaker 2>view, they're entirely different ball games.
+
+NOTE CONF {"raw":[99,85,99,100,99,92]}
+
+00:42:57.120 --> 00:43:00.959
+<v Speaker 2>In one, which is the software, the service, you rely
+
+NOTE CONF {"raw":[99,99,99,99,99,99,80,99,99,99]}
+
+00:43:00.959 --> 00:43:04.370
+<v Speaker 2>on the vendor to manage your security for you.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:43:04.530 --> 00:43:07.209
+<v Speaker 2>You only say what the rules are, right?
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,94]}
+
+00:43:07.330 --> 00:43:08.250
+<v Speaker 2>They have to do everything.
+
+NOTE CONF {"raw":[96,99,99,99,99]}
+
+00:43:08.449 --> 00:43:10.629
+<v Speaker 2>And for a lot of organizations like big banks who
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,99]}
+
+00:43:10.629 --> 00:43:13.129
+<v Speaker 2>say, Hey, security is not our problem, you know, this
+
+NOTE CONF {"raw":[99,69,99,91,99,99,99,89,98,99]}
+
+00:43:13.129 --> 00:43:15.840
+<v Speaker 2>is not core business, we're happy to go to the
+
+NOTE CONF {"raw":[99,99,99,99,78,99,99,99,36,85]}
+
+00:43:15.840 --> 00:43:17.469
+<v Speaker 2>cloud, we'll outsource everything.
+
+NOTE CONF {"raw":[98,56,99,99]}
+
+00:43:17.649 --> 00:43:18.560
+<v Speaker 2>This is what they're doing.
+
+NOTE CONF {"raw":[95,99,99,99,99]}
+
+00:43:18.889 --> 00:43:21.010
+<v Speaker 2>They're giving it to somebody else and they're just trusting
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,98,99,99]}
+
+00:43:21.010 --> 00:43:25.699
+<v Speaker 2>the organization, and their, their castle is going to work.
+
+NOTE CONF {"raw":[99,99,99,78,94,99,99,99,99,99]}
+
+00:43:29.969 --> 00:43:32.389
+<v Speaker 2>One other aspect is the data itself.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:43:33.290 --> 00:43:35.530
+<v Speaker 2>What we want is a situation where we take a
+
+NOTE CONF {"raw":[94,95,99,99,94,99,61,99,99,99]}
+
+00:43:35.530 --> 00:43:38.330
+<v Speaker 2>data asset and we put it into the cloud or
+
+NOTE CONF {"raw":[99,99,99,96,99,99,99,99,98,99]}
+
+00:43:38.330 --> 00:43:40.909
+<v Speaker 2>we take it outside of our environment, which is almost
+
+NOTE CONF {"raw":[98,99,99,99,98,99,99,99,99,99]}
+
+00:43:40.909 --> 00:43:44.159
+<v Speaker 2>certainly happening today because the workforce is mobile, we want
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,79,99]}
+
+00:43:44.159 --> 00:43:46.229
+<v Speaker 2>to be able to lock the data.
+
+NOTE CONF {"raw":[99,99,99,99,97,97,98]}
+
+00:43:46.850 --> 00:43:48.909
+<v Speaker 2>We want to lock the data.
+
+NOTE CONF {"raw":[66,97,99,94,99,98]}
+
+00:43:49.870 --> 00:43:52.350
+<v Speaker 2>Allow the data to move around the world in a
+
+NOTE CONF {"raw":[74,99,99,99,99,99,99,99,99,99]}
+
+00:43:52.350 --> 00:43:55.790
+<v Speaker 2>locked state, but every time somebody tries to access the
+
+NOTE CONF {"raw":[99,99,92,99,99,99,99,99,99,99]}
+
+00:43:55.790 --> 00:43:59.510
+<v Speaker 2>data, they refer to the organization and ask us who
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,99,99,99]}
+
+00:43:59.510 --> 00:44:02.750
+<v Speaker 2>has access to the, who has the keys, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98]}
+
+00:44:03.149 --> 00:44:04.830
+<v Speaker 2>So it's kind of like in a castle, if you
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,99,100]}
+
+00:44:04.830 --> 00:44:07.969
+<v Speaker 2>had your, your diamonds, your jewels in a strong box
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,100,100,100]}
+
+00:44:08.870 --> 00:44:11.870
+<v Speaker 2>and you locked that box and it was unbreakable, and
+
+NOTE CONF {"raw":[99,100,99,100,100,99,100,100,100,99]}
+
+00:44:11.870 --> 00:44:13.870
+<v Speaker 2>you gave it to somebody and say, right, you can
+
+NOTE CONF {"raw":[100,99,100,100,99,99,99,95,99,100]}
+
+00:44:13.879 --> 00:44:16.350
+<v Speaker 2>go around the world, whatever, it's secure.
+
+NOTE CONF {"raw":[100,99,100,100,99,99,99]}
+
+00:44:16.669 --> 00:44:19.550
+<v Speaker 2>Nobody's going to open the box without the key, but
+
+NOTE CONF {"raw":[98,96,94,100,100,100,100,100,100,99]}
+
+00:44:19.550 --> 00:44:20.689
+<v Speaker 2>we keep the key in the castle.
+
+NOTE CONF {"raw":[100,99,100,100,100,100,99]}
+
+00:44:21.709 --> 00:44:23.270
+<v Speaker 2>Somebody wants to open the box, they have to come
+
+NOTE CONF {"raw":[99,100,100,100,100,100,99,100,100,100]}
+
+00:44:23.270 --> 00:44:25.110
+<v Speaker 2>to the castle and we'll give them the key.
+
+NOTE CONF {"raw":[100,100,100,99,99,99,100,100,100]}
+
+00:44:25.459 --> 00:44:27.189
+<v Speaker 2>And then they can open the box, right?
+
+NOTE CONF {"raw":[99,99,99,96,99,99,99,87]}
+
+00:44:27.419 --> 00:44:29.340
+<v Speaker 2>That's what we want to do with encryption.
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99]}
+
+00:44:29.540 --> 00:44:32.129
+<v Speaker 2>We want to encrypt our data in a way that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:32.580 --> 00:44:35.300
+<v Speaker 2>for the for the decryption to happen, they need our
+
+NOTE CONF {"raw":[99,92,89,99,99,99,99,99,99,99]}
+
+00:44:35.300 --> 00:44:35.919
+<v Speaker 2>permission.
+
+NOTE CONF {"raw":[99]}
+
+00:44:36.340 --> 00:44:38.699
+<v Speaker 2>But in order for that to work, you really need
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:44:38.699 --> 00:44:42.139
+<v Speaker 2>an environment where wherever that data travels, there is an
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:44:42.139 --> 00:44:44.899
+<v Speaker 2>engine or an environment that will keep on checking.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:44:46.379 --> 00:44:49.520
+<v Speaker 2>Checking with us, taking the keys, opening it up, giving
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,96]}
+
+00:44:49.520 --> 00:44:53.159
+<v Speaker 2>the, giving access to an identity that's authenticated.
+
+NOTE CONF {"raw":[64,98,99,99,99,99,94,98]}
+
+00:44:55.570 --> 00:44:59.070
+<v Speaker 2>So, lastly, I think this is my last slide.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,100,99]}
+
+00:44:59.570 --> 00:45:00.330
+<v Speaker 2>We're seeing.
+
+NOTE CONF {"raw":[64,99]}
+
+00:45:01.469 --> 00:45:04.290
+<v Speaker 2>The capsule model has become somewhat outdated.
+
+NOTE CONF {"raw":[99,7,99,99,99,99,99]}
+
+00:45:05.919 --> 00:45:08.360
+<v Speaker 2>For most organizations, because I mean the castle as a
+
+NOTE CONF {"raw":[58,98,99,99,62,54,99,98,99,99]}
+
+00:45:08.360 --> 00:45:10.020
+<v Speaker 2>strategy will never get outdated.
+
+NOTE CONF {"raw":[98,99,99,99,99]}
+
+00:45:10.510 --> 00:45:14.280
+<v Speaker 2>Defense in depth works because if you create boundaries and
+
+NOTE CONF {"raw":[78,98,98,99,99,99,99,99,99,99]}
+
+00:45:14.280 --> 00:45:17.360
+<v Speaker 2>the boundaries stack up together with all the controls in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:17.360 --> 00:45:23.000
+<v Speaker 2>those boundaries, the full stack of all those creates this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:23.000 --> 00:45:27.379
+<v Speaker 2>obstacle course and the sum is greater than the parts,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:27.800 --> 00:45:31.560
+<v Speaker 2>so defense and depth will always work as a strategy.
+
+NOTE CONF {"raw":[77,99,99,99,99,99,99,99,99,97]}
+
+00:45:31.899 --> 00:45:35.899
+<v Speaker 2>It's just that now we cannot enforce defense in depth
+
+NOTE CONF {"raw":[35,97,99,99,99,99,99,99,99,98]}
+
+00:45:35.899 --> 00:45:39.139
+<v Speaker 2>because we don't own the land upon which our assets
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:39.139 --> 00:45:39.620
+<v Speaker 2>exist.
+
+NOTE CONF {"raw":[99]}
+
+00:45:39.899 --> 00:45:41.179
+<v Speaker 2>They are owned by other people.
+
+NOTE CONF {"raw":[97,99,99,99,99,99]}
+
+00:45:41.300 --> 00:45:44.739
+<v Speaker 2>So you've separated ownership from possession, and now in order
+
+NOTE CONF {"raw":[83,96,99,99,99,99,95,99,99,99]}
+
+00:45:44.739 --> 00:45:46.379
+<v Speaker 2>to do that, we have to come up with much
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:46.379 --> 00:45:51.219
+<v Speaker 2>more complex systems by which roaming assets, assets that roam
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:45:51.219 --> 00:45:53.659
+<v Speaker 2>around the world, data that sits on your phone or
+
+NOTE CONF {"raw":[99,99,99,99,85,98,99,99,99,99]}
+
+00:45:53.659 --> 00:45:56.510
+<v Speaker 2>your laptop, blah blah, it sits outside the organization's premise,
+
+NOTE CONF {"raw":[99,99,94,91,83,98,99,99,97,99]}
+
+00:45:56.860 --> 00:45:57.959
+<v Speaker 2>that has to be controlled.
+
+NOTE CONF {"raw":[94,99,99,99,99]}
+
+00:45:58.989 --> 00:46:02.330
+<v Speaker 2>And we do that by creating layers around the asset
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:02.429 --> 00:46:05.850
+<v Speaker 2>and keeping those layers moving with the asset.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:46:06.469 --> 00:46:09.770
+<v Speaker 2>That's still defense in depth is just not as sophisticated
+
+NOTE CONF {"raw":[57,99,99,52,99,98,99,99,99,99]}
+
+00:46:10.030 --> 00:46:11.050
+<v Speaker 2>as we used to have.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:46:11.429 --> 00:46:17.129
+<v Speaker 2>So things like multi-factor authentication and behavioral analytics allows us
+
+NOTE CONF {"raw":[99,99,99,89,99,99,99,99,99,99]}
+
+00:46:17.129 --> 00:46:20.780
+<v Speaker 2>to to move from pure boundary, where you cross the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:46:20.780 --> 00:46:23.629
+<v Speaker 2>boundary, now you can do anything to identity, which is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:23.629 --> 00:46:25.389
+<v Speaker 2>even if you've crossed a boundary, we're still going to
+
+NOTE CONF {"raw":[99,99,98,99,87,99,99,99,80,80]}
+
+00:46:25.389 --> 00:46:26.149
+<v Speaker 2>keep checking who you are.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:46:27.294 --> 00:46:31.084
+<v Speaker 2>Zero trust and moving from reactive to predictive rather than
+
+NOTE CONF {"raw":[76,99,80,99,99,99,99,99,99,99]}
+
+00:46:31.084 --> 00:46:34.965
+<v Speaker 2>looking at signatures of behavior, we can predict what bad
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:34.965 --> 00:46:38.344
+<v Speaker 2>things will happen by using AI and we're moving from
+
+NOTE CONF {"raw":[99,99,99,99,99,99,91,90,99,99]}
+
+00:46:38.344 --> 00:46:41.925
+<v Speaker 2>on-prem to cloud, so we don't control the environment, but
+
+NOTE CONF {"raw":[94,99,98,99,99,98,99,99,99,99]}
+
+00:46:41.925 --> 00:46:44.955
+<v Speaker 2>we certainly still do have the ability to enforce rules
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99,99,99,99]}
+
+00:46:44.955 --> 00:46:46.245
+<v Speaker 2>in other people's environment.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:46:47.300 --> 00:46:49.219
+<v Speaker 2>Right, that's where we're moving.
+
+NOTE CONF {"raw":[98,64,99,99,99]}
+
+00:46:49.500 --> 00:46:54.840
+<v Speaker 2>But again, bottom line in terms of technology controls.
+
+NOTE CONF {"raw":[89,99,99,99,99,100,99,99,99]}
+
+00:46:55.689 --> 00:46:57.870
+<v Speaker 2>The strategy is defense in depth.
+
+NOTE CONF {"raw":[99,97,99,99,90,99]}
+
+00:46:58.570 --> 00:47:00.919
+<v Speaker 2>So on the exam, for instance, if we ask you,
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:47:01.209 --> 00:47:04.360
+<v Speaker 2>here's an organization, here are the assets that they have,
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:47:04.689 --> 00:47:07.850
+<v Speaker 2>and we want you to design a defense in depth
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,94,95]}
+
+00:47:07.850 --> 00:47:11.489
+<v Speaker 2>strategy to protect this organization from this kind of actor.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:12.449 --> 00:47:14.000
+<v Speaker 2>First of all, you have to know what we mean
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:47:14.000 --> 00:47:14.689
+<v Speaker 2>by defense in depth.
+
+NOTE CONF {"raw":[99,99,93,99]}
+
+00:47:14.760 --> 00:47:16.010
+<v Speaker 2>If you turn up to the exam and you don't
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:47:16.010 --> 00:47:18.290
+<v Speaker 2>know what defense in depth is, you won't know that
+
+NOTE CONF {"raw":[99,99,99,87,99,99,99,99,99,99]}
+
+00:47:18.290 --> 00:47:20.360
+<v Speaker 2>you've got to look at all, a whole range of
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:47:20.360 --> 00:47:23.129
+<v Speaker 2>controls and figure out how to stack them together to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:23.129 --> 00:47:25.250
+<v Speaker 2>create an environment that's challenging for the actor.
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99]}
+
+00:47:26.330 --> 00:47:27.379
+<v Speaker 2>You need to know that.
+
+NOTE CONF {"raw":[83,99,99,99,99]}
+
+00:47:27.850 --> 00:47:30.610
+<v Speaker 2>Then you need to know what are the controls, and
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,99,99,78]}
+
+00:47:30.610 --> 00:47:32.969
+<v Speaker 2>then you need to explain to us how those controls
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:32.969 --> 00:47:36.840
+<v Speaker 2>will work together, mostly managerial controls because we're not that
+
+NOTE CONF {"raw":[99,99,99,91,99,99,99,95,99,99]}
+
+00:47:36.840 --> 00:47:40.689
+<v Speaker 2>interested in the technological side, but certainly technological controls insofar
+
+NOTE CONF {"raw":[99,99,99,98,99,89,99,98,99,62]}
+
+00:47:40.689 --> 00:47:43.770
+<v Speaker 2>as you can say, we need to separate these assets
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:47:43.770 --> 00:47:46.570
+<v Speaker 2>from these from these people, and we might enforce that
+
+NOTE CONF {"raw":[99,99,86,99,99,97,99,99,99,99]}
+
+00:47:46.570 --> 00:47:49.899
+<v Speaker 2>using firewall technologies or these sorts of technologies, right?
+
+NOTE CONF {"raw":[99,99,97,99,99,97,99,98,75]}
+
+00:47:49.929 --> 00:47:52.169
+<v Speaker 2>That's the kind of answer that we would expect on
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99,99,99]}
+
+00:47:52.169 --> 00:47:52.770
+<v Speaker 2>the exam.
+
+NOTE CONF {"raw":[99,98]}
+
+00:47:53.429 --> 00:47:53.939
+<v Speaker 2>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:47:54.879 --> 00:47:58.489
+<v Speaker 2>Good luck with your presentations, uh, and I'll see you
+
+NOTE CONF {"raw":[99,100,100,99,99,95,99,99,100,100]}
+
+00:47:58.489 --> 00:47:59.030
+<v Speaker 2>next week.
+
+NOTE CONF {"raw":[100,100]}
+
+00:48:09.479 --> 00:48:11.360
+<v Speaker 1>Sorry, one sec, 1 sec, it's gonna get recorded.
+
+NOTE CONF {"raw":[99,86,98,85,66,98,81,99,99]}
+
+00:48:22.040 --> 00:48:28.310
+<v Speaker 1>So OK.
+
+NOTE CONF {"raw":[28,2]}
+
+00:48:32.409 --> 00:48:32.419
+<v Speaker 1>And.
+
+NOTE CONF {"raw":[7]}
+
+00:48:35.840 --> 00:48:36.520
+<v Speaker 1>I'll see you later.
+
+NOTE CONF {"raw":[98,99,98,99]}
+
+00:48:37.120 --> 00:48:41.419
+<v Speaker 1>I have sure doesn't really affect it.
+
+NOTE CONF {"raw":[98,81,40,90,99,99,41]}
+
+00:48:43.739 --> 00:48:46.399
+<v Speaker 1>And then on, I have a question because I had
+
+NOTE CONF {"raw":[98,83,76,99,68,99,99,92,99,99]}
+
+00:48:46.399 --> 00:48:49.739
+<v Speaker 1>an last semester I had an assignment similar to this
+
+NOTE CONF {"raw":[63,99,93,99,99,99,99,99,99,99]}
+
+00:48:49.739 --> 00:48:53.300
+<v Speaker 1>and we came in a dilemma about putting our health
+
+NOTE CONF {"raw":[99,99,99,51,15,20,99,99,95,98]}
+
+00:48:53.300 --> 00:48:54.520
+<v Speaker 1>day by putting it on the file.
+
+NOTE CONF {"raw":[38,57,99,99,99,99,24]}
+
+00:48:57.189 --> 00:49:00.469
+<v Speaker 1>Something that we need to coordinate to sort of decide
+
+NOTE CONF {"raw":[81,97,84,99,99,23,96,98,92,99]}
+
+00:49:00.469 --> 00:49:01.379
+<v Speaker 1>the pros and cons.
+
+NOTE CONF {"raw":[99,99,99,98]}
+
+00:49:02.870 --> 00:49:07.399
+<v Speaker 1>So in reality when people decide to put their names
+
+NOTE CONF {"raw":[93,99,99,99,99,99,96,95,98,8]}
+
+00:49:08.050 --> 00:49:09.129
+<v Speaker 1>on the clouds.
+
+NOTE CONF {"raw":[99,99,76]}
+
+00:49:10.800 --> 00:49:15.629
+<v Speaker 1>What was their approach in the sense that is this
+
+NOTE CONF {"raw":[94,36,99,99,99,99,99,99,95,55]}
+
+00:49:15.629 --> 00:49:24.020
+<v Speaker 1>affected by Or it's, it's trust you're, you're trusting the
+
+NOTE CONF {"raw":[72,99,79,91,99,99,47,99,99,99]}
+
+00:49:24.020 --> 00:49:27.479
+<v Speaker 1>vendor you can have a contract and say blah blah.
+
+NOTE CONF {"raw":[99,84,99,99,99,99,99,99,25,29]}
+
+00:49:28.060 --> 00:49:29.840
+<v Speaker 1>Is there any way to check whether the contract to
+
+NOTE CONF {"raw":[59,99,99,99,100,99,99,48,99,24]}
+
+00:49:29.840 --> 00:49:30.459
+<v Speaker 1>be enforced?
+
+NOTE CONF {"raw":[36,43]}
+
+00:49:32.780 --> 00:49:33.379
+<v Speaker 1>Well, I mean.
+
+NOTE CONF {"raw":[88,99,91]}
+
+00:49:34.770 --> 00:49:37.090
+<v Speaker 1>That's the problem, right, is that you can have a
+
+NOTE CONF {"raw":[99,99,99,99,79,99,99,99,99,99]}
+
+00:49:37.090 --> 00:49:37.330
+<v Speaker 1>contract.
+
+NOTE CONF {"raw":[99]}
+
+00:49:37.760 --> 00:49:40.169
+<v Speaker 1>You can have a service level agreement with the, with
+
+NOTE CONF {"raw":[78,99,99,99,85,64,99,99,98,99]}
+
+00:49:40.169 --> 00:49:40.350
+<v Speaker 1>the guy.
+
+NOTE CONF {"raw":[99,70]}
+
+00:49:41.439 --> 00:49:43.050
+<v Speaker 1>Some companies create like a.
+
+NOTE CONF {"raw":[83,99,99,99,97]}
+
+00:49:44.800 --> 00:49:47.389
+<v Speaker 1>Where they have like a serial service now it's, right?
+
+NOTE CONF {"raw":[96,99,99,99,96,0,99,88,13,98]}
+
+00:49:47.489 --> 00:49:49.040
+<v Speaker 1>It's like a ticketing mechanism.
+
+NOTE CONF {"raw":[6,97,99,99,99]}
+
+00:49:49.120 --> 00:49:50.570
+<v Speaker 1>They create a ticketing mechanism.
+
+NOTE CONF {"raw":[42,98,74,98,99]}
+
+00:49:50.919 --> 00:49:54.320
+<v Speaker 1>They try to they try to get all the people
+
+NOTE CONF {"raw":[68,99,99,98,98,99,99,99,99,99]}
+
+00:49:54.320 --> 00:49:56.959
+<v Speaker 1>who are working on the vendor side to be transparent
+
+NOTE CONF {"raw":[99,99,99,99,98,92,99,99,99,99]}
+
+00:49:56.959 --> 00:49:58.479
+<v Speaker 1>about what they're doing so they can see.
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99]}
+
+00:49:59.510 --> 00:49:59.530
+<v Speaker 1>Thank you.
+
+NOTE CONF {"raw":[95,93]}
+
+00:50:03.429 --> 00:50:06.590
+<v Speaker 1>Hi, um, so I was part of computing before switching
+
+NOTE CONF {"raw":[98,73,97,99,99,99,99,99,99,33]}
+
+00:50:06.590 --> 00:50:06.969
+<v Speaker 3>to cyber.
+
+NOTE CONF {"raw":[99,76]}
+
+00:50:07.750 --> 00:50:10.750
+<v Speaker 3>So, uh, all tutorials were full and I was going
+
+NOTE CONF {"raw":[80,73,99,99,34,99,99,99,99,99]}
+
+00:50:10.750 --> 00:50:13.429
+<v Speaker 3>for the 5 p.m. Thursday, and then the TAFF assigned
+
+NOTE CONF {"raw":[99,99,99,99,30,99,99,99,5,98]}
+
+00:50:13.429 --> 00:50:16.350
+<v Speaker 3>me at 1 p.m. So I'm still, I, I was
+
+NOTE CONF {"raw":[99,99,99,99,94,98,99,43,99,99]}
+
+00:50:16.350 --> 00:50:16.669
+<v Speaker 2>attending.
+
+NOTE CONF {"raw":[95]}
+
+00:50:18.110 --> 00:50:19.669
+<v Speaker 3>Yeah, but I'm still not part of any group.
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,99,100]}
+
+00:50:19.810 --> 00:50:22.189
+<v Speaker 3>So is it OK if I do it alone, or
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,93]}
+
+00:50:22.189 --> 00:50:25.149
+<v Speaker 3>like, I, yeah, but I'm still not part of any
+
+NOTE CONF {"raw":[99,68,98,99,99,100,99,99,99,99]}
+
+00:50:25.149 --> 00:50:25.330
+<v Speaker 3>group.
+
+NOTE CONF {"raw":[99]}
+
+00:50:26.870 --> 00:50:30.070
+<v Speaker 3>I started, uh, I had to switch subjects, so I,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,99,99]}
+
+00:50:30.469 --> 00:50:33.070
+<v Speaker 3>I, um, I had to drop a subject, so it
+
+NOTE CONF {"raw":[99,98,99,99,100,99,99,99,80,99]}
+
+00:50:33.070 --> 00:50:38.229
+<v Speaker 3>was like the, it was clashing because normally.
+
+NOTE CONF {"raw":[99,99,80,98,99,66,92,64]}
+
+00:50:39.689 --> 00:50:40.620
+<v Speaker 3>I'm part of the subject.
+
+NOTE CONF {"raw":[83,99,99,99,99]}
+
+00:50:40.679 --> 00:50:41.070
+<v Speaker 3>No, no.
+
+NOTE CONF {"raw":[48,34]}
+
+00:50:41.199 --> 00:50:42.610
+<v Speaker 3>When did you enter and Who authorized it?
+
+NOTE CONF {"raw":[98,99,99,99,89,89,99,99]}
+
+00:50:42.699 --> 00:50:43.409
+<v Speaker 1>Did I authorize it?
+
+NOTE CONF {"raw":[99,99,98,99]}
+
+00:50:44.399 --> 00:50:46.879
+<v Speaker 3>Uh, yeah, no, I, I'm, I've started from like week
+
+NOTE CONF {"raw":[91,87,99,92,63,74,99,99,99,99]}
+
+00:50:46.879 --> 00:50:47.129
+<v Speaker 3>one.
+
+NOTE CONF {"raw":[99]}
+
+00:50:47.330 --> 00:50:49.129
+<v Speaker 3>You came in week one, yeah, yeah, but the class
+
+NOTE CONF {"raw":[99,99,97,99,99,99,79,99,99,84]}
+
+00:50:49.129 --> 00:50:50.510
+<v Speaker 3>assigned me, uh, the one.
+
+NOTE CONF {"raw":[99,99,80,99,91]}
+
+00:50:51.620 --> 00:50:54.139
+<v Speaker 3>No, it doesn't matter what they assigned you because I,
+
+NOTE CONF {"raw":[99,99,99,100,99,100,99,99,100,92]}
+
+00:50:54.179 --> 00:50:55.260
+<v Speaker 2>you can go to any tutorial.
+
+NOTE CONF {"raw":[99,100,100,100,100,100]}
+
+00:50:55.300 --> 00:50:56.280
+<v Speaker 2>You just have to tell me.
+
+NOTE CONF {"raw":[99,100,99,100,99,99]}
+
+00:50:57.100 --> 00:50:59.379
+<v Speaker 2>Oh yeah, in the beginning when they assign it, that's
+
+NOTE CONF {"raw":[99,99,99,100,100,100,100,99,99,99]}
+
+00:50:59.379 --> 00:51:01.620
+<v Speaker 2>just to try to get people into the classes once
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,98]}
+
+00:51:01.620 --> 00:51:01.780
+<v Speaker 2>they.
+
+NOTE CONF {"raw":[99]}
+
+00:51:01.959 --> 00:51:04.709
+<v Speaker 1>Do that ignore it, right?
+
+NOTE CONF {"raw":[91,92,4,71,98]}
+
+00:51:04.719 --> 00:51:06.580
+<v Speaker 3>I was going for 5, but now I want to
+
+NOTE CONF {"raw":[99,99,100,100,99,100,100,100,100,100]}
+
+00:51:06.580 --> 00:51:08.959
+<v Speaker 3>go for 1 because you're not in a group yet.
+
+NOTE CONF {"raw":[100,99,99,97,97,99,99,99,99,99]}
+
+00:51:09.419 --> 00:51:10.399
+<v Speaker 2>You've not done any work.
+
+NOTE CONF {"raw":[98,99,99,99,99]}
+
+00:51:10.659 --> 00:51:11.699
+<v Speaker 2>No, I can do the work.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:51:11.820 --> 00:51:13.879
+<v Speaker 2>No, no, you haven't done any work in a group
+
+NOTE CONF {"raw":[99,99,95,99,100,99,100,100,100,100]}
+
+00:51:14.189 --> 00:51:17.179
+<v Speaker 1>yet, yeah, OK, yeah, that's a bubble.
+
+NOTE CONF {"raw":[99,58,99,99,99,99,24]}
+
+00:51:18.489 --> 00:51:19.120
+<v Speaker 1>You're not going to pass.
+
+NOTE CONF {"raw":[95,99,74,51,91]}
+
+00:51:20.530 --> 00:51:24.469
+<v Speaker 3>I, I, I can do it, but, like, no, you
+
+NOTE CONF {"raw":[99,99,99,99,100,99,89,99,91,99]}
+
+00:51:24.469 --> 00:51:25.590
+<v Speaker 1>have to be part of a group and you have
+
+NOTE CONF {"raw":[91,100,100,100,100,99,100,99,100,87]}
+
+00:51:25.590 --> 00:51:27.229
+<v Speaker 1>to tell us if you weren't part of a group,
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,100]}
+
+00:51:27.620 --> 00:51:29.189
+<v Speaker 1>because if you're still not part of a group, you're
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,99,100,100]}
+
+00:51:29.189 --> 00:51:31.830
+<v Speaker 3>not gonna pass this assessment because it is a group
+
+NOTE CONF {"raw":[100,87,100,99,99,99,99,99,99,100]}
+
+00:51:31.830 --> 00:51:32.429
+<v Speaker 3>assessment.
+
+NOTE CONF {"raw":[99]}
+
+00:51:32.790 --> 00:51:34.669
+<v Speaker 3>Yeah, I, I can join a group and there is
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,99,99,45]}
+
+00:51:34.669 --> 00:51:35.449
+<v Speaker 3>still time.
+
+NOTE CONF {"raw":[99,99]}
+
+00:51:36.185 --> 00:51:37.905
+<v Speaker 2>If you join the group now, you're going to be
+
+NOTE CONF {"raw":[95,94,99,45,99,99,98,90,80,99]}
+
+00:51:37.905 --> 00:51:38.645
+<v Speaker 3>downgraded.
+
+NOTE CONF {"raw":[98]}
+
+00:51:39.185 --> 00:51:42.584
+<v Speaker 3>Seriously downgraded, right, because up until now you're almost done.
+
+NOTE CONF {"raw":[26,98,83,60,99,99,99,98,99,99]}
+
+00:51:42.774 --> 00:51:45.784
+<v Speaker 2>Every group has to be ready by Tuesday 1 p.m.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:46.024 --> 00:51:47.504
+<v Speaker 2>Everything has to be done by now.
+
+NOTE CONF {"raw":[89,99,99,97,99,99,79]}
+
+00:51:47.945 --> 00:51:50.725
+<v Speaker 2>So if somebody starts now, Tuesday 1:00 p.m. and tries
+
+NOTE CONF {"raw":[97,99,99,99,99,98,0,98,99,98]}
+
+00:51:50.725 --> 00:51:51.784
+<v Speaker 2>to contribute to a group.
+
+NOTE CONF {"raw":[99,98,99,85,99]}
+
+00:51:52.419 --> 00:51:55.060
+<v Speaker 2>We're going to downgrade that student massively because they can't
+
+NOTE CONF {"raw":[99,97,96,99,99,99,98,99,85,99]}
+
+00:51:55.060 --> 00:51:56.969
+<v Speaker 2>be the same as somebody who started when the assessment
+
+NOTE CONF {"raw":[99,100,100,99,99,99,99,99,99,99]}
+
+00:51:56.969 --> 00:51:57.439
+<v Speaker 2>started.
+
+NOTE CONF {"raw":[99]}
+
+00:51:57.699 --> 00:51:58.629
+<v Speaker 3>It would be unfair.
+
+NOTE CONF {"raw":[99,83,99,99]}
+
+00:51:59.070 --> 00:52:01.530
+<v Speaker 3>Yeah, but the teacher also changed for the 5 p.m.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:52:01.530 --> 00:52:02.699
+<v Speaker 3>and it doesn't matter.
+
+NOTE CONF {"raw":[99,98,99,100]}
+
+00:52:02.860 --> 00:52:03.739
+<v Speaker 2>You have to tell me.
+
+NOTE CONF {"raw":[99,99,99,99,100]}
+
+00:52:03.820 --> 00:52:04.459
+<v Speaker 2>I'm not in a group.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:52:04.649 --> 00:52:07.320
+<v Speaker 3>I also dropped an email to me, yeah, yeah, yeah.
+
+NOTE CONF {"raw":[99,99,99,99,99,93,96,76,91,83]}
+
+00:52:08.110 --> 00:52:09.219
+<v Speaker 3>I did see anything.
+
+NOTE CONF {"raw":[99,94,98,96]}
+
+00:52:09.590 --> 00:52:10.510
+<v Speaker 2>Did I respond to your email?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:52:10.780 --> 00:52:12.389
+<v Speaker 2>No, then I didn't get it.
+
+NOTE CONF {"raw":[65,56,100,99,100,99]}
+
+00:52:12.639 --> 00:52:13.340
+<v Speaker 3>I, I did.
+
+NOTE CONF {"raw":[66,99,99]}
+
+00:52:13.469 --> 00:52:16.350
+<v Speaker 2>Yeah, anyway, you have to, anyway, yeah, you've got to
+
+NOTE CONF {"raw":[66,97,99,99,99,99,99,99,99,99]}
+
+00:52:16.350 --> 00:52:16.649
+<v Speaker 2>do something.
+
+NOTE CONF {"raw":[99,99]}
+
+00:52:16.909 --> 00:52:18.550
+<v Speaker 2>I don't know where you'll, I'll do it alone.
+
+NOTE CONF {"raw":[99,99,99,81,19,99,99,99,99]}
+
+00:52:18.750 --> 00:52:19.429
+<v Speaker 3>It's totally fine.
+
+NOTE CONF {"raw":[61,99,99]}
+
+00:52:19.679 --> 00:52:20.370
+<v Speaker 3>I can assess you.
+
+NOTE CONF {"raw":[83,2,97,98]}
+
+00:52:20.419 --> 00:52:21.370
+<v Speaker 1>It's a group assessment.
+
+NOTE CONF {"raw":[93,99,99,98]}
+
+00:52:22.659 --> 00:52:23.860
+<v Speaker 3>Then everybody will want to do it alone because it's
+
+NOTE CONF {"raw":[69,99,99,99,99,100,100,99,99,99]}
+
+00:52:23.860 --> 00:52:24.409
+<v Speaker 3>easier.
+
+NOTE CONF {"raw":[99]}
+
+00:52:25.239 --> 00:52:26.510
+<v Speaker 3>How, how can I be part of a group if
+
+NOTE CONF {"raw":[99,73,99,99,100,99,99,93,99,99]}
+
+00:52:26.510 --> 00:52:27.669
+<v Speaker 3>I'm going to different?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:52:30.189 --> 00:52:30.669
+<v Speaker 2>I don't know.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:52:30.830 --> 00:52:34.550
+<v Speaker 1>Nobody else has to shoot, so send me another email.
+
+NOTE CONF {"raw":[91,99,99,88,79,95,99,99,100,99]}
+
+00:52:34.669 --> 00:52:37.219
+<v Speaker 2>I'll have a chat with the tutors, but I can't,
+
+NOTE CONF {"raw":[99,99,99,100,100,99,66,99,99,96]}
+
+00:52:37.310 --> 00:52:40.389
+<v Speaker 2>I can't guarantee you're going to pass it, right?
+
+NOTE CONF {"raw":[99,99,99,99,91,88,99,26,65]}
+
+00:52:40.739 --> 00:52:42.189
+<v Speaker 2>You have to have to be part of a group.
+
+NOTE CONF {"raw":[93,99,99,61,81,99,99,99,96,99]}
+
+00:52:43.030 --> 00:52:43.709
+<v Speaker 1>Sorry, we have to leave.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:52:43.790 --> 00:52:44.659
+<v Speaker 1>I think somebody else coming in.
+
+NOTE CONF {"raw":[99,99,99,99,49,38]}
+
+00:52:50.469 --> 00:52:59.080
+<v Speaker 1>You I'll probably come in.
+
+NOTE CONF {"raw":[13,11,81,83,72]}
+
+00:53:00.040 --> 00:53:03.110
+<v Speaker 1>Open this one up and then we can put.
+
+NOTE CONF {"raw":[14,99,99,99,99,99,99,99,63]}
+
+00:53:08.820 --> 00:53:11.969
+<v Speaker 1>I You should know that.
+
+NOTE CONF {"raw":[32,6,63,8,71]}
+
+00:53:20.699 --> 00:53:23.139
+<v Speaker 1>Maybe it's better having the food over there, yeah, so
+
+NOTE CONF {"raw":[96,98,99,99,99,99,99,99,88,80]}
+
+00:53:23.139 --> 00:53:23.260
+<v Speaker 1>then it's all.
+
+NOTE CONF {"raw":[84,22,32]}
+
+00:53:27.590 --> 00:53:27.729
+<v Speaker 1>Yeah.
+
+NOTE CONF {"raw":[2]}
+
+00:53:29.149 --> 00:53:29.159
+<v Speaker 1>So.
+
+NOTE CONF {"raw":[31]}
+
+00:53:34.739 --> 00:53:35.280
+<v Speaker 1>Perfect.
+
+NOTE CONF {"raw":[99]}
+
+00:53:37.459 --> 00:53:38.439
+<v Speaker 1>Are they on their way?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:53:40.040 --> 00:53:40.459
+<v Speaker 1>Research cheap.
+
+NOTE CONF {"raw":[66,51]}
+
+00:53:41.330 --> 00:53:41.800
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[96]}
+
+00:53:41.820 --> 00:53:44.139
+<v Speaker 1>OK, you know that.
+
+NOTE CONF {"raw":[63,52,77,68]}
+
+00:53:44.979 --> 00:53:45.899
+<v Speaker 1>We're the same people.
+
+NOTE CONF {"raw":[98,99,99,99]}
+
+00:53:47.840 --> 00:53:51.560
+<v Speaker 1>I'm skip it for the design maybe.
+
+NOTE CONF {"raw":[26,89,99,99,99,89,85]}
+
+00:53:52.639 --> 00:53:52.669
+<v Speaker 1>Yeah, yeah.
+
+NOTE CONF {"raw":[97,86]}
+
+00:54:32.879 --> 00:54:33.719
+<v Speaker 1>Good, it's.
+
+NOTE CONF {"raw":[75,16]}
+
+00:54:35.489 --> 00:54:38.540
+<v Speaker 1>because Yeah.
+
+NOTE CONF {"raw":[9,53]}
+
+00:54:39.550 --> 00:54:49.179
+<v Speaker 1>Uh Great that Last week yeah.
+
+NOTE CONF {"raw":[64,3,5,85,95,74]}
+
+00:54:55.560 --> 00:54:56.189
+<v Speaker 1>Why?
+
+NOTE CONF {"raw":[99]}
+
+00:54:57.550 --> 00:54:57.560
+<v Speaker 1>special
+
+NOTE CONF {"raw":[43]}

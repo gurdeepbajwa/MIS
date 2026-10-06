@@ -1,0 +1,332 @@
+
+Skip To Content
+Gurdeep Bajwa
+Account
+Dashboard
+Subjects
+Groups
+Calendar
+Inbox
+History
+LMS support
+Library
+Academic skills
+Student support
+ISYS90090_2026_SM2Discussions3.3 Horizon Teaching Case (Scenes 1 to 6)
+2026 Semester 2
+Home
+Announcements
+Modules
+Assignments
+Quizzes
+Grades
+Discussions
+Readings Online Classic
+My Echo360 Media
+Gradescope
+People
+Readings Online
+
+
+Filter by
+
+Search entries or author...
+
+Sort by
+
+2 Replies, 2 Unread
+2 Replies, 2 Unread
+
+Discussion Topic: 3.3 Horizon Teaching Case (Scenes 1 to 6)3.3 Horizon Teaching Case (Scenes 1 to 6)
+
+In this subject we will be following the fictional (albeit realistic) unfolding of a major information security incident at Horizon, a hypercar manufacturer. The purpose of the case study is to help ground the knowledge presented to you in a real world scenario. While reading the first six scenes of the case study consider the following bullet points:
+
+The concept of 'knowledge leakage' in a firm where knowledge drives competitive advantage when reading scenes 1 to 3. 
+The distinction between knowledge and information in scene 4. The parallels between the incident at Horizon and the incident at T-mobile.  
+The range of threats and attacks when reading scenes 5 and 6. 
+Answer the questions in red (below) in your eportfolio. Once you've answered the questions, post your insights/reflections in the discussion thread below:
+
+Scene 1
+Present time, somewhere in the north of Europe
+
+Wednesday the 1st of March started like any other day. Anders Svensson, CEO of Horizon Automotive, parked the firm’s latest model hypercar out the front of a tall non-descript building. He hurried up the steps, skipped through the revolving door and made his way to a corner office on the top floor.
+
+“Good morning Erik,” he smiled at a middle-aged bespectacled gentleman. Erik had his head down close to the keyboard – he was typing cautiously with his two index fingers. He would periodically look up to squint at his large screen.
+
+Awkward silence.
+
+Erik looked up towards Anders.
+
+“Hello Anders, I have some unfortunate news.”
+
+“What news?” Anders stared at Erik. He could feel a knot forming in his gut.
+
+“I’m afraid we won’t be placing that order for your NextGen model this year.” Erik looked half apologetic.
+
+“Why? If it’s a matter of price we can negotiate a volume discount if you increase your order to at least 10 units?”
+
+“No, no… it’s not a problem of price,” Erik took a deep breath and leaned back on his expensive leather chair.
+
+“Then?” Anders looked perplexed.
+
+“We’ve decided to place the order with a different firm.” Erik braced for Anders’ reaction.
+
+Anders jaw almost dropped to the floor. “What do you mean you’ve awarded the contract to someone else? We are the leading manufacturer of performance cars in the country. We’re the ONLY manufacturer of performance cars in the country.”
+
+“Yes… Well… that’s true,” stuttered Erik. “But we’ve found another firm that can fulfill our needs. And at a price you won’t be able to match.” Erik could be so matter of fact if he wanted to.
+
+Anders world was spinning. Horizon dominated the super car market in this part of the world. The firm only manufactured 20 to 25 cars every year, but each sold for well over 1.5 million dollars – US dollars that is.
+
+“You’ve found a firm that produces engines that weigh around 200kg but can produce over 900 hp and can accelerate a car from 0 to 100 km/h in 2.5 seconds flat?”
+
+“They say they can,” blinked Erik. “And they are almost as pretty as yours. In fact, come to think of it, there’s even a faint resemblance to your cars. It’s as if they are siblings or cousins perhaps.”
+
+“Who?” uttered Anders, meekly.
+
+“Who what?” muttered Erik.
+
+“What is the name of the firm?” Anders could feel the heat rising to his face.
+
+“I’m sorry. I can’t say. But it’s not a local firm. In fact, it’s not even a European firm.”
+
+“What’s the name,” Anders insisted.
+
+Erik folded his arms and stared into space. Anders could almost feel his face becoming bright red. “Give me the name!”
+
+Erik got up, peered down the corridors and then shut the door.
+
+A few seconds later Anders stormed out of the office - his chest heaving, his anger palpable. He pulled out his cell phone and hit the first speed dial button.
+
+“Patrick, I need your help. I need you to find what you can on a firm named FC Design.”
+
+What do you think is going through Anders’ mind at the end of scene 1?
+
+Scene 2
+Present Time, Horizon Automotive’s offices in Sweden
+
+Anders sat in his posh penthouse office with Lena, his trusted confidante, and VP Research & Development. A manila folder lay on the mahogany table in front of them. It was marked ‘From Patrick Chau - Nordic Risk Intelligence’. Lena carefully undid the clasp and lifted a series of high-resolution pictures.
+
+“Oh, dear God,” Anders was staring at the spitting image of the NextGen Horizon super car. The car was still under development and no living soul had seen the design outside of the R&D team, and him of course.
+
+“How could it be?”
+
+Lena looked up at Anders. “What did you say the name was?”
+
+“FC Design”.
+
+“Wasn’t that the firm that hired one of the engineers from our R&D team about a year ago?
+
+Anders stared at Lena for a moment, his jaw tightened. He picked up the phone to his IT Manager.
+
+“Kurt – I need you to review the logs of all R&D systems from about a year ago. I want to know if Emil accessed any files from the NextGen project before he left.”
+
+What do you think is going through Anders’ mind at the end of scene 2?
+Scene 3
+A few years prior to the present time, Dubai (United Arab Emirates)
+
+Oliver was quite at home strolling barefoot on the white sands of Dubai’s Jumeirah beach. The sun was penetrating, as usual, but the cool breeze made it somewhat tolerable.
+
+“Oliver?” a voice came from behind him. A middle-aged gentleman dressed casually but fashionably in a sports blazer, a t-shirt, shorts, and expensive sunglasses cautiously extended his hand. Oliver shook the hand and pointed to a nearby cafe.
+
+Oliver took the first table under the shade of a large yellow umbrella, thankful to be out of the sun. The client sat opposite him. He took off his glasses and laid them on the table in a slow deliberate motion, as if he were reluctant to reveal his face. The almond-shaped eyes focused laser-like at Oliver.
+
+The client was clearly Asian, extremely wealthy by the way he dressed, and appeared to be very educated from the way he constructed his sentences. That’s about all Oliver could tell at the moment. The client reached into his front pocket and pulled out a business card, carefully laying it on the table in front of Oliver. The card read “FC Design Automotive Industries”. On the second line it said “Research & Development” in bold lettering. No name specified on the card. Oliver glanced at the contact details and address at the bottom of the card -committing the details to memory.
+
+“Call me John,” the client showed no emotion.
+
+“How can I help?” Oliver was curious.
+
+“We would like to procure your services,” the client had a distinctive Canadian accent.
+
+“To do what exactly?” Now Oliver was intrigued.
+
+The client’s hand went into the inside pocket of his jacket pulling out a photograph the size of a greeting card. “Do you recognize this car?”
+
+Oliver raised his eyebrows. “Yes, I do. It’s an Horizon Altitude. Top of the line performance vehicle.”
+
+“Excellent,” said the client returning the photograph to his pocket.
+
+“The incoming CEO of FC Design has outlined an ambitious new vision for the company. He would like the firm to compete in the hypercar market in ten years. Recently, engineers from our R&D division visited the manufacturing division of Horizon. We were very impressed with their… capability.”
+
+Oliver remained silent. The client continued…
+
+“We have the financial resources, we have the factory space, and a highly skilled engineering workforce with considerable experience in building passenger vehicles. But engineering a hypercar requires a higher order capability. To start with, we need you to collect as much information as possible about their next generation project - the designs, the specifications of the parts, the names of their suppliers, the pricing of the raw materials, everything. “
+
+“Why the pricing of the raw materials?”
+
+“To improve our negotiating position with the suppliers,” smiled the client.
+
+“Of course,” said Oliver sheepishly.
+
+“And the matter of my remuneration?”
+
+The hand went into the suit jacket once more. Out came an envelope. Inside was a piece of white paper with a figure written on it. Oliver counted the zeros after the leading digit. “Excellent,” he smiled.
+
+What is this meeting about? What can we deduce about Oliver’s profession? Describe the firm represented by Oliver’s client. What do we know about them and their strategic objectives? How are they planning to shift the competitive landscape? Why have they reached out to Oliver?
+
+Discuss this category of threat. How would you describe this threat? How would you distinguish it from other types of threats?
+
+Scene 4
+Present time, Horizon Automotive’s offices in Sweden
+
+“I’ve got bad news, unfortunately.” Kurt had that scowl on his face again.
+
+“Emil copied hundreds of files from the NextGen project server a few weeks before he left the firm.”
+
+Anders was livid. “How come this is the first time I’m hearing of this?”
+
+“Umm… actually you were briefed at the time, but we were distracted by a procurement issue.”
+
+Anders didn't say anything. He vaguely recalled that Horizon’s supply chain was under threat because a key supplier had declared bankruptcy.
+
+“Well - that’s an Information Security breach. This is your fault!”
+
+Kurt pursed his lips. “Actually - it’s not our area of responsibility. We just maintain the availability of IT systems and networks. We have no idea what information is stored on these systems and what is sensitive. There’s no ‘need-to-know’ policy at this firm. Besides, Emil was part of the R&D team, so he had the authority to access these files.
+
+“But you are in charge of INFORMATION SECURITY”. Now Anders was going red in the face.
+
+“Umm… we’re responsible for IT security”. Retorted Kurt.
+
+“That’s the same thing!” roared Anders.
+
+“Not exactly.”
+
+“Damn!” Anders was clearly not happy. “So, who did Emil speak to in the firm, are these people still here? And did they have access to the paper archives? What did they take from there?”
+
+“No idea. That’s outside the scope of our role. We don’t know what’s in those archives and how many copies of confidential information might be floating around the organization. We obviously don’t know who they’re speaking to either.” Kurt was becoming a bit uncomfortable.
+
+“So, who’s in charge of securing paper files and phone conversations etc.?” Anders was like a dog with a bone.
+
+“Ummm… everybody.” Kurt blinked.
+
+“You mean nobody?” thought Anders to himself.
+
+In his mind, he was already calculating the cost of this leak.
+
+Why does Kurt think this is NOT an Information Security incident? What role does his team play with respect to security?
+
+Which term – computer security, information security, information assurance best applies to this situation? Why?
+
+What is the short-term cost of the leakage incident to the firm?
+
+What is the long-term cost of the leakage incident to the firm?
+
+ 
+
+Scene 5
+Present time, Horizon Automotive’s offices in Sweden
+
+Patrick Chau took a deep breath, adjusted his horn-rimmed glasses and began his briefing, “FC Design started only ten years ago. The firm produces a range of passenger vehicles for the Asian market. Sales are around 3 million vehicles per annum, so they aren’t a smaller player by any means, but they have no market share in Europe.
+
+They clearly don’t have the ‘know-how’ or the technology to build cars with the kind of propulsion, weight-efficient construction and aerodynamics of hypercars….”
+
+Anders raised his hand for Patrick to stop.
+
+“How does a garden-variety automotive manufacturer graduate to building hypercars in less than ten years?”
+
+“Well that’s the billion-dollar question, isn’t it?” Patrick shrugged.
+
+Anders flipped open his laptop and began to scroll through a folder marked ‘stolen R&D files’.
+
+After a few minutes of scrolling and thinking Anders leaned back on his chair. He looked at squarely at Patrick, “There’s got to be more to this story. The blueprints are not enough. FC Design had to build a supply chain similar to ours. They had to acquire the carbon-fiber to build the car from that supply chain at lower prices than us. Supplier names, pricing, materials identification is not stored on the NextGen servers. These are stored separately on the financial network. So, Emil could not have gotten his hands on that information.”
+
+Anders looked quizzically at Lena and Kurt. Lena was busy poring over her personal ledger - staring at her scribbles - paying no attention to Anders or Patrick.
+
+Kurt was still scowling…but there was something else. He seemed to have lost the color in his face.
+
+“What?” Anders sensed things were about to go from bad to worse.
+
+“Remember how a number of Swedish firms, including our IT systems, were hit by a zero-day attack in July 2 years ago?”
+
+Anders had already covered his face with his hands. Lena got up and walked out in a hurry, phone in hand.
+
+“Our incident response team reported that the attackers had spent most of their time in our financial network. I’d have to go through their report again and cross-reference the IP addresses, timestamps etc. with the logs but it’s quite possible they could have copied a large number of spread sheets, invoices, memos etc.”
+
+“I’m afraid it gets worse, said Lena stepping back into the room.
+
+“I was just speaking to Lars, the head of our physical security team. Apparently, a couple of years ago we had a visit from a delegation consisting of several firms from the other side of the world. FC Design was listed as one of those firms. They were touring Swedish heavy industries. Our engineers reported that some of the delegates, quite possibly from FC Design, had very specific questions about our triplex suspension technology, propulsion systems etc. Some of them were taking pictures with their mobile phones. We eventually confiscated them, but we had to give them back. “
+
+The dots were beginning to connect in Anders mind. 
+
+FC Design had deliberately, systematically, and patiently targeted Horizon over a period of three to five years. Why was Horizon unable to mitigate the risk of leakage given each incident was actually reported? Relate your answer to the definition of ‘Information Security’ and ideas like ‘risk perception’.
+
+Scene 6
+Recent Past, London (United Kingdom)
+
+“Jordan!” shouted Oliver, waving the tall lanky kid over to the park bench where he sat, newspaper in hand.
+
+“What did you think of the assignment I gave you?”
+
+Jordan shrugged. “Easy mate, E-a-s-y. It’s a civilian company, no sweat.”
+
+“Yes, yes I know,” said Oliver impatiently. But I want you to follow standard protocol anyway. What’s the plan? And explain it to me in layperson’s terms. I don’t speak machine language.”
+
+Jordan scratched his bald head. Then adjusted his glasses on the bridge of his nose.
+
+“Okay. I find vulnerabilities on their systems. I need to study the firewalls, servers - see if they have installed all the latest patches. If there aren’t installing patches, then it’s easy to find a bug to exploit.
+
+“Won’t that raise an alarm?”
+
+Jordan looked at him strangely. “Do you have any idea how many attacks these firms have every day? Every minute? Everyone is door-knocking mate so you can easily hide among them. They won’t be paying any attention.”
+
+“And if there is no obvious way in then?” Oliver was not convinced.
+
+Jordan looked pretty confident, “well… then we hijack some poor executive’s laptop. Someone inside the company will use a VPN to remote login, or create a Wifi Access point inside the firm or maybe someone made a mistake wiring the hub so traffic might be going around the firewalls rather than through – or maybe we can go through the photocopier, there are heaps of ways.
+
+“Don’t you have to be physically present to break in using the wireless hotspot?” Oliver was dotting the i’s and crossing the t’s.
+
+“If it comes to that, then yes – I’ll have to fly there.”
+
+“And if that doesn’t work?”
+
+Jordan was getting bored, “worst case scenario - we buy a zero-day vulnerability from the market and design a special malware weapon. We break the malware into small pieces so we can smuggle in the pieces separately through the network perimeter and then reassemble them inside to open a backdoor so we can come in.”
+
+“How much will that cost?” queried Oliver?
+
+Jordan shrugged. “Between $5,000 to $250,000.”
+
+Oliver let out a long whistle. “Don’t they have an alarm system of some sort to detect if someone has come in?”
+
+“You mean an Intrusion Detection System? If we write a special weapon the IDS won’t ‘trip’”.
+
+“Why is that?”
+
+“IDS’ match incoming traffic with signatures in a database – since our malware is unique it will create a unique signature that won’t be in any database. We just need to be careful not to borrow code from other malware.
+
+“Okay.” said Oliver - impressed but trying hard not to show it.
+
+“Then what?”
+
+“Infiltrate. We make backdoors everywhere so even if they find some, we can come through other entry points. Then we take the information - because we can.” Jordan smiled. He rarely smiled. He loved it when a plan came together.
+
+“Excellent.” Oliver felt satisfied.
+
+What is Jordan’s high-level game plan? What steps must he take to procure the targeted information?
+
+ 
+
+
+Mark post as readZC
+Zhiming Chen
+Aug 11 4:24pm
+
+Reply from Zhiming Chen
+1.Andrew may suspect that Horizon's design data and knowledge has been leaked, and he wanted the clue of FC Design.
+2. Anders feels shock, and betrayal. He now realises FC Design has obtained Horizon’s  Next‑Gen hypercar design. He suspects that the former R&D engineer is the source of the leaked intellectual property.
+3. hiring Oliver to steal Horizon's hypercar  information for FC Design. Spy.Espionage
+
+Reply to post from Zhiming ChenReply
+Like post from Zhiming Chen LikeLike count: 0
+Mark as ReadMark as Read
+Mark post as readSZ
+Shuo ZHANG
+Aug 11 4:14pm
+
+Reply from Shuo ZHANG
+1. I think Anders suspects that Horizon’s knowledge has been leaked to FC Design. He wants to know how FC Design got this information.
+
+2. I think Anders suspects Emil took confidential files before he left Horizon.
+
+Reply to post from Shuo ZHANGReply
+Like post from Shuo ZHANG LikeLike count: 0
+Mark as ReadMark as Read

@@ -1,0 +1,5446 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:03.039
+<v Speaker 0>This material is made available to you by or on
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,99]}
+
+00:00:03.039 --> 00:00:06.809
+<v Speaker 0>behalf of the University of Melbourne under section 113P of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,66,88,99]}
+
+00:00:06.809 --> 00:00:08.689
+<v Speaker 0>the Copyright Act 1968.
+
+NOTE CONF {"raw":[99,99,98,99]}
+
+00:00:08.850 --> 00:00:10.529
+<v Speaker 0>It may be subject to copyright.
+
+NOTE CONF {"raw":[99,83,60,100,99,99]}
+
+00:00:10.729 --> 00:00:14.270
+<v Speaker 0>For more information, visit the university copyright website.
+
+NOTE CONF {"raw":[99,99,100,99,99,90,98,99]}
+
+00:00:33.439 --> 00:00:34.009
+<v Speaker 1>Good morning.
+
+NOTE CONF {"raw":[99,99]}
+
+00:00:36.130 --> 00:00:39.229
+<v Speaker 1>This week we're going to talk about information security policy.
+
+NOTE CONF {"raw":[81,99,93,94,86,99,99,99,99,99]}
+
+00:00:40.130 --> 00:00:43.799
+<v Speaker 1>Um, As you can see, we are going week to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:00:43.799 --> 00:00:49.500
+<v Speaker 1>week in this part of the, the subject, um, going
+
+NOTE CONF {"raw":[99,70,99,99,99,99,96,99,93,99]}
+
+00:00:49.500 --> 00:00:51.799
+<v Speaker 1>cycling through the various managerial controls.
+
+NOTE CONF {"raw":[99,89,99,99,99,99]}
+
+00:00:51.919 --> 00:00:55.479
+<v Speaker 1>We've covered risk last week and this week we're covering
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99,98,99]}
+
+00:00:55.479 --> 00:00:55.919
+<v Speaker 1>policy.
+
+NOTE CONF {"raw":[99]}
+
+00:00:56.000 --> 00:01:00.669
+<v Speaker 1>We're going to be covering strategy and then security education,
+
+NOTE CONF {"raw":[64,61,63,99,99,99,99,99,99,99]}
+
+00:01:00.680 --> 00:01:03.790
+<v Speaker 1>training and awareness before we then move to more advanced
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:01:03.790 --> 00:01:06.900
+<v Speaker 1>topics, um, later in the semester.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:01:08.830 --> 00:01:14.540
+<v Speaker 2>So This, today's learning objectives or this week's learning objectives
+
+NOTE CONF {"raw":[99,95,99,99,82,94,99,99,99,99]}
+
+00:01:14.540 --> 00:01:18.199
+<v Speaker 1>are, uh, define what is information security policy.
+
+NOTE CONF {"raw":[99,88,99,99,99,99,99,99]}
+
+00:01:18.300 --> 00:01:21.180
+<v Speaker 1>So what is an information security policy?
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99]}
+
+00:01:21.660 --> 00:01:23.809
+<v Speaker 1>Why do organizations have one?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:01:24.099 --> 00:01:25.540
+<v Speaker 1>What are the motivations for that?
+
+NOTE CONF {"raw":[99,99,99,99,99,58]}
+
+00:01:26.370 --> 00:01:29.220
+<v Speaker 1>Uh, what are the differences between an effective and ineffective
+
+NOTE CONF {"raw":[81,97,99,99,99,99,99,99,99,99]}
+
+00:01:29.220 --> 00:01:34.300
+<v Speaker 1>policy, and identify ways in which policy effectiveness can be
+
+NOTE CONF {"raw":[99,86,99,99,99,99,99,99,99,99]}
+
+00:01:34.300 --> 00:01:34.720
+<v Speaker 1>improved.
+
+NOTE CONF {"raw":[99]}
+
+00:01:36.349 --> 00:01:38.989
+<v Speaker 1>In the background to a lot of these learning objectives
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,99,99]}
+
+00:01:38.989 --> 00:01:45.989
+<v Speaker 1>is a deeper understanding of what kind of um artifact
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99,94]}
+
+00:01:45.989 --> 00:01:50.589
+<v Speaker 1>the policy is and why it is so challenging to
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:01:51.349 --> 00:01:54.209
+<v Speaker 1>Have a good policy in place.
+
+NOTE CONF {"raw":[85,99,99,99,99,99]}
+
+00:01:56.489 --> 00:01:58.410
+<v Speaker 1>Like everything, we start from the triplet model.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:01:58.809 --> 00:02:02.610
+<v Speaker 1>We've talked about risk scenarios last week, and specifically, we
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,97,99,99]}
+
+00:02:02.610 --> 00:02:05.769
+<v Speaker 1>talked about um how when you have a range of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:05.769 --> 00:02:08.789
+<v Speaker 1>scenarios, well, how you go about identifying them, but then
+
+NOTE CONF {"raw":[99,80,99,99,99,99,99,99,99,99]}
+
+00:02:09.289 --> 00:02:13.210
+<v Speaker 1>how you estimate the likelihood and impact of scenarios so
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:13.210 --> 00:02:16.330
+<v Speaker 1>that you can sort them in terms of criticality, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,93]}
+
+00:02:16.330 --> 00:02:19.009
+<v Speaker 1>then what are the approaches that you have at your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:19.009 --> 00:02:21.710
+<v Speaker 1>disposal to try to address those risk scenarios and the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,75,99]}
+
+00:02:21.710 --> 00:02:25.600
+<v Speaker 1>whole The story around the triplet model and the definition
+
+NOTE CONF {"raw":[99,88,87,99,99,21,99,99,99,99]}
+
+00:02:25.600 --> 00:02:28.919
+<v Speaker 1>of security in the subject is that your entire purpose
+
+NOTE CONF {"raw":[99,99,99,81,99,99,99,99,100,100]}
+
+00:02:28.919 --> 00:02:32.240
+<v Speaker 1>is to understand what you're protecting, what you're protecting those
+
+NOTE CONF {"raw":[99,99,100,99,99,99,98,99,99,99]}
+
+00:02:32.240 --> 00:02:37.089
+<v Speaker 1>assets from, and what are the scenarios within which those,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:37.440 --> 00:02:39.960
+<v Speaker 1>you know, those risks can emerge, and then how to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:39.960 --> 00:02:43.500
+<v Speaker 1>control those scenarios so you can have some level of
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,100,100,99]}
+
+00:02:43.509 --> 00:02:46.440
+<v Speaker 1>security, and that is what the management of security is
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:02:46.440 --> 00:02:47.320
+<v Speaker 1>fundamentally about.
+
+NOTE CONF {"raw":[99,99]}
+
+00:02:47.690 --> 00:02:50.570
+<v Speaker 1>It's about knowing that security is always a balance.
+
+NOTE CONF {"raw":[93,98,99,99,99,99,99,99,99]}
+
+00:02:50.860 --> 00:02:52.610
+<v Speaker 1>There's no such thing as perfect security.
+
+NOTE CONF {"raw":[62,99,99,99,99,99,99]}
+
+00:02:53.009 --> 00:02:54.500
+<v Speaker 1>You can never reduce your risk to zero.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:02:54.619 --> 00:02:56.940
+<v Speaker 1>You don't have unlimited funds, and you have to find
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:56.940 --> 00:02:59.919
+<v Speaker 1>that balance between the risk that you are exposed to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,79,99,99]}
+
+00:03:00.059 --> 00:03:02.460
+<v Speaker 1>and the extent to which you can control them, given
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:02.460 --> 00:03:03.759
+<v Speaker 1>the resources that you have.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:03:04.880 --> 00:03:08.210
+<v Speaker 1>And so this week, last week, we talked about risk
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:08.210 --> 00:03:11.839
+<v Speaker 1>management as a form of formal control.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:03:12.169 --> 00:03:15.449
+<v Speaker 1>It's sort of got an outsized influence because we define
+
+NOTE CONF {"raw":[29,99,99,99,99,85,99,99,99,99]}
+
+00:03:15.449 --> 00:03:16.929
+<v Speaker 1>security as a risk management problem.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:03:17.050 --> 00:03:20.289
+<v Speaker 1>So if it's at it at its heart, it is
+
+NOTE CONF {"raw":[86,99,95,81,72,99,99,99,99,99]}
+
+00:03:20.289 --> 00:03:22.929
+<v Speaker 1>a risk management problem, then this is a very powerful
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:22.929 --> 00:03:23.270
+<v Speaker 1>control.
+
+NOTE CONF {"raw":[99]}
+
+00:03:23.690 --> 00:03:26.380
+<v Speaker 1>Uh, but this week we're talking about another managerial control,
+
+NOTE CONF {"raw":[49,89,99,99,99,99,99,99,99,99]}
+
+00:03:26.389 --> 00:03:27.750
+<v Speaker 1>which is security policy.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:03:29.259 --> 00:03:31.020
+<v Speaker 1>What is an information security policy?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:03:31.139 --> 00:03:33.729
+<v Speaker 1>Well, I mean, we always default to the bigger question,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:33.820 --> 00:03:35.020
+<v Speaker 1>which is what is policy?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:03:36.190 --> 00:03:38.910
+<v Speaker 1>Uh, policy is a plan or course of action that
+
+NOTE CONF {"raw":[84,99,99,93,99,99,100,99,99,99]}
+
+00:03:38.910 --> 00:03:42.910
+<v Speaker 1>conveys instructions from an organization's senior management to those who
+
+NOTE CONF {"raw":[99,99,99,99,48,99,99,98,99,99]}
+
+00:03:42.910 --> 00:03:47.110
+<v Speaker 1>make decisions, take actions, um, and perform other duties.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:03:50.369 --> 00:03:52.690
+<v Speaker 1>There's a lot of definitions of policy out there.
+
+NOTE CONF {"raw":[71,99,99,99,99,99,99,99,99]}
+
+00:03:53.570 --> 00:03:56.589
+<v Speaker 1>There are no good definitions of policy, to be honest,
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:03:57.089 --> 00:04:00.279
+<v Speaker 1>but essentially policy is about intent and will.
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99]}
+
+00:04:00.529 --> 00:04:04.570
+<v Speaker 1>When the leadership of an organization wants to declare its
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:04.570 --> 00:04:09.149
+<v Speaker 1>intention around something and direct its employees to do something,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:09.520 --> 00:04:11.070
+<v Speaker 1>it comes up with a policy.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:04:12.389 --> 00:04:15.190
+<v Speaker 1>Um, and so, on the left-hand side, we have the
+
+NOTE CONF {"raw":[99,98,99,99,99,22,99,99,99,99]}
+
+00:04:15.190 --> 00:04:18.088
+<v Speaker 1>textbook definition of policy from the textbook that you're studying.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:18.350 --> 00:04:20.428
+<v Speaker 1>And on the right hand side is in a very
+
+NOTE CONF {"raw":[61,99,99,99,87,99,99,95,99,99]}
+
+00:04:20.428 --> 00:04:26.350
+<v Speaker 1>old 1985, 1995, sorry, definition that provides a little bit
+
+NOTE CONF {"raw":[99,90,81,99,99,99,99,99,99,99]}
+
+00:04:26.350 --> 00:04:29.489
+<v Speaker 1>more detail for those who crave detail.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:04:29.910 --> 00:04:33.670
+<v Speaker 1>The set of laws, rules and practices that regulate how
+
+NOTE CONF {"raw":[86,93,99,99,99,99,99,99,99,99]}
+
+00:04:33.670 --> 00:04:38.470
+<v Speaker 1>an organization manages, protects, and distributes resources to achieve specified
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:38.470 --> 00:04:39.809
+<v Speaker 1>security policy objectives.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:04:40.429 --> 00:04:43.549
+<v Speaker 1>So it declares a policy to be a set of
+
+NOTE CONF {"raw":[75,99,98,94,99,99,99,99,99,99]}
+
+00:04:43.549 --> 00:04:44.970
+<v Speaker 1>laws, rules and practices.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:04:45.750 --> 00:04:47.869
+<v Speaker 1>So if you want to know what is it.
+
+NOTE CONF {"raw":[83,99,99,98,96,99,99,99,98]}
+
+00:04:49.059 --> 00:04:50.290
+<v Speaker 1>In a concrete sense.
+
+NOTE CONF {"raw":[88,99,99,99]}
+
+00:04:51.500 --> 00:04:55.480
+<v Speaker 1>The, uh, this definition says that it is a set
+
+NOTE CONF {"raw":[97,80,99,99,99,99,99,99,99,99]}
+
+00:04:55.480 --> 00:04:58.540
+<v Speaker 1>of laws, regulations, rules and practices.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:04:58.920 --> 00:05:00.640
+<v Speaker 1>And what is it, what do they do?
+
+NOTE CONF {"raw":[88,99,74,68,98,95,96,99]}
+
+00:05:00.720 --> 00:05:04.950
+<v Speaker 1>They regulate how you manage, protect, and distribute resources.
+
+NOTE CONF {"raw":[62,99,99,99,99,99,99,99,99]}
+
+00:05:05.559 --> 00:05:05.959
+<v Speaker 1>Why?
+
+NOTE CONF {"raw":[99]}
+
+00:05:06.200 --> 00:05:08.679
+<v Speaker 1>Because you want to, you want to achieve particular policy
+
+NOTE CONF {"raw":[99,99,79,19,99,75,81,99,99,99]}
+
+00:05:08.679 --> 00:05:09.299
+<v Speaker 1>objectives.
+
+NOTE CONF {"raw":[99]}
+
+00:05:09.910 --> 00:05:14.149
+<v Speaker 1>And these laws, rules and practices must identify criteria for
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:14.149 --> 00:05:19.070
+<v Speaker 1>according individuals authority, for giving individuals authority and may specify
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:19.070 --> 00:05:22.410
+<v Speaker 1>conditions under which individuals are permitted to exercise their authority.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:22.709 --> 00:05:27.130
+<v Speaker 1>So in the second, the second half of that definition,
+
+NOTE CONF {"raw":[99,69,84,90,89,91,99,99,99,99]}
+
+00:05:27.510 --> 00:05:31.309
+<v Speaker 1>the authors suggest that further than just the laws, rules
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:05:31.309 --> 00:05:35.369
+<v Speaker 1>and practices, it's actually the fact that they identify criteria
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:05:35.869 --> 00:05:40.429
+<v Speaker 1>for individuals exercising their authority and the circumstances within which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:40.429 --> 00:05:41.589
+<v Speaker 1>they can exercise that authority.
+
+NOTE CONF {"raw":[99,99,99,95,99]}
+
+00:05:41.670 --> 00:05:44.070
+<v Speaker 1>And we know this might seem very abstract and very
+
+NOTE CONF {"raw":[58,42,81,98,99,99,99,99,99,99]}
+
+00:05:44.070 --> 00:05:47.190
+<v Speaker 1>wishy-washy, but if you think about it from a leadership
+
+NOTE CONF {"raw":[93,98,99,99,99,99,99,99,99,99]}
+
+00:05:47.190 --> 00:05:47.890
+<v Speaker 1>point of view.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:05:50.309 --> 00:05:53.089
+<v Speaker 1>There are, there are 3 key players in an organization.
+
+NOTE CONF {"raw":[99,99,76,93,82,99,99,99,99,99]}
+
+00:05:53.350 --> 00:05:57.630
+<v Speaker 1>There's the board of directors, and there is the CEO
+
+NOTE CONF {"raw":[63,99,96,99,97,99,99,99,99,99]}
+
+00:05:58.589 --> 00:06:00.829
+<v Speaker 1>and then the C-suite executive as an extension of them,
+
+NOTE CONF {"raw":[99,99,99,94,98,99,99,99,99,99]}
+
+00:06:00.910 --> 00:06:02.559
+<v Speaker 1>and then the rest of the organization.
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99]}
+
+00:06:02.989 --> 00:06:04.750
+<v Speaker 1>And if you want to understand the rules, I think
+
+NOTE CONF {"raw":[99,88,99,91,85,99,99,50,99,99]}
+
+00:06:04.750 --> 00:06:06.570
+<v Speaker 1>I said this before, I'll sort of say it again.
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:06:07.070 --> 00:06:10.390
+<v Speaker 1>The board of directors is, the analogy is like a,
+
+NOTE CONF {"raw":[88,96,99,93,99,99,99,99,99,97]}
+
+00:06:10.549 --> 00:06:12.670
+<v Speaker 1>uh, like a soccer team or like a sports team.
+
+NOTE CONF {"raw":[64,99,99,99,99,99,99,99,99,99]}
+
+00:06:13.140 --> 00:06:15.100
+<v Speaker 1>You've got a sports team, you've got a coach, and
+
+NOTE CONF {"raw":[98,99,99,99,99,98,99,99,99,99]}
+
+00:06:15.100 --> 00:06:16.380
+<v Speaker 1>you've got the owner of the team.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:06:16.660 --> 00:06:19.609
+<v Speaker 1>The owner of the team is the board of directors,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:20.059 --> 00:06:21.130
+<v Speaker 1>similar to the board of directors.
+
+NOTE CONF {"raw":[99,99,61,98,99,99]}
+
+00:06:21.380 --> 00:06:24.940
+<v Speaker 1>The coach is the CEO and the team that's playing
+
+NOTE CONF {"raw":[91,99,99,98,99,99,99,99,99,99]}
+
+00:06:24.940 --> 00:06:28.040
+<v Speaker 1>on the ground, they are the actual organization.
+
+NOTE CONF {"raw":[99,99,100,99,78,99,99,99]}
+
+00:06:28.579 --> 00:06:31.820
+<v Speaker 1>So, this is a really interesting analogy and a useful
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,65,99,99]}
+
+00:06:31.820 --> 00:06:35.660
+<v Speaker 1>one because the owner of the, of the team may
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:35.660 --> 00:06:38.040
+<v Speaker 1>not know how to play soccer at all, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,89]}
+
+00:06:38.220 --> 00:06:41.000
+<v Speaker 1>Their entire job is to appoint the coach.
+
+NOTE CONF {"raw":[93,99,100,99,99,99,99,99]}
+
+00:06:41.730 --> 00:06:44.540
+<v Speaker 1>They don't meddle with who's playing on the ground because
+
+NOTE CONF {"raw":[99,99,98,99,92,99,99,99,99,99]}
+
+00:06:44.540 --> 00:06:46.010
+<v Speaker 1>this is not their game, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,72]}
+
+00:06:46.260 --> 00:06:48.940
+<v Speaker 1>They don't understand soccer or whatever sport that they own
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,95,99,99]}
+
+00:06:48.940 --> 00:06:50.109
+<v Speaker 1>or basketball or whatever.
+
+NOTE CONF {"raw":[99,98,89,99]}
+
+00:06:50.380 --> 00:06:52.899
+<v Speaker 1>So their job as a board of directors is to
+
+NOTE CONF {"raw":[66,99,99,99,58,99,99,99,99,99]}
+
+00:06:52.899 --> 00:06:54.160
+<v Speaker 1>appoint the coach.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:06:54.540 --> 00:06:55.760
+<v Speaker 1>That's what the board of directors do.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:06:55.820 --> 00:06:56.660
+<v Speaker 1>They appoint the CEO.
+
+NOTE CONF {"raw":[83,99,99,99]}
+
+00:06:56.739 --> 00:06:58.980
+<v Speaker 1>If the board of directors doesn't like what the CEO
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:06:58.980 --> 00:07:01.829
+<v Speaker 1>is doing or where the organization is going, they fire
+
+NOTE CONF {"raw":[99,99,99,99,99,99,96,99,99,99]}
+
+00:07:01.829 --> 00:07:02.980
+<v Speaker 1>the CEO and hire a new one.
+
+NOTE CONF {"raw":[99,99,99,99,96,96,96]}
+
+00:07:03.339 --> 00:07:05.320
+<v Speaker 1>But that is really their only point of control.
+
+NOTE CONF {"raw":[66,99,99,99,99,99,99,99,99]}
+
+00:07:05.709 --> 00:07:08.730
+<v Speaker 1>You fire the CEO and hire a new one.
+
+NOTE CONF {"raw":[98,98,99,99,97,99,99,99,99]}
+
+00:07:08.790 --> 00:07:10.850
+<v Speaker 1>This is how you change the direction of the organization.
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:07:11.070 --> 00:07:13.739
+<v Speaker 1>You don't start meddling with the internals of the organization,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:13.750 --> 00:07:16.149
+<v Speaker 1>just like the owner of a soccer team doesn't go
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:07:16.149 --> 00:07:18.790
+<v Speaker 1>onto the pitch and start playing soccer, or say, I
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,97,99,99]}
+
+00:07:18.790 --> 00:07:21.309
+<v Speaker 1>don't like this player, hire and get me a different
+
+NOTE CONF {"raw":[99,99,99,99,84,60,99,99,99,99]}
+
+00:07:21.309 --> 00:07:21.670
+<v Speaker 1>player.
+
+NOTE CONF {"raw":[99]}
+
+00:07:22.000 --> 00:07:22.880
+<v Speaker 1>This is not your role.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:07:22.989 --> 00:07:25.010
+<v Speaker 1>Your job is to have the coach.
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99]}
+
+00:07:25.450 --> 00:07:29.549
+<v Speaker 1>So how do the board of directors then influence the
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,90]}
+
+00:07:29.549 --> 00:07:32.700
+<v Speaker 1>organization outside of hiring that CEO, or how does the
+
+NOTE CONF {"raw":[99,99,99,99,98,99,75,99,99,99]}
+
+00:07:32.700 --> 00:07:34.890
+<v Speaker 1>CEO signal to the board of directors?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:07:35.125 --> 00:07:38.454
+<v Speaker 1>That he or she is serious about running the organization
+
+NOTE CONF {"raw":[86,96,99,99,99,99,99,99,99,99]}
+
+00:07:38.605 --> 00:07:40.325
+<v Speaker 1>and frequently it's through policy.
+
+NOTE CONF {"raw":[99,98,98,99,99]}
+
+00:07:40.605 --> 00:07:43.605
+<v Speaker 1>It's through setting the rules, setting the laws, setting the
+
+NOTE CONF {"raw":[73,91,99,99,99,99,99,99,99,99]}
+
+00:07:43.605 --> 00:07:44.244
+<v Speaker 1>practices.
+
+NOTE CONF {"raw":[99]}
+
+00:07:44.565 --> 00:07:47.524
+<v Speaker 1>Laws is a bit more government level, but setting the
+
+NOTE CONF {"raw":[62,98,98,97,99,99,99,99,99,99]}
+
+00:07:47.524 --> 00:07:49.625
+<v Speaker 1>rules and practices, this is how you tell.
+
+NOTE CONF {"raw":[99,99,99,80,98,99,89,77]}
+
+00:07:49.964 --> 00:07:52.045
+<v Speaker 1>This is how the CEO tells the board that I'm
+
+NOTE CONF {"raw":[48,85,96,99,99,99,99,99,99,95]}
+
+00:07:52.045 --> 00:07:54.045
+<v Speaker 1>serious about how I run the organization.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:07:54.404 --> 00:07:57.125
+<v Speaker 1>A security policy is something that a CEO will put
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,91,99]}
+
+00:07:57.125 --> 00:07:59.595
+<v Speaker 1>in place as a signal to the board that I
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99,99,99,99]}
+
+00:07:59.595 --> 00:08:02.545
+<v Speaker 1>am a very serious player here or a coach-chair, and
+
+NOTE CONF {"raw":[83,99,99,99,99,98,99,49,14,99]}
+
+00:08:02.545 --> 00:08:04.424
+<v Speaker 1>I'm going to run this organization well.
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99]}
+
+00:08:05.059 --> 00:08:08.459
+<v Speaker 1>Right, that's, you know, really within the CEO's remit is
+
+NOTE CONF {"raw":[99,61,99,99,99,99,99,99,99,95]}
+
+00:08:08.459 --> 00:08:12.619
+<v Speaker 1>setting these policies as a way to protect himself or
+
+NOTE CONF {"raw":[99,99,100,99,99,100,100,100,99,99]}
+
+00:08:12.619 --> 00:08:14.619
+<v Speaker 1>herself from the board, right?
+
+NOTE CONF {"raw":[99,99,99,99,91]}
+
+00:08:14.739 --> 00:08:17.779
+<v Speaker 1>There's a whole power thingy play going on between the
+
+NOTE CONF {"raw":[94,99,99,99,73,99,99,99,99,99]}
+
+00:08:17.779 --> 00:08:19.380
+<v Speaker 1>board and the CEO always.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:08:19.739 --> 00:08:23.420
+<v Speaker 1>There's a lot of tension between those two characters, mainly
+
+NOTE CONF {"raw":[97,99,99,99,99,100,100,99,100,99]}
+
+00:08:23.420 --> 00:08:26.140
+<v Speaker 1>because the board is always using audit as a way
+
+NOTE CONF {"raw":[99,100,99,99,100,100,99,99,99,100]}
+
+00:08:26.140 --> 00:08:28.420
+<v Speaker 1>to second guess what the CEO is telling them about
+
+NOTE CONF {"raw":[100,99,97,99,99,99,99,99,99,99]}
+
+00:08:28.420 --> 00:08:30.149
+<v Speaker 1>what's going on on the ground, right?
+
+NOTE CONF {"raw":[99,99,99,84,99,99,98]}
+
+00:08:30.380 --> 00:08:33.270
+<v Speaker 1>It's just like a, a Sports owner, basically, you know,
+
+NOTE CONF {"raw":[98,99,99,92,92,88,99,99,99,99]}
+
+00:08:33.510 --> 00:08:34.739
+<v Speaker 1>not happy with the coach.
+
+NOTE CONF {"raw":[100,100,100,99,100]}
+
+00:08:35.070 --> 00:08:37.309
+<v Speaker 1>They've just lost the, you know, a major cup, FA
+
+NOTE CONF {"raw":[87,100,100,61,99,99,99,99,99,99]}
+
+00:08:37.309 --> 00:08:40.789
+<v Speaker 1>Cup, Premier League, whatever, and you don't, you don't, your,
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:08:40.869 --> 00:08:44.830
+<v Speaker 1>your team's not playing well, and you wanna find some
+
+NOTE CONF {"raw":[99,99,100,100,100,99,100,91,100,100]}
+
+00:08:44.830 --> 00:08:48.150
+<v Speaker 1>way to, you know, ask the coach why this is
+
+NOTE CONF {"raw":[100,99,99,99,99,100,100,100,100,100]}
+
+00:08:48.150 --> 00:08:48.729
+<v Speaker 1>happening.
+
+NOTE CONF {"raw":[100]}
+
+00:08:49.190 --> 00:08:51.989
+<v Speaker 1>And this, this is a tension between the board of
+
+NOTE CONF {"raw":[94,99,99,99,97,99,100,100,99,100]}
+
+00:08:51.989 --> 00:08:53.989
+<v Speaker 1>directors and the CEO always.
+
+NOTE CONF {"raw":[99,100,100,99,99]}
+
+00:08:54.349 --> 00:08:57.760
+<v Speaker 1>And Part of that in that play here is the
+
+NOTE CONF {"raw":[60,97,99,75,96,97,99,99,99,99]}
+
+00:08:57.760 --> 00:09:00.840
+<v Speaker 1>role that the policy is playing in trying to assure
+
+NOTE CONF {"raw":[99,98,99,99,99,99,98,99,99,99]}
+
+00:09:00.840 --> 00:09:02.700
+<v Speaker 1>both sides that things are under control.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:09:04.369 --> 00:09:06.770
+<v Speaker 1>So why do we have policies?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:09:07.710 --> 00:09:11.590
+<v Speaker 1>There's so many reasons why, and I think most employees
+
+NOTE CONF {"raw":[30,95,99,99,99,85,99,99,99,99]}
+
+00:09:11.590 --> 00:09:14.250
+<v Speaker 1>think that the main reason why you have a policy
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:14.469 --> 00:09:17.630
+<v Speaker 1>is so that you can, the organization can set rules
+
+NOTE CONF {"raw":[99,99,99,76,90,99,99,99,99,99]}
+
+00:09:17.630 --> 00:09:20.010
+<v Speaker 1>about what, what's allowed and what's not allowed.
+
+NOTE CONF {"raw":[99,82,96,99,99,97,99,99]}
+
+00:09:20.469 --> 00:09:22.750
+<v Speaker 1>But this is, I think, I think that's part of
+
+NOTE CONF {"raw":[78,99,99,98,97,98,99,97,99,99]}
+
+00:09:22.750 --> 00:09:24.469
+<v Speaker 1>the story, but this is for me not the main
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99,99,99,99]}
+
+00:09:24.469 --> 00:09:24.909
+<v Speaker 1>reason.
+
+NOTE CONF {"raw":[99]}
+
+00:09:25.229 --> 00:09:28.070
+<v Speaker 1>The main reason is actually marketing, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,49]}
+
+00:09:28.109 --> 00:09:31.270
+<v Speaker 1>It's actually a signal from the organization to say, hey,
+
+NOTE CONF {"raw":[71,99,99,99,99,99,99,99,99,84]}
+
+00:09:31.390 --> 00:09:32.909
+<v Speaker 1>we take this seriously.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:09:33.469 --> 00:09:34.559
+<v Speaker 1>So you can imagine.
+
+NOTE CONF {"raw":[96,99,99,99]}
+
+00:09:35.489 --> 00:09:41.270
+<v Speaker 1>In a security context, if an employee violates an organization's
+
+NOTE CONF {"raw":[99,94,99,99,99,99,99,99,99,99]}
+
+00:09:41.590 --> 00:09:44.849
+<v Speaker 1>a rule, right, in an organization and the organization wants
+
+NOTE CONF {"raw":[92,99,99,94,99,99,99,99,100,99]}
+
+00:09:44.849 --> 00:09:49.770
+<v Speaker 1>to fire the employee and the employee takes the organization
+
+NOTE CONF {"raw":[99,100,99,100,99,99,100,99,99,99]}
+
+00:09:49.770 --> 00:09:52.130
+<v Speaker 1>to court, the first thing the judge is gonna ask
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,94,99]}
+
+00:09:52.130 --> 00:09:57.130
+<v Speaker 1>is what directives did you give employees about that action,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,100]}
+
+00:09:57.729 --> 00:10:00.890
+<v Speaker 1>which means, do you have a policy on this action?
+
+NOTE CONF {"raw":[79,99,99,99,100,99,100,99,99,100]}
+
+00:10:01.219 --> 00:10:04.780
+<v Speaker 1>And if the owner says, I fired this person, sorry,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,98]}
+
+00:10:04.820 --> 00:10:08.739
+<v Speaker 1>the CEO says, I fired this person, but um there's
+
+NOTE CONF {"raw":[99,99,97,99,99,99,99,99,99,99]}
+
+00:10:08.739 --> 00:10:11.739
+<v Speaker 1>no policy, the judge is gonna say, you can't fire
+
+NOTE CONF {"raw":[99,99,74,99,49,94,99,99,99,100]}
+
+00:10:11.739 --> 00:10:13.520
+<v Speaker 1>a person if you don't have a policy.
+
+NOTE CONF {"raw":[99,100,99,100,99,100,99,100]}
+
+00:10:13.989 --> 00:10:14.270
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:10:14.549 --> 00:10:17.669
+<v Speaker 1>So not having a policy is unforgivable.
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99]}
+
+00:10:18.030 --> 00:10:21.580
+<v Speaker 1>Having a bad policy is forgivable, right?
+
+NOTE CONF {"raw":[93,99,99,100,99,99,92]}
+
+00:10:21.710 --> 00:10:24.000
+<v Speaker 1>You can fix the policy, say, oh, that statement, it's
+
+NOTE CONF {"raw":[98,99,99,92,98,45,73,99,99,48]}
+
+00:10:24.000 --> 00:10:26.349
+<v Speaker 1>not an accurate statement, or there's a better statement, yeah,
+
+NOTE CONF {"raw":[99,99,99,99,93,74,99,99,99,58]}
+
+00:10:26.510 --> 00:10:27.190
+<v Speaker 1>fine, fix it.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:10:27.510 --> 00:10:30.390
+<v Speaker 1>But not having a policy comes down to due diligence,
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:10:30.710 --> 00:10:33.590
+<v Speaker 1>something that the board and the CEO will be held
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:33.590 --> 00:10:35.030
+<v Speaker 1>accountable for, right?
+
+NOTE CONF {"raw":[99,99,89]}
+
+00:10:35.190 --> 00:10:37.179
+<v Speaker 1>So having a policy is really critical.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99]}
+
+00:10:37.510 --> 00:10:38.590
+<v Speaker 1>So it's a signal.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:10:39.369 --> 00:10:42.179
+<v Speaker 1>You demonstrate commitment to the board.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:10:42.940 --> 00:10:45.909
+<v Speaker 1>And to the external environment that the organization takes something
+
+NOTE CONF {"raw":[78,99,99,99,99,99,99,99,99,99]}
+
+00:10:45.909 --> 00:10:46.409
+<v Speaker 1>seriously.
+
+NOTE CONF {"raw":[99]}
+
+00:10:47.820 --> 00:10:50.700
+<v Speaker 1>Because you want to clarify the obligations of the organization,
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,96,99]}
+
+00:10:50.780 --> 00:10:52.820
+<v Speaker 1>you want to say, I take this seriously.
+
+NOTE CONF {"raw":[86,97,95,99,99,99,99,99]}
+
+00:10:52.940 --> 00:10:54.909
+<v Speaker 1>I'm going to do the following things about this problem.
+
+NOTE CONF {"raw":[94,97,92,99,99,99,99,99,99,99]}
+
+00:10:55.179 --> 00:10:57.130
+<v Speaker 1>We're going to have a look at the ANZ Bank's
+
+NOTE CONF {"raw":[96,95,91,99,99,99,99,99,99,18]}
+
+00:10:57.130 --> 00:10:59.979
+<v Speaker 1>security policy in a moment, and you'll see how they
+
+NOTE CONF {"raw":[99,99,99,99,99,99,95,99,99,99]}
+
+00:10:59.979 --> 00:11:02.349
+<v Speaker 1>do that on their main ISMS page.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99]}
+
+00:11:02.859 --> 00:11:04.979
+<v Speaker 1>Number 2, to set direction for security.
+
+NOTE CONF {"raw":[14,98,96,99,99,99,99]}
+
+00:11:05.419 --> 00:11:06.400
+<v Speaker 1>Security is critical.
+
+NOTE CONF {"raw":[97,93,99]}
+
+00:11:08.210 --> 00:11:10.090
+<v Speaker 1>You need to tell people that it's critical and what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,61,99,99,99]}
+
+00:11:10.090 --> 00:11:12.090
+<v Speaker 1>it means and why it's critical and how it's critical
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:12.090 --> 00:11:13.440
+<v Speaker 1>and what to do about it, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:11:13.890 --> 00:11:17.369
+<v Speaker 1>To specify and clarify what the organization is responsible for.
+
+NOTE CONF {"raw":[95,99,99,99,99,95,99,99,99,99]}
+
+00:11:17.729 --> 00:11:20.969
+<v Speaker 1>What are we responsible for as the C-suite executive or
+
+NOTE CONF {"raw":[91,99,99,99,99,99,96,84,99,99]}
+
+00:11:20.969 --> 00:11:22.450
+<v Speaker 1>the leadership of the organization?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:11:22.760 --> 00:11:24.010
+<v Speaker 1>What is our responsibility?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:11:24.090 --> 00:11:26.090
+<v Speaker 1>What is the responsibility of our employees?
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99]}
+
+00:11:26.690 --> 00:11:29.369
+<v Speaker 1>There's a distinction between the two, and that's made clear
+
+NOTE CONF {"raw":[97,99,99,100,99,99,96,99,99,99]}
+
+00:11:29.369 --> 00:11:30.190
+<v Speaker 1>in the policy.
+
+NOTE CONF {"raw":[99,63,99]}
+
+00:11:30.690 --> 00:11:33.669
+<v Speaker 1>To influence spending on security, what's important to us.
+
+NOTE CONF {"raw":[78,99,99,99,99,96,100,99,99]}
+
+00:11:35.000 --> 00:11:36.840
+<v Speaker 1>If it's important to us, we're going to spend on
+
+NOTE CONF {"raw":[99,98,99,99,99,96,88,88,99,99]}
+
+00:11:36.840 --> 00:11:37.820
+<v Speaker 1>it, right?
+
+NOTE CONF {"raw":[99,70]}
+
+00:11:38.280 --> 00:11:40.000
+<v Speaker 1>As an auditor, one of the first things I used
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,98,99,98]}
+
+00:11:40.000 --> 00:11:42.000
+<v Speaker 1>to look at when somebody would say, hey, we take
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,55,99,99]}
+
+00:11:42.000 --> 00:11:44.520
+<v Speaker 1>security very seriously, is you go straight to the budget
+
+NOTE CONF {"raw":[99,99,99,97,97,99,99,99,99,99]}
+
+00:11:44.520 --> 00:11:47.049
+<v Speaker 1>and see how much money have they allocated for security.
+
+NOTE CONF {"raw":[99,96,99,99,99,94,97,99,99,99]}
+
+00:11:47.320 --> 00:11:49.880
+<v Speaker 1>And if they haven't allocated any money for security, they're
+
+NOTE CONF {"raw":[68,97,99,98,99,99,99,99,99,73]}
+
+00:11:49.880 --> 00:11:52.080
+<v Speaker 1>not serious about security, right?
+
+NOTE CONF {"raw":[99,99,99,99,86]}
+
+00:11:53.000 --> 00:11:55.789
+<v Speaker 1>So, you don't look at what they're saying, you look,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,89,91]}
+
+00:11:55.880 --> 00:11:57.479
+<v Speaker 1>you don't look at what their lips are saying, you
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,92]}
+
+00:11:57.479 --> 00:11:59.590
+<v Speaker 1>look at what their hands are doing, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:11:59.799 --> 00:12:02.520
+<v Speaker 1>They can say whatever they want about how important security
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:02.520 --> 00:12:04.119
+<v Speaker 1>is and they usually come out and say that when
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:04.119 --> 00:12:06.200
+<v Speaker 1>there's a major incident, right?
+
+NOTE CONF {"raw":[98,99,100,99,99]}
+
+00:12:06.320 --> 00:12:09.270
+<v Speaker 1>But you want to tell whether the organization is serious
+
+NOTE CONF {"raw":[69,99,46,36,99,99,99,99,69,99]}
+
+00:12:09.270 --> 00:12:10.320
+<v Speaker 1>or not, look at their budget.
+
+NOTE CONF {"raw":[99,99,94,99,99,99]}
+
+00:12:10.789 --> 00:12:13.630
+<v Speaker 1>Look at how much they're spending, and if their security
+
+NOTE CONF {"raw":[98,98,99,99,72,99,75,99,70,99]}
+
+00:12:13.630 --> 00:12:16.630
+<v Speaker 1>budget is coming from a capital expenditure budget, like there's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,84]}
+
+00:12:16.630 --> 00:12:19.070
+<v Speaker 1>one IT budget and all security is coming for it,
+
+NOTE CONF {"raw":[99,99,99,99,99,98,86,99,99,99]}
+
+00:12:19.309 --> 00:12:22.270
+<v Speaker 1>it means that there's no dedicated security money, which means
+
+NOTE CONF {"raw":[97,99,95,87,99,99,99,99,99,99]}
+
+00:12:22.270 --> 00:12:24.590
+<v Speaker 1>security people have to beg the IT people for money,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:24.789 --> 00:12:26.729
+<v Speaker 1>which means they're not serious about security.
+
+NOTE CONF {"raw":[99,99,68,99,99,99,99]}
+
+00:12:27.549 --> 00:12:32.429
+<v Speaker 1>Serious organizations have a dedicated, allocated budget that is available
+
+NOTE CONF {"raw":[82,99,99,99,99,99,99,99,99,99]}
+
+00:12:32.429 --> 00:12:35.729
+<v Speaker 1>every year for security and will be spent on security.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:36.349 --> 00:12:37.760
+<v Speaker 1>And you don't have to fight for it, you don't
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,76,99]}
+
+00:12:37.760 --> 00:12:38.479
+<v Speaker 1>have to beg for it.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:12:38.599 --> 00:12:40.000
+<v Speaker 1>It's there for you, right?
+
+NOTE CONF {"raw":[71,99,99,99,83]}
+
+00:12:40.119 --> 00:12:43.200
+<v Speaker 1>That's a very strong signal that the organization takes security
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,99]}
+
+00:12:43.200 --> 00:12:43.840
+<v Speaker 1>very seriously.
+
+NOTE CONF {"raw":[99,99]}
+
+00:12:44.809 --> 00:12:46.960
+<v Speaker 1>And to provide continuity in management, right?
+
+NOTE CONF {"raw":[96,99,99,99,82,99,98]}
+
+00:12:47.059 --> 00:12:49.260
+<v Speaker 1>So, if I'm a new CEO or I'm a new
+
+NOTE CONF {"raw":[95,99,99,99,99,99,90,98,99,99]}
+
+00:12:49.260 --> 00:12:51.659
+<v Speaker 1>CISO and I don't know what the organization stands for,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:51.940 --> 00:12:53.780
+<v Speaker 1>I should be able to go to the policy and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:53.780 --> 00:12:55.179
+<v Speaker 1>be able to tell, right?
+
+NOTE CONF {"raw":[99,99,99,99,86]}
+
+00:12:55.260 --> 00:12:56.320
+<v Speaker 1>That's continuity.
+
+NOTE CONF {"raw":[72,99]}
+
+00:12:56.690 --> 00:12:58.780
+<v Speaker 1>If you fire the CISO and a new CISO comes
+
+NOTE CONF {"raw":[99,99,99,99,83,99,43,99,58,99]}
+
+00:12:58.780 --> 00:13:01.020
+<v Speaker 1>in, the policy should tell them a lot about how
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:01.020 --> 00:13:02.840
+<v Speaker 1>the organization treats security.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:13:03.820 --> 00:13:04.989
+<v Speaker 1>So there's continuity.
+
+NOTE CONF {"raw":[87,36,99]}
+
+00:13:08.739 --> 00:13:13.219
+<v Speaker 1>There are other reasons To formalize grounds for termination, you
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,99,99,91]}
+
+00:13:13.219 --> 00:13:16.219
+<v Speaker 1>want to fire an employee for violating security, you first
+
+NOTE CONF {"raw":[93,91,99,99,99,99,99,99,92,99]}
+
+00:13:16.219 --> 00:13:19.010
+<v Speaker 1>have to tell them what is the rule and what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:19.010 --> 00:13:21.739
+<v Speaker 1>they're not supposed to violate, and what are the consequences
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:13:21.739 --> 00:13:24.599
+<v Speaker 1>of those actions if they violate.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:13:25.380 --> 00:13:28.299
+<v Speaker 1>Um, to create employee awareness, to tell them the security
+
+NOTE CONF {"raw":[38,82,99,99,99,99,99,99,76,99]}
+
+00:13:28.299 --> 00:13:31.289
+<v Speaker 1>is important, but more than just hey, security is important
+
+NOTE CONF {"raw":[99,99,99,99,99,99,67,99,97,99]}
+
+00:13:31.289 --> 00:13:33.440
+<v Speaker 1>to give them detailed information.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:13:33.830 --> 00:13:37.830
+<v Speaker 1>About how to behave, about what software they can download,
+
+NOTE CONF {"raw":[94,99,99,99,99,99,98,99,99,99]}
+
+00:13:38.270 --> 00:13:42.549
+<v Speaker 1>about whether they can use the internet for personal, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:42.549 --> 00:13:46.309
+<v Speaker 1>know, banking or whatever during work hours, uh, what kind
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,25,93,99]}
+
+00:13:46.309 --> 00:13:50.109
+<v Speaker 1>of information they can store and where if it's personal
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,88,97,99]}
+
+00:13:50.109 --> 00:13:53.380
+<v Speaker 1>information, can they take employee, can they take work organizational
+
+NOTE CONF {"raw":[99,68,99,99,99,91,79,97,99,95]}
+
+00:13:53.380 --> 00:13:55.609
+<v Speaker 1>work product and actually store it on a personal machine?
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:13:56.070 --> 00:13:57.429
+<v Speaker 1>What can they do with their mobile phone?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:13:57.510 --> 00:13:58.830
+<v Speaker 1>What they cannot do with their mobile phone?
+
+NOTE CONF {"raw":[59,99,99,99,99,99,99,99]}
+
+00:13:58.909 --> 00:14:00.090
+<v Speaker 1>What about a work phone, etc.
+
+NOTE CONF {"raw":[74,99,99,99,99,97]}
+
+00:14:00.380 --> 00:14:01.450
+<v Speaker 1>all those sorts of things.
+
+NOTE CONF {"raw":[99,99,98,99,99]}
+
+00:14:01.969 --> 00:14:04.799
+<v Speaker 1>Um, to provide mechanism for stating what behavior is acceptable.
+
+NOTE CONF {"raw":[93,95,99,99,99,99,99,99,99,99]}
+
+00:14:04.809 --> 00:14:09.169
+<v Speaker 1>And so you have acceptable use behavior policies or, or,
+
+NOTE CONF {"raw":[57,99,99,99,99,99,99,99,86,97]}
+
+00:14:09.289 --> 00:14:13.479
+<v Speaker 1>or, you know, practices, guidelines that are issued to employees.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:13.530 --> 00:14:15.809
+<v Speaker 1>This is how you can use your work computer.
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99]}
+
+00:14:16.250 --> 00:14:17.609
+<v Speaker 1>This is how, you know, this is what you're allowed
+
+NOTE CONF {"raw":[78,99,99,99,99,65,77,99,98,99]}
+
+00:14:17.609 --> 00:14:18.979
+<v Speaker 1>to do, what you're not allowed to do, etc.
+
+NOTE CONF {"raw":[99,99,97,97,99,99,99,99,99]}
+
+00:14:19.010 --> 00:14:19.530
+<v Speaker 1>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:14:20.010 --> 00:14:23.890
+<v Speaker 1>What are the ramifications of nonconformance with the policy, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:14:23.890 --> 00:14:26.549
+<v Speaker 1>to encourage appropriate conduct.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:14:28.190 --> 00:14:32.140
+<v Speaker 1>Right What is good behavior and encouraging that?
+
+NOTE CONF {"raw":[1,97,99,99,99,99,99,99]}
+
+00:14:33.669 --> 00:14:37.250
+<v Speaker 1>Organizations, especially small to medium sized organizations, frequently don't have
+
+NOTE CONF {"raw":[78,83,99,99,99,89,99,98,99,99]}
+
+00:14:37.250 --> 00:14:41.010
+<v Speaker 1>a security policy until they try to go for accreditation
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:14:41.010 --> 00:14:43.890
+<v Speaker 1>on some kind of international standard like an ISO standard,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:44.239 --> 00:14:47.549
+<v Speaker 1>in which case they must have a policy to qualify
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:47.710 --> 00:14:49.830
+<v Speaker 1>or to be accredited, and that's when they start thinking
+
+NOTE CONF {"raw":[99,98,99,98,99,98,99,99,99,99]}
+
+00:14:49.830 --> 00:14:51.020
+<v Speaker 1>about writing a policy.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:14:53.369 --> 00:14:56.950
+<v Speaker 1>Policy is the least expensive.
+
+NOTE CONF {"raw":[94,99,99,99,99]}
+
+00:14:58.770 --> 00:15:04.210
+<v Speaker 1>Control to no, it's the least expensive means of control
+
+NOTE CONF {"raw":[67,88,48,65,99,99,99,99,99,99]}
+
+00:15:04.210 --> 00:15:07.169
+<v Speaker 1>in the sense that it costs you the least in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:07.169 --> 00:15:08.659
+<v Speaker 1>writing a document.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:15:09.000 --> 00:15:12.010
+<v Speaker 1>It's cheap to get somebody to write a document, and
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:15:12.010 --> 00:15:15.489
+<v Speaker 1>most organizations copy and paste from somebody else's policy anyway.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,96]}
+
+00:15:18.309 --> 00:15:21.229
+<v Speaker 1>But it is the hardest to get right.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99]}
+
+00:15:23.020 --> 00:15:25.869
+<v Speaker 1>Very, very difficult to get a good policy in place,
+
+NOTE CONF {"raw":[92,98,99,99,99,99,99,99,99,99]}
+
+00:15:26.260 --> 00:15:30.169
+<v Speaker 1>mainly because organizations write policy without understanding.
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99]}
+
+00:15:30.890 --> 00:15:34.630
+<v Speaker 1>The environment within which the policy will be operationalized.
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,98]}
+
+00:15:35.700 --> 00:15:35.859
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[95]}
+
+00:15:35.940 --> 00:15:39.500
+<v Speaker 1>So if you don't understand your organization, and you create
+
+NOTE CONF {"raw":[77,99,100,99,100,99,99,99,99,100]}
+
+00:15:39.500 --> 00:15:42.659
+<v Speaker 1>a policy about what is right and what is wrong,
+
+NOTE CONF {"raw":[100,100,99,100,99,100,99,99,99,100]}
+
+00:15:42.780 --> 00:15:44.780
+<v Speaker 1>what is acceptable, what is not acceptable, what do you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:44.780 --> 00:15:45.599
+<v Speaker 1>think is going to happen?
+
+NOTE CONF {"raw":[99,80,54,61,100]}
+
+00:15:49.919 --> 00:15:50.479
+<v Speaker 1>Open question.
+
+NOTE CONF {"raw":[98,99]}
+
+00:15:50.580 --> 00:15:51.440
+<v Speaker 1>What do you think is gonna happen?
+
+NOTE CONF {"raw":[77,99,99,99,81,94,99]}
+
+00:15:56.010 --> 00:15:58.989
+<v Speaker 1>It's not Policy is not implemented.
+
+NOTE CONF {"raw":[2,26,81,98,99,99]}
+
+00:15:59.500 --> 00:16:01.719
+<v Speaker 1>Sorry, it will not be effective.
+
+NOTE CONF {"raw":[94,90,99,99,99,99]}
+
+00:16:02.219 --> 00:16:03.570
+<v Speaker 1>But you see, there's an interesting thing here.
+
+NOTE CONF {"raw":[79,99,99,99,99,100,99,99]}
+
+00:16:03.659 --> 00:16:06.859
+<v Speaker 1>There's, there's two policies in play in every organization.
+
+NOTE CONF {"raw":[85,94,99,99,99,99,99,99,100]}
+
+00:16:07.179 --> 00:16:09.770
+<v Speaker 1>There is the formal policy, which is the policy that
+
+NOTE CONF {"raw":[99,93,99,99,100,99,99,99,100,99]}
+
+00:16:09.770 --> 00:16:12.739
+<v Speaker 1>the organization has written, put in the document, and either
+
+NOTE CONF {"raw":[99,99,99,100,99,99,64,100,99,99]}
+
+00:16:12.739 --> 00:16:15.380
+<v Speaker 1>put on the internet or on your shelf somewhere, yeah.
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,84]}
+
+00:16:15.659 --> 00:16:18.460
+<v Speaker 1>And then there's the informal policy, the unofficial policy, which
+
+NOTE CONF {"raw":[96,99,99,99,99,100,99,99,100,99]}
+
+00:16:18.460 --> 00:16:21.179
+<v Speaker 1>is the behavior that is acceptable in the organization.
+
+NOTE CONF {"raw":[99,100,100,100,100,99,99,99,99]}
+
+00:16:22.119 --> 00:16:22.539
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[96]}
+
+00:16:23.039 --> 00:16:27.280
+<v Speaker 1>So we say, the behavior that is tolerated is the
+
+NOTE CONF {"raw":[94,99,99,99,100,99,99,100,99,99]}
+
+00:16:27.280 --> 00:16:29.559
+<v Speaker 1>policy, not what's written on the document.
+
+NOTE CONF {"raw":[99,99,99,99,99,76,99]}
+
+00:16:30.390 --> 00:16:32.710
+<v Speaker 1>So if the document says do not put your passwords
+
+NOTE CONF {"raw":[82,80,97,99,99,96,99,99,99,76]}
+
+00:16:32.710 --> 00:16:34.820
+<v Speaker 1>on a yellow sticky and put it on your machine,
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:16:35.159 --> 00:16:37.479
+<v Speaker 1>but everybody's got a yellow sticky on the machine with
+
+NOTE CONF {"raw":[99,73,99,99,99,95,99,97,99,99]}
+
+00:16:37.479 --> 00:16:40.349
+<v Speaker 1>their password, what do you think the policy of the
+
+NOTE CONF {"raw":[98,99,85,99,99,99,99,99,99,99]}
+
+00:16:40.349 --> 00:16:40.719
+<v Speaker 1>organization is?
+
+NOTE CONF {"raw":[99,99]}
+
+00:16:40.919 --> 00:16:43.890
+<v Speaker 1>Is it do not have yellow stickies on your computer
+
+NOTE CONF {"raw":[98,99,86,99,99,99,99,99,99,99]}
+
+00:16:43.890 --> 00:16:45.919
+<v Speaker 1>with a password, or is it you are allowed to
+
+NOTE CONF {"raw":[99,98,99,95,99,99,96,99,99,99]}
+
+00:16:45.919 --> 00:16:47.960
+<v Speaker 1>have yellow stickies with the password on your computer?
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99,99,99]}
+
+00:16:48.909 --> 00:16:49.869
+<v Speaker 1>Which one do you think it is?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:16:54.520 --> 00:16:56.640
+<v Speaker 1>Of course it's a culture problem, but what's, that's a
+
+NOTE CONF {"raw":[97,99,99,99,99,99,97,98,99,99]}
+
+00:16:56.640 --> 00:16:58.429
+<v Speaker 1>different, uh, completely different issue.
+
+NOTE CONF {"raw":[99,58,99,99,99]}
+
+00:16:59.000 --> 00:16:59.510
+<v Speaker 1>Culture problem.
+
+NOTE CONF {"raw":[58,99]}
+
+00:16:59.599 --> 00:17:00.690
+<v Speaker 1>Let's fix the culture problem.
+
+NOTE CONF {"raw":[80,99,99,99,99]}
+
+00:17:00.919 --> 00:17:03.000
+<v Speaker 1>But what's the policy in the organization?
+
+NOTE CONF {"raw":[60,99,99,100,99,99,99]}
+
+00:17:04.569 --> 00:17:07.300
+<v Speaker 1>The policy is you are allowed to have passwords on
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,100,99,99]}
+
+00:17:07.300 --> 00:17:08.449
+<v Speaker 1>stickies, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:17:08.688 --> 00:17:11.050
+<v Speaker 1>Although the organization says you are not allowed to, you
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:17:11.050 --> 00:17:13.010
+<v Speaker 1>are allowed to, because everybody's doing it.
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99]}
+
+00:17:13.779 --> 00:17:15.759
+<v Speaker 1>So, if you go to court and the judge says
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:16.338 --> 00:17:18.218
+<v Speaker 1>to the, to an individual who was fired for having
+
+NOTE CONF {"raw":[99,99,99,99,100,99,89,99,99,100]}
+
+00:17:18.218 --> 00:17:20.979
+<v Speaker 1>a yellow sticky on their, you know, on their computer
+
+NOTE CONF {"raw":[99,99,92,99,99,99,99,99,97,99]}
+
+00:17:20.979 --> 00:17:21.958
+<v Speaker 1>with their password on it.
+
+NOTE CONF {"raw":[99,97,99,99,99]}
+
+00:17:22.938 --> 00:17:25.660
+<v Speaker 1>Is this common practice, and they said yes, and my
+
+NOTE CONF {"raw":[95,98,99,99,69,99,99,97,97,99]}
+
+00:17:25.660 --> 00:17:26.729
+<v Speaker 1>supervisors do it as well.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:17:27.030 --> 00:17:28.438
+<v Speaker 1>You cannot fire this individual.
+
+NOTE CONF {"raw":[92,99,99,99,99]}
+
+00:17:28.869 --> 00:17:30.449
+<v Speaker 1>It doesn't matter what the policy says.
+
+NOTE CONF {"raw":[75,84,99,99,99,99,99]}
+
+00:17:31.180 --> 00:17:32.459
+<v Speaker 1>It doesn't matter what the document says.
+
+NOTE CONF {"raw":[42,77,99,99,99,99,99]}
+
+00:17:32.589 --> 00:17:35.829
+<v Speaker 1>It is accepted cultural practice in the organization to have
+
+NOTE CONF {"raw":[65,98,99,98,99,99,99,99,99,99]}
+
+00:17:35.829 --> 00:17:38.030
+<v Speaker 1>your password on a yellow sticky on a computer, so
+
+NOTE CONF {"raw":[99,99,99,99,98,84,99,97,99,97]}
+
+00:17:38.030 --> 00:17:40.949
+<v Speaker 1>you cannot fire somebody for doing something that everybody else
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,97,99]}
+
+00:17:40.949 --> 00:17:42.869
+<v Speaker 1>has accepted as common and routine.
+
+NOTE CONF {"raw":[99,99,99,99,99,97]}
+
+00:17:44.500 --> 00:17:45.439
+<v Speaker 1>So what's the policy?
+
+NOTE CONF {"raw":[98,99,99,99]}
+
+00:17:46.819 --> 00:17:50.339
+<v Speaker 1>The policy is accepted practice, always over what's in a
+
+NOTE CONF {"raw":[99,100,100,99,100,99,100,99,100,99]}
+
+00:17:50.339 --> 00:17:50.750
+<v Speaker 1>document.
+
+NOTE CONF {"raw":[100]}
+
+00:17:51.829 --> 00:17:54.949
+<v Speaker 1>The, the company, of course, is going to argue till
+
+NOTE CONF {"raw":[99,94,99,99,99,99,99,99,99,93]}
+
+00:17:54.949 --> 00:17:56.949
+<v Speaker 1>they're blue in the face that the policy is what
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,70,70,78]}
+
+00:17:56.949 --> 00:17:59.310
+<v Speaker 1>in the document, you know, do as I tell you,
+
+NOTE CONF {"raw":[98,99,99,76,96,99,99,99,99,99]}
+
+00:17:59.430 --> 00:18:01.229
+<v Speaker 1>not as I do, right?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:18:01.550 --> 00:18:04.089
+<v Speaker 1>But we understand that is not the case.
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99]}
+
+00:18:04.829 --> 00:18:07.349
+<v Speaker 1>And certainly in the legal, in a legal pro you
+
+NOTE CONF {"raw":[57,99,99,85,99,99,94,99,89,95]}
+
+00:18:07.349 --> 00:18:10.949
+<v Speaker 1>know, case, um, the judge is going to consider not
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,100,99]}
+
+00:18:10.949 --> 00:18:13.910
+<v Speaker 1>just what the company has issued in the document, but
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,100,99]}
+
+00:18:13.910 --> 00:18:15.729
+<v Speaker 1>what the practice is.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:18:18.199 --> 00:18:21.479
+<v Speaker 1>So some basic rules, your policy should never conflict with
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,99,99]}
+
+00:18:21.479 --> 00:18:21.939
+<v Speaker 1>law.
+
+NOTE CONF {"raw":[99]}
+
+00:18:22.719 --> 00:18:25.140
+<v Speaker 1>Never ever tell your employees to do something that's illegal.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:18:27.199 --> 00:18:28.920
+<v Speaker 1>You might think it's obvious.
+
+NOTE CONF {"raw":[99,99,99,86,99]}
+
+00:18:29.219 --> 00:18:33.479
+<v Speaker 1>No, it's not, because legal jurisdictions vary so much from
+
+NOTE CONF {"raw":[76,99,100,96,100,99,99,99,100,99]}
+
+00:18:33.479 --> 00:18:37.040
+<v Speaker 1>state to state, from country to country, a multinational corporation
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,40,99,99]}
+
+00:18:37.239 --> 00:18:39.760
+<v Speaker 1>is going to struggle with laws.
+
+NOTE CONF {"raw":[99,100,100,100,100,99]}
+
+00:18:40.739 --> 00:18:45.459
+<v Speaker 1>Really, really struggle because most multinational corporations have so many
+
+NOTE CONF {"raw":[89,98,98,99,99,98,99,99,99,99]}
+
+00:18:45.459 --> 00:18:48.780
+<v Speaker 1>jurisdictions that they operate in they can't keep track of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:48.780 --> 00:18:50.900
+<v Speaker 1>the laws and the rules in each state and each
+
+NOTE CONF {"raw":[99,99,99,96,99,99,99,99,99,99]}
+
+00:18:50.900 --> 00:18:55.020
+<v Speaker 1>territory and so they may be in violation of a
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:18:55.020 --> 00:18:55.780
+<v Speaker 1>whole range of different.
+
+NOTE CONF {"raw":[99,99,99,54]}
+
+00:18:55.944 --> 00:18:57.484
+<v Speaker 1>Laws across the world.
+
+NOTE CONF {"raw":[97,99,99,99]}
+
+00:18:57.795 --> 00:18:59.974
+<v Speaker 1>In fact, there might be contradictions, you know, if you,
+
+NOTE CONF {"raw":[90,99,99,99,99,99,54,82,67,72]}
+
+00:19:00.234 --> 00:19:03.275
+<v Speaker 1>if you conform with one law's expectations, you are directly
+
+NOTE CONF {"raw":[69,99,99,99,99,99,99,99,99,99]}
+
+00:19:03.275 --> 00:19:06.834
+<v Speaker 1>in violation with another because those two laws compete with
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:06.834 --> 00:19:07.275
+<v Speaker 1>each other.
+
+NOTE CONF {"raw":[99,99]}
+
+00:19:07.675 --> 00:19:10.015
+<v Speaker 1>So how to reconcile that, that's part of the problem
+
+NOTE CONF {"raw":[97,99,99,99,99,92,99,99,99,99]}
+
+00:19:10.015 --> 00:19:11.194
+<v Speaker 1>of having good policy.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:19:12.410 --> 00:19:15.849
+<v Speaker 1>So never conflict with law harder than it looks.
+
+NOTE CONF {"raw":[80,90,98,99,99,85,99,99,99]}
+
+00:19:16.290 --> 00:19:17.989
+<v Speaker 1>It should always stand up in court.
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99]}
+
+00:19:18.609 --> 00:19:22.290
+<v Speaker 1>The policy in many companies is considered to be a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:19:22.290 --> 00:19:26.359
+<v Speaker 1>legal document, and the company, when they sign off on
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:19:26.359 --> 00:19:30.410
+<v Speaker 1>that policy, they're held accountable against their own policy.
+
+NOTE CONF {"raw":[99,99,29,99,99,99,99,99,98]}
+
+00:19:30.489 --> 00:19:33.510
+<v Speaker 1>So if they violate, if the leadership violates the policy,
+
+NOTE CONF {"raw":[97,99,98,85,98,99,99,99,99,99]}
+
+00:19:33.780 --> 00:19:36.050
+<v Speaker 1>they're in trouble because it's a legal document.
+
+NOTE CONF {"raw":[88,99,99,99,98,99,99,99]}
+
+00:19:36.089 --> 00:19:36.829
+<v Speaker 1>It's a contract.
+
+NOTE CONF {"raw":[77,99,99]}
+
+00:19:37.589 --> 00:19:41.430
+<v Speaker 1>Or they behave around the policy like it's a contract,
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,99,99]}
+
+00:19:41.800 --> 00:19:42.099
+<v Speaker 1>right?
+
+NOTE CONF {"raw":[97]}
+
+00:19:42.430 --> 00:19:45.709
+<v Speaker 1>So you could um be in violation of your own
+
+NOTE CONF {"raw":[97,99,99,62,99,99,99,99,99,99]}
+
+00:19:45.709 --> 00:19:47.489
+<v Speaker 1>contract, and you could be in a lot of trouble
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,99,99,100]}
+
+00:19:47.699 --> 00:19:51.390
+<v Speaker 1>for that, which is why the wording of policy is
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:19:51.390 --> 00:19:56.750
+<v Speaker 1>so critical that most big banks, for instance, get lawyers
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,100,99,99]}
+
+00:19:56.750 --> 00:19:58.550
+<v Speaker 1>to write the policy, right?
+
+NOTE CONF {"raw":[100,99,99,100,98]}
+
+00:19:58.790 --> 00:20:04.939
+<v Speaker 1>Because lawyers will be gaming all the scenarios where the
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,99,99,99]}
+
+00:20:04.939 --> 00:20:07.170
+<v Speaker 1>organization's going to get caught up in its own words.
+
+NOTE CONF {"raw":[45,98,99,99,99,99,99,99,99,99]}
+
+00:20:08.119 --> 00:20:10.839
+<v Speaker 1>That's why they're very careful around the wording of how
+
+NOTE CONF {"raw":[87,99,20,99,99,97,99,99,99,99]}
+
+00:20:10.839 --> 00:20:13.400
+<v Speaker 1>they write their policy, and that's why in a way
+
+NOTE CONF {"raw":[99,99,99,99,87,98,99,99,99,99]}
+
+00:20:13.400 --> 00:20:17.260
+<v Speaker 1>policy is so often ineffective, because it's written for lawyers
+
+NOTE CONF {"raw":[99,98,99,99,99,99,96,99,99,99]}
+
+00:20:17.479 --> 00:20:21.880
+<v Speaker 1>by lawyers, for judges, or for contract disputes, etc.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:20:22.239 --> 00:20:24.540
+<v Speaker 1>and the average employee doesn't understand it.
+
+NOTE CONF {"raw":[99,99,99,99,98,99,92]}
+
+00:20:24.939 --> 00:20:27.939
+<v Speaker 1>So that one policy document is doing so many different
+
+NOTE CONF {"raw":[87,69,94,99,99,99,99,99,99,99]}
+
+00:20:27.939 --> 00:20:31.099
+<v Speaker 1>things that it's very difficult to write a policy document
+
+NOTE CONF {"raw":[99,99,95,99,99,99,99,99,99,99]}
+
+00:20:31.099 --> 00:20:35.410
+<v Speaker 1>that's actually understandable and meaningful and practical and usable and
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,99,99,99]}
+
+00:20:35.410 --> 00:20:39.420
+<v Speaker 1>implementable while standing in court and meeting all the court's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:20:39.420 --> 00:20:41.739
+<v Speaker 1>rules and laws and weight of evidence and all that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:20:41.739 --> 00:20:42.520
+<v Speaker 1>other stuff, right?
+
+NOTE CONF {"raw":[59,99,71]}
+
+00:20:42.780 --> 00:20:45.319
+<v Speaker 1>So that one document trying to do so many things,
+
+NOTE CONF {"raw":[57,99,99,99,99,99,99,99,99,99]}
+
+00:20:45.540 --> 00:20:46.660
+<v Speaker 1>this is a big problem.
+
+NOTE CONF {"raw":[97,99,99,99,98]}
+
+00:20:47.619 --> 00:20:50.630
+<v Speaker 1>OK, properly supported and administered, which means that if there
+
+NOTE CONF {"raw":[90,80,99,99,98,99,99,97,99,99]}
+
+00:20:50.630 --> 00:20:53.949
+<v Speaker 1>are changes, which means you need to resource the policy.
+
+NOTE CONF {"raw":[52,99,97,92,99,99,99,99,99,99]}
+
+00:20:53.989 --> 00:20:55.709
+<v Speaker 1>It's not just I wrote it once and I never
+
+NOTE CONF {"raw":[70,99,99,99,99,99,99,99,99,99]}
+
+00:20:55.709 --> 00:20:56.660
+<v Speaker 1>have to look at it again.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:20:57.349 --> 00:20:59.530
+<v Speaker 1>The policy changes with the organization.
+
+NOTE CONF {"raw":[82,99,99,99,99,99]}
+
+00:20:59.790 --> 00:21:01.619
+<v Speaker 1>The organization changes, the policy changes.
+
+NOTE CONF {"raw":[96,99,99,98,99,99]}
+
+00:21:01.869 --> 00:21:04.670
+<v Speaker 1>And so if it's not resourced, then the organization then
+
+NOTE CONF {"raw":[55,95,99,93,99,99,98,99,99,92]}
+
+00:21:04.670 --> 00:21:08.400
+<v Speaker 1>outruns the policy and the policy becomes a historical artifact
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,76,99,98]}
+
+00:21:08.550 --> 00:21:10.630
+<v Speaker 1>that's outdated and nobody pays attention to.
+
+NOTE CONF {"raw":[66,99,98,99,99,99,97]}
+
+00:21:10.790 --> 00:21:12.510
+<v Speaker 1>Well, they were never paying attention to it anyway.
+
+NOTE CONF {"raw":[76,98,99,99,99,99,99,99,99]}
+
+00:21:12.790 --> 00:21:14.819
+<v Speaker 1>Now there are more reasons to not pay attention to
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:21:14.819 --> 00:21:15.030
+<v Speaker 1>it.
+
+NOTE CONF {"raw":[75]}
+
+00:21:15.979 --> 00:21:18.500
+<v Speaker 1>It should contribute to the success of the organization, and
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,99,97]}
+
+00:21:18.500 --> 00:21:20.300
+<v Speaker 1>it will if it's a good, if it's a good
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,98,99,99]}
+
+00:21:20.300 --> 00:21:21.380
+<v Speaker 1>policy, right?
+
+NOTE CONF {"raw":[99,85]}
+
+00:21:21.619 --> 00:21:24.400
+<v Speaker 1>Because a lot of the problems that you couldn't solve
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99,99,99,99]}
+
+00:21:24.619 --> 00:21:27.579
+<v Speaker 1>by training people, you could solve if the policy was
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:27.579 --> 00:21:29.420
+<v Speaker 1>immediately understandable, right?
+
+NOTE CONF {"raw":[99,99,67]}
+
+00:21:29.500 --> 00:21:32.500
+<v Speaker 1>If somebody rings up your administrative assistant and says, hey,
+
+NOTE CONF {"raw":[83,99,97,99,99,99,99,99,99,70]}
+
+00:21:32.619 --> 00:21:35.300
+<v Speaker 1>send me 10 number of dollars, and the assistant has
+
+NOTE CONF {"raw":[99,99,18,98,86,99,98,99,99,99]}
+
+00:21:35.300 --> 00:21:37.219
+<v Speaker 1>read the policy, and they know that you're not allowed
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,97,99,99]}
+
+00:21:37.219 --> 00:21:38.819
+<v Speaker 1>to do that, they're going to say, I'm not allowed
+
+NOTE CONF {"raw":[99,99,99,98,95,93,99,99,99,99]}
+
+00:21:38.819 --> 00:21:39.900
+<v Speaker 1>to do that, right?
+
+NOTE CONF {"raw":[99,99,99,75]}
+
+00:21:39.939 --> 00:21:42.260
+<v Speaker 1>And that saves you a ton of money in training.
+
+NOTE CONF {"raw":[92,99,44,99,99,99,99,99,99,99]}
+
+00:21:42.819 --> 00:21:45.180
+<v Speaker 1>And software controls and blah blah, when somebody has said,
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,88,99]}
+
+00:21:45.339 --> 00:21:47.020
+<v Speaker 1>I read the policy, the policy is you can't do
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,99]}
+
+00:21:47.020 --> 00:21:47.300
+<v Speaker 1>that.
+
+NOTE CONF {"raw":[99]}
+
+00:21:49.969 --> 00:21:53.390
+<v Speaker 1>Very effective and it should involve end users of information
+
+NOTE CONF {"raw":[90,99,95,99,99,99,99,99,99,99]}
+
+00:21:53.390 --> 00:21:53.630
+<v Speaker 1>systems.
+
+NOTE CONF {"raw":[94]}
+
+00:21:53.670 --> 00:21:56.930
+<v Speaker 1>If you're writing a security policy and you don't know
+
+NOTE CONF {"raw":[85,79,99,96,99,99,99,99,99,99]}
+
+00:21:57.469 --> 00:21:59.310
+<v Speaker 1>anything about the people that are supposed to be using
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,99,99,99]}
+
+00:21:59.310 --> 00:21:59.949
+<v Speaker 1>that policy.
+
+NOTE CONF {"raw":[99,99]}
+
+00:22:00.699 --> 00:22:02.979
+<v Speaker 1>Um, to be able to do their work, then your
+
+NOTE CONF {"raw":[60,99,99,99,99,99,99,99,99,99]}
+
+00:22:02.979 --> 00:22:04.420
+<v Speaker 1>policy is not going to work, right?
+
+NOTE CONF {"raw":[99,99,99,73,82,99,98]}
+
+00:22:04.459 --> 00:22:09.020
+<v Speaker 1>It's ineffective, it's, it's, it's disengaged, and out of, out
+
+NOTE CONF {"raw":[82,99,58,97,98,99,99,99,99,99]}
+
+00:22:09.020 --> 00:22:11.479
+<v Speaker 1>of contact with the end users.
+
+NOTE CONF {"raw":[99,99,100,99,99,99]}
+
+00:22:19.420 --> 00:22:24.380
+<v Speaker 1>So Along with the policy conversation is the change management
+
+NOTE CONF {"raw":[99,95,99,99,99,99,99,99,99,99]}
+
+00:22:24.380 --> 00:22:26.939
+<v Speaker 1>conversation, which is if we are doing a wholesale change
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:26.939 --> 00:22:31.359
+<v Speaker 1>or a significant major structural change inside the organization, um,
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,99,98]}
+
+00:22:31.859 --> 00:22:33.760
+<v Speaker 1>what order do we do changes in?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:22:34.719 --> 00:22:37.239
+<v Speaker 1>And the bull's-eye model, which is straight from the textbook,
+
+NOTE CONF {"raw":[99,99,1,99,99,99,99,99,99,99]}
+
+00:22:37.280 --> 00:22:40.989
+<v Speaker 1>suggests, um, this is not my research, this is the,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,86,99,99]}
+
+00:22:41.079 --> 00:22:44.000
+<v Speaker 1>the the person who wrote the textbook says that you
+
+NOTE CONF {"raw":[98,92,99,99,99,99,99,99,99,99]}
+
+00:22:44.000 --> 00:22:47.939
+<v Speaker 1>should start with policy and make changes to policy before
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:47.939 --> 00:22:49.560
+<v Speaker 1>you start working on networks.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:22:50.040 --> 00:22:51.640
+<v Speaker 1>Well, before you start working on the next thing, which
+
+NOTE CONF {"raw":[70,99,99,99,99,99,99,100,99,99]}
+
+00:22:51.640 --> 00:22:53.959
+<v Speaker 1>is networks, and then systems and then applications.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:22:54.280 --> 00:22:57.640
+<v Speaker 1>So when you do change management, you start, they're suggesting
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:22:57.640 --> 00:22:59.020
+<v Speaker 1>you start with policy.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:22:59.380 --> 00:23:01.109
+<v Speaker 1>And then you work your way to applications.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99]}
+
+00:23:01.189 --> 00:23:03.270
+<v Speaker 1>You don't make changes in applications and then work your
+
+NOTE CONF {"raw":[77,99,99,99,99,99,99,99,99,99]}
+
+00:23:03.270 --> 00:23:04.109
+<v Speaker 1>way to policies.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:23:04.550 --> 00:23:06.589
+<v Speaker 1>And I mean, I can understand, I'm sure you can
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:23:06.589 --> 00:23:08.130
+<v Speaker 1>appreciate that there's good reason for that.
+
+NOTE CONF {"raw":[100,99,99,99,100,100,100]}
+
+00:23:09.260 --> 00:23:12.660
+<v Speaker 1>If the organization hasn't yet decided what the change means
+
+NOTE CONF {"raw":[92,99,99,98,99,99,99,99,99,99]}
+
+00:23:12.660 --> 00:23:16.699
+<v Speaker 1>for the organization, and they start making changes to applications
+
+NOTE CONF {"raw":[99,99,99,99,23,99,99,99,99,99]}
+
+00:23:16.900 --> 00:23:20.099
+<v Speaker 1>and systems, and then start working inside out, you're gonna
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,73,33]}
+
+00:23:20.099 --> 00:23:20.829
+<v Speaker 1>have a problem.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:23:21.219 --> 00:23:24.180
+<v Speaker 1>You won't discover that there's a conflict between this change
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:23:24.180 --> 00:23:26.939
+<v Speaker 1>and other things that are going on in the organization.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:27.680 --> 00:23:29.560
+<v Speaker 1>Until you've already implemented it.
+
+NOTE CONF {"raw":[71,99,99,99,99]}
+
+00:23:29.920 --> 00:23:31.739
+<v Speaker 1>Whereas what you should do is first of all, figure
+
+NOTE CONF {"raw":[82,99,99,99,99,99,99,99,99,99]}
+
+00:23:31.739 --> 00:23:33.709
+<v Speaker 1>out, I want to make a big change to the
+
+NOTE CONF {"raw":[99,99,81,75,99,99,99,99,99,99]}
+
+00:23:33.709 --> 00:23:33.900
+<v Speaker 1>organization.
+
+NOTE CONF {"raw":[99]}
+
+00:23:34.160 --> 00:23:36.339
+<v Speaker 1>How does that sit with where we are as an
+
+NOTE CONF {"raw":[70,99,99,99,99,99,99,99,99,99]}
+
+00:23:36.339 --> 00:23:38.189
+<v Speaker 1>organization and all the other things that are going on.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:38.479 --> 00:23:40.800
+<v Speaker 1>If it makes sense, then let's start implementing.
+
+NOTE CONF {"raw":[93,99,99,100,99,99,99,99]}
+
+00:23:41.270 --> 00:23:43.270
+<v Speaker 1>Right, so that starts at a policy level and then
+
+NOTE CONF {"raw":[96,67,99,99,99,99,99,99,99,99]}
+
+00:23:43.270 --> 00:23:46.910
+<v Speaker 1>it moves down to the various technological layers outside in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,79]}
+
+00:23:46.910 --> 00:23:50.430
+<v Speaker 1>network systems, applications, right, all the way to the end
+
+NOTE CONF {"raw":[99,99,99,99,85,99,99,99,99,99]}
+
+00:23:50.430 --> 00:23:52.219
+<v Speaker 1>user interface, right?
+
+NOTE CONF {"raw":[97,99,99]}
+
+00:23:52.270 --> 00:23:56.229
+<v Speaker 1>The end user interfaces with the organization's IT through applications,
+
+NOTE CONF {"raw":[89,99,99,99,99,99,96,99,99,99]}
+
+00:23:56.550 --> 00:23:59.189
+<v Speaker 1>not through systems and networks directly, so it kind of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,75,99,99,99]}
+
+00:23:59.189 --> 00:24:00.489
+<v Speaker 1>makes sense to go that way.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:24:05.589 --> 00:24:10.189
+<v Speaker 1>The word policy is a It's a very overarching term
+
+NOTE CONF {"raw":[99,99,99,99,88,98,99,99,99,99]}
+
+00:24:10.189 --> 00:24:14.150
+<v Speaker 1>that involves a lot of different levels of documents.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:24:14.729 --> 00:24:18.130
+<v Speaker 1>So, a strategic level policy, an operational level policy, a
+
+NOTE CONF {"raw":[99,99,99,99,99,77,99,99,99,99]}
+
+00:24:18.130 --> 00:24:21.750
+<v Speaker 1>tactical level policy, there are different words for it, right?
+
+NOTE CONF {"raw":[99,99,99,75,99,99,99,99,99,91]}
+
+00:24:22.050 --> 00:24:25.829
+<v Speaker 1>But here we have managerial policy, operational, acceptable use, strategic,
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:24:26.069 --> 00:24:29.369
+<v Speaker 1>all these different types of policies, they're all just trying
+
+NOTE CONF {"raw":[99,99,99,99,99,99,76,99,99,99]}
+
+00:24:29.369 --> 00:24:29.770
+<v Speaker 1>to give guidance.
+
+NOTE CONF {"raw":[99,99,81]}
+
+00:24:30.665 --> 00:24:35.795
+<v Speaker 1>from security mission to firewall policy, which is what is
+
+NOTE CONF {"raw":[73,99,99,99,99,99,99,99,99,63]}
+
+00:24:35.795 --> 00:24:39.405
+<v Speaker 1>what is the configuration of my firewall to uh internet
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,65,99]}
+
+00:24:39.405 --> 00:24:42.005
+<v Speaker 1>usage policy, what are people able to use their internet
+
+NOTE CONF {"raw":[99,99,88,99,99,99,99,99,99,99]}
+
+00:24:42.005 --> 00:24:42.614
+<v Speaker 1>for or not?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:24:43.234 --> 00:24:46.805
+<v Speaker 1>Email policy, what can you, you know, uh, what kind
+
+NOTE CONF {"raw":[29,99,93,99,99,99,99,62,99,99]}
+
+00:24:46.805 --> 00:24:49.204
+<v Speaker 1>of words or what kind of documents should not leave
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:49.204 --> 00:24:53.214
+<v Speaker 1>the organization, which should patch into your data leak prevention
+
+NOTE CONF {"raw":[99,99,67,60,99,99,99,99,99,99]}
+
+00:24:53.214 --> 00:24:54.025
+<v Speaker 1>protocols.
+
+NOTE CONF {"raw":[99]}
+
+00:24:55.150 --> 00:24:59.589
+<v Speaker 1>And um how does your security program support the business
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,100]}
+
+00:24:59.829 --> 00:25:00.660
+<v Speaker 1>at a strategic level?
+
+NOTE CONF {"raw":[99,98,99,99]}
+
+00:25:00.750 --> 00:25:01.660
+<v Speaker 1>How is it aligned to it?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:25:01.709 --> 00:25:04.699
+<v Speaker 1>How does it achieve business objectives at a very strategic
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:25:04.699 --> 00:25:04.930
+<v Speaker 1>level?
+
+NOTE CONF {"raw":[100]}
+
+00:25:05.839 --> 00:25:08.099
+<v Speaker 1>And so we have these different terms.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:25:09.010 --> 00:25:12.880
+<v Speaker 1>Policies usually, the term policy is reserved for strategic level
+
+NOTE CONF {"raw":[91,99,99,99,99,96,99,99,99,99]}
+
+00:25:12.880 --> 00:25:13.589
+<v Speaker 1>documents.
+
+NOTE CONF {"raw":[99]}
+
+00:25:14.050 --> 00:25:16.699
+<v Speaker 1>And then you have this word called standards.
+
+NOTE CONF {"raw":[80,99,99,99,99,99,99,99]}
+
+00:25:17.060 --> 00:25:18.530
+<v Speaker 1>And I was having a bit of a debate with
+
+NOTE CONF {"raw":[45,99,99,99,99,99,99,99,100,99]}
+
+00:25:18.530 --> 00:25:20.670
+<v Speaker 1>Mazzino last night at the tutors meeting.
+
+NOTE CONF {"raw":[97,99,99,78,99,98,99]}
+
+00:25:21.310 --> 00:25:22.880
+<v Speaker 1>The word standards.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:25:23.900 --> 00:25:26.939
+<v Speaker 1>When people use the word standard, they usually think ISO
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,97]}
+
+00:25:26.939 --> 00:25:30.060
+<v Speaker 1>standard, international standard or industry standard.
+
+NOTE CONF {"raw":[98,93,85,99,98,95]}
+
+00:25:30.380 --> 00:25:33.170
+<v Speaker 1>But in the US in the book that you're, you
+
+NOTE CONF {"raw":[84,99,99,99,70,99,99,99,22,85]}
+
+00:25:33.170 --> 00:25:36.760
+<v Speaker 1>know, prescribed textbook is an American textbook, the term standard
+
+NOTE CONF {"raw":[79,98,99,99,99,99,99,91,99,99]}
+
+00:25:36.969 --> 00:25:40.140
+<v Speaker 1>is actually used for an internal policy.
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99]}
+
+00:25:41.420 --> 00:25:44.329
+<v Speaker 1>Right, it's a policy document made by the organization for
+
+NOTE CONF {"raw":[54,63,99,99,99,99,99,99,99,99]}
+
+00:25:44.329 --> 00:25:46.619
+<v Speaker 1>itself that sits under the strategic level policy.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99]}
+
+00:25:46.900 --> 00:25:47.939
+<v Speaker 1>It's called the standard.
+
+NOTE CONF {"raw":[88,99,98,99]}
+
+00:25:48.260 --> 00:25:52.219
+<v Speaker 1>So it's really important to, to make sure you understand
+
+NOTE CONF {"raw":[99,99,99,100,99,89,99,99,99,99]}
+
+00:25:52.219 --> 00:25:53.619
+<v Speaker 1>the difference between the two.
+
+NOTE CONF {"raw":[99,99,100,99,99]}
+
+00:25:54.020 --> 00:25:56.770
+<v Speaker 1>In this subject, generally, when we use the word standards,
+
+NOTE CONF {"raw":[97,99,99,98,99,99,99,99,99,99]}
+
+00:25:56.859 --> 00:25:59.180
+<v Speaker 1>we mean ISO standard, right?
+
+NOTE CONF {"raw":[99,99,81,99,94]}
+
+00:25:59.339 --> 00:26:01.900
+<v Speaker 1>But it's just for you to know that there are
+
+NOTE CONF {"raw":[87,99,99,99,99,99,100,99,99,99]}
+
+00:26:01.900 --> 00:26:03.140
+<v Speaker 1>different levels of policies.
+
+NOTE CONF {"raw":[99,99,99,30]}
+
+00:26:03.260 --> 00:26:08.719
+<v Speaker 1>So you've got Senior levels or strategic level policies, you've
+
+NOTE CONF {"raw":[93,99,99,90,79,98,98,99,98,97]}
+
+00:26:08.719 --> 00:26:12.520
+<v Speaker 1>got middle management or, you know, tactical level policies, you've
+
+NOTE CONF {"raw":[99,99,99,99,95,94,98,99,98,95]}
+
+00:26:12.520 --> 00:26:15.800
+<v Speaker 1>got practices, guidelines and procedures, and they're just vary in
+
+NOTE CONF {"raw":[99,99,99,99,99,96,59,99,92,95]}
+
+00:26:15.800 --> 00:26:18.099
+<v Speaker 1>the level of detail that they provide.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:26:18.469 --> 00:26:22.079
+<v Speaker 1>So more detail as you go down, more specific to
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,99]}
+
+00:26:22.079 --> 00:26:24.119
+<v Speaker 1>the context as you go down, and more general and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:24.119 --> 00:26:25.339
+<v Speaker 1>abstract as you go up.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:26:28.319 --> 00:26:31.479
+<v Speaker 1>For policies to be effective, first of all, you have
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:26:31.479 --> 00:26:33.709
+<v Speaker 1>to be able to disseminate, you have to disseminate them
+
+NOTE CONF {"raw":[99,99,99,99,32,96,99,99,99,99]}
+
+00:26:33.709 --> 00:26:35.630
+<v Speaker 1>to the people who need them, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,91]}
+
+00:26:36.510 --> 00:26:39.520
+<v Speaker 1>And it's not, most people think that means write a
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:26:39.520 --> 00:26:43.239
+<v Speaker 1>policy, email it to everybody in the organization, or set
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,100]}
+
+00:26:43.239 --> 00:26:46.380
+<v Speaker 1>up an intranet, which is called the policy domain and
+
+NOTE CONF {"raw":[99,99,50,99,99,99,99,99,99,99]}
+
+00:26:46.390 --> 00:26:48.160
+<v Speaker 1>and give them the address so people can go and
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:26:48.160 --> 00:26:49.040
+<v Speaker 1>look up the policy.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:26:50.310 --> 00:26:51.670
+<v Speaker 1>Uh, no, right?
+
+NOTE CONF {"raw":[91,97,92]}
+
+00:26:51.959 --> 00:26:55.959
+<v Speaker 1>That's the 1980s, 19990s view of what policy is like.
+
+NOTE CONF {"raw":[95,99,98,60,99,99,99,99,66,99]}
+
+00:26:56.359 --> 00:26:59.880
+<v Speaker 1>Now, we've been arguing for now more than two decades
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:26:59.880 --> 00:27:03.959
+<v Speaker 1>that policy only makes sense if it pops up at
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:03.959 --> 00:27:06.280
+<v Speaker 1>the point where you're about to make a decision, right?
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,93]}
+
+00:27:06.329 --> 00:27:08.640
+<v Speaker 1>If you're about to do something, and the organization has
+
+NOTE CONF {"raw":[80,99,99,99,99,100,99,99,99,99]}
+
+00:27:08.640 --> 00:27:11.280
+<v Speaker 1>a policy directive on it, a pop-up should come up
+
+NOTE CONF {"raw":[98,99,99,99,99,99,70,99,99,99]}
+
+00:27:11.280 --> 00:27:13.920
+<v Speaker 1>on your, on your screen that says, did you know
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,95,99,99]}
+
+00:27:13.920 --> 00:27:17.000
+<v Speaker 1>that the organization's directive on this particular decision you're about
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:17.000 --> 00:27:18.719
+<v Speaker 1>to make is blah.
+
+NOTE CONF {"raw":[99,99,99,8]}
+
+00:27:19.189 --> 00:27:20.750
+<v Speaker 1>So now you don't have to go and look for
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:20.750 --> 00:27:24.109
+<v Speaker 1>the 1000 page, you know, book and flick through it
+
+NOTE CONF {"raw":[99,87,99,99,99,99,99,99,99,99]}
+
+00:27:24.109 --> 00:27:27.709
+<v Speaker 1>and find where in the organization's directives is the part
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:27.709 --> 00:27:29.719
+<v Speaker 1>that relates to the decision you're about to make.
+
+NOTE CONF {"raw":[99,99,99,99,100,96,99,99,99]}
+
+00:27:30.510 --> 00:27:32.030
+<v Speaker 1>Right, that makes no sense at all.
+
+NOTE CONF {"raw":[99,64,99,99,100,99,100]}
+
+00:27:32.270 --> 00:27:35.640
+<v Speaker 1>And that's the way most organizations have been operating for
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:27:35.699 --> 00:27:36.180
+<v Speaker 1>generations, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:27:36.430 --> 00:27:38.150
+<v Speaker 1>Write a policy, put it on a shelf.
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99]}
+
+00:27:38.819 --> 00:27:41.069
+<v Speaker 1>It's your job to know what it is, right?
+
+NOTE CONF {"raw":[70,99,100,99,100,99,99,99,97]}
+
+00:27:41.319 --> 00:27:43.780
+<v Speaker 1>It's not practical, but it's your job, right?
+
+NOTE CONF {"raw":[99,99,100,99,99,99,100,97]}
+
+00:27:44.109 --> 00:27:48.150
+<v Speaker 1>So now, I think the expectation is a bit more
+
+NOTE CONF {"raw":[99,99,90,99,99,41,47,99,99,99]}
+
+00:27:48.469 --> 00:27:51.900
+<v Speaker 1>that you can, that the organization should find a way
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:51.900 --> 00:27:56.069
+<v Speaker 1>to inform the individual decision makers of what the policy
+
+NOTE CONF {"raw":[100,99,99,100,100,98,99,99,99,99]}
+
+00:27:56.069 --> 00:27:58.469
+<v Speaker 1>is at the point of the decision, right.
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,93]}
+
+00:27:59.219 --> 00:28:01.800
+<v Speaker 1>For example, using, uh, you know, pop-up box or whatever.
+
+NOTE CONF {"raw":[94,99,99,63,99,99,53,99,99,99]}
+
+00:28:02.380 --> 00:28:05.540
+<v Speaker 1>So, how would you disseminate a policy in an organization
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:05.540 --> 00:28:10.560
+<v Speaker 1>so many different ways, but policy needs to be disseminated
+
+NOTE CONF {"raw":[96,99,99,99,70,99,99,99,99,99]}
+
+00:28:11.180 --> 00:28:12.079
+<v Speaker 1>as a document.
+
+NOTE CONF {"raw":[99,99,100]}
+
+00:28:12.920 --> 00:28:17.510
+<v Speaker 1>As maybe in emails, as training, so your training needs
+
+NOTE CONF {"raw":[94,99,99,99,99,99,84,99,99,99]}
+
+00:28:17.510 --> 00:28:20.069
+<v Speaker 1>to back up your policy, whatever is in your policy
+
+NOTE CONF {"raw":[99,99,99,99,99,92,99,99,99,99]}
+
+00:28:20.069 --> 00:28:22.579
+<v Speaker 1>should be consistent with your training, and it should pop
+
+NOTE CONF {"raw":[99,99,99,99,99,99,95,99,99,99]}
+
+00:28:22.579 --> 00:28:23.770
+<v Speaker 1>up at decision points.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:28:24.349 --> 00:28:24.359
+<v Speaker 1>OK?
+
+NOTE CONF {"raw":[35]}
+
+00:28:24.469 --> 00:28:28.349
+<v Speaker 1>And you might even have champions who are policy experts,
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,99]}
+
+00:28:28.750 --> 00:28:30.650
+<v Speaker 1>uh, who know everything about the policy.
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99]}
+
+00:28:30.750 --> 00:28:34.130
+<v Speaker 1>So if you're ever We're all wondering what should I
+
+NOTE CONF {"raw":[93,99,85,99,37,76,99,99,99,99]}
+
+00:28:34.130 --> 00:28:36.770
+<v Speaker 1>do in this situation, you just ask, you know, a
+
+NOTE CONF {"raw":[99,99,68,99,63,99,99,99,99,99]}
+
+00:28:36.770 --> 00:28:39.810
+<v Speaker 1>buddy or a champion in your team who's designated the
+
+NOTE CONF {"raw":[98,99,98,99,99,99,99,60,99,99]}
+
+00:28:39.810 --> 00:28:41.689
+<v Speaker 1>policy expert, and you go and ask them.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:28:41.810 --> 00:28:43.750
+<v Speaker 1>So that way, the problem isn't.
+
+NOTE CONF {"raw":[58,99,99,99,99,98]}
+
+00:28:44.569 --> 00:28:47.729
+<v Speaker 1>Do I need to train everybody in the organization to
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:28:47.729 --> 00:28:48.969
+<v Speaker 1>know everything about the policy?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:28:49.050 --> 00:28:52.290
+<v Speaker 1>It's how many champions do I need in an organization
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,99,99]}
+
+00:28:52.770 --> 00:28:55.349
+<v Speaker 1>so that people will refer to them, and that way,
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,90,99,99]}
+
+00:28:55.530 --> 00:28:56.569
+<v Speaker 1>policy will be followed.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:28:57.609 --> 00:29:00.359
+<v Speaker 1>Your policy needs to be understood by your target audience.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:01.199 --> 00:29:02.589
+<v Speaker 1>And which is another problem, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:29:02.810 --> 00:29:07.290
+<v Speaker 1>Because in an organization that has baby boomers, Gen Xers,
+
+NOTE CONF {"raw":[78,99,99,99,99,99,99,98,94,95]}
+
+00:29:07.430 --> 00:29:11.069
+<v Speaker 1>Gen Y, Gen Z, Gen Z, whatever, all the different
+
+NOTE CONF {"raw":[99,99,99,99,99,22,99,99,99,99]}
+
+00:29:11.119 --> 00:29:14.250
+<v Speaker 1>generations, they all take direction differently.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:29:14.689 --> 00:29:17.000
+<v Speaker 1>For a baby boomer, you just say, this is the
+
+NOTE CONF {"raw":[99,95,99,98,99,99,99,99,99,99]}
+
+00:29:17.000 --> 00:29:19.170
+<v Speaker 1>organization's policy, and they're not going to ask questions.
+
+NOTE CONF {"raw":[99,99,99,99,99,70,67,99,99]}
+
+00:29:19.449 --> 00:29:20.430
+<v Speaker 1>They're just going to do it.
+
+NOTE CONF {"raw":[62,99,64,64,99,99]}
+
+00:29:20.930 --> 00:29:23.359
+<v Speaker 1>But if you ask a Gen Z person, This is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:23.359 --> 00:29:25.599
+<v Speaker 1>the policy they're going to say, why?
+
+NOTE CONF {"raw":[89,99,97,59,53,99,88]}
+
+00:29:26.079 --> 00:29:26.760
+<v Speaker 1>Why should I follow?
+
+NOTE CONF {"raw":[88,99,99,99]}
+
+00:29:26.839 --> 00:29:29.819
+<v Speaker 1>Who, why do I care what the organization thinks?
+
+NOTE CONF {"raw":[88,79,99,99,99,99,99,99,99]}
+
+00:29:30.079 --> 00:29:32.280
+<v Speaker 1>You need to justify it to me, it needs to
+
+NOTE CONF {"raw":[99,99,99,99,69,99,99,71,99,99]}
+
+00:29:32.280 --> 00:29:34.000
+<v Speaker 1>make sense to me, or I'm not going to follow
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,58,58,99]}
+
+00:29:34.000 --> 00:29:35.199
+<v Speaker 1>it, right?
+
+NOTE CONF {"raw":[99,95]}
+
+00:29:35.640 --> 00:29:39.420
+<v Speaker 1>So, you have a generational gap in the way people
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:39.880 --> 00:29:40.839
+<v Speaker 1>follow direction.
+
+NOTE CONF {"raw":[99,99]}
+
+00:29:41.689 --> 00:29:44.219
+<v Speaker 1>So if you write a policy for a baby boomer,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:44.260 --> 00:29:45.839
+<v Speaker 1>it's not going to work for a Gen Z.
+
+NOTE CONF {"raw":[99,99,86,82,99,99,99,99,99]}
+
+00:29:47.369 --> 00:29:50.290
+<v Speaker 1>You see, the same document has now got to deal
+
+NOTE CONF {"raw":[96,99,99,99,100,91,99,68,84,99]}
+
+00:29:50.290 --> 00:29:51.599
+<v Speaker 1>with different generations.
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:29:51.969 --> 00:29:55.770
+<v Speaker 1>And then also you have different attitudes from different ethnic
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99,99,99]}
+
+00:29:55.770 --> 00:29:56.250
+<v Speaker 1>groups.
+
+NOTE CONF {"raw":[100]}
+
+00:29:57.089 --> 00:30:00.930
+<v Speaker 1>So for instance, trust in government, we ran this study
+
+NOTE CONF {"raw":[99,99,100,99,96,99,80,98,81,99]}
+
+00:30:00.930 --> 00:30:05.989
+<v Speaker 1>some years ago, where we asked Singaporean citizens to give
+
+NOTE CONF {"raw":[99,99,99,99,99,95,99,99,99,99]}
+
+00:30:06.689 --> 00:30:11.689
+<v Speaker 1>um their private information to a government website and we
+
+NOTE CONF {"raw":[99,99,100,100,99,99,99,99,93,99]}
+
+00:30:11.689 --> 00:30:14.170
+<v Speaker 1>compare that to, I think it was Malaysians or something
+
+NOTE CONF {"raw":[47,99,99,99,99,99,99,98,99,99]}
+
+00:30:14.170 --> 00:30:16.530
+<v Speaker 1>else and we, or Australians, was it?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:30:16.770 --> 00:30:20.270
+<v Speaker 1>Um and completely different attitude, right?
+
+NOTE CONF {"raw":[32,99,99,99,99,98]}
+
+00:30:21.130 --> 00:30:24.339
+<v Speaker 1>Some citizens of some countries completely do not trust the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:24.339 --> 00:30:27.239
+<v Speaker 1>government and would never give any private information out, especially
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:27.239 --> 00:30:28.459
+<v Speaker 1>the government, right?
+
+NOTE CONF {"raw":[65,99,70]}
+
+00:30:28.890 --> 00:30:32.979
+<v Speaker 1>And there's others, particularly Singaporean citizens who completely trust the
+
+NOTE CONF {"raw":[82,74,99,99,98,99,99,99,99,99]}
+
+00:30:32.979 --> 00:30:35.859
+<v Speaker 1>government and are very happy to give all their personal
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:35.859 --> 00:30:36.579
+<v Speaker 1>information to the government.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:30:37.510 --> 00:30:40.270
+<v Speaker 1>And I thought that was remarkable, right, that there was
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,67,99,99]}
+
+00:30:40.270 --> 00:30:45.109
+<v Speaker 1>such a disparity between citizens of different countries based on
+
+NOTE CONF {"raw":[99,99,99,100,99,99,100,99,99,99]}
+
+00:30:45.109 --> 00:30:49.150
+<v Speaker 1>their experiences and their attitudes towards government, and we can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,75,99,99]}
+
+00:30:49.150 --> 00:30:52.709
+<v Speaker 1>replace government with authority here and make the same claim
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:52.709 --> 00:30:53.099
+<v Speaker 1>here.
+
+NOTE CONF {"raw":[99]}
+
+00:30:53.349 --> 00:30:55.989
+<v Speaker 1>In an organization, you're going to have people who have
+
+NOTE CONF {"raw":[91,99,99,99,57,51,99,99,99,99]}
+
+00:30:55.989 --> 00:30:57.880
+<v Speaker 1>different attitudes towards authority.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:30:58.349 --> 00:30:59.810
+<v Speaker 1>Some will follow authority.
+
+NOTE CONF {"raw":[97,99,99,99]}
+
+00:31:00.739 --> 00:31:06.170
+<v Speaker 1>Unquestioningly, and some will actually react very negatively to authority
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:31:06.510 --> 00:31:08.709
+<v Speaker 1>and actually be put on a war footing, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:31:08.790 --> 00:31:12.040
+<v Speaker 1>They will become very skeptical.
+
+NOTE CONF {"raw":[97,99,99,99,99]}
+
+00:31:12.390 --> 00:31:15.739
+<v Speaker 1>Uh, they will ask lots of questions, they will be,
+
+NOTE CONF {"raw":[54,98,99,99,99,99,99,74,99,99]}
+
+00:31:16.109 --> 00:31:18.290
+<v Speaker 1>you know, they won't trust authority.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:31:18.510 --> 00:31:21.250
+<v Speaker 1>So, policy has to deal with all of these problems
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:31:21.910 --> 00:31:24.349
+<v Speaker 1>because all of these problems exist in your audience.
+
+NOTE CONF {"raw":[99,99,97,99,99,99,99,99,100]}
+
+00:31:25.739 --> 00:31:27.810
+<v Speaker 1>And policy must be uniformly enforced.
+
+NOTE CONF {"raw":[97,99,99,99,99,98]}
+
+00:31:28.810 --> 00:31:30.160
+<v Speaker 1>On your audience.
+
+NOTE CONF {"raw":[91,99,99]}
+
+00:31:30.239 --> 00:31:33.479
+<v Speaker 1>So if it's selective, or there's a perception that policy
+
+NOTE CONF {"raw":[95,99,98,99,99,98,99,99,99,99]}
+
+00:31:33.479 --> 00:31:36.040
+<v Speaker 1>is being selective, then what's gonna happen?
+
+NOTE CONF {"raw":[99,99,99,99,99,86,99]}
+
+00:31:36.119 --> 00:31:38.319
+<v Speaker 1>People are gonna say, why are you, why are you
+
+NOTE CONF {"raw":[91,99,78,99,98,99,99,99,99,99]}
+
+00:31:38.319 --> 00:31:39.920
+<v Speaker 1>focusing on me, right?
+
+NOTE CONF {"raw":[99,99,99,73]}
+
+00:31:40.359 --> 00:31:42.609
+<v Speaker 1>You should be asking so and so person, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96]}
+
+00:31:42.760 --> 00:31:45.180
+<v Speaker 1>So all of these play a role.
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99]}
+
+00:31:49.859 --> 00:31:52.920
+<v Speaker 1>So typical policy document structure is you have some strategic
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:52.920 --> 00:31:56.260
+<v Speaker 1>level policies and some operational policies, and they all exist
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,100]}
+
+00:31:56.260 --> 00:31:57.599
+<v Speaker 1>in a big policy suite.
+
+NOTE CONF {"raw":[99,98,99,99,99]}
+
+00:32:02.630 --> 00:32:05.910
+<v Speaker 1>I'm going to, um, very quickly, how much time do
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,99,99]}
+
+00:32:05.910 --> 00:32:07.150
+<v Speaker 1>I have, I have a little bit of time to
+
+NOTE CONF {"raw":[99,57,97,99,99,99,99,99,99,99]}
+
+00:32:07.150 --> 00:32:07.750
+<v Speaker 1>go through this.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:32:08.949 --> 00:32:12.650
+<v Speaker 1>I want to show you ANZ's um, this is available
+
+NOTE CONF {"raw":[99,66,58,99,99,67,82,97,99,100]}
+
+00:32:12.650 --> 00:32:18.930
+<v Speaker 1>on your, uh, your LMS, the This is around 200,
+
+NOTE CONF {"raw":[99,99,65,99,99,83,99,99,99,80]}
+
+00:32:19.010 --> 00:32:20.849
+<v Speaker 1>I don't know, 5, 2008.
+
+NOTE CONF {"raw":[96,87,94,15,81]}
+
+00:32:20.969 --> 00:32:26.030
+<v Speaker 1>This is the official ANZ banking information security policy, which,
+
+NOTE CONF {"raw":[91,99,99,99,99,85,97,88,90,99]}
+
+00:32:26.369 --> 00:32:27.969
+<v Speaker 1>by the way, it was very hard to get hold
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:27.969 --> 00:32:32.369
+<v Speaker 1>of because banks in particular, are very, very, you know,
+
+NOTE CONF {"raw":[98,99,99,99,100,99,99,99,99,99]}
+
+00:32:32.449 --> 00:32:38.170
+<v Speaker 1>they treat their, their enterprise-wide security policy as confidential.
+
+NOTE CONF {"raw":[99,99,99,99,14,99,99,99,99]}
+
+00:32:38.689 --> 00:32:42.410
+<v Speaker 1>So the CISO was very kind to allow for students
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:42.410 --> 00:32:45.670
+<v Speaker 1>of the subject to be able to use this policy.
+
+NOTE CONF {"raw":[99,85,99,99,98,99,99,99,99,99]}
+
+00:32:46.199 --> 00:32:49.089
+<v Speaker 1>OK, let me just I want to read this out
+
+NOTE CONF {"raw":[99,98,99,99,100,93,88,100,99,99]}
+
+00:32:49.089 --> 00:32:53.089
+<v Speaker 1>to you because it's remarkable how close the language is
+
+NOTE CONF {"raw":[99,99,99,99,100,99,100,99,100,98]}
+
+00:32:53.089 --> 00:32:55.089
+<v Speaker 1>to what you're studying in this subject, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99]}
+
+00:32:55.369 --> 00:32:59.930
+<v Speaker 1>And this is all signaling from the bank to all
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,100]}
+
+00:32:59.930 --> 00:33:03.290
+<v Speaker 1>the stakeholders that are in their environment.
+
+NOTE CONF {"raw":[99,99,100,99,99,99,100]}
+
+00:33:03.849 --> 00:33:07.439
+<v Speaker 1>So, Information Security management systems, there's like a whole suite
+
+NOTE CONF {"raw":[98,98,16,87,54,9,99,99,99,99]}
+
+00:33:07.439 --> 00:33:09.310
+<v Speaker 1>of policies on the right hand side, you have access
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,96,99,100]}
+
+00:33:09.310 --> 00:33:09.859
+<v Speaker 1>to all of them.
+
+NOTE CONF {"raw":[99,100,99,99]}
+
+00:33:10.640 --> 00:33:13.619
+<v Speaker 1>So, so we rely on computer systems and the information
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:13.619 --> 00:33:14.280
+<v Speaker 1>they contain.
+
+NOTE CONF {"raw":[99,99]}
+
+00:33:16.030 --> 00:33:19.819
+<v Speaker 1>Right, sounds like an unremarkable line, right?
+
+NOTE CONF {"raw":[99,57,99,88,99,99,99]}
+
+00:33:20.109 --> 00:33:21.069
+<v Speaker 1>Those are their assets.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:33:21.260 --> 00:33:24.709
+<v Speaker 1>The first line, very deliberately, is what are our assets,
+
+NOTE CONF {"raw":[88,90,99,99,99,99,99,99,83,99]}
+
+00:33:25.030 --> 00:33:25.260
+<v Speaker 1>right?
+
+NOTE CONF {"raw":[94]}
+
+00:33:25.469 --> 00:33:27.500
+<v Speaker 1>We rely on computer systems, they used to call them
+
+NOTE CONF {"raw":[98,99,99,99,99,63,99,99,99,99]}
+
+00:33:27.500 --> 00:33:29.979
+<v Speaker 1>computer systems around that time, and information.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:33:30.069 --> 00:33:32.849
+<v Speaker 1>So they've got two types of assets, digital platforms, information.
+
+NOTE CONF {"raw":[69,98,99,99,99,99,99,99,99,99]}
+
+00:33:33.739 --> 00:33:36.339
+<v Speaker 1>They, they don't have capability, not that they don't have
+
+NOTE CONF {"raw":[83,91,99,99,99,99,99,99,99,99]}
+
+00:33:36.339 --> 00:33:39.099
+<v Speaker 1>the capability, but they don't have, they don't treat their
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:33:39.099 --> 00:33:41.780
+<v Speaker 1>capability as an asset because they're not an IP centric
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:41.780 --> 00:33:43.619
+<v Speaker 1>firm, they're a bank, OK.
+
+NOTE CONF {"raw":[99,85,97,99,99]}
+
+00:33:44.060 --> 00:33:46.939
+<v Speaker 1>The information we hold and collect will advance our strategy
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,100,99]}
+
+00:33:46.939 --> 00:33:48.800
+<v Speaker 1>as effective market leaders.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:33:49.420 --> 00:33:53.380
+<v Speaker 1>This is the alignment between security and business, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,88]}
+
+00:33:53.579 --> 00:33:56.819
+<v Speaker 1>Number 3, we need to protect this information from disclosure,
+
+NOTE CONF {"raw":[49,99,99,99,99,100,99,100,99,99]}
+
+00:33:56.859 --> 00:33:58.310
+<v Speaker 1>corruption and loss.
+
+NOTE CONF {"raw":[99,99,98]}
+
+00:33:58.979 --> 00:34:02.380
+<v Speaker 1>Disclosure, confidentiality, corruption, integrity, loss availability.
+
+NOTE CONF {"raw":[95,99,99,99,98,99]}
+
+00:34:03.719 --> 00:34:06.520
+<v Speaker 1>See how they're mapping directly on what we're talking about.
+
+NOTE CONF {"raw":[96,99,98,99,99,99,99,99,100,99]}
+
+00:34:06.719 --> 00:34:09.658
+<v Speaker 1>This is the triplet model in action, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98]}
+
+00:34:10.199 --> 00:34:13.199
+<v Speaker 1>Information security management can be likened to a security fence
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:34:13.199 --> 00:34:14.360
+<v Speaker 1>around our information.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:34:17.398 --> 00:34:20.810
+<v Speaker 1>Compliance Right, so this is a compliance statement.
+
+NOTE CONF {"raw":[98,99,56,99,99,97,99,99]}
+
+00:34:21.169 --> 00:34:23.969
+<v Speaker 1>This is them saying we see security as a compliance
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,98,99,99]}
+
+00:34:23.969 --> 00:34:25.010
+<v Speaker 1>problem, right?
+
+NOTE CONF {"raw":[99,96]}
+
+00:34:25.330 --> 00:34:29.138
+<v Speaker 1>It's a 3 ft fence around our Our property.
+
+NOTE CONF {"raw":[96,99,42,99,99,99,99,74,99]}
+
+00:34:29.658 --> 00:34:31.898
+<v Speaker 1>However, the fence is only as strong as its weakest
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:31.898 --> 00:34:33.330
+<v Speaker 1>link, right?
+
+NOTE CONF {"raw":[100,89]}
+
+00:34:33.610 --> 00:34:37.439
+<v Speaker 1>So this is a signal to all the All the
+
+NOTE CONF {"raw":[98,99,99,97,99,99,99,99,90,97]}
+
+00:34:37.439 --> 00:34:39.840
+<v Speaker 1>parties involved in security, if you let us down, you
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99,99,99,99]}
+
+00:34:39.840 --> 00:34:40.888
+<v Speaker 1>can break the whole link down.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:34:41.878 --> 00:34:42.479
+<v Speaker 1>Next paragraph.
+
+NOTE CONF {"raw":[66,99]}
+
+00:34:42.628 --> 00:34:45.439
+<v Speaker 1>Therefore, in order to sustain this fence and the corresponding
+
+NOTE CONF {"raw":[87,99,99,99,99,98,98,99,99,98]}
+
+00:34:45.439 --> 00:34:48.860
+<v Speaker 1>links, a group called Global Information Security was formed.
+
+NOTE CONF {"raw":[99,99,99,99,98,98,98,99,99]}
+
+00:34:49.429 --> 00:34:52.638
+<v Speaker 1>This is them saying now that we've just in broad
+
+NOTE CONF {"raw":[99,99,99,99,97,99,86,98,98,99]}
+
+00:34:52.638 --> 00:34:56.959
+<v Speaker 1>strokes defined our posture on security, we have now created
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:34:56.959 --> 00:34:59.699
+<v Speaker 1>a group that is responsible for security.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:35:00.080 --> 00:35:04.310
+<v Speaker 1>So this is This is them saying we are resourcing
+
+NOTE CONF {"raw":[77,94,87,99,99,99,99,99,99,98]}
+
+00:35:04.310 --> 00:35:07.389
+<v Speaker 1>security, not just we're talking, but we have created a
+
+NOTE CONF {"raw":[99,94,99,18,99,99,99,98,99,99]}
+
+00:35:07.389 --> 00:35:09.540
+<v Speaker 1>group, which means we have hired people, which means we
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:35:09.540 --> 00:35:10.610
+<v Speaker 1>have dedicated budget.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:35:10.909 --> 00:35:15.530
+<v Speaker 1>We've spent money on it, and now there's somebody's responsible
+
+NOTE CONF {"raw":[51,99,99,99,95,98,99,16,17,99]}
+
+00:35:16.030 --> 00:35:16.189
+<v Speaker 1>within.
+
+NOTE CONF {"raw":[99]}
+
+00:35:16.290 --> 00:35:19.020
+<v Speaker 1>So we are holding some team or some group of
+
+NOTE CONF {"raw":[63,99,96,99,99,99,99,99,99,99]}
+
+00:35:19.020 --> 00:35:22.510
+<v Speaker 1>people responsible for security because if we didn't do that,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:22.669 --> 00:35:25.820
+<v Speaker 1>it means that everybody is responsible and where everybody is
+
+NOTE CONF {"raw":[99,99,99,99,98,99,98,99,99,85]}
+
+00:35:25.820 --> 00:35:29.350
+<v Speaker 1>responsible, nobody is responsible.
+
+NOTE CONF {"raw":[99,99,86,99]}
+
+00:35:29.750 --> 00:35:31.929
+<v Speaker 1>So now we've got a team that's responsible.
+
+NOTE CONF {"raw":[64,99,98,99,99,99,89,97]}
+
+00:35:33.659 --> 00:35:37.330
+<v Speaker 1>So, Their primary objective is to ensure that we are
+
+NOTE CONF {"raw":[99,91,98,99,99,99,99,99,99,99]}
+
+00:35:37.330 --> 00:35:41.080
+<v Speaker 1>all fully aware of our responsibilities with regard to maintaining
+
+NOTE CONF {"raw":[99,99,99,99,99,98,93,99,99,99]}
+
+00:35:41.080 --> 00:35:43.020
+<v Speaker 1>this fence and the links that encompass it.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,98,99]}
+
+00:35:43.409 --> 00:35:47.010
+<v Speaker 1>So they're saying the prime directive of the global information
+
+NOTE CONF {"raw":[88,86,99,99,99,99,99,99,99,99]}
+
+00:35:47.010 --> 00:35:51.169
+<v Speaker 1>security team is to inform the rest of the organization.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:51.225 --> 00:35:52.804
+<v Speaker 1>Of the importance of security.
+
+NOTE CONF {"raw":[94,82,98,99,99]}
+
+00:35:53.185 --> 00:35:56.064
+<v Speaker 1>Further, it is imperative that we understand the importance of
+
+NOTE CONF {"raw":[47,99,99,99,99,99,99,99,99,99]}
+
+00:35:56.064 --> 00:35:59.344
+<v Speaker 1>individual accountability in order for us to effectively maintain the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:35:59.344 --> 00:36:00.024
+<v Speaker 1>strength of the fence.
+
+NOTE CONF {"raw":[99,99,34,54]}
+
+00:36:00.094 --> 00:36:02.465
+<v Speaker 1>So they're saying there are two groups of people that
+
+NOTE CONF {"raw":[93,57,99,99,80,99,99,99,99,99]}
+
+00:36:02.465 --> 00:36:04.405
+<v Speaker 1>are responsible for security in this company.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:36:04.665 --> 00:36:07.405
+<v Speaker 1>There is GIS and there's everybody.
+
+NOTE CONF {"raw":[90,98,98,99,48,99]}
+
+00:36:08.239 --> 00:36:12.639
+<v Speaker 1>So they've already identified the two key groups within the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,100,99,99]}
+
+00:36:12.639 --> 00:36:14.399
+<v Speaker 1>opening page of the policy.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:36:14.439 --> 00:36:16.479
+<v Speaker 1>This is the structure of the way they handle security.
+
+NOTE CONF {"raw":[97,99,99,100,99,99,99,99,99,99]}
+
+00:36:17.110 --> 00:36:19.770
+<v Speaker 1>The purpose of our policies is to protect all information
+
+NOTE CONF {"raw":[99,99,99,99,92,99,99,99,99,99]}
+
+00:36:19.770 --> 00:36:21.699
+<v Speaker 1>assets from the threats they are exposed to.
+
+NOTE CONF {"raw":[99,99,99,99,99,77,99,99]}
+
+00:36:22.409 --> 00:36:25.969
+<v Speaker 1>That is your, uh, that's your triplet model's primary definition
+
+NOTE CONF {"raw":[99,99,99,35,98,99,99,38,99,99]}
+
+00:36:25.969 --> 00:36:30.689
+<v Speaker 1>of security, assets and threats, irrespective of whether the threats
+
+NOTE CONF {"raw":[99,99,99,99,99,96,99,99,99,99]}
+
+00:36:30.689 --> 00:36:32.729
+<v Speaker 1>are inside or outside our protective fence.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:36:32.770 --> 00:36:35.290
+<v Speaker 1>And so they're clarifying that when we say threats, we
+
+NOTE CONF {"raw":[66,99,98,99,99,99,99,99,99,99]}
+
+00:36:35.290 --> 00:36:38.199
+<v Speaker 1>don't just mean external, we mean internal as well.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:36:38.449 --> 00:36:42.010
+<v Speaker 1>That's a result of running an organization, where there's a
+
+NOTE CONF {"raw":[96,99,100,99,100,99,100,99,98,99]}
+
+00:36:42.010 --> 00:36:44.250
+<v Speaker 1>boundary between what's going on in the outside world and
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,100,99,99]}
+
+00:36:44.250 --> 00:36:46.030
+<v Speaker 1>the inside world, right?
+
+NOTE CONF {"raw":[99,99,99,91]}
+
+00:36:46.570 --> 00:36:48.610
+<v Speaker 1>Or whether they are deliberate or accidental.
+
+NOTE CONF {"raw":[71,99,99,99,99,99,99]}
+
+00:36:48.770 --> 00:36:50.500
+<v Speaker 1>So they're defining security.
+
+NOTE CONF {"raw":[81,98,99,99]}
+
+00:36:51.370 --> 00:36:54.989
+<v Speaker 1>They're scoping security to say it's not just purposive malicious
+
+NOTE CONF {"raw":[49,88,99,99,99,98,99,99,26,99]}
+
+00:36:55.570 --> 00:37:00.090
+<v Speaker 1>incidents, it's accidental ones as well, blurring the line between
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:37:00.090 --> 00:37:01.179
+<v Speaker 1>safety and security.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:37:02.280 --> 00:37:02.629
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[92]}
+
+00:37:02.879 --> 00:37:03.979
+<v Speaker 1>So accidents.
+
+NOTE CONF {"raw":[93,99]}
+
+00:37:05.179 --> 00:37:09.820
+<v Speaker 1>And attacks, both count as security within the jurisdiction of
+
+NOTE CONF {"raw":[96,99,97,99,99,99,99,99,99,99]}
+
+00:37:09.820 --> 00:37:14.139
+<v Speaker 1>this particular policy, and by extension, the whole security program.
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,99]}
+
+00:37:15.040 --> 00:37:18.649
+<v Speaker 1>So in this one page, you get a very clear
+
+NOTE CONF {"raw":[95,95,99,99,99,99,99,99,99,99]}
+
+00:37:18.649 --> 00:37:23.850
+<v Speaker 1>idea of what the organization's posture is, how they define
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:37:23.850 --> 00:37:28.919
+<v Speaker 1>security, who is responsible for security, what encompasses security, what's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,90]}
+
+00:37:28.919 --> 00:37:32.050
+<v Speaker 1>outside of security, what are the directives of security, all
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,60]}
+
+00:37:32.050 --> 00:37:34.729
+<v Speaker 1>of that big picture painting is what they're doing on
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,73,99,99]}
+
+00:37:34.729 --> 00:37:36.560
+<v Speaker 1>the very first page, right?
+
+NOTE CONF {"raw":[99,99,99,99,52]}
+
+00:37:36.689 --> 00:37:40.050
+<v Speaker 1>So each line is very carefully crafted.
+
+NOTE CONF {"raw":[68,99,99,99,99,99,98]}
+
+00:37:41.489 --> 00:37:45.169
+<v Speaker 1>Because that opening part of the policy is going to
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,99,54,58]}
+
+00:37:45.169 --> 00:37:48.570
+<v Speaker 1>have a huge impact in a court case, right?
+
+NOTE CONF {"raw":[100,99,100,100,100,99,100,100,99]}
+
+00:37:48.909 --> 00:37:51.159
+<v Speaker 1>Or in any case, where they are.
+
+NOTE CONF {"raw":[91,99,100,100,99,97,99]}
+
+00:37:52.159 --> 00:37:53.290
+<v Speaker 1>Um, going to be called in.
+
+NOTE CONF {"raw":[66,99,99,99,99,99]}
+
+00:38:01.879 --> 00:38:03.030
+<v Speaker 1>OK, what happened there?
+
+NOTE CONF {"raw":[99,82,99,99]}
+
+00:38:06.510 --> 00:38:06.520
+<v Speaker 1>Sorry.
+
+NOTE CONF {"raw":[99]}
+
+00:38:10.689 --> 00:38:14.979
+<v Speaker 1>I can shut that down now, and To the back
+
+NOTE CONF {"raw":[99,99,100,100,100,100,91,99,99,100]}
+
+00:38:14.979 --> 00:38:15.929
+<v Speaker 1>end of this.
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:38:18.250 --> 00:38:19.770
+<v Speaker 1>Oops, how am I doing this?
+
+NOTE CONF {"raw":[98,81,99,99,99,99]}
+
+00:38:23.270 --> 00:38:23.739
+<v Speaker 1>Yeah.
+
+NOTE CONF {"raw":[50]}
+
+00:38:28.689 --> 00:38:30.939
+<v Speaker 1>How many of you are taking a subject with Sean?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,93,99,99,84]}
+
+00:38:33.379 --> 00:38:35.280
+<v Speaker 1>Yeah, IT strategy governance.
+
+NOTE CONF {"raw":[99,99,98,98]}
+
+00:38:35.620 --> 00:38:37.860
+<v Speaker 1>Yes, that's the subject you're doing with him.
+
+NOTE CONF {"raw":[96,82,99,99,99,99,99,95]}
+
+00:38:38.020 --> 00:38:38.560
+<v Speaker 1>I think you are.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:38:38.820 --> 00:38:41.060
+<v Speaker 1>This is, this is his PhD, um.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:38:42.120 --> 00:38:46.600
+<v Speaker 1>He did his PhD on information security policy quality, which
+
+NOTE CONF {"raw":[99,99,95,98,99,95,96,91,98,99]}
+
+00:38:46.600 --> 00:38:49.600
+<v Speaker 1>was to identify all the different dimensions of quality that
+
+NOTE CONF {"raw":[99,99,100,100,99,99,99,99,99,99]}
+
+00:38:49.600 --> 00:38:51.979
+<v Speaker 1>a policy could have in the context of security.
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99]}
+
+00:38:52.550 --> 00:38:52.560
+<v Speaker 1>Right.
+
+NOTE CONF {"raw":[31]}
+
+00:38:53.000 --> 00:38:59.320
+<v Speaker 1>So, um, here are some really interesting things that you
+
+NOTE CONF {"raw":[95,99,99,99,100,99,100,99,99,99]}
+
+00:38:59.320 --> 00:39:01.520
+<v Speaker 1>probably never thought about when you thought of when you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,23,99,99]}
+
+00:39:01.520 --> 00:39:03.239
+<v Speaker 1>start thinking about security policy.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:39:03.350 --> 00:39:06.370
+<v Speaker 1>Number one, security policy needs to be complete.
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99,100]}
+
+00:39:07.159 --> 00:39:10.010
+<v Speaker 1>Right, which is the extent to which it addresses all
+
+NOTE CONF {"raw":[73,70,99,99,99,99,99,99,99,99]}
+
+00:39:10.010 --> 00:39:11.399
+<v Speaker 1>your security requirements.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:39:11.810 --> 00:39:14.330
+<v Speaker 1>So it's not just risk scenarios, but every requirement you
+
+NOTE CONF {"raw":[95,98,99,99,99,98,99,99,99,99]}
+
+00:39:14.330 --> 00:39:17.850
+<v Speaker 1>have in security needs to be addressed in the policy.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:17.969 --> 00:39:21.090
+<v Speaker 1>So the policy's completeness is at the extent to which
+
+NOTE CONF {"raw":[70,99,95,99,99,46,99,99,99,99]}
+
+00:39:21.090 --> 00:39:23.649
+<v Speaker 1>it addresses all the organization's security requirements.
+
+NOTE CONF {"raw":[99,99,99,99,89,99,99]}
+
+00:39:23.729 --> 00:39:25.510
+<v Speaker 1>Number 2, suitability.
+
+NOTE CONF {"raw":[25,98,99]}
+
+00:39:26.110 --> 00:39:29.510
+<v Speaker 1>Information security policy should be appropriate for the organization, so.
+
+NOTE CONF {"raw":[26,99,99,99,99,99,99,99,99,64]}
+
+00:39:30.800 --> 00:39:34.550
+<v Speaker 1>Different organizations that that exist in different circumstances will have
+
+NOTE CONF {"raw":[97,99,99,96,99,99,99,99,99,99]}
+
+00:39:34.550 --> 00:39:35.330
+<v Speaker 1>different policies.
+
+NOTE CONF {"raw":[99,99]}
+
+00:39:35.639 --> 00:39:39.800
+<v Speaker 1>A highly regulated sector like banking will not look anything
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99,99,99,99]}
+
+00:39:39.800 --> 00:39:44.649
+<v Speaker 1>like an unregulated sector like, I don't know, food or,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,99]}
+
+00:39:45.000 --> 00:39:46.379
+<v Speaker 1>you know, water.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:39:47.120 --> 00:39:53.000
+<v Speaker 1>So very different policies, the heavily regulated sector organizations will
+
+NOTE CONF {"raw":[98,99,99,99,71,99,99,99,99,96]}
+
+00:39:53.000 --> 00:39:56.320
+<v Speaker 1>have policies that are very legal, and the others may
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:39:56.320 --> 00:39:57.320
+<v Speaker 1>not be as legal.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:58.340 --> 00:40:02.139
+<v Speaker 1>Accuracy, the extent to which security policy statements correctly address
+
+NOTE CONF {"raw":[85,85,99,99,99,99,99,99,99,99]}
+
+00:40:02.139 --> 00:40:03.399
+<v Speaker 1>security requirements.
+
+NOTE CONF {"raw":[99,99]}
+
+00:40:04.250 --> 00:40:05.540
+<v Speaker 1>Do you have security requirements.
+
+NOTE CONF {"raw":[12,90,99,99,99]}
+
+00:40:05.739 --> 00:40:08.340
+<v Speaker 1>Does the policy statements that are in the policy addressing
+
+NOTE CONF {"raw":[64,99,99,99,99,99,99,99,99,99]}
+
+00:40:08.340 --> 00:40:10.169
+<v Speaker 1>those requirements, do they work or not?
+
+NOTE CONF {"raw":[99,99,95,99,99,99,99]}
+
+00:40:10.540 --> 00:40:11.729
+<v Speaker 1>How accurate are they?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:40:12.300 --> 00:40:16.090
+<v Speaker 1>Interoperability, does the policy actually interact with other policies, or
+
+NOTE CONF {"raw":[98,74,99,99,99,99,99,99,99,97]}
+
+00:40:16.090 --> 00:40:17.399
+<v Speaker 1>does it exist in a vacuum?
+
+NOTE CONF {"raw":[99,99,100,99,99,99]}
+
+00:40:21.669 --> 00:40:24.510
+<v Speaker 1>Security, are you saying something in your policy that is
+
+NOTE CONF {"raw":[98,61,99,99,99,99,99,99,99,99]}
+
+00:40:24.510 --> 00:40:27.189
+<v Speaker 1>so sensitive that somebody who reads your policy will be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:40:27.189 --> 00:40:28.169
+<v Speaker 1>able to figure it out?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:40:29.350 --> 00:40:31.489
+<v Speaker 1>Right, and then, and then actually attacked the company.
+
+NOTE CONF {"raw":[98,54,99,99,99,99,41,99,100]}
+
+00:40:32.570 --> 00:40:35.969
+<v Speaker 1>So you might not think of the policy, security policy
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:35.969 --> 00:40:39.889
+<v Speaker 1>as being needed as needing its own security, but it
+
+NOTE CONF {"raw":[99,97,92,93,99,99,99,99,99,99]}
+
+00:40:39.889 --> 00:40:40.469
+<v Speaker 1>does.
+
+NOTE CONF {"raw":[99]}
+
+00:40:41.010 --> 00:40:43.489
+<v Speaker 1>So sometimes if you put too much in your policy,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:43.530 --> 00:40:47.989
+<v Speaker 1>you're giving up, you know, you're, you're, you're presenting secrets
+
+NOTE CONF {"raw":[71,99,99,95,96,40,63,94,99,99]}
+
+00:40:48.320 --> 00:40:50.729
+<v Speaker 1>to an external party who will read your policy and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:50.729 --> 00:40:51.770
+<v Speaker 1>use it against you.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:40:52.719 --> 00:40:57.080
+<v Speaker 1>Analyzability, the extent to which information security policy can be
+
+NOTE CONF {"raw":[51,83,99,99,99,99,99,99,99,99]}
+
+00:40:57.080 --> 00:40:59.239
+<v Speaker 1>methodically examined for deficiencies.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:40:59.590 --> 00:41:01.560
+<v Speaker 1>And so I have a, a story about this many,
+
+NOTE CONF {"raw":[95,99,99,99,58,89,99,99,99,98]}
+
+00:41:01.639 --> 00:41:04.280
+<v Speaker 1>many years ago, um, I was working for a consulting
+
+NOTE CONF {"raw":[99,99,99,84,99,99,99,99,99,99]}
+
+00:41:04.280 --> 00:41:06.969
+<v Speaker 1>firm and my client was Verisign Corporation, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99]}
+
+00:41:07.320 --> 00:41:11.560
+<v Speaker 1>And Verisign Corporation here in Australia was about to go
+
+NOTE CONF {"raw":[95,98,99,99,99,99,99,99,99,99]}
+
+00:41:11.560 --> 00:41:17.139
+<v Speaker 1>through this, this compliance, um, They were applying for something
+
+NOTE CONF {"raw":[99,99,99,99,99,55,99,99,99,99]}
+
+00:41:17.139 --> 00:41:18.330
+<v Speaker 1>called gatekeeper compliance.
+
+NOTE CONF {"raw":[99,98,99]}
+
+00:41:18.449 --> 00:41:21.340
+<v Speaker 1>The gatekeeper is about digital certificates, and as part of
+
+NOTE CONF {"raw":[44,58,99,99,99,98,99,99,99,99]}
+
+00:41:21.340 --> 00:41:24.979
+<v Speaker 1>the compliance protocol they needed to assure the Australian government
+
+NOTE CONF {"raw":[45,99,99,99,99,99,99,99,99,99]}
+
+00:41:24.979 --> 00:41:29.120
+<v Speaker 1>that their digital certificates were actually stored in a location
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:29.120 --> 00:41:34.250
+<v Speaker 1>that was compliant with all the security measures that the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:34.250 --> 00:41:36.840
+<v Speaker 1>gatekeeper protocol said needed to be in place.
+
+NOTE CONF {"raw":[57,69,99,99,99,99,99,99]}
+
+00:41:37.689 --> 00:41:38.050
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:41:38.449 --> 00:41:41.209
+<v Speaker 1>So, and it, it extended to the height of the
+
+NOTE CONF {"raw":[82,99,99,99,99,99,99,99,99,99]}
+
+00:41:41.209 --> 00:41:45.919
+<v Speaker 1>fences and the buildings that held the digital certificates, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,14,99,98]}
+
+00:41:45.929 --> 00:41:48.659
+<v Speaker 1>and the, the size of the bolts in the fence,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:41:49.010 --> 00:41:52.300
+<v Speaker 1>and all of that was supposed to be compliant.
+
+NOTE CONF {"raw":[49,99,99,99,99,99,99,99,99]}
+
+00:41:52.770 --> 00:41:55.090
+<v Speaker 1>And so they were in a bit of a problem
+
+NOTE CONF {"raw":[63,99,99,99,99,99,99,99,99,100]}
+
+00:41:55.090 --> 00:41:59.959
+<v Speaker 1>because Verisign Corporation had three policies, Verisign USA, Verisign Australia,
+
+NOTE CONF {"raw":[99,99,99,99,79,99,99,99,99,99]}
+
+00:42:00.050 --> 00:42:03.350
+<v Speaker 1>Verisign Global, and they were so poorly written.
+
+NOTE CONF {"raw":[98,97,99,99,99,99,99,99]}
+
+00:42:04.159 --> 00:42:06.000
+<v Speaker 1>At that time, this is 20 years ago, so they're
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:42:06.000 --> 00:42:07.100
+<v Speaker 1>not going to hold me to it, right?
+
+NOTE CONF {"raw":[99,78,82,99,99,99,99,99]}
+
+00:42:07.439 --> 00:42:10.959
+<v Speaker 1>They were so poorly written that they couldn't find where
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99,99]}
+
+00:42:10.959 --> 00:42:13.840
+<v Speaker 1>in the policy, they were actually saying what they were
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:13.840 --> 00:42:15.959
+<v Speaker 1>doing for each of those things that they were supposed
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,99,99]}
+
+00:42:15.959 --> 00:42:16.820
+<v Speaker 1>to be tested on.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:42:17.360 --> 00:42:19.600
+<v Speaker 1>So they came to the consulting firm and said, can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:42:19.600 --> 00:42:20.600
+<v Speaker 1>you help us with this?
+
+NOTE CONF {"raw":[99,100,99,99,99]}
+
+00:42:20.709 --> 00:42:23.479
+<v Speaker 1>And so my job was to try to figure out
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:42:23.479 --> 00:42:25.360
+<v Speaker 1>whether they were compliant or not, and where they were
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:25.360 --> 00:42:28.179
+<v Speaker 1>not compliant, advise them on what they needed to do.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:28.590 --> 00:42:32.159
+<v Speaker 1>And I found it impossible because the 3 policies were
+
+NOTE CONF {"raw":[99,99,100,99,100,99,99,97,100,100]}
+
+00:42:32.159 --> 00:42:32.919
+<v Speaker 1>unreadable.
+
+NOTE CONF {"raw":[99]}
+
+00:42:33.199 --> 00:42:34.760
+<v Speaker 1>There were thousands of pages.
+
+NOTE CONF {"raw":[99,99,99,99,100]}
+
+00:42:35.239 --> 00:42:37.199
+<v Speaker 1>Their information was everywhere.
+
+NOTE CONF {"raw":[99,100,99,100]}
+
+00:42:37.479 --> 00:42:39.459
+<v Speaker 1>They were not modularly structured.
+
+NOTE CONF {"raw":[98,99,99,99,100]}
+
+00:42:40.639 --> 00:42:44.760
+<v Speaker 1>And where are the heights and the thicknesses of the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,94,99,99]}
+
+00:42:44.760 --> 00:42:45.149
+<v Speaker 1>walls?
+
+NOTE CONF {"raw":[99]}
+
+00:42:45.280 --> 00:42:46.320
+<v Speaker 1>They're everywhere, right?
+
+NOTE CONF {"raw":[93,99,98]}
+
+00:42:46.639 --> 00:42:49.000
+<v Speaker 1>Some place in one section it says it's X and
+
+NOTE CONF {"raw":[99,89,99,99,99,92,99,98,96,99]}
+
+00:42:49.000 --> 00:42:51.560
+<v Speaker 1>another section says it's Y, and it was just, you
+
+NOTE CONF {"raw":[99,99,99,98,81,94,99,99,99,84]}
+
+00:42:51.560 --> 00:42:53.320
+<v Speaker 1>know, a total chaotic experience.
+
+NOTE CONF {"raw":[88,99,99,99,99]}
+
+00:42:53.399 --> 00:42:56.300
+<v Speaker 1>So what we did was we built a master table
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:56.719 --> 00:42:59.360
+<v Speaker 1>to reorganize all three documents.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:43:00.010 --> 00:43:02.780
+<v Speaker 1>To first of all, figure out whether they were consistent
+
+NOTE CONF {"raw":[66,90,99,99,99,99,99,99,99,99]}
+
+00:43:02.780 --> 00:43:06.739
+<v Speaker 1>among themselves before even thinking about gatekeeper.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:43:06.929 --> 00:43:08.570
+<v Speaker 1>It's like, where is everything?
+
+NOTE CONF {"raw":[33,98,99,99,99]}
+
+00:43:08.770 --> 00:43:10.330
+<v Speaker 1>Let's build a master table.
+
+NOTE CONF {"raw":[94,99,98,99,99]}
+
+00:43:10.610 --> 00:43:12.929
+<v Speaker 1>And of course, we didn't have AI in those days,
+
+NOTE CONF {"raw":[82,99,99,99,99,99,99,99,99,99]}
+
+00:43:13.010 --> 00:43:14.280
+<v Speaker 1>this is more than 20 years ago.
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99]}
+
+00:43:14.449 --> 00:43:17.570
+<v Speaker 1>It was a manual thing, going through the tables, reading
+
+NOTE CONF {"raw":[77,99,99,99,99,90,99,99,99,99]}
+
+00:43:17.570 --> 00:43:20.129
+<v Speaker 1>the sections, deciding what sits where.
+
+NOTE CONF {"raw":[99,99,99,99,98,99]}
+
+00:43:20.469 --> 00:43:23.590
+<v Speaker 1>And then building those master tables and then realizing that
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:43:23.590 --> 00:43:26.669
+<v Speaker 1>they were contradicting each other for, you know, across the
+
+NOTE CONF {"raw":[99,99,99,100,99,99,82,71,99,99]}
+
+00:43:26.669 --> 00:43:29.189
+<v Speaker 1>board, right, and then figuring out what they needed to
+
+NOTE CONF {"raw":[99,99,71,99,99,99,99,99,99,99]}
+
+00:43:29.189 --> 00:43:30.270
+<v Speaker 1>say, and where.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:43:30.350 --> 00:43:32.659
+<v Speaker 1>So it wasn't just that we solved their gatekeeper problem,
+
+NOTE CONF {"raw":[71,99,99,99,99,99,89,98,98,99]}
+
+00:43:32.790 --> 00:43:35.889
+<v Speaker 1>we solved their policy problem at a more broader sense.
+
+NOTE CONF {"raw":[99,91,83,99,99,94,99,99,99,99]}
+
+00:43:37.260 --> 00:43:40.800
+<v Speaker 1>But you can see that things like analyzability.
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,98]}
+
+00:43:42.409 --> 00:43:46.090
+<v Speaker 1>This was very poor in the analyzability department because I,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,76]}
+
+00:43:46.169 --> 00:43:49.360
+<v Speaker 1>we couldn't find their deficiencies simply by reading things because
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:43:49.360 --> 00:43:51.870
+<v Speaker 1>things were just everywhere and stability.
+
+NOTE CONF {"raw":[99,99,99,99,85,99]}
+
+00:43:53.179 --> 00:43:56.060
+<v Speaker 1>If we changed one part of the policy, we had
+
+NOTE CONF {"raw":[93,90,95,99,99,99,99,99,99,99]}
+
+00:43:56.060 --> 00:43:58.340
+<v Speaker 1>no idea what the effect on other parts would be.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:58.969 --> 00:44:02.090
+<v Speaker 1>If we changed one clause here, there might be 10
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:44:02.090 --> 00:44:04.300
+<v Speaker 1>other clauses in other parts of the policy referring to
+
+NOTE CONF {"raw":[98,98,94,99,99,99,99,99,99,99]}
+
+00:44:04.300 --> 00:44:04.540
+<v Speaker 1>it.
+
+NOTE CONF {"raw":[99]}
+
+00:44:04.780 --> 00:44:08.260
+<v Speaker 1>If we don't know where those other clauses are, we
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:08.260 --> 00:44:10.239
+<v Speaker 1>don't understand the ripple effect of that.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:44:10.780 --> 00:44:13.379
+<v Speaker 1>So again, those tables came in really handy.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,98]}
+
+00:44:14.320 --> 00:44:19.199
+<v Speaker 1>And then changeability, changing their policy from a spaghetti to
+
+NOTE CONF {"raw":[99,99,99,89,99,99,99,99,99,99]}
+
+00:44:19.199 --> 00:44:23.120
+<v Speaker 1>a modular structure means that once it's in a modular
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,82,99]}
+
+00:44:23.120 --> 00:44:26.780
+<v Speaker 1>structure, you can change one section and be very confident
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:26.780 --> 00:44:29.560
+<v Speaker 1>it's not going to affect anything else, right?
+
+NOTE CONF {"raw":[98,99,66,70,99,99,99,86]}
+
+00:44:29.570 --> 00:44:31.250
+<v Speaker 1>Because everything that's relevant to this topic.
+
+NOTE CONF {"raw":[76,99,98,99,99,99,99]}
+
+00:44:31.600 --> 00:44:32.510
+<v Speaker 1>In this section.
+
+NOTE CONF {"raw":[43,86,95]}
+
+00:44:32.830 --> 00:44:34.909
+<v Speaker 1>There is nothing relevant to this topic that's not in
+
+NOTE CONF {"raw":[80,98,99,98,99,99,99,71,99,99]}
+
+00:44:34.909 --> 00:44:35.459
+<v Speaker 1>this section.
+
+NOTE CONF {"raw":[86,99]}
+
+00:44:35.760 --> 00:44:38.310
+<v Speaker 1>If there is another section that operates with it, there's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,20]}
+
+00:44:38.310 --> 00:44:40.629
+<v Speaker 1>going to be a footnote that says, and there are
+
+NOTE CONF {"raw":[98,97,99,99,99,99,99,89,99,99]}
+
+00:44:40.629 --> 00:44:42.909
+<v Speaker 1>3 other sections that relate to this section in the
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99,99,99,99]}
+
+00:44:42.909 --> 00:44:45.590
+<v Speaker 1>following ways, so you can check to see if you
+
+NOTE CONF {"raw":[99,99,73,99,99,99,99,99,99,99]}
+
+00:44:45.590 --> 00:44:47.629
+<v Speaker 1>need to go to those sections and make changes there
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:44:47.629 --> 00:44:48.229
+<v Speaker 1>or not.
+
+NOTE CONF {"raw":[98,94]}
+
+00:44:49.540 --> 00:44:51.760
+<v Speaker 1>And then testability.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:44:52.379 --> 00:44:54.830
+<v Speaker 1>How easy is it to test a policy?
+
+NOTE CONF {"raw":[81,99,99,99,99,100,99,99]}
+
+00:44:54.899 --> 00:44:57.179
+<v Speaker 1>So for example, if the policy says you should have
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:57.179 --> 00:44:59.790
+<v Speaker 1>a short password, that's very hard to test.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:45:00.100 --> 00:45:03.209
+<v Speaker 1>If your policy says that your password should be less
+
+NOTE CONF {"raw":[99,82,99,99,99,99,99,99,99,89]}
+
+00:45:03.209 --> 00:45:06.340
+<v Speaker 1>than, should not be less than 10 characters long, that's
+
+NOTE CONF {"raw":[93,97,99,99,99,99,99,99,99,98]}
+
+00:45:06.340 --> 00:45:07.780
+<v Speaker 1>easy to test, right?
+
+NOTE CONF {"raw":[99,99,99,95]}
+
+00:45:08.209 --> 00:45:11.929
+<v Speaker 1>So testability plays a big role, and you need testability
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,99]}
+
+00:45:11.929 --> 00:45:14.389
+<v Speaker 1>because without actually being able to test whether the policy
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:14.850 --> 00:45:20.250
+<v Speaker 1>directives are implementable or effective, you can't generally tell whether
+
+NOTE CONF {"raw":[99,99,99,99,99,99,34,99,99,99]}
+
+00:45:20.250 --> 00:45:21.689
+<v Speaker 1>the policy is effective or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:45:26.300 --> 00:45:27.469
+<v Speaker 1>So final thoughts.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:45:28.709 --> 00:45:29.409
+<v Speaker 1>5 minutes.
+
+NOTE CONF {"raw":[98,99]}
+
+00:45:30.459 --> 00:45:32.159
+<v Speaker 1>Policies are very cheap to create.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:45:33.379 --> 00:45:36.699
+<v Speaker 1>Anybody can write one, but very few people can come
+
+NOTE CONF {"raw":[98,99,99,99,99,99,100,100,99,100]}
+
+00:45:36.699 --> 00:45:38.419
+<v Speaker 1>up with an effective policy.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:45:41.459 --> 00:45:43.379
+<v Speaker 1>Policies should not exist in a vacuum.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:45:43.580 --> 00:45:45.580
+<v Speaker 1>When you write a policy, you write a policy as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:45.580 --> 00:45:50.520
+<v Speaker 1>part of the whole organization's collective direction and guidance.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:45:50.939 --> 00:45:55.209
+<v Speaker 1>So a policy writer in security needs to know all
+
+NOTE CONF {"raw":[84,99,99,53,99,99,99,99,99,99]}
+
+00:45:55.209 --> 00:45:58.780
+<v Speaker 1>the policies across the organization before writing the security policy,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:59.209 --> 00:46:05.500
+<v Speaker 1>otherwise they risk creating an isolated document with guidance that
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99,99,99,99]}
+
+00:46:05.500 --> 00:46:09.620
+<v Speaker 1>contradicts or does not complement all the other policies in
+
+NOTE CONF {"raw":[99,99,99,99,92,99,99,99,98,99]}
+
+00:46:09.620 --> 00:46:10.469
+<v Speaker 1>the organization.
+
+NOTE CONF {"raw":[99,99]}
+
+00:46:11.810 --> 00:46:14.729
+<v Speaker 1>It should utilize a trickle down effect, so more strategic
+
+NOTE CONF {"raw":[94,99,99,97,99,84,99,99,93,99]}
+
+00:46:14.729 --> 00:46:18.330
+<v Speaker 1>abstract statements at the top and more detailed statements as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:18.330 --> 00:46:19.179
+<v Speaker 1>you go down.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:46:21.389 --> 00:46:26.189
+<v Speaker 1>And it should, it should, um, address the generational and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:26.189 --> 00:46:30.350
+<v Speaker 1>cultural differences amongst the organization, because the policy is nothing
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:46:30.350 --> 00:46:32.239
+<v Speaker 1>if people don't read it and act on it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:46:32.669 --> 00:46:34.469
+<v Speaker 1>So how are you going to get it into people's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:34.469 --> 00:46:34.939
+<v Speaker 1>heads?
+
+NOTE CONF {"raw":[99]}
+
+00:46:35.229 --> 00:46:37.310
+<v Speaker 1>How are you going to encourage people to follow the
+
+NOTE CONF {"raw":[85,90,81,99,99,99,99,99,99,99]}
+
+00:46:37.310 --> 00:46:38.550
+<v Speaker 1>policy, right?
+
+NOTE CONF {"raw":[99,40]}
+
+00:46:39.110 --> 00:46:41.129
+<v Speaker 1>And a lot of that comes down to culture.
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,99]}
+
+00:46:41.739 --> 00:46:45.100
+<v Speaker 1>The culture of the organization, whether they accept guidance or
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:46:45.100 --> 00:46:48.780
+<v Speaker 1>they don't, and the history of your implementation, and the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,88,99]}
+
+00:46:48.780 --> 00:46:51.860
+<v Speaker 1>biggest directive is, if you don't practice it as a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:51.860 --> 00:46:54.979
+<v Speaker 1>CEO or security leader, you can be sure that other
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:54.979 --> 00:46:57.280
+<v Speaker 1>people around you will not practice it, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,92]}
+
+00:46:57.459 --> 00:46:59.199
+<v Speaker 1>And so the policy is what you do.
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99]}
+
+00:47:00.429 --> 00:47:01.590
+<v Speaker 1>Not what's written in the document.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:47:02.350 --> 00:47:06.580
+<v Speaker 1>Right, so if you are Senior manager, then you can
+
+NOTE CONF {"raw":[95,51,99,99,99,88,99,99,99,99]}
+
+00:47:06.580 --> 00:47:12.100
+<v Speaker 1>be sure that your behavior is more impactful, uh, and
+
+NOTE CONF {"raw":[99,99,99,99,100,99,100,99,97,99]}
+
+00:47:12.100 --> 00:47:15.659
+<v Speaker 1>more influential on the behavior of others than anything that's
+
+NOTE CONF {"raw":[99,100,99,99,100,99,99,99,99,98]}
+
+00:47:15.659 --> 00:47:16.739
+<v Speaker 1>written in any document.
+
+NOTE CONF {"raw":[99,99,99,100]}
+
+00:47:17.500 --> 00:47:17.780
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[95]}
+
+00:47:17.989 --> 00:47:20.570
+<v Speaker 1>So you should know the policy first before anybody else.
+
+NOTE CONF {"raw":[77,99,99,99,99,99,100,99,99,100]}
+
+00:47:20.860 --> 00:47:21.300
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:47:22.000 --> 00:47:22.760
+<v Speaker 1>Fantastic.
+
+NOTE CONF {"raw":[99]}
+
+00:47:23.000 --> 00:47:25.100
+<v Speaker 1>We'll see you next week for the next topic.
+
+NOTE CONF {"raw":[94,100,99,100,99,99,99,100,100]}
+
+00:47:53.669 --> 00:47:53.689
+<v Speaker 2>Thank you.
+
+NOTE CONF {"raw":[2,9]}
+
+00:48:00.000 --> 00:48:00.010
+<v Speaker 2>questions.
+
+NOTE CONF {"raw":[91]}
+
+00:48:07.189 --> 00:48:08.770
+<v Speaker 2>Sit here and be somebody else about we'll go out.
+
+NOTE CONF {"raw":[8,98,89,6,99,99,61,11,8,21]}
+
+00:48:10.860 --> 00:48:10.899
+<v Speaker 2>I go from there.
+
+NOTE CONF {"raw":[50,89,68,63]}
+
+00:48:12.050 --> 00:48:12.669
+<v Speaker 2>Thank you very much.
+
+NOTE CONF {"raw":[88,99,99,99]}
+
+00:48:12.939 --> 00:48:13.290
+<v Speaker 2>Thank you.
+
+NOTE CONF {"raw":[27,81]}
+
+00:48:14.459 --> 00:48:15.060
+<v Speaker 2>Second question.
+
+NOTE CONF {"raw":[96,99]}
+
+00:48:15.939 --> 00:48:15.949
+<v Speaker 2>I.
+
+NOTE CONF {"raw":[30]}
+
+00:48:19.830 --> 00:48:19.979
+<v Speaker 2>Yeah.
+
+NOTE CONF {"raw":[30]}
+
+00:48:25.550 --> 00:48:27.709
+<v Speaker 2>the unauthorized utilization of AI.
+
+NOTE CONF {"raw":[56,88,83,97,98]}
+
+00:48:29.830 --> 00:48:32.030
+<v Speaker 2>So for example, if you're an employee and the organization
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:48:32.030 --> 00:48:34.689
+<v Speaker 2>has its own AI, you use your own personal.
+
+NOTE CONF {"raw":[99,97,99,95,65,99,98,93,99]}
+
+00:48:36.879 --> 00:48:40.169
+<v Speaker 2>From my literature, a lot of them.
+
+NOTE CONF {"raw":[57,69,9,56,86,76,77]}
+
+00:48:44.729 --> 00:48:47.969
+<v Speaker 2>Yeah, yeah, yeah, it's very dangerous, very dangerous because the
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,96,95]}
+
+00:48:47.969 --> 00:48:51.340
+<v Speaker 2>AI that you are using personally, if you're using a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,83,76,85,44]}
+
+00:48:51.340 --> 00:48:56.209
+<v Speaker 2>clause, for example, you mandated using all these documents outside
+
+NOTE CONF {"raw":[6,42,97,65,85,66,98,59,99,99]}
+
+00:48:56.209 --> 00:49:00.370
+<v Speaker 2>the organization environment you start building up your AI, those
+
+NOTE CONF {"raw":[91,99,99,63,99,99,99,99,99,77]}
+
+00:49:00.370 --> 00:49:03.610
+<v Speaker 2>documents, you have no idea if your AI is building
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,56]}
+
+00:49:03.610 --> 00:49:04.969
+<v Speaker 2>that or you're threatening.
+
+NOTE CONF {"raw":[99,99,74,83]}
+
+00:49:05.610 --> 00:49:06.179
+<v Speaker 2>Yeah, don't know that.
+
+NOTE CONF {"raw":[15,2,45,87]}
+
+00:49:06.189 --> 00:49:13.429
+<v Speaker 2>So, I mean, I'm generally very worried about any organization
+
+NOTE CONF {"raw":[61,99,99,99,99,99,99,99,99,99]}
+
+00:49:13.429 --> 00:49:18.209
+<v Speaker 2>embedding AI into processes because the organization cannot guarantee that
+
+NOTE CONF {"raw":[0,99,82,83,99,99,99,99,99,99]}
+
+00:49:18.209 --> 00:49:20.850
+<v Speaker 2>the AI is knowledge about the ETAD bureau won't be
+
+NOTE CONF {"raw":[99,99,83,77,94,37,5,18,6,90]}
+
+00:49:20.850 --> 00:49:23.199
+<v Speaker 2>used, right?
+
+NOTE CONF {"raw":[81,91]}
+
+00:49:23.209 --> 00:49:24.810
+<v Speaker 2>So for example, if you're a bank and you say
+
+NOTE CONF {"raw":[86,99,99,99,87,98,99,89,96,99]}
+
+00:49:24.810 --> 00:49:27.250
+<v Speaker 2>I comply with all the standards, and AI says, I
+
+NOTE CONF {"raw":[96,98,99,98,91,99,46,99,99,99]}
+
+00:49:27.250 --> 00:49:28.689
+<v Speaker 2>know you do not comply with the standards.
+
+NOTE CONF {"raw":[99,99,58,98,99,99,98,85]}
+
+00:49:28.800 --> 00:49:30.830
+<v Speaker 2>Yeah, no, right?
+
+NOTE CONF {"raw":[81,37,99]}
+
+00:49:30.949 --> 00:49:36.199
+<v Speaker 2>Yeah, it's not like, yeah, yeah, about putting AI inside
+
+NOTE CONF {"raw":[70,29,41,5,54,98,95,90,99,98]}
+
+00:49:36.199 --> 00:49:37.020
+<v Speaker 2>the organization.
+
+NOTE CONF {"raw":[87,99]}
+
+00:49:37.030 --> 00:49:37.909
+<v Speaker 2>I have an idea.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:49:38.149 --> 00:49:39.189
+<v Speaker 2>Maybe it's good to hear about this.
+
+NOTE CONF {"raw":[99,98,97,78,57,93,19]}
+
+00:49:39.979 --> 00:49:42.709
+<v Speaker 2>Can we put offline AI, your own cloud?
+
+NOTE CONF {"raw":[99,99,96,19,78,91,99,99]}
+
+00:49:42.949 --> 00:49:44.629
+<v Speaker 2>Yeah, a lot of organizations are doing that.
+
+NOTE CONF {"raw":[97,83,100,99,99,99,99,99]}
+
+00:49:45.030 --> 00:49:49.709
+<v Speaker 2>They're, they're making their in-house, you know, cut off from
+
+NOTE CONF {"raw":[99,99,99,99,98,99,100,100,99,99]}
+
+00:49:49.709 --> 00:49:54.669
+<v Speaker 2>the internet internal AI offline in order to use the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,99,99]}
+
+00:49:54.669 --> 00:49:57.030
+<v Speaker 2>AI without worrying about legal connectivity.
+
+NOTE CONF {"raw":[99,100,99,99,58,99]}
+
+00:49:58.469 --> 00:50:02.590
+<v Speaker 2>I've I've always all these things, all these things, yeah,
+
+NOTE CONF {"raw":[35,10,54,70,91,96,83,89,78,85]}
+
+00:50:02.600 --> 00:50:04.919
+<v Speaker 2>because I'm coming from nicotine.
+
+NOTE CONF {"raw":[98,97,94,99,0]}
+
+00:50:05.959 --> 00:50:10.699
+<v Speaker 2>Uh, all that I think if we can have AI
+
+NOTE CONF {"raw":[88,60,7,99,99,99,99,99,99,43]}
+
+00:50:10.699 --> 00:50:10.719
+<v Speaker 2>inside our.
+
+NOTE CONF {"raw":[82,99]}
+
+00:50:12.729 --> 00:50:17.479
+<v Speaker 2>Uh, organization offline that will turn our policies, turn our
+
+NOTE CONF {"raw":[96,99,55,99,99,20,99,99,96,99]}
+
+00:50:17.969 --> 00:50:20.320
+<v Speaker 2>behavior, it can be a multi.
+
+NOTE CONF {"raw":[99,68,93,99,63,98]}
+
+00:50:21.439 --> 00:50:21.760
+<v Speaker 2>Sure.
+
+NOTE CONF {"raw":[99]}
+
+00:50:22.129 --> 00:50:24.300
+<v Speaker 2>The question though is, is it gonna be as useful
+
+NOTE CONF {"raw":[21,99,99,99,98,99,88,99,99,99]}
+
+00:50:24.300 --> 00:50:25.639
+<v Speaker 2>as the online?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:50:27.409 --> 00:50:28.270
+<v Speaker 2>It's your AI.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:50:29.020 --> 00:50:32.219
+<v Speaker 2>It's your AI, but the real value of the online
+
+NOTE CONF {"raw":[99,99,99,89,99,99,100,99,99,99]}
+
+00:50:32.219 --> 00:50:35.020
+<v Speaker 2>version of the AI comes from its collective intelligence which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,72,99,97,99]}
+
+00:50:35.300 --> 00:50:36.780
+<v Speaker 2>keeps building, building, building, building.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:50:37.219 --> 00:50:40.020
+<v Speaker 2>The question is, will your offline AI have the same
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99,99,99]}
+
+00:50:40.020 --> 00:50:41.699
+<v Speaker 2>capability or not, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:50:41.860 --> 00:50:44.310
+<v Speaker 2>And then there's this gravitational pull, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:50:44.600 --> 00:50:46.620
+<v Speaker 2>AI loves to connect with AI.
+
+NOTE CONF {"raw":[99,99,98,97,99,99]}
+
+00:50:46.780 --> 00:50:49.810
+<v Speaker 2>It will find a way to create that, yeah, because
+
+NOTE CONF {"raw":[99,99,100,99,100,100,99,99,99,99]}
+
+00:50:49.810 --> 00:50:51.350
+<v Speaker 2>I saw that in the literature they call the.
+
+NOTE CONF {"raw":[99,99,99,98,88,52,97,68,69]}
+
+00:50:53.620 --> 00:50:56.379
+<v Speaker 2>Because you need productivity, but you are afraid of.
+
+NOTE CONF {"raw":[94,90,98,99,99,99,99,83,7]}
+
+00:50:56.889 --> 00:50:57.169
+<v Speaker 2>That's right.
+
+NOTE CONF {"raw":[38,99]}
+
+00:50:57.260 --> 00:50:57.800
+<v Speaker 2>That's right.
+
+NOTE CONF {"raw":[53,99]}
+
+00:50:58.360 --> 00:50:59.169
+<v Speaker 2>So it's a trade-off.
+
+NOTE CONF {"raw":[23,82,99,76]}
+
+00:51:00.050 --> 00:51:01.090
+<v Speaker 2>Same secret complex.
+
+NOTE CONF {"raw":[32,98,19]}
+
+00:51:02.530 --> 00:51:03.709
+<v Speaker 2>Absolutely it's a nightmare.
+
+NOTE CONF {"raw":[99,99,96,97]}
+
+00:51:04.149 --> 00:51:04.629
+<v Speaker 2>It's a nightmare.
+
+NOTE CONF {"raw":[93,99,98]}
+
+00:51:05.209 --> 00:51:09.729
+<v Speaker 2>Uh, uh, final question, do you do supervision of what
+
+NOTE CONF {"raw":[80,99,99,99,78,99,99,40,99,99]}
+
+00:51:09.729 --> 00:51:11.250
+<v Speaker 2>PhD, PhD students?
+
+NOTE CONF {"raw":[95,99,99]}
+
+00:51:11.300 --> 00:51:15.449
+<v Speaker 2>Yes, because I saw the website that you don't do.
+
+NOTE CONF {"raw":[98,99,98,85,98,99,99,98,99,99]}
+
+00:51:15.729 --> 00:51:18.729
+<v Speaker 2>I, I do not do, uh, I have only small
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,44,99,99]}
+
+00:51:18.729 --> 00:51:22.649
+<v Speaker 2>numbers of, of, of places, and it's only for people
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,100,99,100]}
+
+00:51:22.649 --> 00:51:26.250
+<v Speaker 2>who have like 10 to 20 years of industry leadership
+
+NOTE CONF {"raw":[99,99,99,99,99,73,99,99,99,99]}
+
+00:51:26.250 --> 00:51:26.659
+<v Speaker 2>like CIO and CEOs.
+
+NOTE CONF {"raw":[99,98,67,69]}
+
+00:51:27.659 --> 00:51:28.050
+<v Speaker 2>Those are the.
+
+NOTE CONF {"raw":[77,95,98]}
+
+00:51:30.379 --> 00:51:30.479
+<v Speaker 2>What about MIS?
+
+NOTE CONF {"raw":[72,91,16]}
+
+00:51:31.620 --> 00:51:33.739
+<v Speaker 2>No, no, you've done the MIS and you've got no.
+
+NOTE CONF {"raw":[71,99,47,94,27,26,99,63,99,96]}
+
+00:51:35.300 --> 00:51:41.439
+<v Speaker 2>12 years I'm not research team.
+
+NOTE CONF {"raw":[5,90,94,95,98,96]}
+
+00:51:41.489 --> 00:51:44.409
+<v Speaker 2>We cannot take students who don't have that strong vision.
+
+NOTE CONF {"raw":[84,99,99,99,99,98,99,99,99,45]}
+
+00:51:45.580 --> 00:51:45.590
+<v Speaker 2>OK.
+
+NOTE CONF {"raw":[36]}
+
+00:51:46.739 --> 00:51:47.580
+<v Speaker 2>Thank you very much.
+
+NOTE CONF {"raw":[69,99,99,99]}
+
+00:51:54.159 --> 00:51:57.100
+<v Speaker 2>So this is We can.
+
+NOTE CONF {"raw":[38,90,83,48,6]}
+
+00:52:00.060 --> 00:52:05.300
+<v Speaker 2>Does this mean that this 3 comes together They are
+
+NOTE CONF {"raw":[88,99,99,99,75,29,87,45,99,87]}
+
+00:52:05.300 --> 00:52:10.100
+<v Speaker 2>there are different taxonomy, so enterprise definitely management issue specific
+
+NOTE CONF {"raw":[77,99,99,61,91,99,99,55,96,97]}
+
+00:52:10.100 --> 00:52:10.850
+<v Speaker 2>depends on the issue.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:52:11.340 --> 00:52:14.929
+<v Speaker 2>system specific not management I see publishing so it doesn't
+
+NOTE CONF {"raw":[91,98,99,99,85,65,85,90,38,17]}
+
+00:52:14.929 --> 00:52:14.939
+<v Speaker 2>say.
+
+NOTE CONF {"raw":[58]}
+
+00:52:16.439 --> 00:52:18.909
+<v Speaker 2>So yeah, but they must be fine, but these are
+
+NOTE CONF {"raw":[76,51,66,99,99,88,93,98,99,99]}
+
+00:52:18.909 --> 00:52:20.199
+<v Speaker 2>not all manager policies.
+
+NOTE CONF {"raw":[95,99,55,73]}
+
+00:52:20.600 --> 00:52:21.879
+<v Speaker 2>So I'm just wondering how these three.
+
+NOTE CONF {"raw":[61,74,99,98,62,96,80]}
+
+00:52:23.879 --> 00:52:26.479
+<v Speaker 2>Yeah, there's different taxonomies because if you look at it
+
+NOTE CONF {"raw":[99,71,99,99,99,99,100,100,100,99]}
+
+00:52:26.479 --> 00:52:31.429
+<v Speaker 2>from a management versus operational, it looks different from strategic,
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99,100,100,100]}
+
+00:52:31.560 --> 00:52:34.040
+<v Speaker 2>you know, definitions of what these policies are like so
+
+NOTE CONF {"raw":[99,99,100,100,100,99,99,99,99,78]}
+
+00:52:34.439 --> 00:52:39.810
+<v Speaker 2>they're mixing, mix, mixing things because on purpose of this
+
+NOTE CONF {"raw":[99,99,72,99,99,93,99,99,99,72]}
+
+00:52:39.810 --> 00:52:43.790
+<v Speaker 2>subject to say these are that's a managerial, that's an
+
+NOTE CONF {"raw":[99,79,99,99,99,99,99,99,99,70]}
+
+00:52:43.790 --> 00:52:46.320
+<v Speaker 2>operational depending on the issue, and that's different operation.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,60,98]}
+
+00:52:48.879 --> 00:52:49.530
+<v Speaker 2>Thank you so much.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:52:58.360 --> 00:53:02.459
+<v Speaker 2>Usually I But you put somebody in charge.
+
+NOTE CONF {"raw":[55,99,13,1,85,74,92,51]}
+
+00:53:05.729 --> 00:53:13.719
+<v Speaker 2>that The word is responsible, right, so everybody contributes, but
+
+NOTE CONF {"raw":[11,1,62,99,93,97,74,99,98,94]}
+
+00:53:13.719 --> 00:53:14.320
+<v Speaker 2>if you don't have any.
+
+NOTE CONF {"raw":[99,99,98,99,33]}
+
+00:53:15.199 --> 00:53:18.939
+<v Speaker 2>I The box and the boxes.
+
+NOTE CONF {"raw":[40,98,68,46,95,4]}
+
+00:53:20.290 --> 00:53:23.929
+<v Speaker 2>Since it's not everybody's responsibility other than that, it's not
+
+NOTE CONF {"raw":[55,92,95,99,99,99,99,99,97,99]}
+
+00:53:23.929 --> 00:53:26.850
+<v Speaker 2>that it's not that you do that there's no responsibility
+
+NOTE CONF {"raw":[99,99,99,99,99,66,99,99,99,99]}
+
+00:53:26.850 --> 00:53:27.820
+<v Speaker 2>outside of that individual.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:53:28.129 --> 00:53:30.870
+<v Speaker 2>It's just that there's one person who's responsible.
+
+NOTE CONF {"raw":[64,99,99,99,99,99,99,99]}
+
+00:53:31.429 --> 00:53:32.250
+<v Speaker 2>Everybody else is.
+
+NOTE CONF {"raw":[30,99,99]}
+
+00:53:33.770 --> 00:53:36.709
+<v Speaker 2>And the second thing we like about.
+
+NOTE CONF {"raw":[88,97,96,99,39,58,48]}
+
+00:53:37.439 --> 00:53:47.570
+<v Speaker 2>I I was interested in S Yes and I've seen
+
+NOTE CONF {"raw":[37,98,93,87,87,45,58,91,92,99]}
+
+00:53:47.570 --> 00:53:48.300
+<v Speaker 2>it quite scars.
+
+NOTE CONF {"raw":[45,51,1]}
+
+00:53:51.810 --> 00:53:51.850
+<v Speaker 2>migration.
+
+NOTE CONF {"raw":[54]}
+
+00:53:54.860 --> 00:53:55.850
+<v Speaker 2>I think you think that's something to do.
+
+NOTE CONF {"raw":[35,53,91,95,85,98,85,21]}
+
+00:53:58.100 --> 00:54:01.639
+<v Speaker 2>But and yeah very.
+
+NOTE CONF {"raw":[10,70,94,86]}
+
+00:54:03.959 --> 00:54:05.250
+<v Speaker 2>This challenge is gonna be finding somebody.
+
+NOTE CONF {"raw":[82,95,78,42,67,88,36]}
+
+00:54:09.250 --> 00:54:10.489
+<v Speaker 2>She takes the subject, yeah, but she.
+
+NOTE CONF {"raw":[42,99,88,46,97,99,99]}
+
+00:54:16.510 --> 00:54:21.620
+<v Speaker 2>I know somebody, but I don't know if they're not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,84,99]}
+
+00:54:21.620 --> 00:54:21.810
+<v Speaker 2>in nobody.
+
+NOTE CONF {"raw":[96,69]}
+
+00:54:23.179 --> 00:54:23.250
+<v Speaker 2>OK.
+
+NOTE CONF {"raw":[95]}
+
+00:54:24.520 --> 00:54:26.989
+<v Speaker 2>Her name is Rochelle, Rochelle Boswell, D O S C
+
+NOTE CONF {"raw":[93,99,99,86,73,0,87,95,91,10]}
+
+00:54:26.989 --> 00:54:27.000
+<v Speaker 2>A.
+
+NOTE CONF {"raw":[80]}
+
+00:54:28.280 --> 00:54:31.870
+<v Speaker 2>She's uh Yeah, maybe uh.
+
+NOTE CONF {"raw":[85,88,29,62,42]}
+
+00:54:33.629 --> 00:54:49.500
+<v Speaker 2>Yeah There Your AI machine or AI if you use
+
+NOTE CONF {"raw":[5,1,86,99,97,81,79,86,99,99]}
+
+00:54:49.500 --> 00:54:50.290
+<v Speaker 2>AI use only.
+
+NOTE CONF {"raw":[99,84,68]}
+
+00:54:52.149 --> 00:54:54.459
+<v Speaker 2>Is it possible to right.
+
+NOTE CONF {"raw":[3,37,98,99,8]}
+
+00:54:56.149 --> 00:54:57.969
+<v Speaker 2>With your neutrino air.
+
+NOTE CONF {"raw":[87,99,15,57]}
+
+00:54:59.860 --> 00:55:03.080
+<v Speaker 2>OK, the word shadow means that the organization has no
+
+NOTE CONF {"raw":[97,83,99,99,99,99,99,99,99,99]}
+
+00:55:03.080 --> 00:55:04.649
+<v Speaker 2>control over, right?
+
+NOTE CONF {"raw":[99,52,99]}
+
+00:55:04.860 --> 00:55:08.780
+<v Speaker 2>So the original the term originally came from shadow IT,
+
+NOTE CONF {"raw":[93,99,77,99,99,82,99,99,99,98]}
+
+00:55:08.939 --> 00:55:09.020
+<v Speaker 2>right.
+
+NOTE CONF {"raw":[98]}

@@ -1,0 +1,5161 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:03.039
+<v Speaker 0>This material is made available to you by or on
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,99]}
+
+00:00:03.039 --> 00:00:06.809
+<v Speaker 0>behalf of the University of Melbourne under section 113P of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,62,88,99]}
+
+00:00:06.809 --> 00:00:08.729
+<v Speaker 0>the Copyright Act 1968.
+
+NOTE CONF {"raw":[99,99,98,99]}
+
+00:00:08.850 --> 00:00:10.529
+<v Speaker 0>It may be subject to copyright.
+
+NOTE CONF {"raw":[99,82,61,100,99,99]}
+
+00:00:10.729 --> 00:00:14.170
+<v Speaker 0>For more information, visit the university copyright website.
+
+NOTE CONF {"raw":[99,99,100,99,99,91,98,99]}
+
+00:01:15.669 --> 00:01:19.440
+<v Speaker 1>OK, uh, good morning and uh welcome to week eight.
+
+NOTE CONF {"raw":[99,55,99,99,99,99,99,99,99,53]}
+
+00:01:20.779 --> 00:01:24.160
+<v Speaker 1>This week we're talking about security, education, training and awareness.
+
+NOTE CONF {"raw":[98,99,98,99,99,99,99,99,99,99]}
+
+00:01:24.900 --> 00:01:34.080
+<v Speaker 1>Um, And most of all the, uh, Levers that you
+
+NOTE CONF {"raw":[60,23,81,99,99,99,84,91,99,99]}
+
+00:01:34.080 --> 00:01:38.419
+<v Speaker 1>can pull in an organization of all the formal controls
+
+NOTE CONF {"raw":[99,99,99,99,99,96,99,99,99,99]}
+
+00:01:38.599 --> 00:01:41.379
+<v Speaker 1>and informal controls and administrative controls.
+
+NOTE CONF {"raw":[99,99,99,99,98,99]}
+
+00:01:41.839 --> 00:01:47.339
+<v Speaker 1>This particular control is the most, you might say informal.
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,99,99,99]}
+
+00:01:48.209 --> 00:01:53.260
+<v Speaker 1>It is directed towards behavior change of individuals in organizations.
+
+NOTE CONF {"raw":[98,98,99,99,99,99,99,99,99,99]}
+
+00:01:53.739 --> 00:01:59.889
+<v Speaker 1>It strives to achieve behavior change, but it struggles to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:59.889 --> 00:02:03.599
+<v Speaker 1>be effective because of one key barrier.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:02:04.739 --> 00:02:07.610
+<v Speaker 1>What, does anybody want to guess what that barrier might
+
+NOTE CONF {"raw":[99,82,99,77,75,99,99,99,99,99]}
+
+00:02:07.610 --> 00:02:07.849
+<v Speaker 1>be?
+
+NOTE CONF {"raw":[99]}
+
+00:02:11.270 --> 00:02:15.509
+<v Speaker 1>What is the key barrier that you face if you
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,99,99]}
+
+00:02:15.509 --> 00:02:17.449
+<v Speaker 1>are trying to create behavior change?
+
+NOTE CONF {"raw":[99,100,100,99,100,100]}
+
+00:02:20.960 --> 00:02:21.889
+<v Speaker 1>Comes with a C.
+
+NOTE CONF {"raw":[63,99,98,99]}
+
+00:02:26.789 --> 00:02:27.149
+<v Speaker 1>Sorry?
+
+NOTE CONF {"raw":[99]}
+
+00:02:28.199 --> 00:02:29.820
+<v Speaker 1>Culture, culture.
+
+NOTE CONF {"raw":[99,97]}
+
+00:02:30.220 --> 00:02:34.080
+<v Speaker 1>Organizational culture is the key barrier that you have when
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:02:34.080 --> 00:02:38.160
+<v Speaker 1>you're trying to create behavior change because as the famous
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:38.160 --> 00:02:43.559
+<v Speaker 1>management, management consulting phrase goes, culture, what is the phrase?
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:02:44.789 --> 00:02:49.160
+<v Speaker 1>Culture eats strategy for breakfast, right?
+
+NOTE CONF {"raw":[97,98,98,99,98,73]}
+
+00:02:49.309 --> 00:02:52.919
+<v Speaker 1>So your strategy to create behavior change is going to
+
+NOTE CONF {"raw":[59,97,98,99,99,99,99,99,99,99]}
+
+00:02:52.919 --> 00:02:58.190
+<v Speaker 1>be frustrated and it's going to be sabotaged by the
+
+NOTE CONF {"raw":[99,99,99,66,99,99,99,99,99,99]}
+
+00:02:58.190 --> 00:02:59.690
+<v Speaker 1>culture of the organization.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:03:00.229 --> 00:03:04.550
+<v Speaker 1>This is a huge, huge problem and the primary reason
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:04.550 --> 00:03:08.929
+<v Speaker 1>why the vast majority of security culture programs fail.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:03:09.750 --> 00:03:11.690
+<v Speaker 1>They fail before they even start.
+
+NOTE CONF {"raw":[95,99,99,99,99,99]}
+
+00:03:12.550 --> 00:03:18.429
+<v Speaker 1>So we're gonna talk about CETA, security, education, training and
+
+NOTE CONF {"raw":[99,99,91,99,99,96,98,99,99,99]}
+
+00:03:18.429 --> 00:03:19.130
+<v Speaker 1>awareness.
+
+NOTE CONF {"raw":[99]}
+
+00:03:19.949 --> 00:03:24.309
+<v Speaker 1>And this week, you are studying the relevant Canvas module.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:03:24.710 --> 00:03:28.630
+<v Speaker 1>You've, you've got prescribed reading, not much because there's not
+
+NOTE CONF {"raw":[26,99,99,99,99,95,100,99,99,99]}
+
+00:03:28.630 --> 00:03:29.889
+<v Speaker 1>much in the book about it.
+
+NOTE CONF {"raw":[99,99,99,100,99,99]}
+
+00:03:30.389 --> 00:03:33.589
+<v Speaker 1>Um, answer questions on Canvas, attend the workshop.
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99]}
+
+00:03:33.710 --> 00:03:36.289
+<v Speaker 1>I believe you have a quiz.
+
+NOTE CONF {"raw":[99,100,99,99,99,99]}
+
+00:03:39.039 --> 00:03:41.919
+<v Speaker 1>In the workshop, you'll have Q&A and then you'll be
+
+NOTE CONF {"raw":[99,99,99,97,99,78,99,99,99,99]}
+
+00:03:41.919 --> 00:03:46.270
+<v Speaker 1>doing an exercise where you'll be creating posters for CETA
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,73]}
+
+00:03:46.839 --> 00:03:48.600
+<v Speaker 1>and I hope you really enjoy the exercise.
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99]}
+
+00:03:48.679 --> 00:03:51.039
+<v Speaker 1>Every year, we have some fantastic posters coming out.
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99,99,99]}
+
+00:03:51.559 --> 00:03:53.270
+<v Speaker 1>Um, I really enjoy looking at them.
+
+NOTE CONF {"raw":[78,90,99,99,99,99,99]}
+
+00:03:53.320 --> 00:03:55.600
+<v Speaker 1>The tutors always bring them to the tutors' meeting and
+
+NOTE CONF {"raw":[75,98,99,99,99,99,99,48,99,99]}
+
+00:03:55.600 --> 00:03:59.779
+<v Speaker 1>discuss the really creative approaches that students come up with
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:59.779 --> 00:04:02.559
+<v Speaker 1>to uh build posters to create behavior change.
+
+NOTE CONF {"raw":[99,85,99,99,99,99,99,99]}
+
+00:04:03.470 --> 00:04:07.500
+<v Speaker 1>So, um, 5 key objectives.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:04:08.649 --> 00:04:12.080
+<v Speaker 1>For this week, appreciate why an effective CETA strategy is
+
+NOTE CONF {"raw":[92,99,99,97,99,99,99,94,99,99]}
+
+00:04:12.080 --> 00:04:16.209
+<v Speaker 1>critical against social engineering attacks, but in general.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:04:16.950 --> 00:04:20.980
+<v Speaker 1>Dis distinguish the attributes, objectives and methods of education, training,
+
+NOTE CONF {"raw":[19,93,99,99,99,99,99,99,99,99]}
+
+00:04:20.989 --> 00:04:21.260
+<v Speaker 1>awareness.
+
+NOTE CONF {"raw":[99]}
+
+00:04:21.308 --> 00:04:22.450
+<v Speaker 1>So how do you do it?
+
+NOTE CONF {"raw":[76,99,99,99,99,99]}
+
+00:04:23.290 --> 00:04:25.809
+<v Speaker 1>Identify the key steps in a program and how they
+
+NOTE CONF {"raw":[86,99,99,99,99,94,99,99,99,99]}
+
+00:04:25.809 --> 00:04:26.750
+<v Speaker 1>form a control.
+
+NOTE CONF {"raw":[99,91,99]}
+
+00:04:27.769 --> 00:04:31.630
+<v Speaker 1>Identify at least 3 critical challenges to a successful program.
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,100]}
+
+00:04:32.309 --> 00:04:36.029
+<v Speaker 1>Appreciate the relationship between CETA and organizational culture.
+
+NOTE CONF {"raw":[1,99,99,99,97,99,99,99]}
+
+00:04:37.450 --> 00:04:40.410
+<v Speaker 1>But before we actually get into the content, let's do
+
+NOTE CONF {"raw":[99,99,100,100,99,99,99,100,99,100]}
+
+00:04:40.410 --> 00:04:41.670
+<v Speaker 1>this really quick exercise.
+
+NOTE CONF {"raw":[99,99,100,100]}
+
+00:04:43.000 --> 00:04:49.250
+<v Speaker 1>So, you are the new CETA lead for a large
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,99,99]}
+
+00:04:49.250 --> 00:04:50.899
+<v Speaker 1>organization of 12,000 people.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:04:51.839 --> 00:04:54.799
+<v Speaker 1>OK, so, this is your position.
+
+NOTE CONF {"raw":[99,66,99,99,99,99]}
+
+00:04:55.320 --> 00:05:00.320
+<v Speaker 1>And you have been told these behaviors exist already in
+
+NOTE CONF {"raw":[75,99,99,100,100,99,99,100,99,99]}
+
+00:05:00.320 --> 00:05:01.140
+<v Speaker 1>the organization.
+
+NOTE CONF {"raw":[99,99]}
+
+00:05:01.760 --> 00:05:04.920
+<v Speaker 1>The annual module, the security training module is clicked through
+
+NOTE CONF {"raw":[99,99,98,98,98,97,97,99,59,99]}
+
+00:05:04.920 --> 00:05:05.760
+<v Speaker 1>video muted.
+
+NOTE CONF {"raw":[99,99]}
+
+00:05:06.859 --> 00:05:08.160
+<v Speaker 1>Right, audio muted.
+
+NOTE CONF {"raw":[94,75,98]}
+
+00:05:08.649 --> 00:05:13.519
+<v Speaker 1>The passwords, passwords are shared inside Teams to avoid Remembering
+
+NOTE CONF {"raw":[93,98,99,99,99,99,80,99,99,84]}
+
+00:05:13.540 --> 00:05:18.850
+<v Speaker 1>them Phishing simulations get forwarded as a joke, not reported.
+
+NOTE CONF {"raw":[99,42,98,99,99,99,83,99,99,99]}
+
+00:05:19.559 --> 00:05:21.910
+<v Speaker 1>Doors are held for anyone, even if they're carrying a
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,66,99,99]}
+
+00:05:21.910 --> 00:05:22.850
+<v Speaker 1>laptop bag.
+
+NOTE CONF {"raw":[98,99]}
+
+00:05:23.429 --> 00:05:26.589
+<v Speaker 1>Security says whenever security says no, you're not allowed to
+
+NOTE CONF {"raw":[84,94,95,99,99,92,92,99,99,99]}
+
+00:05:26.589 --> 00:05:27.570
+<v Speaker 1>do blah blah blah.
+
+NOTE CONF {"raw":[99,75,55,37]}
+
+00:05:28.459 --> 00:05:32.059
+<v Speaker 1>The real, the real effort amongst the people is to
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99,99,99,99]}
+
+00:05:32.059 --> 00:05:33.429
+<v Speaker 1>figure out a work around it.
+
+NOTE CONF {"raw":[100,99,93,99,99,99]}
+
+00:05:34.019 --> 00:05:34.329
+<v Speaker 1>Yeah.
+
+NOTE CONF {"raw":[69]}
+
+00:05:34.980 --> 00:05:38.059
+<v Speaker 1>And the last person who who reported the security violation.
+
+NOTE CONF {"raw":[73,99,99,99,99,99,99,97,99,99]}
+
+00:05:39.250 --> 00:05:41.250
+<v Speaker 1>was blamed for it, right?
+
+NOTE CONF {"raw":[85,99,99,99,97]}
+
+00:05:42.250 --> 00:05:48.049
+<v Speaker 1>So, clearly, examples of a culture going wrong, I want
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,100,99]}
+
+00:05:48.049 --> 00:05:50.690
+<v Speaker 1>you to spend about 1 to 2 minutes to write
+
+NOTE CONF {"raw":[99,99,99,99,99,58,89,99,98,99]}
+
+00:05:50.690 --> 00:05:53.970
+<v Speaker 1>down 3 to 5 things that you would do as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:53.970 --> 00:05:58.529
+<v Speaker 1>the lead for CETA to create a more positive security
+
+NOTE CONF {"raw":[99,99,99,84,99,100,99,99,100,99]}
+
+00:05:58.529 --> 00:05:59.779
+<v Speaker 1>culture in the organization.
+
+NOTE CONF {"raw":[99,98,98,99]}
+
+00:06:00.170 --> 00:06:00.529
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:06:00.739 --> 00:06:01.779
+<v Speaker 1>Write them down.
+
+NOTE CONF {"raw":[77,99,99]}
+
+00:06:02.970 --> 00:06:05.209
+<v Speaker 1>We're gonna come back to it at the end of
+
+NOTE CONF {"raw":[98,98,99,99,99,99,99,99,99,99]}
+
+00:06:05.209 --> 00:06:07.609
+<v Speaker 1>the At the end of the hour.
+
+NOTE CONF {"raw":[99,94,99,99,99,99,99]}
+
+00:07:17.720 --> 00:07:18.309
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:07:18.619 --> 00:07:21.630
+<v Speaker 1>Anybody wanna volunteer a couple of ideas you might have?
+
+NOTE CONF {"raw":[79,87,100,96,99,99,100,99,99,100]}
+
+00:07:24.970 --> 00:07:26.140
+<v Speaker 1>But these are some of the things that you might
+
+NOTE CONF {"raw":[82,33,58,99,96,97,99,99,99,99]}
+
+00:07:26.140 --> 00:07:26.480
+<v Speaker 1>do.
+
+NOTE CONF {"raw":[99]}
+
+00:07:27.640 --> 00:07:30.220
+<v Speaker 1>As the head of CETA in the organization.
+
+NOTE CONF {"raw":[89,99,99,99,95,95,99,99]}
+
+00:07:36.769 --> 00:07:41.130
+<v Speaker 2>Yeah, um, so anonymity for the reporter.
+
+NOTE CONF {"raw":[90,99,99,5,99,99,99]}
+
+00:07:43.679 --> 00:07:46.079
+<v Speaker 1>Whistle whistleblower state and say, OK, OK.
+
+NOTE CONF {"raw":[98,98,54,24,30,51,55]}
+
+00:07:46.869 --> 00:07:49.809
+<v Speaker 2>And uh tokens for logging sessions open and device stuff
+
+NOTE CONF {"raw":[99,67,98,99,92,73,90,30,75,29]}
+
+00:07:49.809 --> 00:07:52.480
+<v Speaker 2>like some sort of a bank address stuff so that
+
+NOTE CONF {"raw":[99,99,99,99,99,95,93,23,99,99]}
+
+00:07:52.480 --> 00:07:53.450
+<v Speaker 2>uh only once.
+
+NOTE CONF {"raw":[76,99,95]}
+
+00:07:54.390 --> 00:07:59.929
+<v Speaker 2>Person will be responsible with their specific device and that
+
+NOTE CONF {"raw":[24,65,62,79,33,46,99,66,4,85]}
+
+00:07:59.929 --> 00:07:59.959
+<v Speaker 2>access to the.
+
+NOTE CONF {"raw":[90,99,75]}
+
+00:08:00.820 --> 00:08:02.209
+<v Speaker 1>So that's a general security control.
+
+NOTE CONF {"raw":[82,99,94,99,99,99]}
+
+00:08:02.290 --> 00:08:05.350
+<v Speaker 1>How is that a cultured, how is that a behavioral
+
+NOTE CONF {"raw":[96,99,99,99,63,63,99,99,99,99]}
+
+00:08:07.260 --> 00:08:07.799
+<v Speaker 1>Influence listening to you.
+
+NOTE CONF {"raw":[99,97,99,99]}
+
+00:08:07.809 --> 00:08:12.970
+<v Speaker 2>That's why I'm trying to, OK, OK.
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99]}
+
+00:08:13.070 --> 00:08:16.140
+<v Speaker 2>And another one will be we will be more, uh,
+
+NOTE CONF {"raw":[97,99,99,91,99,17,99,99,99,99]}
+
+00:08:16.149 --> 00:08:16.239
+<v Speaker 2>job.
+
+NOTE CONF {"raw":[55]}
+
+00:08:18.510 --> 00:08:23.510
+<v Speaker 2>OK, so you, you wanna create training videos that are
+
+NOTE CONF {"raw":[99,98,99,99,99,99,100,100,99,99]}
+
+00:08:23.510 --> 00:08:25.790
+<v Speaker 1>more specific to the role rather than generic.
+
+NOTE CONF {"raw":[100,100,100,99,99,100,99,99]}
+
+00:08:26.070 --> 00:08:27.570
+<v Speaker 1>OK, interesting.
+
+NOTE CONF {"raw":[99,98]}
+
+00:08:27.829 --> 00:08:29.010
+<v Speaker 1>Any other ideas?
+
+NOTE CONF {"raw":[99,100,100]}
+
+00:08:29.799 --> 00:08:30.320
+<v Speaker 2>Yes.
+
+NOTE CONF {"raw":[98]}
+
+00:08:35.619 --> 00:08:37.859
+<v Speaker 2>At least so they know how.
+
+NOTE CONF {"raw":[3,42,62,83,91,95]}
+
+00:08:40.929 --> 00:08:42.609
+<v Speaker 1>Sorry, what was the first thing, first part of the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:42.609 --> 00:08:43.010
+<v Speaker 1>sentence?
+
+NOTE CONF {"raw":[99]}
+
+00:08:43.200 --> 00:08:44.030
+<v Speaker 1>What are you gonna do?
+
+NOTE CONF {"raw":[94,99,99,99,99]}
+
+00:08:46.380 --> 00:08:46.940
+<v Speaker 2>A drill.
+
+NOTE CONF {"raw":[99,99]}
+
+00:08:47.080 --> 00:08:50.140
+<v Speaker 1>Also you wanna use a drill to create like a
+
+NOTE CONF {"raw":[96,99,93,99,99,100,99,99,99,99]}
+
+00:08:50.140 --> 00:08:52.609
+<v Speaker 1>real life situation that people can sort of see.
+
+NOTE CONF {"raw":[99,63,100,99,100,99,99,99,99]}
+
+00:08:52.859 --> 00:08:55.320
+<v Speaker 2>OK, interesting, yeah.
+
+NOTE CONF {"raw":[98,99,98]}
+
+00:08:56.570 --> 00:08:59.159
+<v Speaker 2>That's very easy to, yeah.
+
+NOTE CONF {"raw":[68,98,91,67,96]}
+
+00:09:01.510 --> 00:09:04.950
+<v Speaker 2>Uh, like, uh, like.
+
+NOTE CONF {"raw":[77,72,85,41]}
+
+00:09:06.130 --> 00:09:11.469
+<v Speaker 2>Like specific training sessions, yeah, each units.
+
+NOTE CONF {"raw":[42,77,91,1,79,26,34]}
+
+00:09:13.710 --> 00:09:19.400
+<v Speaker 2>You The second one with the uh like.
+
+NOTE CONF {"raw":[1,64,81,99,46,98,99,29]}
+
+00:09:21.799 --> 00:09:23.349
+<v Speaker 1>A measurable target, OK.
+
+NOTE CONF {"raw":[99,99,99,93]}
+
+00:09:28.200 --> 00:09:29.960
+<v Speaker 1>Objective, yeah, yeah, yeah.
+
+NOTE CONF {"raw":[98,99,99,99]}
+
+00:09:32.059 --> 00:09:37.760
+<v Speaker 2>It, uh, We can give incentive or And we work
+
+NOTE CONF {"raw":[51,51,74,64,67,54,55,55,60,95]}
+
+00:09:37.760 --> 00:09:40.419
+<v Speaker 2>for the union our department that already.
+
+NOTE CONF {"raw":[98,98,83,59,96,88,99]}
+
+00:09:43.059 --> 00:09:46.619
+<v Speaker 2>Oh, OK, so reward the units that behave the best
+
+NOTE CONF {"raw":[95,97,76,99,99,99,99,7,99,99]}
+
+00:09:46.619 --> 00:09:48.119
+<v Speaker 1>or perform the best, OK.
+
+NOTE CONF {"raw":[99,99,99,100,98]}
+
+00:09:50.859 --> 00:09:55.809
+<v Speaker 2>From, formalize it to uh Formalized into policy.
+
+NOTE CONF {"raw":[64,11,41,36,77,61,99,99]}
+
+00:09:57.359 --> 00:10:00.450
+<v Speaker 1>And create enforcement around behaviors.
+
+NOTE CONF {"raw":[83,99,99,99,99]}
+
+00:10:01.700 --> 00:10:03.119
+<v Speaker 1>OK, very good.
+
+NOTE CONF {"raw":[99,69,99]}
+
+00:10:03.590 --> 00:10:05.539
+<v Speaker 1>Interesting ideas, interesting ideas.
+
+NOTE CONF {"raw":[98,99,97,99]}
+
+00:10:05.890 --> 00:10:09.760
+<v Speaker 1>Let's talk about um we'll go through some of these.
+
+NOTE CONF {"raw":[99,99,99,94,98,99,99,100,99,99]}
+
+00:10:11.219 --> 00:10:13.820
+<v Speaker 1>Hopefully, by the end of the hour, when you come
+
+NOTE CONF {"raw":[95,99,99,100,99,99,99,99,100,99]}
+
+00:10:13.820 --> 00:10:18.650
+<v Speaker 1>back and revisit these, you'll have a deeper richer, a
+
+NOTE CONF {"raw":[99,99,99,99,58,99,99,99,8,91]}
+
+00:10:18.650 --> 00:10:21.539
+<v Speaker 1>richer view of what is possible, and then you can
+
+NOTE CONF {"raw":[95,99,99,99,99,100,78,99,99,99]}
+
+00:10:21.539 --> 00:10:23.630
+<v Speaker 1>evaluate your own ideas and come up with more.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:10:24.099 --> 00:10:29.349
+<v Speaker 1>SoITA, again, Just to reiterate, another control sits in the
+
+NOTE CONF {"raw":[5,99,66,80,90,99,99,35,49,99]}
+
+00:10:29.349 --> 00:10:33.020
+<v Speaker 1>security control category, and it serves the same purpose.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:10:33.099 --> 00:10:36.260
+<v Speaker 1>You have to remember that CETA isn't some unique unicorn
+
+NOTE CONF {"raw":[99,99,99,99,99,98,97,99,99,99]}
+
+00:10:36.260 --> 00:10:36.659
+<v Speaker 1>sort of thing.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:10:37.020 --> 00:10:41.179
+<v Speaker 1>It, the policy, risk strategy, CETA, they're all trying to
+
+NOTE CONF {"raw":[60,78,99,99,98,98,36,99,99,99]}
+
+00:10:41.179 --> 00:10:41.880
+<v Speaker 1>do the same thing.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:10:42.099 --> 00:10:44.799
+<v Speaker 1>They're trying to protect your asset against your threat.
+
+NOTE CONF {"raw":[69,99,99,99,99,99,99,99,98]}
+
+00:10:45.469 --> 00:10:46.789
+<v Speaker 1>Right, that is the key thing.
+
+NOTE CONF {"raw":[87,65,99,99,99,99]}
+
+00:10:46.909 --> 00:10:51.380
+<v Speaker 1>And in doing so, the CETA controls that you come
+
+NOTE CONF {"raw":[52,99,100,99,99,89,99,99,99,99]}
+
+00:10:51.380 --> 00:10:54.150
+<v Speaker 1>up need to be very much oriented towards the risk
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,100]}
+
+00:10:54.150 --> 00:10:58.109
+<v Speaker 1>scenarios that you have identified that are going to be
+
+NOTE CONF {"raw":[99,99,100,99,100,99,99,99,99,99]}
+
+00:10:58.109 --> 00:10:59.909
+<v Speaker 1>impactful against your assets.
+
+NOTE CONF {"raw":[99,100,99,99]}
+
+00:11:01.770 --> 00:11:07.950
+<v Speaker 1>So Education, training and awareness, it's important to distinguish the
+
+NOTE CONF {"raw":[99,99,99,99,99,83,99,99,99,99]}
+
+00:11:07.950 --> 00:11:08.309
+<v Speaker 1>three of them.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:11:08.390 --> 00:11:11.309
+<v Speaker 1>That's one of the first things that people miss when
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,99,99]}
+
+00:11:11.309 --> 00:11:15.429
+<v Speaker 1>they talk about training and culture in an organization, they
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,73]}
+
+00:11:15.429 --> 00:11:17.750
+<v Speaker 1>kind of fold the three together and they don't really
+
+NOTE CONF {"raw":[98,98,99,99,99,99,99,99,99,99]}
+
+00:11:17.750 --> 00:11:18.549
+<v Speaker 1>distinguish them.
+
+NOTE CONF {"raw":[99,99]}
+
+00:11:18.869 --> 00:11:23.969
+<v Speaker 1>Education is really about in-depth knowledge, and it's really aimed,
+
+NOTE CONF {"raw":[96,99,99,99,51,99,95,98,99,98]}
+
+00:11:24.349 --> 00:11:28.710
+<v Speaker 1>it's really focused on the security leaders who are developing
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,99,99]}
+
+00:11:28.710 --> 00:11:29.349
+<v Speaker 1>the programs.
+
+NOTE CONF {"raw":[99,99]}
+
+00:11:29.429 --> 00:11:31.390
+<v Speaker 1>If they don't know why they're doing it, if they
+
+NOTE CONF {"raw":[96,99,99,99,99,96,99,99,92,99]}
+
+00:11:31.390 --> 00:11:35.390
+<v Speaker 1>don't know what is the strategic objective of security in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:35.390 --> 00:11:38.429
+<v Speaker 1>the organization and how it's aligned to the business, they're
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,62]}
+
+00:11:38.429 --> 00:11:40.830
+<v Speaker 1>not going to be able to develop a program that's
+
+NOTE CONF {"raw":[99,96,89,99,99,99,99,99,99,99]}
+
+00:11:40.830 --> 00:11:43.549
+<v Speaker 1>going to, you know, help the business achieve its security.
+
+NOTE CONF {"raw":[99,99,97,97,99,99,99,99,98,99]}
+
+00:11:43.734 --> 00:11:44.164
+<v Speaker 1>Goals.
+
+NOTE CONF {"raw":[47]}
+
+00:11:44.494 --> 00:11:48.684
+<v Speaker 1>So the education piece is aimed, needs to be aimed
+
+NOTE CONF {"raw":[97,99,99,99,99,98,99,99,99,98]}
+
+00:11:48.684 --> 00:11:51.015
+<v Speaker 1>at the right people, which is the security leadership.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:11:51.414 --> 00:11:53.734
+<v Speaker 1>The training piece is a much more broader one, which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:53.734 --> 00:11:59.195
+<v Speaker 1>is really about devoting or attributing delivering skills to your,
+
+NOTE CONF {"raw":[99,99,99,99,99,92,99,99,99,99]}
+
+00:11:59.575 --> 00:12:01.414
+<v Speaker 1>your user base or your end users.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:12:01.455 --> 00:12:03.974
+<v Speaker 1>In this case, it might be, how do I run
+
+NOTE CONF {"raw":[65,99,99,99,99,99,99,99,99,99]}
+
+00:12:03.974 --> 00:12:06.974
+<v Speaker 1>an anti-virus on my computer and remove all the viruses.
+
+NOTE CONF {"raw":[99,50,99,99,99,99,99,99,99,99]}
+
+00:12:07.294 --> 00:12:08.114
+<v Speaker 1>That's a skill.
+
+NOTE CONF {"raw":[95,99,99]}
+
+00:12:08.789 --> 00:12:11.440
+<v Speaker 1>And you need to train people on how to use
+
+NOTE CONF {"raw":[98,99,99,99,100,100,99,99,99,99]}
+
+00:12:11.440 --> 00:12:13.919
+<v Speaker 1>what whatever pieces of software are available, how to run
+
+NOTE CONF {"raw":[94,99,99,99,99,78,99,99,99,99]}
+
+00:12:13.919 --> 00:12:16.320
+<v Speaker 1>it, how to read a log report, how to know
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:12:16.320 --> 00:12:18.349
+<v Speaker 1>the viruses are gone or not, and blah, blah, blah.
+
+NOTE CONF {"raw":[54,99,99,99,99,99,99,98,94,96]}
+
+00:12:18.400 --> 00:12:19.340
+<v Speaker 1>That's a skill.
+
+NOTE CONF {"raw":[60,99,99]}
+
+00:12:20.000 --> 00:12:27.409
+<v Speaker 1>So, Education separate, skill training separate, and then there's awareness,
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:12:27.450 --> 00:12:31.570
+<v Speaker 1>which is really just about trying to get information at
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,100,100,99]}
+
+00:12:31.570 --> 00:12:33.729
+<v Speaker 1>the front of your mind, right?
+
+NOTE CONF {"raw":[99,100,100,100,100,99]}
+
+00:12:34.090 --> 00:12:36.849
+<v Speaker 1>There are 3 fundamentally different things and there's a table
+
+NOTE CONF {"raw":[99,99,27,99,99,99,99,99,99,100]}
+
+00:12:37.049 --> 00:12:40.489
+<v Speaker 1>that I would personally spend a lot of time staring
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,99,100,100]}
+
+00:12:40.489 --> 00:12:43.609
+<v Speaker 1>at, and I have, and I suggest that you do
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,98,100,99]}
+
+00:12:43.609 --> 00:12:45.390
+<v Speaker 1>as well, and this is the table.
+
+NOTE CONF {"raw":[100,100,97,99,99,99,100]}
+
+00:12:46.049 --> 00:12:49.909
+<v Speaker 1>So, it actually, it actually pulls out all the fine
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:12:49.909 --> 00:12:53.309
+<v Speaker 1>distinctions between Education, training and awareness.
+
+NOTE CONF {"raw":[99,99,97,99,99,99]}
+
+00:12:53.729 --> 00:12:57.289
+<v Speaker 1>And these fine distinctions really matter because when you can
+
+NOTE CONF {"raw":[56,99,99,99,99,99,99,99,99,99]}
+
+00:12:57.289 --> 00:13:01.010
+<v Speaker 1>separate the three tools, you can then learn how to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:01.010 --> 00:13:02.940
+<v Speaker 1>use the right tool for the right purpose.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:13:03.679 --> 00:13:07.200
+<v Speaker 1>Otherwise, you use a very coarse, blunt tool to try
+
+NOTE CONF {"raw":[99,94,99,99,99,98,99,99,99,99]}
+
+00:13:07.200 --> 00:13:09.000
+<v Speaker 1>to deal with your behavior change.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:13:09.239 --> 00:13:10.580
+<v Speaker 1>You have 3 tools.
+
+NOTE CONF {"raw":[98,99,95,99]}
+
+00:13:11.400 --> 00:13:13.960
+<v Speaker 1>Education, training and awareness are three different tools.
+
+NOTE CONF {"raw":[98,99,99,99,99,95,99,99]}
+
+00:13:14.239 --> 00:13:17.719
+<v Speaker 1>You need to respect and understand each one of those,
+
+NOTE CONF {"raw":[81,99,99,99,99,99,99,99,99,89]}
+
+00:13:17.909 --> 00:13:21.359
+<v Speaker 1>each one of them separately, and their advantages and disadvantages,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:21.460 --> 00:13:24.159
+<v Speaker 1>there are pros and cons, what differentiates them, and then
+
+NOTE CONF {"raw":[45,58,99,99,99,99,99,99,99,99]}
+
+00:13:24.159 --> 00:13:27.840
+<v Speaker 1>apply them in the right context to get the maximum
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,99,99]}
+
+00:13:27.840 --> 00:13:28.200
+<v Speaker 1>effect.
+
+NOTE CONF {"raw":[99]}
+
+00:13:28.559 --> 00:13:29.679
+<v Speaker 1>So let's start with awareness.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:13:29.770 --> 00:13:34.864
+<v Speaker 1>Awareness targets the what are, you know, Security is important
+
+NOTE CONF {"raw":[77,99,99,99,89,99,99,98,99,99]}
+
+00:13:35.085 --> 00:13:37.804
+<v Speaker 1>when you've got employees in your organization that are doing
+
+NOTE CONF {"raw":[97,94,99,99,99,98,99,91,98,99]}
+
+00:13:37.804 --> 00:13:38.554
+<v Speaker 1>their regular work.
+
+NOTE CONF {"raw":[80,99,99]}
+
+00:13:38.885 --> 00:13:40.604
+<v Speaker 1>Security might be the last thing on their mind.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99]}
+
+00:13:40.804 --> 00:13:43.405
+<v Speaker 1>If you try to get security in front of mind.
+
+NOTE CONF {"raw":[58,76,99,99,99,99,99,99,99,99]}
+
+00:13:43.734 --> 00:13:45.104
+<v Speaker 1>This is what awareness does.
+
+NOTE CONF {"raw":[73,99,99,99,99]}
+
+00:13:45.385 --> 00:13:47.234
+<v Speaker 1>It doesn't try to train them to do anything.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:13:47.395 --> 00:13:48.965
+<v Speaker 1>It doesn't try to explain the why.
+
+NOTE CONF {"raw":[98,98,99,99,99,99,99]}
+
+00:13:49.155 --> 00:13:50.724
+<v Speaker 1>It doesn't try to tell them how to do anything.
+
+NOTE CONF {"raw":[92,98,98,99,99,99,99,99,99,99]}
+
+00:13:50.784 --> 00:13:53.284
+<v Speaker 1>It's just, hey, remember security.
+
+NOTE CONF {"raw":[96,99,69,99,99]}
+
+00:13:53.604 --> 00:13:54.744
+<v Speaker 1>Don't forget security.
+
+NOTE CONF {"raw":[94,99,99]}
+
+00:13:55.005 --> 00:13:55.984
+<v Speaker 1>It's important.
+
+NOTE CONF {"raw":[95,99]}
+
+00:13:56.450 --> 00:14:00.419
+<v Speaker 1>And a very common mechanism to create awareness are these
+
+NOTE CONF {"raw":[98,94,99,99,99,99,99,99,99,99]}
+
+00:14:00.419 --> 00:14:03.440
+<v Speaker 1>posters that are on the walls of your organization or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:03.440 --> 00:14:07.580
+<v Speaker 1>the mugs that have security-related messaging on or a pen
+
+NOTE CONF {"raw":[99,99,99,99,4,99,99,99,99,99]}
+
+00:14:07.580 --> 00:14:12.039
+<v Speaker 1>with messaging on, these are just triggers to remember security.
+
+NOTE CONF {"raw":[99,99,99,85,99,99,99,99,99,99]}
+
+00:14:12.510 --> 00:14:17.780
+<v Speaker 1>So security awareness is about just remembering on an informational
+
+NOTE CONF {"raw":[97,89,99,99,99,99,99,99,99,99]}
+
+00:14:17.780 --> 00:14:21.599
+<v Speaker 1>level to expose the people repeatedly to the importance of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:21.599 --> 00:14:26.520
+<v Speaker 1>security, and it's really channeled through media like posters and
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,89,99,99]}
+
+00:14:26.520 --> 00:14:29.359
+<v Speaker 1>like trinkets and so forth, and it's usually a true
+
+NOTE CONF {"raw":[99,99,99,99,99,88,98,99,99,99]}
+
+00:14:29.359 --> 00:14:29.919
+<v Speaker 1>or false thing.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:14:29.960 --> 00:14:31.570
+<v Speaker 1>Is security important or not?
+
+NOTE CONF {"raw":[51,99,99,99,99]}
+
+00:14:31.799 --> 00:14:35.159
+<v Speaker 1>Or you know, should I put my passwords up or
+
+NOTE CONF {"raw":[66,82,79,99,99,99,99,99,99,99]}
+
+00:14:35.159 --> 00:14:35.440
+<v Speaker 1>not?
+
+NOTE CONF {"raw":[99]}
+
+00:14:35.559 --> 00:14:36.710
+<v Speaker 1>Should I do this or not?
+
+NOTE CONF {"raw":[72,99,99,99,99,99]}
+
+00:14:37.080 --> 00:14:39.150
+<v Speaker 1>This is what awareness is about.
+
+NOTE CONF {"raw":[96,84,99,99,99,99]}
+
+00:14:40.250 --> 00:14:41.729
+<v Speaker 1>It's very short term memory.
+
+NOTE CONF {"raw":[98,99,99,96,99]}
+
+00:14:41.849 --> 00:14:43.530
+<v Speaker 1>It's not long term or medium-term memory.
+
+NOTE CONF {"raw":[73,99,99,94,99,12,99]}
+
+00:14:43.609 --> 00:14:46.890
+<v Speaker 1>Now, compare that with training, which is really answering the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:46.890 --> 00:14:47.450
+<v Speaker 1>how question.
+
+NOTE CONF {"raw":[99,99]}
+
+00:14:47.570 --> 00:14:49.890
+<v Speaker 1>How do I do something security related?
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99]}
+
+00:14:50.200 --> 00:14:53.169
+<v Speaker 1>Here, again, as I said, anti-virus software, how to run
+
+NOTE CONF {"raw":[92,99,99,99,99,55,99,99,99,99]}
+
+00:14:53.169 --> 00:14:55.049
+<v Speaker 1>it, how to know that there are viruses on your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,90,99,99,99]}
+
+00:14:55.049 --> 00:14:57.450
+<v Speaker 1>computer or not, whether they've been removed or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:14:57.530 --> 00:15:00.650
+<v Speaker 1>This is a skill and it's about practical instruction.
+
+NOTE CONF {"raw":[82,99,77,99,68,99,99,100,99]}
+
+00:15:00.770 --> 00:15:06.169
+<v Speaker 1>It's actually delivered mostly through workshops, where you Bring a
+
+NOTE CONF {"raw":[87,99,99,99,99,99,98,99,95,99]}
+
+00:15:06.169 --> 00:15:09.010
+<v Speaker 1>practical thing that needs to be done in front of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:09.010 --> 00:15:11.010
+<v Speaker 1>the audience and you train them on how to do
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:11.010 --> 00:15:11.349
+<v Speaker 1>it.
+
+NOTE CONF {"raw":[99]}
+
+00:15:11.969 --> 00:15:15.369
+<v Speaker 1>That is the problem solving technique, and it is very
+
+NOTE CONF {"raw":[94,99,98,99,99,99,94,99,99,99]}
+
+00:15:15.369 --> 00:15:17.669
+<v Speaker 1>much about intermediate memory.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:15:18.119 --> 00:15:21.070
+<v Speaker 1>And then lastly, education, which is what we're doing here,
+
+NOTE CONF {"raw":[97,99,99,99,98,99,99,96,99,99]}
+
+00:15:21.650 --> 00:15:21.840
+<v Speaker 1>right?
+
+NOTE CONF {"raw":[92]}
+
+00:15:22.049 --> 00:15:25.270
+<v Speaker 1>We're answering in this forum, the why question.
+
+NOTE CONF {"raw":[29,99,99,99,99,99,99,99]}
+
+00:15:25.650 --> 00:15:28.809
+<v Speaker 1>Why do we always look for the why or the
+
+NOTE CONF {"raw":[82,77,99,99,99,99,99,99,99,99]}
+
+00:15:28.809 --> 00:15:31.510
+<v Speaker 1>underlying reasons why things happen the way they do.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:15:31.849 --> 00:15:35.500
+<v Speaker 1>And so it's theoretical instruction theory is what we're trying
+
+NOTE CONF {"raw":[99,99,96,99,99,82,99,99,91,99]}
+
+00:15:35.500 --> 00:15:41.020
+<v Speaker 1>to get to concepts, deep concepts, profound insights, theories that
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,98,99,99]}
+
+00:15:41.020 --> 00:15:44.559
+<v Speaker 1>explain behavior, and they underlie everything.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:15:45.229 --> 00:15:49.179
+<v Speaker 1>Without a good theory, right, you can't really understand the
+
+NOTE CONF {"raw":[98,99,99,99,98,99,99,99,99,99]}
+
+00:15:49.179 --> 00:15:49.869
+<v Speaker 1>real world.
+
+NOTE CONF {"raw":[99,99]}
+
+00:15:50.450 --> 00:15:52.450
+<v Speaker 1>And that might sound like a contradiction.
+
+NOTE CONF {"raw":[96,95,99,99,99,99,99]}
+
+00:15:52.539 --> 00:15:54.460
+<v Speaker 1>People go, Oh, theory means impractical.
+
+NOTE CONF {"raw":[97,99,85,99,99,99]}
+
+00:15:54.580 --> 00:15:55.140
+<v Speaker 1>No, no.
+
+NOTE CONF {"raw":[99,99]}
+
+00:15:55.489 --> 00:15:59.109
+<v Speaker 1>A theory is a generalization of a lot of instances.
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99,99,99,99]}
+
+00:15:59.780 --> 00:16:03.460
+<v Speaker 1>So if there's 10,000 instances of why something happens the
+
+NOTE CONF {"raw":[96,99,79,98,99,99,99,99,99,99]}
+
+00:16:03.460 --> 00:16:08.080
+<v Speaker 1>way it does, a theory will try to encapsulate that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:08.260 --> 00:16:10.780
+<v Speaker 1>and explain that to you so you don't have to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:10.780 --> 00:16:13.619
+<v Speaker 1>experience 10,000 instances, you know why things.
+
+NOTE CONF {"raw":[99,97,99,72,99,99,99]}
+
+00:16:13.736 --> 00:16:14.575
+<v Speaker 1>Work the way they do.
+
+NOTE CONF {"raw":[20,67,95,97,99]}
+
+00:16:14.966 --> 00:16:18.176
+<v Speaker 1>That's why a theory is very powerful, and that's what
+
+NOTE CONF {"raw":[81,99,96,99,99,99,99,90,97,99]}
+
+00:16:18.176 --> 00:16:21.366
+<v Speaker 1>we try to give at the education level targeted towards
+
+NOTE CONF {"raw":[99,95,99,99,99,99,99,99,99,98]}
+
+00:16:21.366 --> 00:16:25.776
+<v Speaker 1>chief information security officers, security leaders is the theory, which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:25.776 --> 00:16:27.695
+<v Speaker 1>is how the security works.
+
+NOTE CONF {"raw":[99,99,80,99,54]}
+
+00:16:27.815 --> 00:16:30.276
+<v Speaker 1>For example, the triplet model is a kind of a
+
+NOTE CONF {"raw":[71,99,99,98,99,99,99,99,99,88]}
+
+00:16:30.276 --> 00:16:30.635
+<v Speaker 1>theory.
+
+NOTE CONF {"raw":[99]}
+
+00:16:30.935 --> 00:16:34.096
+<v Speaker 1>It's a very powerful theory because it says there are
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:16:34.096 --> 00:16:36.495
+<v Speaker 1>only two things to worry about assets and threats that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:16:36.495 --> 00:16:36.976
+<v Speaker 1>define the problem.
+
+NOTE CONF {"raw":[99,99,75]}
+
+00:16:37.351 --> 00:16:39.411
+<v Speaker 1>And then the scenarios need to be mapped out and
+
+NOTE CONF {"raw":[95,98,99,98,99,99,99,99,99,82]}
+
+00:16:39.411 --> 00:16:42.851
+<v Speaker 1>if you can map those out accurately and completely and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:42.851 --> 00:16:44.252
+<v Speaker 1>control them, then you have security.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:16:44.692 --> 00:16:49.892
+<v Speaker 1>That is a very powerful theoretical paradigm which encapsulates security
+
+NOTE CONF {"raw":[85,99,99,99,99,99,99,99,99,99]}
+
+00:16:49.892 --> 00:16:51.211
+<v Speaker 1>in any situation.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:16:51.452 --> 00:16:53.611
+<v Speaker 1>So you don't have to have a life of 10,000
+
+NOTE CONF {"raw":[57,99,99,99,99,99,99,99,99,97]}
+
+00:16:53.611 --> 00:16:56.531
+<v Speaker 1>years and experience all the different types of security challenges.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:56.851 --> 00:16:58.461
+<v Speaker 1>You know how to deal with them, right?
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,64]}
+
+00:16:58.572 --> 00:17:01.041
+<v Speaker 1>That's what the theory is there to do, and that
+
+NOTE CONF {"raw":[90,99,99,99,92,99,99,99,86,99]}
+
+00:17:01.041 --> 00:17:02.351
+<v Speaker 1>is long term learning.
+
+NOTE CONF {"raw":[99,99,91,99]}
+
+00:17:02.692 --> 00:17:06.952
+<v Speaker 1>So education, training and awareness are your three big mechanisms.
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,98]}
+
+00:17:08.468 --> 00:17:10.769
+<v Speaker 1>What is a good CETA program look like?
+
+NOTE CONF {"raw":[99,75,99,99,74,99,99,99]}
+
+00:17:11.149 --> 00:17:14.708
+<v Speaker 1>Well, it definitely is not obsolete.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:17:14.828 --> 00:17:20.989
+<v Speaker 1>It uses whatever methodologies, whatever mechanisms that are recent, modern,
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,99]}
+
+00:17:21.389 --> 00:17:24.609
+<v Speaker 1>um, and it trains people in their context.
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99]}
+
+00:17:25.500 --> 00:17:29.550
+<v Speaker 1>So this is very well known actually that if you
+
+NOTE CONF {"raw":[97,95,99,99,99,99,99,99,99,99]}
+
+00:17:29.550 --> 00:17:33.589
+<v Speaker 1>take people outside of their organizational learning environment and you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:33.589 --> 00:17:37.869
+<v Speaker 1>put them in a training workshop, for instance, and you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:37.869 --> 00:17:41.510
+<v Speaker 1>bring them back to their organization, whatever they learned in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,60,99]}
+
+00:17:41.510 --> 00:17:45.609
+<v Speaker 1>that training workshop, their organization is going to resist.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98]}
+
+00:17:46.630 --> 00:17:46.750
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[94]}
+
+00:17:46.829 --> 00:17:48.650
+<v Speaker 1>It's called training tourism.
+
+NOTE CONF {"raw":[82,99,99,99]}
+
+00:17:49.109 --> 00:17:52.869
+<v Speaker 1>You go to a training program, and you learn wonderful
+
+NOTE CONF {"raw":[99,99,99,99,100,100,99,99,100,100]}
+
+00:17:52.869 --> 00:17:56.810
+<v Speaker 1>things, you feel amazing, you go back to your organization.
+
+NOTE CONF {"raw":[100,70,99,100,82,99,100,99,99,99]}
+
+00:17:57.510 --> 00:18:00.209
+<v Speaker 1>And all the behaviors that you were told not to
+
+NOTE CONF {"raw":[98,99,99,99,99,99,98,99,99,99]}
+
+00:18:00.209 --> 00:18:04.349
+<v Speaker 1>do, your organization continues to do because inertia is very
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:04.349 --> 00:18:05.010
+<v Speaker 1>powerful.
+
+NOTE CONF {"raw":[100]}
+
+00:18:05.310 --> 00:18:09.030
+<v Speaker 1>And because you live in that organizational ecosystem where you
+
+NOTE CONF {"raw":[67,99,100,99,99,99,99,99,99,99]}
+
+00:18:09.030 --> 00:18:12.069
+<v Speaker 1>have relatively little power, unless, of course, you are board
+
+NOTE CONF {"raw":[99,99,99,100,94,99,99,99,99,75]}
+
+00:18:12.069 --> 00:18:13.630
+<v Speaker 1>of directors, CEO, etc.
+
+NOTE CONF {"raw":[99,72,99,99]}
+
+00:18:14.280 --> 00:18:17.250
+<v Speaker 1>you basically end up falling in line with everybody else
+
+NOTE CONF {"raw":[89,99,99,99,99,100,100,100,99,100]}
+
+00:18:17.349 --> 00:18:19.569
+<v Speaker 1>and forgetting everything that you have been trained.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:18:20.109 --> 00:18:23.859
+<v Speaker 1>Not necessarily forgetting, but it is You know, it is,
+
+NOTE CONF {"raw":[79,99,99,99,99,99,99,99,99,99]}
+
+00:18:24.050 --> 00:18:26.489
+<v Speaker 1>it is actually removed from you.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:18:26.569 --> 00:18:28.489
+<v Speaker 1>It's pulled out of you, right?
+
+NOTE CONF {"raw":[85,99,100,99,99,99]}
+
+00:18:28.770 --> 00:18:35.569
+<v Speaker 1>You just sheer frustration and sheer, um, uh, uh, I
+
+NOTE CONF {"raw":[76,96,99,99,99,99,98,89,89,99]}
+
+00:18:35.569 --> 00:18:37.329
+<v Speaker 1>don't know what the right word is, but you just
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:37.329 --> 00:18:40.010
+<v Speaker 1>give up in that organization because they are not going
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:40.010 --> 00:18:40.729
+<v Speaker 1>to change.
+
+NOTE CONF {"raw":[99,99]}
+
+00:18:41.130 --> 00:18:43.689
+<v Speaker 1>You are one person and they may be 10,000 people.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:43.969 --> 00:18:46.770
+<v Speaker 1>You will not change 10,000 people, the 10,000 people will
+
+NOTE CONF {"raw":[85,99,99,99,99,99,61,99,99,99]}
+
+00:18:46.770 --> 00:18:47.270
+<v Speaker 1>change you.
+
+NOTE CONF {"raw":[99,99]}
+
+00:18:47.910 --> 00:18:48.219
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[98]}
+
+00:18:48.390 --> 00:18:52.989
+<v Speaker 1>So that situation, it makes it really, really challenging for
+
+NOTE CONF {"raw":[81,99,99,94,99,99,99,99,100,99]}
+
+00:18:52.989 --> 00:18:56.900
+<v Speaker 1>CETA, which is why doing training inside the organization environment,
+
+NOTE CONF {"raw":[62,99,99,99,99,100,100,99,99,99]}
+
+00:18:57.349 --> 00:19:00.589
+<v Speaker 1>within that context, amongst the people is the way to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,100,99]}
+
+00:19:00.589 --> 00:19:02.589
+<v Speaker 1>actually transform the organization.
+
+NOTE CONF {"raw":[99,100,99,99]}
+
+00:19:03.439 --> 00:19:05.579
+<v Speaker 1>If especially if that is your objective.
+
+NOTE CONF {"raw":[49,93,99,99,99,99,99]}
+
+00:19:06.180 --> 00:19:09.040
+<v Speaker 1>It, uh, workshops target usually a small number of people
+
+NOTE CONF {"raw":[25,64,99,99,99,99,99,99,99,99]}
+
+00:19:09.040 --> 00:19:12.819
+<v Speaker 1>at a time, Broad spectrum training tends not to work.
+
+NOTE CONF {"raw":[81,63,99,28,81,99,99,99,99,100]}
+
+00:19:14.410 --> 00:19:19.109
+<v Speaker 1>Small focused tailored training which is very relevant to the
+
+NOTE CONF {"raw":[60,99,98,99,99,99,99,99,99,99]}
+
+00:19:19.109 --> 00:19:22.319
+<v Speaker 1>people who are in the classroom tends to work better
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:19:23.020 --> 00:19:26.619
+<v Speaker 1>than broad spectrum training where it's not clearly relevant to
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,99,99]}
+
+00:19:26.619 --> 00:19:30.060
+<v Speaker 1>the people and it runs periodically, not just at one
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:19:30.060 --> 00:19:30.479
+<v Speaker 1>time.
+
+NOTE CONF {"raw":[99]}
+
+00:19:31.020 --> 00:19:34.219
+<v Speaker 1>So you need to continue to be trained and to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:34.219 --> 00:19:40.060
+<v Speaker 1>be reminded because reminders keep, make things stick in your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:40.060 --> 00:19:42.619
+<v Speaker 1>head as opposed to if you just get, if you
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:19:42.619 --> 00:19:45.170
+<v Speaker 1>start an organization, you get trained and then 20 years
+
+NOTE CONF {"raw":[39,99,99,99,99,99,99,99,99,99]}
+
+00:19:45.170 --> 00:19:48.300
+<v Speaker 1>later, you don't remember ever being trained, let alone what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:48.300 --> 00:19:49.180
+<v Speaker 1>was inside the training.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:19:50.130 --> 00:19:51.890
+<v Speaker 1>Um, 7 steps to a CETA program.
+
+NOTE CONF {"raw":[99,84,99,99,99,92,99]}
+
+00:19:51.969 --> 00:19:55.550
+<v Speaker 1>If you're developing a CETA program, generally, you follow this
+
+NOTE CONF {"raw":[77,99,99,99,87,99,99,99,99,99]}
+
+00:19:55.560 --> 00:19:56.510
+<v Speaker 1>this approach.
+
+NOTE CONF {"raw":[99,99]}
+
+00:19:57.000 --> 00:19:58.030
+<v Speaker 1>What's the scope?
+
+NOTE CONF {"raw":[98,99,99]}
+
+00:19:58.569 --> 00:19:59.719
+<v Speaker 1>What's, what are my goals?
+
+NOTE CONF {"raw":[78,99,99,99,99]}
+
+00:19:59.810 --> 00:20:02.819
+<v Speaker 1>What is the behavior change I'm trying to affect?
+
+NOTE CONF {"raw":[96,99,99,100,99,99,99,100,83]}
+
+00:20:03.489 --> 00:20:06.290
+<v Speaker 1>What is, and this for me is where most, most
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99,99,99,99]}
+
+00:20:06.290 --> 00:20:08.810
+<v Speaker 1>people, most programs fail, right?
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:20:09.170 --> 00:20:12.170
+<v Speaker 1>They don't study the culture, just like with policy we
+
+NOTE CONF {"raw":[99,99,100,99,99,94,99,99,99,99]}
+
+00:20:12.170 --> 00:20:14.890
+<v Speaker 1>said last week, if you don't understand the existing culture,
+
+NOTE CONF {"raw":[99,99,99,80,99,99,100,99,99,100]}
+
+00:20:15.010 --> 00:20:17.089
+<v Speaker 1>you can't change it, because you don't know what to
+
+NOTE CONF {"raw":[99,99,99,99,54,99,99,99,100,99]}
+
+00:20:17.089 --> 00:20:17.449
+<v Speaker 1>change.
+
+NOTE CONF {"raw":[99]}
+
+00:20:18.050 --> 00:20:20.099
+<v Speaker 1>In order to be effective, you need to know what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:20.099 --> 00:20:23.739
+<v Speaker 1>is the current behavior in the environment, why does it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,70,99,99]}
+
+00:20:23.739 --> 00:20:24.250
+<v Speaker 1>exist?
+
+NOTE CONF {"raw":[99]}
+
+00:20:24.579 --> 00:20:25.790
+<v Speaker 1>How did it come about?
+
+NOTE CONF {"raw":[91,99,99,99,99]}
+
+00:20:26.420 --> 00:20:28.939
+<v Speaker 1>Why has it been sustained for so long?
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,100]}
+
+00:20:29.219 --> 00:20:31.609
+<v Speaker 1>What is keeping that culture, that behavior alive?
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99]}
+
+00:20:31.939 --> 00:20:33.739
+<v Speaker 1>What is the behavior I want to see?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:20:34.660 --> 00:20:36.469
+<v Speaker 1>How am I gonna make that transformation?
+
+NOTE CONF {"raw":[99,99,99,97,99,99,99]}
+
+00:20:36.550 --> 00:20:38.270
+<v Speaker 1>How am I gonna get people to move from what
+
+NOTE CONF {"raw":[99,99,99,94,99,99,99,99,99,99]}
+
+00:20:38.270 --> 00:20:41.829
+<v Speaker 1>they're doing now to what I want them to do?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:42.689 --> 00:20:44.939
+<v Speaker 1>And you have to respect the current behavior.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100]}
+
+00:20:45.020 --> 00:20:48.099
+<v Speaker 1>You can't disrespect it and say, oh, people, they just,
+
+NOTE CONF {"raw":[99,100,100,99,99,99,98,99,99,99]}
+
+00:20:48.219 --> 00:20:49.589
+<v Speaker 1>they're just so stupid, right?
+
+NOTE CONF {"raw":[99,99,100,100,99]}
+
+00:20:49.800 --> 00:20:52.020
+<v Speaker 1>They, when I show them the light, they will all
+
+NOTE CONF {"raw":[96,97,100,100,100,100,100,100,100,100]}
+
+00:20:52.020 --> 00:20:52.420
+<v Speaker 1>change.
+
+NOTE CONF {"raw":[100]}
+
+00:20:52.619 --> 00:20:54.489
+<v Speaker 1>No, you're the stupid person.
+
+NOTE CONF {"raw":[99,99,100,100,100]}
+
+00:20:54.859 --> 00:20:57.060
+<v Speaker 1>They're all doing things for a reason.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100]}
+
+00:20:57.979 --> 00:20:59.699
+<v Speaker 1>There is a reason why you don't know the reason
+
+NOTE CONF {"raw":[98,98,98,99,99,88,98,99,99,99]}
+
+00:20:59.699 --> 00:20:59.920
+<v Speaker 1>yet.
+
+NOTE CONF {"raw":[99]}
+
+00:21:00.420 --> 00:21:02.859
+<v Speaker 1>First of all, before you do anything in CETA, find
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,74,99]}
+
+00:21:02.859 --> 00:21:04.640
+<v Speaker 1>out why that behavior exists.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:21:05.630 --> 00:21:10.150
+<v Speaker 1>Once you discover that behavior's reasoning, why the under, what
+
+NOTE CONF {"raw":[99,99,99,99,42,99,99,99,98,99]}
+
+00:21:10.150 --> 00:21:13.430
+<v Speaker 1>are the underlying motivations drivers for it, only then will
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,80,99,99]}
+
+00:21:13.430 --> 00:21:15.069
+<v Speaker 1>you be able to tackle those drivers.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:21:15.150 --> 00:21:17.739
+<v Speaker 1>If you don't, and you just look at the surface
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:21:17.739 --> 00:21:19.760
+<v Speaker 1>behavior and say, I'm going to change that, good luck
+
+NOTE CONF {"raw":[99,99,99,99,59,50,99,99,96,99]}
+
+00:21:19.760 --> 00:21:21.030
+<v Speaker 1>with that, right?
+
+NOTE CONF {"raw":[99,99,91]}
+
+00:21:21.510 --> 00:21:22.290
+<v Speaker 1>Not gonna happen.
+
+NOTE CONF {"raw":[64,80,99]}
+
+00:21:22.750 --> 00:21:23.719
+<v Speaker 1>I'll give you an example.
+
+NOTE CONF {"raw":[99,99,99,99,100]}
+
+00:21:24.030 --> 00:21:27.140
+<v Speaker 1>One of our Malaysian PhD students, she did her PhD
+
+NOTE CONF {"raw":[80,99,99,99,98,99,99,99,60,99]}
+
+00:21:27.140 --> 00:21:34.810
+<v Speaker 1>on why employees share sensitive organizational information.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:21:35.369 --> 00:21:36.189
+<v Speaker 1>On Facebook.
+
+NOTE CONF {"raw":[99,99]}
+
+00:21:36.530 --> 00:21:38.609
+<v Speaker 1>This is 10 years ago when Facebook was more of
+
+NOTE CONF {"raw":[78,99,99,99,99,99,99,99,99,99]}
+
+00:21:38.609 --> 00:21:39.680
+<v Speaker 1>a thing than it is now, right?
+
+NOTE CONF {"raw":[99,99,97,97,99,99,99]}
+
+00:21:39.969 --> 00:21:40.930
+<v Speaker 1>1015 years ago, right?
+
+NOTE CONF {"raw":[85,99,99,99]}
+
+00:21:40.969 --> 00:21:46.650
+<v Speaker 1>And she, she wanted to know why do Malaysian employees
+
+NOTE CONF {"raw":[86,99,99,99,100,100,99,99,99,99]}
+
+00:21:47.290 --> 00:21:53.310
+<v Speaker 1>share private information about the organization on Facebook?
+
+NOTE CONF {"raw":[99,100,100,100,99,99,99,100]}
+
+00:21:53.449 --> 00:21:54.810
+<v Speaker 1>Like, why would you do such a thing, right?
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,96]}
+
+00:21:54.849 --> 00:21:59.300
+<v Speaker 1>And she started by interviewing security managers across Malaysian organizations.
+
+NOTE CONF {"raw":[94,99,99,99,100,99,99,100,99,99]}
+
+00:21:59.640 --> 00:22:03.410
+<v Speaker 1>And all the managers were very downright condescending about it.
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,100,99,99]}
+
+00:22:03.530 --> 00:22:06.609
+<v Speaker 1>They were saying, oh, employees, our employees are horrible.
+
+NOTE CONF {"raw":[99,99,99,81,99,99,99,99,100]}
+
+00:22:06.689 --> 00:22:09.089
+<v Speaker 1>They don't read the policy, they don't understand, they don't
+
+NOTE CONF {"raw":[81,99,99,99,99,89,99,100,95,99]}
+
+00:22:09.089 --> 00:22:10.050
+<v Speaker 1>respect the organization.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:22:10.449 --> 00:22:12.089
+<v Speaker 1>They don't do blah, blah, blah, they don't do blah.
+
+NOTE CONF {"raw":[81,99,99,99,99,99,76,99,99,97]}
+
+00:22:12.170 --> 00:22:14.349
+<v Speaker 1>They do, they had a whole list of reasons why
+
+NOTE CONF {"raw":[75,89,97,99,99,99,99,99,100,99]}
+
+00:22:14.930 --> 00:22:18.130
+<v Speaker 1>it was so bad, this culture, and that they just
+
+NOTE CONF {"raw":[99,99,100,100,99,99,99,99,99,99]}
+
+00:22:18.130 --> 00:22:21.050
+<v Speaker 1>need to enforce harder and have more severe penalties.
+
+NOTE CONF {"raw":[99,99,100,100,99,99,100,99,100]}
+
+00:22:21.569 --> 00:22:25.209
+<v Speaker 1>Then, she interviewed the employees and asked them, why are
+
+NOTE CONF {"raw":[99,99,100,100,100,99,99,99,98,99]}
+
+00:22:25.209 --> 00:22:26.109
+<v Speaker 1>you doing this?
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:22:26.459 --> 00:22:28.550
+<v Speaker 1>And she found something really interesting.
+
+NOTE CONF {"raw":[99,99,99,100,99,100]}
+
+00:22:29.050 --> 00:22:35.170
+<v Speaker 1>The employees realized that when they tried to contact their
+
+NOTE CONF {"raw":[97,99,67,99,99,99,62,99,99,99]}
+
+00:22:35.170 --> 00:22:38.890
+<v Speaker 1>supervisors through email and ask them to assist them or
+
+NOTE CONF {"raw":[99,99,99,99,94,99,99,99,99,99]}
+
+00:22:38.890 --> 00:22:41.770
+<v Speaker 1>to give them direction on their work, that their employees
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,90,99,99]}
+
+00:22:41.770 --> 00:22:44.449
+<v Speaker 1>would never answer email, but they would answer if they
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:44.449 --> 00:22:45.510
+<v Speaker 1>posted on Facebook.
+
+NOTE CONF {"raw":[98,99,99]}
+
+00:22:46.500 --> 00:22:46.839
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:22:47.260 --> 00:22:50.060
+<v Speaker 1>So there was a culture in the organization where their
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:22:50.060 --> 00:22:54.500
+<v Speaker 1>supervisors would respond if they were tagged on Facebook, but
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,99]}
+
+00:22:54.500 --> 00:22:57.359
+<v Speaker 1>would not if they were using company emails.
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99]}
+
+00:22:58.180 --> 00:23:01.260
+<v Speaker 1>And they didn't have time.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:23:01.500 --> 00:23:03.979
+<v Speaker 1>They, they had a lot of deadlines that they had
+
+NOTE CONF {"raw":[77,68,99,99,99,99,99,99,99,99]}
+
+00:23:03.979 --> 00:23:07.619
+<v Speaker 1>to meet, and they couldn't wait around for their supervisors
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:07.619 --> 00:23:09.209
+<v Speaker 1>to respond and get around to emails.
+
+NOTE CONF {"raw":[99,99,62,99,99,99,99]}
+
+00:23:09.619 --> 00:23:12.619
+<v Speaker 1>So they started to follow them on social media and
+
+NOTE CONF {"raw":[73,99,99,99,99,99,99,99,99,99]}
+
+00:23:12.619 --> 00:23:15.500
+<v Speaker 1>begin to tag them and to communicate on social media.
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99,99,99]}
+
+00:23:15.819 --> 00:23:18.020
+<v Speaker 1>And you know, if you work in, you know, or
+
+NOTE CONF {"raw":[97,99,99,99,99,99,95,85,87,97]}
+
+00:23:18.020 --> 00:23:21.420
+<v Speaker 1>you have lived or you operate in that part of
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:23:21.420 --> 00:23:22.880
+<v Speaker 1>the world, Indonesia, Malaysia, etc.
+
+NOTE CONF {"raw":[99,99,99,98,98]}
+
+00:23:23.339 --> 00:23:25.359
+<v Speaker 1>WhatsApp is huge.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:23:25.969 --> 00:23:28.250
+<v Speaker 1>It's how people get work done and I never use
+
+NOTE CONF {"raw":[23,99,99,99,99,99,98,99,99,70]}
+
+00:23:28.250 --> 00:23:31.530
+<v Speaker 1>WhatsApp, until I started, you know, actually doing work in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:31.530 --> 00:23:34.609
+<v Speaker 1>Malaysia and I began to, I got infected, and then
+
+NOTE CONF {"raw":[99,99,99,96,99,99,99,99,98,99]}
+
+00:23:34.609 --> 00:23:37.010
+<v Speaker 1>I started using WhatsApp for everything, and now my research
+
+NOTE CONF {"raw":[99,86,99,99,99,99,90,99,99,99]}
+
+00:23:37.010 --> 00:23:39.729
+<v Speaker 1>team contacts me on WhatsApp here, which we would never
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:39.729 --> 00:23:40.410
+<v Speaker 1>do before.
+
+NOTE CONF {"raw":[99,99]}
+
+00:23:40.770 --> 00:23:43.849
+<v Speaker 1>And we actually discovered with the national cyber strategy in
+
+NOTE CONF {"raw":[89,99,99,99,99,53,88,94,96,99]}
+
+00:23:43.849 --> 00:23:48.089
+<v Speaker 1>Malaysia, that the National Crisis Management is running through WhatsApp.
+
+NOTE CONF {"raw":[99,99,99,79,9,14,99,99,99,99]}
+
+00:23:48.739 --> 00:23:52.020
+<v Speaker 1>People are actually communicating with each other in a national
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:52.020 --> 00:23:55.910
+<v Speaker 1>crisis situation on WhatsApp, which is an insecure platform.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:23:56.380 --> 00:23:58.859
+<v Speaker 1>So we started to pull that into our case studies
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,99]}
+
+00:23:58.859 --> 00:24:01.689
+<v Speaker 1>when we were training the National Cyber Agency, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,98,98,90,92,98]}
+
+00:24:02.060 --> 00:24:05.500
+<v Speaker 1>case studies where everything was going well until the attacker
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:24:05.500 --> 00:24:08.380
+<v Speaker 1>got onto WhatsApp and realized everything that they're doing, right?
+
+NOTE CONF {"raw":[99,89,99,99,99,99,99,89,99,90]}
+
+00:24:08.540 --> 00:24:10.660
+<v Speaker 1>And so it's only when we use case studies like
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,98,99]}
+
+00:24:10.660 --> 00:24:13.020
+<v Speaker 1>that that the people go, oh, maybe we shouldn't.
+
+NOTE CONF {"raw":[99,98,97,99,99,87,99,99,82]}
+
+00:24:13.109 --> 00:24:13.670
+<v Speaker 1>Use WhatsApp.
+
+NOTE CONF {"raw":[80,98]}
+
+00:24:13.709 --> 00:24:15.359
+<v Speaker 1>Maybe we should use something more secure.
+
+NOTE CONF {"raw":[88,99,99,97,99,99,99]}
+
+00:24:15.750 --> 00:24:17.329
+<v Speaker 1>But of course there's a problem there, right?
+
+NOTE CONF {"raw":[67,99,99,96,99,99,99,99]}
+
+00:24:17.430 --> 00:24:19.989
+<v Speaker 1>If you move to Signal or something else, there's an
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,96,99]}
+
+00:24:19.989 --> 00:24:20.849
+<v Speaker 1>accessibility problem.
+
+NOTE CONF {"raw":[99,99]}
+
+00:24:21.349 --> 00:24:23.459
+<v Speaker 1>Not everybody wants to use Signal, right?
+
+NOTE CONF {"raw":[98,99,99,99,99,99,98]}
+
+00:24:23.719 --> 00:24:26.000
+<v Speaker 1>WhatsApp is just universally available, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,94]}
+
+00:24:26.349 --> 00:24:27.010
+<v Speaker 1>So there we go.
+
+NOTE CONF {"raw":[96,99,98,99]}
+
+00:24:27.199 --> 00:24:29.849
+<v Speaker 1>Anyway, so number one is a real problem.
+
+NOTE CONF {"raw":[31,60,99,99,99,94,99,99]}
+
+00:24:30.510 --> 00:24:32.729
+<v Speaker 1>You need to understand what is driving behavior.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99]}
+
+00:24:33.099 --> 00:24:35.150
+<v Speaker 1>If you keep on just say, oh, we're going to
+
+NOTE CONF {"raw":[99,100,99,99,99,89,99,99,72,71]}
+
+00:24:35.150 --> 00:24:39.130
+<v Speaker 1>make enforcement harder, penalize people with more, you know, severe
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:39.130 --> 00:24:40.010
+<v Speaker 1>penalties, etc.
+
+NOTE CONF {"raw":[99,99]}
+
+00:24:40.300 --> 00:24:41.469
+<v Speaker 1>you're missing the point.
+
+NOTE CONF {"raw":[96,99,99,100]}
+
+00:24:41.689 --> 00:24:45.400
+<v Speaker 1>You might be actually sabotaging the organization's productivity.
+
+NOTE CONF {"raw":[64,99,99,99,99,99,99,99]}
+
+00:24:46.010 --> 00:24:48.209
+<v Speaker 1>Because there may be a reason why people are doing
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,99,99]}
+
+00:24:48.209 --> 00:24:50.069
+<v Speaker 1>what they're doing, you need to find that out first.
+
+NOTE CONF {"raw":[99,99,99,97,99,99,99,99,99,99]}
+
+00:24:50.489 --> 00:24:52.930
+<v Speaker 1>But once you've done that, once you've done your research
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:24:52.930 --> 00:24:56.199
+<v Speaker 1>piece and figured out why culture is the way it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:56.199 --> 00:24:59.089
+<v Speaker 1>is, then you can start saying, OK, what's the scope
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,99,99]}
+
+00:24:59.089 --> 00:24:59.930
+<v Speaker 1>of my program?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:25:00.010 --> 00:25:01.109
+<v Speaker 1>What do I want to do?
+
+NOTE CONF {"raw":[88,99,99,61,56,99]}
+
+00:25:01.489 --> 00:25:02.920
+<v Speaker 1>What are the objectives of my program?
+
+NOTE CONF {"raw":[98,99,99,99,99,99,100]}
+
+00:25:02.969 --> 00:25:04.949
+<v Speaker 1>What's the behavior change I need to see?
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99]}
+
+00:25:05.930 --> 00:25:08.729
+<v Speaker 1>Then you identify who's gonna do the training.
+
+NOTE CONF {"raw":[95,99,99,99,77,99,99,100]}
+
+00:25:09.500 --> 00:25:10.410
+<v Speaker 1>Find the staff.
+
+NOTE CONF {"raw":[94,98,99]}
+
+00:25:10.819 --> 00:25:12.030
+<v Speaker 1>Who's my audience?
+
+NOTE CONF {"raw":[69,99,99]}
+
+00:25:12.300 --> 00:25:13.660
+<v Speaker 1>Is it the whole organization?
+
+NOTE CONF {"raw":[90,99,99,99,99]}
+
+00:25:14.020 --> 00:25:15.619
+<v Speaker 1>Is it parts of the organization?
+
+NOTE CONF {"raw":[97,99,99,99,99,99]}
+
+00:25:15.859 --> 00:25:17.900
+<v Speaker 1>Am I going to treat the whole organization as one
+
+NOTE CONF {"raw":[99,99,95,96,99,99,99,99,99,99]}
+
+00:25:17.900 --> 00:25:19.579
+<v Speaker 1>unit, or am I going to break it up into
+
+NOTE CONF {"raw":[99,98,99,99,96,95,99,99,99,99]}
+
+00:25:19.579 --> 00:25:19.979
+<v Speaker 1>pieces?
+
+NOTE CONF {"raw":[99]}
+
+00:25:20.219 --> 00:25:21.339
+<v Speaker 1>How am I going to do this, right?
+
+NOTE CONF {"raw":[99,99,99,95,91,99,99,92]}
+
+00:25:21.660 --> 00:25:22.780
+<v Speaker 1>What are my target audiences?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:25:22.849 --> 00:25:25.540
+<v Speaker 1>And then motivate management employees?
+
+NOTE CONF {"raw":[67,99,99,99,99]}
+
+00:25:25.660 --> 00:25:27.680
+<v Speaker 1>Why would they change their behavior?
+
+NOTE CONF {"raw":[96,99,99,99,99,99]}
+
+00:25:28.920 --> 00:25:30.180
+<v Speaker 1>Like what's in it for them?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:25:31.989 --> 00:25:33.189
+<v Speaker 1>I know what's in it for me.
+
+NOTE CONF {"raw":[100,99,99,99,99,99,99]}
+
+00:25:33.390 --> 00:25:35.130
+<v Speaker 1>I want to meet my KPIs.
+
+NOTE CONF {"raw":[99,63,53,99,99,99]}
+
+00:25:35.670 --> 00:25:38.310
+<v Speaker 1>It's not enough to say it's good for the organization.
+
+NOTE CONF {"raw":[98,99,100,99,99,99,99,99,99,99]}
+
+00:25:39.349 --> 00:25:42.180
+<v Speaker 1>Who are you to say, a security leader that is
+
+NOTE CONF {"raw":[99,99,99,99,99,90,99,99,99,82]}
+
+00:25:42.180 --> 00:25:43.260
+<v Speaker 1>good for the organization?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:25:44.170 --> 00:25:44.510
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[98]}
+
+00:25:44.770 --> 00:25:47.250
+<v Speaker 1>It's notoriously hard to train a CEO, by the way.
+
+NOTE CONF {"raw":[95,99,100,100,100,99,99,99,99,100]}
+
+00:25:48.449 --> 00:25:51.130
+<v Speaker 1>Imagine a security leader trying to train a CEO.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,72,99]}
+
+00:25:51.209 --> 00:25:54.250
+<v Speaker 1>If you watch that video, James Bormann talks on our
+
+NOTE CONF {"raw":[84,99,99,99,100,99,61,99,99,99]}
+
+00:25:54.250 --> 00:25:58.229
+<v Speaker 1>LMS about when he was CIO of this Australian organization,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:58.369 --> 00:26:01.609
+<v Speaker 1>and he had to train the CEO about how to
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,99]}
+
+00:26:01.609 --> 00:26:05.410
+<v Speaker 1>handle information in airports, and trams, and taxis, because he
+
+NOTE CONF {"raw":[99,99,99,99,72,99,98,99,99,99]}
+
+00:26:05.410 --> 00:26:06.089
+<v Speaker 1>was a a.
+
+NOTE CONF {"raw":[99,86,69]}
+
+00:26:06.204 --> 00:26:08.604
+<v Speaker 1>Very outgoing mobile CEO, right?
+
+NOTE CONF {"raw":[90,99,99,99,99]}
+
+00:26:08.885 --> 00:26:11.625
+<v Speaker 1>That's a, that's a very typical problem.
+
+NOTE CONF {"raw":[97,88,99,99,99,99,100]}
+
+00:26:11.844 --> 00:26:15.405
+<v Speaker 1>A security leader, especially if they're in the technology operations
+
+NOTE CONF {"raw":[87,99,99,99,99,97,99,99,99,95]}
+
+00:26:15.405 --> 00:26:17.765
+<v Speaker 1>division, again, security is a cost center, not a revenue
+
+NOTE CONF {"raw":[96,49,99,98,99,99,99,99,99,99]}
+
+00:26:17.765 --> 00:26:18.285
+<v Speaker 1>generator.
+
+NOTE CONF {"raw":[99]}
+
+00:26:18.645 --> 00:26:21.765
+<v Speaker 1>They are not going to be respected by the business
+
+NOTE CONF {"raw":[73,88,99,99,99,99,99,99,99,100]}
+
+00:26:21.765 --> 00:26:23.484
+<v Speaker 1>leader, like who are you to tell me what to
+
+NOTE CONF {"raw":[99,75,99,99,99,99,99,99,99,99]}
+
+00:26:23.484 --> 00:26:24.844
+<v Speaker 1>do, right?
+
+NOTE CONF {"raw":[99,83]}
+
+00:26:25.364 --> 00:26:27.444
+<v Speaker 1>So that is a power differential.
+
+NOTE CONF {"raw":[99,99,99,63,99,99]}
+
+00:26:27.645 --> 00:26:28.765
+<v Speaker 1>You have to figure out how am I going to
+
+NOTE CONF {"raw":[81,99,99,99,50,99,99,99,77,63]}
+
+00:26:28.765 --> 00:26:31.724
+<v Speaker 1>overcome the power differential in my organization.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:26:32.650 --> 00:26:35.130
+<v Speaker 1>So why would people do this and then administer the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,94,99,99,99]}
+
+00:26:35.130 --> 00:26:38.250
+<v Speaker 1>program, whatever that looks like, and then it's not a
+
+NOTE CONF {"raw":[99,97,99,99,99,84,99,99,99,99]}
+
+00:26:38.250 --> 00:26:39.040
+<v Speaker 1>one-shot.
+
+NOTE CONF {"raw":[9]}
+
+00:26:40.329 --> 00:26:41.750
+<v Speaker 1>It's not a one shot approach, right?
+
+NOTE CONF {"raw":[28,53,69,82,89,99,97]}
+
+00:26:41.849 --> 00:26:44.089
+<v Speaker 1>You have to maintain the program, and then you have
+
+NOTE CONF {"raw":[97,99,99,99,99,99,98,99,99,99]}
+
+00:26:44.089 --> 00:26:46.530
+<v Speaker 1>to find some way to evaluate whether you're meeting your
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,92,99,99]}
+
+00:26:46.530 --> 00:26:48.689
+<v Speaker 1>objectives or not, and then change the program.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:26:48.969 --> 00:26:51.729
+<v Speaker 1>You can't assume that when you first run your program,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:51.770 --> 00:26:52.609
+<v Speaker 1>it's going to work.
+
+NOTE CONF {"raw":[98,88,89,99]}
+
+00:26:53.010 --> 00:26:54.170
+<v Speaker 1>It's going to have to go through.
+
+NOTE CONF {"raw":[98,81,70,99,99,99,99]}
+
+00:26:54.250 --> 00:26:57.510
+<v Speaker 1>It's going to have to evolve and adapt and change
+
+NOTE CONF {"raw":[71,79,71,99,99,99,99,99,99,99]}
+
+00:26:57.510 --> 00:27:00.930
+<v Speaker 1>and create a fit with the organization.
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99]}
+
+00:27:01.410 --> 00:27:04.729
+<v Speaker 1>Only when it adapts to the organization's culture, is there
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:04.729 --> 00:27:07.410
+<v Speaker 1>any hope of actually being successful.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:27:09.520 --> 00:27:12.920
+<v Speaker 1>Who's gonna do the training, internal staff, or do we
+
+NOTE CONF {"raw":[98,90,99,99,99,55,99,98,99,99]}
+
+00:27:12.920 --> 00:27:15.599
+<v Speaker 1>hire an external training team that specializes in it?
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,98]}
+
+00:27:17.189 --> 00:27:19.660
+<v Speaker 1>Specialist trainers or non-specialist trainers?
+
+NOTE CONF {"raw":[66,99,99,88,99]}
+
+00:27:20.849 --> 00:27:25.010
+<v Speaker 1>Training team that trains the whole organization on everything, so
+
+NOTE CONF {"raw":[69,99,99,99,99,99,99,99,99,94]}
+
+00:27:25.010 --> 00:27:27.770
+<v Speaker 1>they know our people and our culture or a security
+
+NOTE CONF {"raw":[99,99,99,99,69,99,99,99,61,99]}
+
+00:27:27.770 --> 00:27:30.209
+<v Speaker 1>team that doesn't know anything about the organization but knows
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,66]}
+
+00:27:30.209 --> 00:27:30.750
+<v Speaker 1>security.
+
+NOTE CONF {"raw":[99]}
+
+00:27:31.849 --> 00:27:35.829
+<v Speaker 1>For a hybrid team that knows the organization and knows
+
+NOTE CONF {"raw":[59,99,99,99,99,99,99,99,99,93]}
+
+00:27:35.829 --> 00:27:36.319
+<v Speaker 1>security.
+
+NOTE CONF {"raw":[99]}
+
+00:27:37.319 --> 00:27:37.780
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[97]}
+
+00:27:38.199 --> 00:27:39.160
+<v Speaker 1>Is it internal people?
+
+NOTE CONF {"raw":[96,99,99,99]}
+
+00:27:39.239 --> 00:27:40.079
+<v Speaker 1>Is it external people?
+
+NOTE CONF {"raw":[51,99,99,99]}
+
+00:27:40.239 --> 00:27:43.839
+<v Speaker 1>Can we afford to pay for a specialist training team?
+
+NOTE CONF {"raw":[97,99,100,100,100,100,99,99,100,99]}
+
+00:27:44.689 --> 00:27:45.800
+<v Speaker 1>To come in and do this.
+
+NOTE CONF {"raw":[74,99,99,99,99,99]}
+
+00:27:51.550 --> 00:27:55.189
+<v Speaker 1>And are we going to do, are we going to
+
+NOTE CONF {"raw":[99,99,99,87,86,99,99,99,62,60]}
+
+00:27:55.189 --> 00:27:57.510
+<v Speaker 1>deal with all end users in one big broad spectrum
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,68]}
+
+00:27:57.510 --> 00:27:57.829
+<v Speaker 1>approach?
+
+NOTE CONF {"raw":[99]}
+
+00:27:58.109 --> 00:27:59.869
+<v Speaker 1>Are we going to break them down into units and
+
+NOTE CONF {"raw":[99,99,65,54,99,99,99,99,99,99]}
+
+00:27:59.869 --> 00:28:01.270
+<v Speaker 1>then train each unit separately?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:28:01.550 --> 00:28:05.310
+<v Speaker 1>Do we, do we treat general end users differently, differently
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,89,99]}
+
+00:28:05.310 --> 00:28:08.750
+<v Speaker 1>to management people and executive leadership, and how about the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,35,99,99,99]}
+
+00:28:08.750 --> 00:28:09.270
+<v Speaker 1>board?
+
+NOTE CONF {"raw":[99]}
+
+00:28:10.800 --> 00:28:11.750
+<v Speaker 1>Do we train everybody?
+
+NOTE CONF {"raw":[82,98,99,99]}
+
+00:28:12.939 --> 00:28:14.420
+<v Speaker 1>Do we train them at the same time and who
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,100,85,99]}
+
+00:28:14.420 --> 00:28:15.060
+<v Speaker 1>do we start with?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:28:15.140 --> 00:28:17.939
+<v Speaker 1>Do we start training top down, or do we start
+
+NOTE CONF {"raw":[95,99,99,99,99,98,90,99,99,99]}
+
+00:28:17.939 --> 00:28:18.920
+<v Speaker 1>training bottom up?
+
+NOTE CONF {"raw":[99,99,98]}
+
+00:28:19.719 --> 00:28:22.640
+<v Speaker 1>And there is this big problem in high power distance
+
+NOTE CONF {"raw":[99,99,99,99,99,100,99,99,99,99]}
+
+00:28:22.640 --> 00:28:26.880
+<v Speaker 1>index societies versus low power distance index societies and high
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,88,99]}
+
+00:28:26.880 --> 00:28:28.339
+<v Speaker 1>power distance index societies.
+
+NOTE CONF {"raw":[99,97,99,99]}
+
+00:28:29.300 --> 00:28:33.099
+<v Speaker 1>Especially in industry, there's this feeling the board feels they
+
+NOTE CONF {"raw":[35,98,99,97,99,99,99,99,99,99]}
+
+00:28:33.099 --> 00:28:34.979
+<v Speaker 1>don't need to be trained, like, uh, what do you
+
+NOTE CONF {"raw":[99,99,99,99,99,75,68,99,99,99]}
+
+00:28:34.979 --> 00:28:36.020
+<v Speaker 1>mean I need to be trained?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:28:36.099 --> 00:28:38.579
+<v Speaker 1>Do you mean that I don't know enough, right?
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,57]}
+
+00:28:39.890 --> 00:28:41.689
+<v Speaker 1>Why and, and, and who should train me?
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99]}
+
+00:28:41.770 --> 00:28:44.719
+<v Speaker 1>I'm only gonna accept training if somebody of my level
+
+NOTE CONF {"raw":[99,99,77,99,99,99,99,99,99,99]}
+
+00:28:44.719 --> 00:28:45.250
+<v Speaker 1>trains me.
+
+NOTE CONF {"raw":[99,99]}
+
+00:28:45.969 --> 00:28:49.170
+<v Speaker 1>Otherwise, I'm not going to allow some, you know, commoner
+
+NOTE CONF {"raw":[99,99,99,67,58,99,99,99,99,80]}
+
+00:28:49.170 --> 00:28:50.930
+<v Speaker 1>come in and, you know, train me.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:28:51.089 --> 00:28:52.449
+<v Speaker 1>This is a very common attitude.
+
+NOTE CONF {"raw":[98,99,99,99,100,100]}
+
+00:28:53.420 --> 00:28:54.099
+<v Speaker 1>People will not.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:28:54.300 --> 00:28:56.420
+<v Speaker 1>So actually, to be able to train a board of,
+
+NOTE CONF {"raw":[56,99,99,99,99,99,99,99,99,99]}
+
+00:28:56.569 --> 00:28:59.540
+<v Speaker 1>you know, a director in a prestigious organization, you can't
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,97]}
+
+00:28:59.540 --> 00:29:02.020
+<v Speaker 1>just waltz in, even if you are the world's renowned
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:29:02.020 --> 00:29:03.339
+<v Speaker 1>expert in it, right?
+
+NOTE CONF {"raw":[99,99,99,97]}
+
+00:29:03.660 --> 00:29:06.060
+<v Speaker 1>You have to be invited in, and then you have
+
+NOTE CONF {"raw":[94,99,99,99,99,99,88,99,99,99]}
+
+00:29:06.060 --> 00:29:09.020
+<v Speaker 1>to be recognized for your credentials, you have to be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,77,99,99,99]}
+
+00:29:09.459 --> 00:29:11.979
+<v Speaker 1>seen to be providing value.
+
+NOTE CONF {"raw":[99,99,99,99,100]}
+
+00:29:12.219 --> 00:29:14.500
+<v Speaker 1>And even after all of that, and you produce your
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99,99]}
+
+00:29:14.500 --> 00:29:18.180
+<v Speaker 1>fantastic training program, you turn up and what happens?
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,99]}
+
+00:29:18.910 --> 00:29:19.800
+<v Speaker 1>Everybody's asleep.
+
+NOTE CONF {"raw":[55,99]}
+
+00:29:20.569 --> 00:29:22.069
+<v Speaker 1>Right, they don't really care.
+
+NOTE CONF {"raw":[99,61,99,99,100]}
+
+00:29:22.530 --> 00:29:27.609
+<v Speaker 1>And what they've gone through 10 trainings on security, and
+
+NOTE CONF {"raw":[80,99,99,99,99,99,99,99,99,95]}
+
+00:29:27.609 --> 00:29:29.890
+<v Speaker 1>the last 9 of them were given by technical people
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,100]}
+
+00:29:29.890 --> 00:29:32.410
+<v Speaker 1>who talked about penetration testing, and the board just went,
+
+NOTE CONF {"raw":[99,99,100,100,100,99,99,99,99,99]}
+
+00:29:32.449 --> 00:29:34.890
+<v Speaker 1>uh, damn, not another one of those, right?
+
+NOTE CONF {"raw":[52,90,99,99,99,99,100,99]}
+
+00:29:36.300 --> 00:29:40.099
+<v Speaker 1>So, there's a whole culture around how do you, how
+
+NOTE CONF {"raw":[99,71,72,99,99,99,99,99,99,99]}
+
+00:29:40.099 --> 00:29:42.459
+<v Speaker 1>do you, how do you actually meet the people at
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:42.459 --> 00:29:45.910
+<v Speaker 1>the right level in order for them to Understand what
+
+NOTE CONF {"raw":[99,100,100,99,100,99,99,99,21,99]}
+
+00:29:45.910 --> 00:29:46.270
+<v Speaker 1>you're saying.
+
+NOTE CONF {"raw":[99,99]}
+
+00:29:46.349 --> 00:29:48.430
+<v Speaker 1>And then, and then on the right hand side of
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,97,99,99]}
+
+00:29:48.430 --> 00:29:52.510
+<v Speaker 1>this slide, Not everybody's a novice, you're going to come
+
+NOTE CONF {"raw":[96,99,99,74,99,99,85,85,79,99]}
+
+00:29:52.510 --> 00:29:55.520
+<v Speaker 1>across people who consider themselves to be experts, and you
+
+NOTE CONF {"raw":[100,99,99,100,100,99,99,99,69,99]}
+
+00:29:55.520 --> 00:29:58.520
+<v Speaker 1>have to distinguish between people who are actual experts and
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,99,99,99]}
+
+00:29:58.520 --> 00:30:01.760
+<v Speaker 1>people who perceive themselves to be experts, right?
+
+NOTE CONF {"raw":[99,99,99,100,100,99,99,95]}
+
+00:30:01.979 --> 00:30:04.160
+<v Speaker 1>Because perception is a very powerful thing.
+
+NOTE CONF {"raw":[73,99,99,99,99,100,99]}
+
+00:30:04.400 --> 00:30:07.800
+<v Speaker 1>If somebody says or thinks to themselves, I'm an expert,
+
+NOTE CONF {"raw":[98,99,99,99,99,99,100,99,99,100]}
+
+00:30:08.079 --> 00:30:09.719
+<v Speaker 1>what do you think they're going to do when you
+
+NOTE CONF {"raw":[99,99,99,99,99,84,74,99,99,100]}
+
+00:30:09.719 --> 00:30:10.459
+<v Speaker 1>start training them?
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:30:18.390 --> 00:30:19.530
+<v Speaker 1>What do you think they're gonna do?
+
+NOTE CONF {"raw":[99,99,99,99,99,96,99]}
+
+00:30:24.949 --> 00:30:26.170
+<v Speaker 1>It's not a trick question.
+
+NOTE CONF {"raw":[98,99,99,99,99]}
+
+00:30:33.790 --> 00:30:36.209
+<v Speaker 1>You've never had this experience, we've come into a room,
+
+NOTE CONF {"raw":[40,99,99,99,99,73,99,99,99,99]}
+
+00:30:36.550 --> 00:30:40.229
+<v Speaker 1>tried to present something to somebody, and they've said, hey,
+
+NOTE CONF {"raw":[60,99,100,99,99,99,99,99,99,85]}
+
+00:30:40.310 --> 00:30:40.969
+<v Speaker 1>I'm an expert.
+
+NOTE CONF {"raw":[99,99,100]}
+
+00:30:42.209 --> 00:30:42.439
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[98]}
+
+00:30:42.530 --> 00:30:43.670
+<v Speaker 1>You don't know what you're talking about?
+
+NOTE CONF {"raw":[83,99,99,99,99,99,100]}
+
+00:30:45.540 --> 00:30:47.449
+<v Speaker 1>No, I haven't had that wonderful experience.
+
+NOTE CONF {"raw":[91,40,87,99,99,99,99]}
+
+00:30:47.949 --> 00:30:48.969
+<v Speaker 2>It's beautiful.
+
+NOTE CONF {"raw":[90,99]}
+
+00:30:51.130 --> 00:30:53.079
+<v Speaker 1>You have to be prepared for that, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,100,100,99]}
+
+00:30:53.329 --> 00:30:55.329
+<v Speaker 1>So you'll meet people who will say, you don't know
+
+NOTE CONF {"raw":[99,99,99,100,99,99,100,99,99,99]}
+
+00:30:55.329 --> 00:30:57.890
+<v Speaker 1>what you're talking about, or I have more experience than
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,100,100,99]}
+
+00:30:57.890 --> 00:31:00.920
+<v Speaker 1>you, or uh maybe you should do something with your
+
+NOTE CONF {"raw":[100,99,81,99,100,100,100,100,100,100]}
+
+00:31:00.920 --> 00:31:02.170
+<v Speaker 1>life, right?
+
+NOTE CONF {"raw":[100,99]}
+
+00:31:02.489 --> 00:31:06.410
+<v Speaker 1>Um, so that's one, that's the, uh, the people who
+
+NOTE CONF {"raw":[98,98,99,99,99,99,98,99,99,99]}
+
+00:31:06.410 --> 00:31:08.770
+<v Speaker 1>will just tell you on your face, and then there's
+
+NOTE CONF {"raw":[97,99,100,100,99,99,99,94,98,98]}
+
+00:31:08.770 --> 00:31:10.989
+<v Speaker 1>other people who will think it but won't say it,
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,100,99]}
+
+00:31:11.849 --> 00:31:14.250
+<v Speaker 1>but both, in both cases, they're gonna shut off, they're
+
+NOTE CONF {"raw":[52,99,99,99,100,99,92,100,99,91]}
+
+00:31:14.250 --> 00:31:16.969
+<v Speaker 1>not gonna learn anything that you say, right?
+
+NOTE CONF {"raw":[99,94,99,100,99,100,99,99]}
+
+00:31:17.790 --> 00:31:19.469
+<v Speaker 1>So you have to think about how am I going
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,80]}
+
+00:31:19.469 --> 00:31:23.189
+<v Speaker 1>to deal with novice, novices, people who are actual novices,
+
+NOTE CONF {"raw":[73,99,99,99,98,99,99,99,99,99]}
+
+00:31:23.469 --> 00:31:26.949
+<v Speaker 1>people actually intermediate level, people who are actually advanced level,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:27.189 --> 00:31:29.750
+<v Speaker 1>and then, how do I deal with people who perceive
+
+NOTE CONF {"raw":[68,99,99,99,99,99,99,99,99,99]}
+
+00:31:29.750 --> 00:31:33.510
+<v Speaker 1>that they are novices, not really a big danger, but
+
+NOTE CONF {"raw":[99,99,99,99,95,99,99,99,99,99]}
+
+00:31:33.510 --> 00:31:36.119
+<v Speaker 1>who perceive themselves to be experts, and they're going to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,28,69,56]}
+
+00:31:36.119 --> 00:31:37.140
+<v Speaker 1>be really difficult.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:31:37.349 --> 00:31:39.979
+<v Speaker 1>And especially if they're in a powerful position in the
+
+NOTE CONF {"raw":[58,99,99,95,99,99,99,99,99,99]}
+
+00:31:39.979 --> 00:31:41.729
+<v Speaker 1>organization, where they're setting culture.
+
+NOTE CONF {"raw":[99,99,98,99,99]}
+
+00:31:43.010 --> 00:31:45.359
+<v Speaker 1>Like their CEO, board of directors, etc.
+
+NOTE CONF {"raw":[84,99,99,92,99,95,99]}
+
+00:31:45.849 --> 00:31:48.369
+<v Speaker 1>they create culture around them.
+
+NOTE CONF {"raw":[68,99,99,100,99]}
+
+00:31:48.729 --> 00:31:52.609
+<v Speaker 1>If they don't change the outsized influence they have, that's
+
+NOTE CONF {"raw":[88,99,99,100,99,8,99,99,99,99]}
+
+00:31:52.609 --> 00:31:54.750
+<v Speaker 1>going to be very hard to address.
+
+NOTE CONF {"raw":[58,61,99,99,99,99,100]}
+
+00:31:55.650 --> 00:31:57.089
+<v Speaker 1>OK, delivery methods.
+
+NOTE CONF {"raw":[99,78,99]}
+
+00:31:57.209 --> 00:31:59.030
+<v Speaker 1>So how do we get our message out there?
+
+NOTE CONF {"raw":[94,99,99,99,99,99,100,99,99]}
+
+00:31:59.650 --> 00:32:04.130
+<v Speaker 1>Many ways, one on one, sit with your individual and
+
+NOTE CONF {"raw":[99,99,69,99,99,97,99,99,100,99]}
+
+00:32:04.130 --> 00:32:06.209
+<v Speaker 1>speak to them one on one, like the CEO or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:06.209 --> 00:32:06.890
+<v Speaker 1>a board of directors.
+
+NOTE CONF {"raw":[59,99,99,98]}
+
+00:32:06.930 --> 00:32:09.530
+<v Speaker 1>That's one way to show respect, one way to train
+
+NOTE CONF {"raw":[76,99,99,99,99,99,95,99,99,99]}
+
+00:32:09.530 --> 00:32:13.569
+<v Speaker 1>them, get them outside of the general environment, but still
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,100,99,100]}
+
+00:32:13.569 --> 00:32:17.290
+<v Speaker 1>inside the organization and train them personally in a formal
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,75,99,99]}
+
+00:32:17.290 --> 00:32:17.589
+<v Speaker 1>class.
+
+NOTE CONF {"raw":[99]}
+
+00:32:19.050 --> 00:32:24.319
+<v Speaker 1>Community learning Bring the whole department together, so everybody in
+
+NOTE CONF {"raw":[84,98,64,99,99,99,99,91,99,99]}
+
+00:32:24.319 --> 00:32:27.359
+<v Speaker 1>the department is in the classroom, and then you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:27.359 --> 00:32:29.729
+<v Speaker 1>run case studies about what's going on in that department.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:30.189 --> 00:32:33.069
+<v Speaker 1>Right, and they will talk amongst each other and you'll
+
+NOTE CONF {"raw":[92,57,99,99,99,99,99,99,99,99]}
+
+00:32:33.069 --> 00:32:34.709
+<v Speaker 1>get to learn what the real culture is in that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:34.709 --> 00:32:34.989
+<v Speaker 1>department.
+
+NOTE CONF {"raw":[99]}
+
+00:32:35.349 --> 00:32:38.989
+<v Speaker 1>Computer-based training, which is what most organizations do, driven really
+
+NOTE CONF {"raw":[52,99,99,99,99,100,99,99,99,99]}
+
+00:32:38.989 --> 00:32:43.729
+<v Speaker 1>by compliance, and I would say highly ineffective in general,
+
+NOTE CONF {"raw":[99,99,95,99,99,99,99,99,99,100]}
+
+00:32:44.069 --> 00:32:48.109
+<v Speaker 1>because people keep, they have to do 10,000 training, online
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:48.109 --> 00:32:51.199
+<v Speaker 1>training modules a year, and they just shut their mind
+
+NOTE CONF {"raw":[99,99,99,99,96,99,100,99,99,99]}
+
+00:32:51.199 --> 00:32:53.790
+<v Speaker 1>off and they just point and click and copy and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:32:53.790 --> 00:32:54.619
+<v Speaker 1>paste and.
+
+NOTE CONF {"raw":[99,97]}
+
+00:32:54.680 --> 00:32:56.140
+<v Speaker 1>Try to get it done as soon as possible.
+
+NOTE CONF {"raw":[15,59,91,98,99,99,99,99,99]}
+
+00:32:56.719 --> 00:32:59.130
+<v Speaker 1>Low cost distance learning and web seminars.
+
+NOTE CONF {"raw":[84,98,99,99,99,99,98]}
+
+00:32:59.199 --> 00:33:02.040
+<v Speaker 1>If you have a mobile workforce and you can't face
+
+NOTE CONF {"raw":[73,99,99,99,99,96,99,99,98,99]}
+
+00:33:02.040 --> 00:33:04.359
+<v Speaker 1>to face train them, then you might have to run
+
+NOTE CONF {"raw":[99,99,99,99,94,99,99,99,99,99]}
+
+00:33:04.359 --> 00:33:05.040
+<v Speaker 1>online training.
+
+NOTE CONF {"raw":[99,99]}
+
+00:33:05.400 --> 00:33:11.359
+<v Speaker 1>User support groups, very powerful, cuts across the organization, self-organizing
+
+NOTE CONF {"raw":[96,99,99,99,99,92,99,99,99,51]}
+
+00:33:11.359 --> 00:33:14.319
+<v Speaker 1>groups where people are just helping each other and they're
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,69]}
+
+00:33:14.319 --> 00:33:18.280
+<v Speaker 1>motivated to learn more, to do more because they are
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,98]}
+
+00:33:18.280 --> 00:33:19.209
+<v Speaker 1>self-organizing.
+
+NOTE CONF {"raw":[79]}
+
+00:33:19.660 --> 00:33:23.900
+<v Speaker 1>Very powerful and untapped resource that you have, um, on
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99,99,81,99]}
+
+00:33:23.900 --> 00:33:24.800
+<v Speaker 1>the job training.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:33:25.910 --> 00:33:29.109
+<v Speaker 1>People who are demonstrating what they're doing, and you are
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,99,99]}
+
+00:33:29.109 --> 00:33:32.550
+<v Speaker 1>demonstrating how to do what they should be doing, very
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,100,90]}
+
+00:33:32.550 --> 00:33:36.910
+<v Speaker 1>powerful, and self-study, again, non-computerized self-study, which I think doesn't
+
+NOTE CONF {"raw":[100,89,10,99,51,4,99,99,99,99]}
+
+00:33:36.910 --> 00:33:40.589
+<v Speaker 1>exist anymore today, maybe last century, not this century.
+
+NOTE CONF {"raw":[100,99,99,78,99,99,99,99,99]}
+
+00:33:41.689 --> 00:33:44.089
+<v Speaker 1>You have a lot of mechanisms, you have posters, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,96,99,99,99]}
+
+00:33:44.089 --> 00:33:47.010
+<v Speaker 1>have banners, you have newsletters, you have bulletin boards, you
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99,99,99,97]}
+
+00:33:47.010 --> 00:33:49.829
+<v Speaker 1>have brochures, you have flyers, you have videos, you have
+
+NOTE CONF {"raw":[99,99,69,94,99,93,97,99,95,99]}
+
+00:33:49.829 --> 00:33:52.439
+<v Speaker 1>lectures, you have trinkets, you've got a whole range of
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99,99,100,99]}
+
+00:33:52.439 --> 00:33:54.170
+<v Speaker 1>different, you know, concrete.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:33:55.209 --> 00:33:58.410
+<v Speaker 1>Digital physical things that you can employ in your training
+
+NOTE CONF {"raw":[58,99,99,99,99,99,99,99,99,99]}
+
+00:33:58.410 --> 00:33:58.780
+<v Speaker 1>program.
+
+NOTE CONF {"raw":[99]}
+
+00:33:59.130 --> 00:34:03.599
+<v Speaker 1>The security newsletter is very powerful because it, um, well,
+
+NOTE CONF {"raw":[74,99,98,99,99,99,99,99,99,99]}
+
+00:34:03.849 --> 00:34:07.010
+<v Speaker 1>I would say it's a very cheap tool that you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:07.010 --> 00:34:10.610
+<v Speaker 1>can put a lot of information in and blast broadcast
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99,99,98,99]}
+
+00:34:10.610 --> 00:34:11.648
+<v Speaker 1>across the organization.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:34:12.050 --> 00:34:15.840
+<v Speaker 1>So if people are already engaged, it's a useful way
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:15.840 --> 00:34:16.919
+<v Speaker 1>to keep them engaged.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:34:17.320 --> 00:34:19.520
+<v Speaker 1>If they're not engaged, it's not going to do anything
+
+NOTE CONF {"raw":[99,93,99,99,98,99,73,70,99,99]}
+
+00:34:19.520 --> 00:34:19.898
+<v Speaker 1>for you.
+
+NOTE CONF {"raw":[99,99]}
+
+00:34:20.199 --> 00:34:21.638
+<v Speaker 1>But there's a lot of things that you can put
+
+NOTE CONF {"raw":[79,98,99,99,99,99,99,99,99,99]}
+
+00:34:21.638 --> 00:34:23.620
+<v Speaker 1>in that newsletter which you can see on your right,
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:34:23.790 --> 00:34:27.760
+<v Speaker 1>which is summaries of key policies, news articles, key security
+
+NOTE CONF {"raw":[99,99,97,99,99,99,99,99,99,99]}
+
+00:34:27.760 --> 00:34:29.878
+<v Speaker 1>events, blah blah blah, how to do X, how to
+
+NOTE CONF {"raw":[99,98,98,98,99,99,99,87,99,99]}
+
+00:34:29.878 --> 00:34:30.398
+<v Speaker 1>do Y.
+
+NOTE CONF {"raw":[99,97]}
+
+00:34:30.689 --> 00:34:35.580
+<v Speaker 1>A poster, very powerful way of keeping people aware.
+
+NOTE CONF {"raw":[66,99,99,99,99,99,99,99,99]}
+
+00:34:36.489 --> 00:34:39.607
+<v Speaker 1>On the walls, you can have posters that say loose
+
+NOTE CONF {"raw":[98,99,99,98,99,99,99,99,99,73]}
+
+00:34:39.607 --> 00:34:44.339
+<v Speaker 1>lips sink ships, things like that, reminding people not to
+
+NOTE CONF {"raw":[90,33,98,99,99,99,99,99,99,99]}
+
+00:34:44.339 --> 00:34:47.249
+<v Speaker 1>say things that are confidential, uh, putting up, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,62,99,99,99,99]}
+
+00:34:47.367 --> 00:34:49.569
+<v Speaker 1>don't put up your password on your machine or blah
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:34:49.569 --> 00:34:50.908
+<v Speaker 1>blah, just reminders.
+
+NOTE CONF {"raw":[98,98,99]}
+
+00:34:52.219 --> 00:34:54.540
+<v Speaker 1>can be useful, but only useful if you keep changing
+
+NOTE CONF {"raw":[56,99,99,99,99,99,99,99,99,99]}
+
+00:34:54.540 --> 00:34:54.979
+<v Speaker 1>the posters.
+
+NOTE CONF {"raw":[99,99]}
+
+00:34:55.060 --> 00:34:56.638
+<v Speaker 1>If you keep the posters up there for a year,
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:34:56.939 --> 00:34:58.860
+<v Speaker 1>people will notice that the first time, think, oh, how
+
+NOTE CONF {"raw":[99,99,99,24,99,99,99,99,84,99]}
+
+00:34:58.860 --> 00:35:01.860
+<v Speaker 1>cute, and then they will just completely zone out, right?
+
+NOTE CONF {"raw":[99,82,99,99,99,99,99,99,99,98]}
+
+00:35:01.939 --> 00:35:04.459
+<v Speaker 1>So you have to keep the posters interesting and keep
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:35:04.459 --> 00:35:07.290
+<v Speaker 1>changing them and keep referring to them in the newsletters,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:07.340 --> 00:35:08.979
+<v Speaker 1>in the training, in the policies.
+
+NOTE CONF {"raw":[99,99,99,99,99,98]}
+
+00:35:09.260 --> 00:35:11.500
+<v Speaker 1>They have to be fully integrated in your program.
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99]}
+
+00:35:11.580 --> 00:35:13.969
+<v Speaker 1>They can't just be left on the wall, disconnected and
+
+NOTE CONF {"raw":[68,99,99,99,99,99,99,99,99,99]}
+
+00:35:13.969 --> 00:35:16.500
+<v Speaker 1>orphaned from your security program, right?
+
+NOTE CONF {"raw":[98,99,99,99,99,82]}
+
+00:35:18.090 --> 00:35:21.090
+<v Speaker 1>It won't work if the message is not clear, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,94]}
+
+00:35:21.090 --> 00:35:23.969
+<v Speaker 1>they have to be relevant to what the people are
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:23.969 --> 00:35:24.570
+<v Speaker 1>talking about.
+
+NOTE CONF {"raw":[99,99]}
+
+00:35:24.729 --> 00:35:29.129
+<v Speaker 1>Now, the last 1015 minutes, I want to talk about
+
+NOTE CONF {"raw":[99,99,99,79,99,99,76,61,99,99]}
+
+00:35:29.370 --> 00:35:32.689
+<v Speaker 1>a really interesting Telstra case study that uh one of
+
+NOTE CONF {"raw":[99,99,100,99,99,99,99,81,99,99]}
+
+00:35:32.689 --> 00:35:33.929
+<v Speaker 1>our PhD students did.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:35:34.290 --> 00:35:36.120
+<v Speaker 1>Um, before I get to that, I want to talk
+
+NOTE CONF {"raw":[97,96,99,99,99,99,99,64,55,99]}
+
+00:35:36.120 --> 00:35:37.790
+<v Speaker 1>about this behavior change model.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:35:38.550 --> 00:35:39.929
+<v Speaker 1>It's a really powerful model.
+
+NOTE CONF {"raw":[90,97,99,99,99]}
+
+00:35:40.189 --> 00:35:41.250
+<v Speaker 1>It explains.
+
+NOTE CONF {"raw":[95,99]}
+
+00:35:42.780 --> 00:35:45.379
+<v Speaker 1>Why people follow direction.
+
+NOTE CONF {"raw":[90,99,99,91]}
+
+00:35:46.270 --> 00:35:50.149
+<v Speaker 1>Right, and there's 3 reasons, and they go in steps.
+
+NOTE CONF {"raw":[94,49,96,99,99,99,99,99,99,99]}
+
+00:35:50.229 --> 00:35:54.070
+<v Speaker 1>So, level 12, level 2, to level 3, and the
+
+NOTE CONF {"raw":[84,95,46,92,99,99,95,99,93,99]}
+
+00:35:54.070 --> 00:35:57.870
+<v Speaker 1>general wisdom, general understanding is that you go from level
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,97]}
+
+00:35:57.870 --> 00:35:59.830
+<v Speaker 1>1 to 2 to 3, don't jump to level 3.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:00.189 --> 00:36:01.669
+<v Speaker 1>Level 1 is compliance.
+
+NOTE CONF {"raw":[98,99,99,99]}
+
+00:36:01.790 --> 00:36:03.909
+<v Speaker 1>People follow rules to avoid punishment.
+
+NOTE CONF {"raw":[79,99,99,99,99,99]}
+
+00:36:04.760 --> 00:36:07.929
+<v Speaker 1>OK, so if I tell somebody something to somebody, they
+
+NOTE CONF {"raw":[99,88,99,99,99,98,99,99,99,99]}
+
+00:36:07.929 --> 00:36:10.320
+<v Speaker 1>will follow because they're afraid of the punishment.
+
+NOTE CONF {"raw":[97,99,99,72,100,99,99,99]}
+
+00:36:10.439 --> 00:36:14.389
+<v Speaker 1>Now, first things first, um, it's very generational, as we
+
+NOTE CONF {"raw":[99,99,99,99,97,98,99,99,96,99]}
+
+00:36:14.389 --> 00:36:17.020
+<v Speaker 1>said last week, generation.
+
+NOTE CONF {"raw":[99,99,99,87]}
+
+00:36:17.620 --> 00:36:20.750
+<v Speaker 1>X, Generation Z, Generation B will be different to the
+
+NOTE CONF {"raw":[96,75,99,43,24,99,99,99,99,99]}
+
+00:36:20.750 --> 00:36:21.570
+<v Speaker 1>baby boomers.
+
+NOTE CONF {"raw":[99,99]}
+
+00:36:22.270 --> 00:36:24.949
+<v Speaker 1>Just because the baby boomers will follow direction doesn't mean
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,98,99]}
+
+00:36:24.949 --> 00:36:27.489
+<v Speaker 1>everybody will, so you have to remember that bit first.
+
+NOTE CONF {"raw":[99,99,90,99,99,99,99,99,63,99]}
+
+00:36:27.989 --> 00:36:31.070
+<v Speaker 1>Secondly, compliance has two factors to it.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:36:31.149 --> 00:36:33.550
+<v Speaker 1>If you say, Hey, if you don't do blah, if
+
+NOTE CONF {"raw":[99,99,99,80,99,99,98,92,8,70]}
+
+00:36:33.550 --> 00:36:35.699
+<v Speaker 1>you do blah blah, something's going to happen to you,
+
+NOTE CONF {"raw":[88,98,86,94,83,99,99,99,99,99]}
+
+00:36:36.229 --> 00:36:38.870
+<v Speaker 1>two things have to happen for them to actually believe
+
+NOTE CONF {"raw":[81,99,99,99,99,99,99,99,99,99]}
+
+00:36:38.870 --> 00:36:39.030
+<v Speaker 1>that.
+
+NOTE CONF {"raw":[99]}
+
+00:36:39.179 --> 00:36:42.429
+<v Speaker 1>Number 1, this punishment has to be severe enough that
+
+NOTE CONF {"raw":[97,34,86,99,99,99,99,99,99,99]}
+
+00:36:42.429 --> 00:36:43.030
+<v Speaker 1>they care.
+
+NOTE CONF {"raw":[99,99]}
+
+00:36:43.229 --> 00:36:44.830
+<v Speaker 1>And number 2, they have to be certain that the
+
+NOTE CONF {"raw":[56,99,88,99,99,99,99,99,99,99]}
+
+00:36:44.830 --> 00:36:46.570
+<v Speaker 1>punishment will actually happen.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:36:47.120 --> 00:36:52.770
+<v Speaker 1>If you are If you are not enforcing that penalty,
+
+NOTE CONF {"raw":[99,99,99,96,91,99,99,99,99,99]}
+
+00:36:53.080 --> 00:36:55.280
+<v Speaker 1>people will not respect it, and they will not change
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:36:55.280 --> 00:36:56.010
+<v Speaker 1>their behavior.
+
+NOTE CONF {"raw":[99,99]}
+
+00:36:56.320 --> 00:36:59.300
+<v Speaker 1>If the penalty is too light and people don't care
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:59.300 --> 00:37:00.959
+<v Speaker 1>if you do it or you don't, they will not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:00.959 --> 00:37:02.370
+<v Speaker 1>change their behavior, right?
+
+NOTE CONF {"raw":[99,99,99,75]}
+
+00:37:02.800 --> 00:37:04.760
+<v Speaker 1>Those are two things that have to work in terms
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:04.760 --> 00:37:05.439
+<v Speaker 1>of compliance.
+
+NOTE CONF {"raw":[99,99]}
+
+00:37:05.679 --> 00:37:08.939
+<v Speaker 1>But compliance really is about following rules to avoid punishment
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,99,99,99]}
+
+00:37:09.360 --> 00:37:13.560
+<v Speaker 1>and compliance, if you, as soon as you remove the
+
+NOTE CONF {"raw":[98,99,92,98,99,99,99,99,99,99]}
+
+00:37:13.560 --> 00:37:14.120
+<v Speaker 1>penalty.
+
+NOTE CONF {"raw":[99]}
+
+00:37:14.870 --> 00:37:17.729
+<v Speaker 1>The behavior returns back to what it was before.
+
+NOTE CONF {"raw":[92,98,99,99,99,99,99,99,99]}
+
+00:37:18.110 --> 00:37:23.870
+<v Speaker 1>So it's a very superficial mechanism to create behavior change,
+
+NOTE CONF {"raw":[68,98,99,99,99,99,99,99,99,99]}
+
+00:37:24.350 --> 00:37:26.750
+<v Speaker 1>and not one that I'm particularly fond of, by the
+
+NOTE CONF {"raw":[98,99,99,99,94,99,99,99,91,98]}
+
+00:37:26.750 --> 00:37:27.050
+<v Speaker 1>way.
+
+NOTE CONF {"raw":[99]}
+
+00:37:27.350 --> 00:37:30.729
+<v Speaker 1>Identification people follow a practice because of a relationship.
+
+NOTE CONF {"raw":[80,86,99,99,99,99,99,99,99]}
+
+00:37:31.629 --> 00:37:32.850
+<v Speaker 1>They respect somebody.
+
+NOTE CONF {"raw":[61,99,99]}
+
+00:37:33.110 --> 00:37:36.709
+<v Speaker 1>Somebody's really cool or fantastic or a leader or whatever,
+
+NOTE CONF {"raw":[9,99,99,99,99,99,99,99,99,99]}
+
+00:37:36.870 --> 00:37:38.870
+<v Speaker 1>and because they do it, I'll do it because I
+
+NOTE CONF {"raw":[93,99,99,99,99,97,99,99,99,99]}
+
+00:37:38.870 --> 00:37:40.149
+<v Speaker 1>want to be in the in-group.
+
+NOTE CONF {"raw":[95,88,99,99,99,71]}
+
+00:37:40.790 --> 00:37:43.360
+<v Speaker 1>And this is a very powerful technique, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,73]}
+
+00:37:43.719 --> 00:37:47.439
+<v Speaker 1>So if there's amongst in your workplace, if there's a
+
+NOTE CONF {"raw":[93,99,77,69,99,99,99,99,77,99]}
+
+00:37:47.439 --> 00:37:50.959
+<v Speaker 1>leader, somebody everybody looks up to, and they are very
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:50.959 --> 00:37:54.879
+<v Speaker 1>careful about security, you'll be amazed at how everybody will
+
+NOTE CONF {"raw":[99,99,99,91,99,99,99,99,99,99]}
+
+00:37:54.879 --> 00:37:56.820
+<v Speaker 1>suddenly become careful about security.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:37:57.199 --> 00:38:01.120
+<v Speaker 1>And if they're not careful about security, everybody will not
+
+NOTE CONF {"raw":[98,99,39,99,99,99,99,99,99,99]}
+
+00:38:01.120 --> 00:38:02.120
+<v Speaker 1>be careful about security.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:38:02.239 --> 00:38:06.520
+<v Speaker 1>They create culture around them, and that identification is a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:06.520 --> 00:38:09.820
+<v Speaker 1>really powerful way to create conformance and behavior change.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:38:10.209 --> 00:38:12.810
+<v Speaker 1>You walk into an organization, you might have had a
+
+NOTE CONF {"raw":[98,99,99,99,99,98,99,99,99,82]}
+
+00:38:12.810 --> 00:38:16.050
+<v Speaker 1>really poor behavior around passwords, but if you see people
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:16.050 --> 00:38:19.330
+<v Speaker 1>in the organization, especially your team leader, who's very careful
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,26,99,99]}
+
+00:38:19.330 --> 00:38:22.050
+<v Speaker 1>about something, you will try your very best to mimic
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:22.050 --> 00:38:23.909
+<v Speaker 1>that behavior and fall in with the crowd.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:38:24.929 --> 00:38:26.030
+<v Speaker 1>That's identification.
+
+NOTE CONF {"raw":[98,98]}
+
+00:38:26.449 --> 00:38:30.110
+<v Speaker 1>And then internalization is when people do something because they,
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99,99,99,95]}
+
+00:38:30.489 --> 00:38:31.489
+<v Speaker 1>it's part of who they are.
+
+NOTE CONF {"raw":[98,99,99,99,99,99]}
+
+00:38:31.649 --> 00:38:33.679
+<v Speaker 1>It's just in their DNA, right?
+
+NOTE CONF {"raw":[70,99,99,99,99,99]}
+
+00:38:33.810 --> 00:38:34.830
+<v Speaker 1>I'm a security leader.
+
+NOTE CONF {"raw":[98,99,99,99]}
+
+00:38:35.290 --> 00:38:37.689
+<v Speaker 1>I'm supposed to be behaving in a, actually this is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,95,95,99,99]}
+
+00:38:37.689 --> 00:38:41.129
+<v Speaker 1>a really bad example because security leaders are really bad
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:41.129 --> 00:38:42.330
+<v Speaker 1>in their personal security.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:38:42.729 --> 00:38:46.770
+<v Speaker 1>But generally, if you find people who believe very strongly
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,99,100]}
+
+00:38:46.770 --> 00:38:49.530
+<v Speaker 1>in something, let's say you're gym freaks, right?
+
+NOTE CONF {"raw":[99,100,99,100,98,99,99,99]}
+
+00:38:49.770 --> 00:38:52.510
+<v Speaker 1>They have this image of themselves that I'm this amazing,
+
+NOTE CONF {"raw":[74,99,99,100,100,100,99,99,99,100]}
+
+00:38:52.679 --> 00:38:55.409
+<v Speaker 1>you know, Olympic level athlete, and they will go to
+
+NOTE CONF {"raw":[99,99,99,98,100,99,100,99,100,100]}
+
+00:38:55.409 --> 00:38:58.790
+<v Speaker 1>the gym 23 hours every day.
+
+NOTE CONF {"raw":[100,100,62,100,100,99]}
+
+00:38:59.610 --> 00:39:03.370
+<v Speaker 1>It's a crazy commitment that most people will not be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:03.370 --> 00:39:05.489
+<v Speaker 1>able to do, but there's some people who will just
+
+NOTE CONF {"raw":[99,99,99,94,90,99,100,99,99,99]}
+
+00:39:05.489 --> 00:39:08.090
+<v Speaker 1>do, and they'll just do it every day, and they'll
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,97,99,98]}
+
+00:39:08.090 --> 00:39:09.399
+<v Speaker 1>do it for decades.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:09.889 --> 00:39:11.929
+<v Speaker 1>You'll see people in their 70s who say, I've been
+
+NOTE CONF {"raw":[93,99,99,99,99,91,99,99,99,99]}
+
+00:39:11.929 --> 00:39:14.389
+<v Speaker 1>training 23 hours a day for 20 years.
+
+NOTE CONF {"raw":[99,66,99,99,99,99,99,100]}
+
+00:39:14.770 --> 00:39:15.580
+<v Speaker 1>How do you do that?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:39:15.649 --> 00:39:19.250
+<v Speaker 1>It's because they've built up this, it's in their, their
+
+NOTE CONF {"raw":[99,99,97,99,99,99,69,99,96,93]}
+
+00:39:19.610 --> 00:39:20.110
+<v Speaker 1>system.
+
+NOTE CONF {"raw":[99]}
+
+00:39:20.209 --> 00:39:21.090
+<v Speaker 1>They're in their DNA.
+
+NOTE CONF {"raw":[65,99,99,99]}
+
+00:39:21.370 --> 00:39:24.250
+<v Speaker 1>They see themselves in the mirror as somebody who fits
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:24.250 --> 00:39:26.729
+<v Speaker 1>this profile, and then they do everything that fits that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:26.729 --> 00:39:27.209
+<v Speaker 1>profile.
+
+NOTE CONF {"raw":[99]}
+
+00:39:28.149 --> 00:39:29.959
+<v Speaker 1>Right, you just follow that profile.
+
+NOTE CONF {"raw":[96,29,99,99,99,99]}
+
+00:39:30.389 --> 00:39:32.429
+<v Speaker 1>And this is a very powerful technique as well.
+
+NOTE CONF {"raw":[96,99,99,99,99,100,100,99,99]}
+
+00:39:32.750 --> 00:39:36.790
+<v Speaker 1>But it requires you to create that DNA in the
+
+NOTE CONF {"raw":[71,99,99,99,99,99,99,99,99,99]}
+
+00:39:36.790 --> 00:39:37.030
+<v Speaker 1>organization.
+
+NOTE CONF {"raw":[99]}
+
+00:39:38.399 --> 00:39:42.360
+<v Speaker 1>An organization that believes that it is special because it
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:39:42.360 --> 00:39:45.800
+<v Speaker 1>is a secure organization, and we just do things this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:45.800 --> 00:39:46.959
+<v Speaker 1>way in the organization.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:47.500 --> 00:39:50.479
+<v Speaker 1>Everybody that will fall who comes into the organization will
+
+NOTE CONF {"raw":[21,99,99,99,99,99,99,99,99,99]}
+
+00:39:50.479 --> 00:39:55.729
+<v Speaker 1>suddenly become like that, right now, The story with Telstra.
+
+NOTE CONF {"raw":[99,99,99,99,67,60,99,99,99,99]}
+
+00:39:58.429 --> 00:40:02.790
+<v Speaker 1>Until 2014, their awareness capability was entirely compliance focused policy,
+
+NOTE CONF {"raw":[98,98,99,99,99,99,99,99,99,93]}
+
+00:40:02.840 --> 00:40:04.439
+<v Speaker 1>standards, annual mandatory training.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:40:04.840 --> 00:40:07.520
+<v Speaker 1>Cyber was considered to be an IT issue and it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:07.520 --> 00:40:10.800
+<v Speaker 1>was owned by security operations, and so a cyber influence
+
+NOTE CONF {"raw":[99,99,99,99,99,80,99,99,99,99]}
+
+00:40:10.800 --> 00:40:12.360
+<v Speaker 1>team was set up in 2014.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:40:12.600 --> 00:40:14.459
+<v Speaker 1>This is an old study now, it's about 10 years,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,46,99,98,60]}
+
+00:40:14.540 --> 00:40:15.080
+<v Speaker 1>12 years.
+
+NOTE CONF {"raw":[75,99]}
+
+00:40:15.979 --> 00:40:18.800
+<v Speaker 1>Uh, and that they agreed the cyber was about people,
+
+NOTE CONF {"raw":[88,98,97,99,95,89,99,99,99,99]}
+
+00:40:19.330 --> 00:40:22.040
+<v Speaker 1>and so they moved it from IT to business risk
+
+NOTE CONF {"raw":[82,99,99,99,99,99,99,99,99,99]}
+
+00:40:22.340 --> 00:40:26.219
+<v Speaker 1>and focused on changing behavior rather than raising awareness.
+
+NOTE CONF {"raw":[99,61,99,100,100,100,99,99,99]}
+
+00:40:26.699 --> 00:40:29.760
+<v Speaker 1>So it's not just, hey, remind people about security.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,95,99]}
+
+00:40:30.139 --> 00:40:32.639
+<v Speaker 1>No, no, no, no, it's not, it's now change behavior.
+
+NOTE CONF {"raw":[95,99,83,99,98,99,96,99,99,99]}
+
+00:40:32.860 --> 00:40:33.800
+<v Speaker 1>That's the focus.
+
+NOTE CONF {"raw":[75,99,100]}
+
+00:40:34.419 --> 00:40:37.300
+<v Speaker 1>Who was in it, 6 people, none of them technologists,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,99]}
+
+00:40:37.540 --> 00:40:39.199
+<v Speaker 1>thank God, that's probably why it worked.
+
+NOTE CONF {"raw":[65,99,82,99,99,99,99]}
+
+00:40:39.830 --> 00:40:40.189
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[98]}
+
+00:40:40.590 --> 00:40:42.909
+<v Speaker 1>Put technical people in there and they can't think outside
+
+NOTE CONF {"raw":[80,99,99,99,99,99,99,99,100,100]}
+
+00:40:42.909 --> 00:40:44.090
+<v Speaker 1>of that technology box.
+
+NOTE CONF {"raw":[99,99,99,100]}
+
+00:40:44.629 --> 00:40:46.510
+<v Speaker 1>Who is in it, a poli that was led by
+
+NOTE CONF {"raw":[98,83,99,99,66,55,8,99,99,99]}
+
+00:40:46.510 --> 00:40:48.110
+<v Speaker 1>somebody with a political science degree.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:40:49.129 --> 00:40:52.889
+<v Speaker 1>That explains a lot, and a career in stakeholder relations,
+
+NOTE CONF {"raw":[99,99,99,99,78,99,99,99,98,99]}
+
+00:40:53.330 --> 00:40:56.889
+<v Speaker 1>two former technology journalists, a designer, a UX specialist, and
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99,99]}
+
+00:40:56.889 --> 00:40:57.870
+<v Speaker 1>an administrator.
+
+NOTE CONF {"raw":[99,99]}
+
+00:40:59.169 --> 00:41:02.489
+<v Speaker 1>So they pulled the team together, who don't look like
+
+NOTE CONF {"raw":[99,99,99,99,100,100,99,99,99,99]}
+
+00:41:02.489 --> 00:41:05.929
+<v Speaker 1>anything you would see in a technology operations group, and
+
+NOTE CONF {"raw":[99,99,98,99,99,98,99,99,99,96]}
+
+00:41:05.929 --> 00:41:06.889
+<v Speaker 1>they did this.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:41:07.949 --> 00:41:10.250
+<v Speaker 1>They started a champions network.
+
+NOTE CONF {"raw":[81,96,99,98,99]}
+
+00:41:11.320 --> 00:41:16.239
+<v Speaker 1>It was opt-in, so volunteer based, every level and every
+
+NOTE CONF {"raw":[99,99,43,96,99,94,76,99,99,99]}
+
+00:41:16.239 --> 00:41:17.310
+<v Speaker 1>department could be part of it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:41:17.800 --> 00:41:21.560
+<v Speaker 1>Champions were chosen on enthusiasm rather than seniority, no pay,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,77,99]}
+
+00:41:21.719 --> 00:41:23.800
+<v Speaker 1>no promotion, no set time commitment.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:41:24.080 --> 00:41:28.090
+<v Speaker 1>It's demanding, but You can volunteer, you don't have to
+
+NOTE CONF {"raw":[97,99,99,98,99,99,87,99,99,99]}
+
+00:41:28.090 --> 00:41:28.590
+<v Speaker 1>be part of it.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:41:29.310 --> 00:41:32.830
+<v Speaker 1>And so people, why did people be part of it?
+
+NOTE CONF {"raw":[99,99,99,99,94,99,99,99,99,99]}
+
+00:41:33.000 --> 00:41:37.080
+<v Speaker 1>Because they wanted to see themselves as cyber champions.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:41:37.159 --> 00:41:38.159
+<v Speaker 1>It was an image thing.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:41:38.270 --> 00:41:41.280
+<v Speaker 1>They wanted to be cool, and so they joined and
+
+NOTE CONF {"raw":[99,99,99,99,100,98,99,99,99,99]}
+
+00:41:41.280 --> 00:41:44.919
+<v Speaker 1>they volunteered more hours and were more enthusiastic than had
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,100,99,99]}
+
+00:41:44.919 --> 00:41:45.840
+<v Speaker 1>they been paid for it.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:41:46.399 --> 00:41:47.399
+<v Speaker 1>What's in it for them?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:41:47.550 --> 00:41:50.719
+<v Speaker 1>So they asked people, always, all these champions went around
+
+NOTE CONF {"raw":[99,99,99,99,99,96,99,99,99,99]}
+
+00:41:50.719 --> 00:41:53.260
+<v Speaker 1>and asked people why they would do what they would
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:53.260 --> 00:41:57.239
+<v Speaker 1>do, um, what the incentives, what incentives they would like
+
+NOTE CONF {"raw":[99,63,99,99,94,99,98,99,99,99]}
+
+00:41:57.239 --> 00:41:57.780
+<v Speaker 1>to see.
+
+NOTE CONF {"raw":[99,99]}
+
+00:41:58.239 --> 00:42:01.040
+<v Speaker 1>And they started off at about 50 people and I
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:01.040 --> 00:42:02.760
+<v Speaker 1>think they went up to 700 people.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:42:03.080 --> 00:42:05.120
+<v Speaker 1>No, so it started off with 5 people, and they
+
+NOTE CONF {"raw":[77,90,90,91,49,51,99,99,99,99]}
+
+00:42:05.120 --> 00:42:08.639
+<v Speaker 1>went up to 700 people across the entire organization, word
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,71]}
+
+00:42:08.639 --> 00:42:11.540
+<v Speaker 1>of mouth being the way that they actually spread.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:42:12.510 --> 00:42:15.469
+<v Speaker 1>Information about their existence and you could basically go to
+
+NOTE CONF {"raw":[87,99,99,99,94,99,99,99,99,99]}
+
+00:42:15.469 --> 00:42:19.429
+<v Speaker 1>the security team and say, hey, um, We want a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,92,99,99]}
+
+00:42:19.429 --> 00:42:22.439
+<v Speaker 1>briefing for our units, and they would arrange that, uh,
+
+NOTE CONF {"raw":[99,99,99,36,99,99,99,99,99,37]}
+
+00:42:22.949 --> 00:42:26.590
+<v Speaker 1>drills, they would arrange red team, you know, people, penetration
+
+NOTE CONF {"raw":[98,95,99,99,93,99,99,99,99,99]}
+
+00:42:26.590 --> 00:42:28.320
+<v Speaker 1>testers to come in and demonstrate things.
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99]}
+
+00:42:28.830 --> 00:42:31.870
+<v Speaker 1>They would even spend time with the security operations center
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,73,73,95]}
+
+00:42:31.870 --> 00:42:35.669
+<v Speaker 1>and watch them and maybe give them, you know, information,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:35.870 --> 00:42:36.419
+<v Speaker 1>advice, etc.
+
+NOTE CONF {"raw":[99,99]}
+
+00:42:36.459 --> 00:42:37.040
+<v Speaker 1>etc.
+
+NOTE CONF {"raw":[99]}
+
+00:42:37.750 --> 00:42:41.350
+<v Speaker 1>So, Before we get back to our list, which we
+
+NOTE CONF {"raw":[85,99,100,99,100,99,99,99,99,99]}
+
+00:42:41.350 --> 00:42:45.330
+<v Speaker 1>will do in a minute, culture eats strategy for breakfast.
+
+NOTE CONF {"raw":[99,99,99,99,99,97,98,98,99,99]}
+
+00:42:46.500 --> 00:42:48.500
+<v Speaker 1>Why are CETA programs so effective?
+
+NOTE CONF {"raw":[99,99,91,99,99,86]}
+
+00:42:48.659 --> 00:42:53.459
+<v Speaker 1>Because culture eats strategy for breakfast and because people don't
+
+NOTE CONF {"raw":[97,89,88,97,99,99,98,99,99,99]}
+
+00:42:53.459 --> 00:42:53.929
+<v Speaker 1>have time.
+
+NOTE CONF {"raw":[99,99]}
+
+00:42:53.979 --> 00:42:54.780
+<v Speaker 1>They're very busy.
+
+NOTE CONF {"raw":[56,99,99]}
+
+00:42:55.020 --> 00:42:59.340
+<v Speaker 1>You have to compete for their attention, and one program
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,89,99,99]}
+
+00:42:59.340 --> 00:43:00.419
+<v Speaker 1>doesn't fit everybody.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:43:00.459 --> 00:43:01.939
+<v Speaker 1>You have to come up with different programs.
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99]}
+
+00:43:01.979 --> 00:43:02.929
+<v Speaker 1>You have to keep changing them.
+
+NOTE CONF {"raw":[93,99,99,99,99,99]}
+
+00:43:02.969 --> 00:43:05.139
+<v Speaker 1>You have to tailor them to different people's roles.
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,99]}
+
+00:43:05.659 --> 00:43:08.699
+<v Speaker 1>Compliance is really not a good reason for behavior change,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:08.820 --> 00:43:11.189
+<v Speaker 1>but it's the reason that most CETA programs run.
+
+NOTE CONF {"raw":[99,98,99,99,99,99,78,99,98]}
+
+00:43:12.479 --> 00:43:14.679
+<v Speaker 1>And if you want to do it properly, it's expensive,
+
+NOTE CONF {"raw":[66,99,99,98,96,99,99,99,98,99]}
+
+00:43:14.689 --> 00:43:19.800
+<v Speaker 1>and security is a Cost center, not a revenue generator.
+
+NOTE CONF {"raw":[99,99,99,96,59,99,99,98,99,99]}
+
+00:43:19.919 --> 00:43:22.199
+<v Speaker 1>So there's no money, which is why you don't have
+
+NOTE CONF {"raw":[69,99,99,99,93,98,99,99,99,99]}
+
+00:43:22.199 --> 00:43:25.739
+<v Speaker 1>these elaborate programs to do these sorts of things.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:43:26.040 --> 00:43:26.469
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:43:26.800 --> 00:43:31.479
+<v Speaker 1>So, now, Let's go back to our list.
+
+NOTE CONF {"raw":[72,99,99,99,99,99,99,99]}
+
+00:43:32.610 --> 00:43:36.290
+<v Speaker 1>You've heard for about 45 odd minutes, all the different
+
+NOTE CONF {"raw":[98,99,99,99,98,94,99,99,99,99]}
+
+00:43:36.290 --> 00:43:37.810
+<v Speaker 1>things that can be done and why they need to
+
+NOTE CONF {"raw":[99,99,99,99,100,99,99,99,99,99]}
+
+00:43:37.810 --> 00:43:38.169
+<v Speaker 1>be done.
+
+NOTE CONF {"raw":[99,100]}
+
+00:43:38.409 --> 00:43:39.929
+<v Speaker 1>I want you to go back to your list, the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,90]}
+
+00:43:39.929 --> 00:43:43.030
+<v Speaker 1>one that you wrote and query it and ask yourself,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:43.689 --> 00:43:45.350
+<v Speaker 1>what would you change?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:43:47.070 --> 00:43:48.270
+<v Speaker 1>What level were you aiming at?
+
+NOTE CONF {"raw":[99,99,99,99,100,99]}
+
+00:43:48.469 --> 00:43:49.550
+<v Speaker 1>Who was your audience?
+
+NOTE CONF {"raw":[99,99,99,100]}
+
+00:43:50.310 --> 00:43:52.050
+<v Speaker 1>Why would they do what you thought?
+
+NOTE CONF {"raw":[99,99,99,100,99,100,99]}
+
+00:43:54.159 --> 00:43:58.179
+<v Speaker 1>And do you think that your initial ideas were effective?
+
+NOTE CONF {"raw":[99,99,100,100,99,99,99,99,99,99]}
+
+00:43:59.340 --> 00:44:01.129
+<v Speaker 1>And would create the behavior change you wanted.
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99]}
+
+00:44:01.989 --> 00:44:04.669
+<v Speaker 1>So have a think about it and then tell me
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,100,99]}
+
+00:44:04.669 --> 00:44:05.229
+<v Speaker 1>what you think.
+
+NOTE CONF {"raw":[99,100,99]}
+
+00:44:07.370 --> 00:44:08.889
+<v Speaker 1>What changed in your list?
+
+NOTE CONF {"raw":[99,99,99,100,99]}
+
+00:44:09.739 --> 00:44:10.449
+<v Speaker 1>If anything.
+
+NOTE CONF {"raw":[99,99]}
+
+00:44:49.540 --> 00:44:50.330
+<v Speaker 1>Volunteers?
+
+NOTE CONF {"raw":[99]}
+
+00:44:55.330 --> 00:44:55.979
+<v Speaker 2>Yes.
+
+NOTE CONF {"raw":[99]}
+
+00:44:57.659 --> 00:45:02.620
+<v Speaker 2>That's listed what you have walked into is passwords are
+
+NOTE CONF {"raw":[72,30,87,86,99,98,99,67,98,99]}
+
+00:45:02.620 --> 00:45:04.429
+<v Speaker 2>shared by teams to upload.
+
+NOTE CONF {"raw":[99,2,79,95,10]}
+
+00:45:08.219 --> 00:45:15.000
+<v Speaker 2>that that the OK.
+
+NOTE CONF {"raw":[65,31,50,99]}
+
+00:45:15.330 --> 00:45:16.189
+<v Speaker 1>So is that on your list?
+
+NOTE CONF {"raw":[74,60,99,99,99,100]}
+
+00:45:21.070 --> 00:45:21.530
+<v Speaker 1>No.
+
+NOTE CONF {"raw":[99]}
+
+00:45:21.989 --> 00:45:22.929
+<v Speaker 1>What was on your list?
+
+NOTE CONF {"raw":[63,99,99,99,100]}
+
+00:45:24.280 --> 00:45:27.500
+<v Speaker 2>Actually I was thinking of like a baseline assessment.
+
+NOTE CONF {"raw":[98,98,97,99,90,94,94,93,15]}
+
+00:45:27.830 --> 00:45:31.639
+<v Speaker 1>OK, OK, so, so if you were doing a baseline,
+
+NOTE CONF {"raw":[99,99,72,99,99,99,99,99,99,99]}
+
+00:45:31.689 --> 00:45:33.649
+<v Speaker 1>if you were thinking, hey, I'll run a baseline, you
+
+NOTE CONF {"raw":[99,99,99,100,94,99,99,99,99,99]}
+
+00:45:33.649 --> 00:45:36.729
+<v Speaker 1>know, training program, one of the things that you might
+
+NOTE CONF {"raw":[99,100,100,99,100,100,100,100,99,100]}
+
+00:45:36.729 --> 00:45:39.969
+<v Speaker 1>take away from today's, you know, conversation, our presentation is
+
+NOTE CONF {"raw":[100,100,100,99,99,99,99,98,100,99]}
+
+00:45:40.290 --> 00:45:44.449
+<v Speaker 1>that maybe a baseline isn't the solution for everything, that
+
+NOTE CONF {"raw":[99,100,100,99,99,99,100,100,99,99]}
+
+00:45:44.449 --> 00:45:46.969
+<v Speaker 1>it works for maybe, you know.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:45:48.209 --> 00:45:51.409
+<v Speaker 1>Good passwords, but it doesn't work for the vast majority
+
+NOTE CONF {"raw":[75,98,99,99,98,99,99,99,98,99]}
+
+00:45:51.409 --> 00:45:52.510
+<v Speaker 1>of the things that you need to do.
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99]}
+
+00:45:53.189 --> 00:45:57.149
+<v Speaker 1>Yeah, so it needs a nuanced approach, right?
+
+NOTE CONF {"raw":[99,71,99,99,99,99,100,92]}
+
+00:45:57.389 --> 00:45:58.389
+<v Speaker 1>Training is nuanced.
+
+NOTE CONF {"raw":[97,99,98]}
+
+00:45:58.909 --> 00:45:59.360
+<v Speaker 2>Yeah.
+
+NOTE CONF {"raw":[71]}
+
+00:46:02.179 --> 00:46:18.419
+<v Speaker 1>Any other Great to say.
+
+NOTE CONF {"raw":[95,99,85,93,99]}
+
+00:46:25.159 --> 00:46:26.560
+<v Speaker 1>Let's go back to the ones that we heard in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:26.560 --> 00:46:27.219
+<v Speaker 1>the beginning.
+
+NOTE CONF {"raw":[99,100]}
+
+00:46:28.270 --> 00:46:31.219
+<v Speaker 1>So can we, we had 2 people there talked about
+
+NOTE CONF {"raw":[99,99,99,99,74,25,99,99,99,99]}
+
+00:46:31.219 --> 00:46:32.020
+<v Speaker 1>their initial list.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:46:32.139 --> 00:46:33.439
+<v Speaker 1>Can you give us your list again?
+
+NOTE CONF {"raw":[90,99,99,99,99,99,100]}
+
+00:46:39.409 --> 00:46:39.419
+<v Speaker 2>Go.
+
+NOTE CONF {"raw":[98]}
+
+00:46:47.810 --> 00:46:48.770
+<v Speaker 1>Real life drills.
+
+NOTE CONF {"raw":[97,99,98]}
+
+00:46:49.290 --> 00:46:51.449
+<v Speaker 1>So that turned out to be actually a really good
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,54,99,99]}
+
+00:46:51.449 --> 00:46:51.850
+<v Speaker 1>idea, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:46:52.090 --> 00:46:55.489
+<v Speaker 1>Because real life drills, as we saw, um, can be
+
+NOTE CONF {"raw":[69,99,98,99,99,99,99,84,99,99]}
+
+00:46:55.489 --> 00:47:00.489
+<v Speaker 1>very powerful, especially if the drill is designed to address
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:00.489 --> 00:47:04.070
+<v Speaker 1>a specific problem that is relevant to the the group
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,59,99,99]}
+
+00:47:04.070 --> 00:47:05.889
+<v Speaker 1>that's in the room, right?
+
+NOTE CONF {"raw":[96,99,99,99,90]}
+
+00:47:05.969 --> 00:47:09.129
+<v Speaker 1>So something that they're doing, and you show a skit
+
+NOTE CONF {"raw":[79,99,99,73,99,99,99,99,99,98]}
+
+00:47:09.370 --> 00:47:12.129
+<v Speaker 1>where the person, you don't say don't do this, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,96,99,99,97]}
+
+00:47:12.129 --> 00:47:14.149
+<v Speaker 1>show them somebody doing the same thing.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:47:14.500 --> 00:47:17.379
+<v Speaker 1>And then what the consequences, and then you show them
+
+NOTE CONF {"raw":[95,99,99,99,89,98,99,99,99,99]}
+
+00:47:17.379 --> 00:47:20.620
+<v Speaker 1>maybe what they could have done differently, and what, how
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:47:20.620 --> 00:47:23.270
+<v Speaker 1>they could avoid that consequence, and that becomes a very
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,99,99]}
+
+00:47:23.270 --> 00:47:26.340
+<v Speaker 1>obvious way of sending a message.
+
+NOTE CONF {"raw":[99,99,99,99,99,100]}
+
+00:47:27.340 --> 00:47:27.620
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:47:27.739 --> 00:47:28.760
+<v Speaker 1>What was your second?
+
+NOTE CONF {"raw":[64,99,99,87]}
+
+00:47:39.929 --> 00:47:43.209
+<v Speaker 1>Identify employee motivation, yup, so that's still very much relevant.
+
+NOTE CONF {"raw":[98,99,99,15,75,99,99,99,99,99]}
+
+00:47:43.409 --> 00:47:44.550
+<v Speaker 1>What was #3?
+
+NOTE CONF {"raw":[98,99,73]}
+
+00:47:51.659 --> 00:47:55.909
+<v Speaker 2>So Uh, OK.
+
+NOTE CONF {"raw":[0,68,99]}
+
+00:47:56.189 --> 00:47:56.469
+<v Speaker 1>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:47:56.629 --> 00:48:03.250
+<v Speaker 1>So, introduce, uh, cyber behavior as a KPI in, into
+
+NOTE CONF {"raw":[74,99,80,99,99,99,99,99,95,99]}
+
+00:48:04.070 --> 00:48:05.750
+<v Speaker 1>your promotional criteria, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:48:05.899 --> 00:48:09.370
+<v Speaker 1>So you can't, this is very often actually done, people,
+
+NOTE CONF {"raw":[96,99,97,97,99,99,99,99,99,84]}
+
+00:48:10.070 --> 00:48:13.429
+<v Speaker 1>you know, people, lots of organizations have cyber in their
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:13.429 --> 00:48:19.280
+<v Speaker 1>KPI, um, what do you think are the OK, what
+
+NOTE CONF {"raw":[99,70,96,99,99,99,99,99,99,79]}
+
+00:48:19.280 --> 00:48:21.800
+<v Speaker 1>do you guys think about this idea of putting cyber,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,100,99,99,98]}
+
+00:48:22.570 --> 00:48:27.500
+<v Speaker 1>good cyber hygiene or whatever, you know, behavioral indicators into
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:27.840 --> 00:48:29.179
+<v Speaker 1>somebody's KPIs?
+
+NOTE CONF {"raw":[99,99]}
+
+00:48:31.290 --> 00:48:32.290
+<v Speaker 1>What do you think about that idea?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:48:32.370 --> 00:48:33.350
+<v Speaker 1>Do you think it's gonna work?
+
+NOTE CONF {"raw":[97,99,99,99,99,100]}
+
+00:48:36.860 --> 00:48:37.750
+<v Speaker 1>It depends.
+
+NOTE CONF {"raw":[99,99]}
+
+00:48:38.379 --> 00:48:39.979
+<v Speaker 1>Yeah, I think it probably depends on the culture of
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:48:39.979 --> 00:48:40.899
+<v Speaker 1>the organization.
+
+NOTE CONF {"raw":[99,99]}
+
+00:48:41.300 --> 00:48:44.500
+<v Speaker 1>It can be used against that individual, like, oh, we
+
+NOTE CONF {"raw":[99,99,99,100,99,99,99,99,89,99]}
+
+00:48:44.500 --> 00:48:45.610
+<v Speaker 1>don't want to promote this person.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:48:45.860 --> 00:48:48.439
+<v Speaker 1>Oh, let's blame it on their poor cyber behavior, or
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,84]}
+
+00:48:48.699 --> 00:48:50.820
+<v Speaker 1>if they do something that we go, Oh, that's not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,61,99,99]}
+
+00:48:50.820 --> 00:48:53.129
+<v Speaker 1>good cyber behavior, we just use that now as an
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:53.129 --> 00:48:56.020
+<v Speaker 1>excuse, whereas other people with the same behavior are getting
+
+NOTE CONF {"raw":[99,87,99,99,99,99,99,99,99,99]}
+
+00:48:56.020 --> 00:48:56.540
+<v Speaker 1>promoted.
+
+NOTE CONF {"raw":[99]}
+
+00:48:57.290 --> 00:48:57.689
+<v Speaker 1>Yeah.
+
+NOTE CONF {"raw":[99]}
+
+00:48:58.090 --> 00:49:00.570
+<v Speaker 1>So, uh, the big question is, how does the, what
+
+NOTE CONF {"raw":[78,68,99,99,100,99,99,99,62,99]}
+
+00:49:00.570 --> 00:49:04.530
+<v Speaker 1>is the organization's attitude and their culture around promotions?
+
+NOTE CONF {"raw":[89,99,99,100,99,99,100,100,99]}
+
+00:49:05.770 --> 00:49:09.459
+<v Speaker 1>And if the culture is a very positive culture, then
+
+NOTE CONF {"raw":[95,94,99,99,99,99,99,99,99,99]}
+
+00:49:09.459 --> 00:49:11.179
+<v Speaker 1>maybe it might be a positive thing.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:49:11.300 --> 00:49:15.580
+<v Speaker 1>If it's not a very positive culture, promotions are very
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:49:15.580 --> 00:49:18.729
+<v Speaker 1>much around favoritism about who knows who and blah blah,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,93,86]}
+
+00:49:19.100 --> 00:49:21.199
+<v Speaker 1>then this is going to be used as an excuse.
+
+NOTE CONF {"raw":[86,99,99,99,98,99,99,99,99,98]}
+
+00:49:22.219 --> 00:49:22.379
+<v Speaker 1>Right?
+
+NOTE CONF {"raw":[98]}
+
+00:49:22.500 --> 00:49:23.919
+<v Speaker 1>So it can do more harm than good.
+
+NOTE CONF {"raw":[83,97,99,99,99,99,99,99]}
+
+00:49:29.899 --> 00:49:33.739
+<v Speaker 1>Well, um, I strongly encourage you to, um, when you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:33.739 --> 00:49:38.989
+<v Speaker 1>go back to your Reading, studying pods that you consider
+
+NOTE CONF {"raw":[99,100,99,99,96,99,98,99,99,100]}
+
+00:49:38.989 --> 00:49:41.889
+<v Speaker 1>your original ideas and your changed ideas.
+
+NOTE CONF {"raw":[99,100,99,99,99,99,99]}
+
+00:49:42.429 --> 00:49:45.709
+<v Speaker 1>Um, as a summary of the summary, oh, by the
+
+NOTE CONF {"raw":[76,98,99,99,99,99,99,98,99,99]}
+
+00:49:45.709 --> 00:49:48.989
+<v Speaker 1>way, I should have said this, some people in the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,64,100,99,86]}
+
+00:49:48.989 --> 00:49:53.750
+<v Speaker 1>subject think that we have lectures and have been saying,
+
+NOTE CONF {"raw":[99,100,99,100,99,99,99,99,99,99]}
+
+00:49:53.870 --> 00:49:57.709
+<v Speaker 1>hey, the lectures are too hurried, right?
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:49:58.070 --> 00:50:00.419
+<v Speaker 1>There's no lectures in the subject, right?
+
+NOTE CONF {"raw":[98,99,99,99,72,100,99]}
+
+00:50:00.750 --> 00:50:04.070
+<v Speaker 1>This is a summary of the LMS which is the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:04.070 --> 00:50:05.810
+<v Speaker 1>LMS content is the lecture.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:50:06.360 --> 00:50:06.929
+<v Speaker 1>In the subject.
+
+NOTE CONF {"raw":[98,98,99]}
+
+00:50:07.010 --> 00:50:08.810
+<v Speaker 1>This is just a summary, right?
+
+NOTE CONF {"raw":[69,99,99,99,99,95]}
+
+00:50:08.889 --> 00:50:09.729
+<v Speaker 1>This is not a lecture.
+
+NOTE CONF {"raw":[68,99,99,99,99]}
+
+00:50:09.850 --> 00:50:13.489
+<v Speaker 1>So a lot of students, because the general, you know,
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,99]}
+
+00:50:13.729 --> 00:50:17.750
+<v Speaker 1>format in all subjects in this degree, MIS MIT is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,90,99]}
+
+00:50:17.750 --> 00:50:20.179
+<v Speaker 1>you've got one lecture, and then you have tutorials.
+
+NOTE CONF {"raw":[65,84,99,99,99,99,99,99,99]}
+
+00:50:20.610 --> 00:50:22.760
+<v Speaker 1>They come to this subject and think it's the same.
+
+NOTE CONF {"raw":[80,99,99,99,99,99,99,99,99,99]}
+
+00:50:23.209 --> 00:50:25.570
+<v Speaker 1>We actually for quite a few years, did not have
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:50:25.570 --> 00:50:30.229
+<v Speaker 1>any verbal, it was just the LMS and and tutorials.
+
+NOTE CONF {"raw":[99,99,68,99,99,99,89,99,96,99]}
+
+00:50:30.639 --> 00:50:33.169
+<v Speaker 1>And then students complained said, no, no, no, we need
+
+NOTE CONF {"raw":[99,99,99,34,74,97,99,99,99,99]}
+
+00:50:33.169 --> 00:50:35.810
+<v Speaker 1>face to face with the, so we, and I said
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:50:35.810 --> 00:50:37.770
+<v Speaker 1>to my teaching team, I was like, you know, what's
+
+NOTE CONF {"raw":[99,99,99,99,77,92,99,99,99,99]}
+
+00:50:37.770 --> 00:50:39.610
+<v Speaker 1>gonna happen if I introduce a face to face like
+
+NOTE CONF {"raw":[88,99,98,99,99,98,99,99,99,99]}
+
+00:50:39.610 --> 00:50:42.560
+<v Speaker 1>this one, students are going to say, um, the lectures
+
+NOTE CONF {"raw":[99,99,99,99,54,55,99,99,99,99]}
+
+00:50:42.560 --> 00:50:44.489
+<v Speaker 1>are too short, right?
+
+NOTE CONF {"raw":[99,99,100,99]}
+
+00:50:44.969 --> 00:50:46.729
+<v Speaker 1>Because they're going to ignore the LMS and they're going
+
+NOTE CONF {"raw":[94,99,70,68,99,99,99,99,99,61]}
+
+00:50:46.729 --> 00:50:49.020
+<v Speaker 1>to focus on the lectures, which is what we're having
+
+NOTE CONF {"raw":[64,100,99,99,99,99,99,99,99,99]}
+
+00:50:49.020 --> 00:50:49.040
+<v Speaker 1>right now.
+
+NOTE CONF {"raw":[99,99]}
+
+00:50:50.090 --> 00:50:52.090
+<v Speaker 1>So just to remind everybody, there are no lectures in
+
+NOTE CONF {"raw":[99,99,99,100,96,99,99,99,99,96]}
+
+00:50:52.090 --> 00:50:52.629
+<v Speaker 1>the subject.
+
+NOTE CONF {"raw":[91,99]}
+
+00:50:53.209 --> 00:50:56.530
+<v Speaker 1>The primary delivery of material is the LMS content.
+
+NOTE CONF {"raw":[97,100,99,99,100,99,99,99,99]}
+
+00:50:57.179 --> 00:51:01.229
+<v Speaker 1>That is the subject content, which is the primary area
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:01.229 --> 00:51:02.929
+<v Speaker 1>of content that you're going to be examined on.
+
+NOTE CONF {"raw":[97,99,99,96,70,71,99,99,99]}
+
+00:51:03.379 --> 00:51:05.179
+<v Speaker 1>This is just a summary to help you to get
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:05.179 --> 00:51:06.729
+<v Speaker 1>through that, right?
+
+NOTE CONF {"raw":[99,99,90]}
+
+00:51:06.939 --> 00:51:09.699
+<v Speaker 1>So don't treat the LMS like it's yet another textbook.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:51:10.020 --> 00:51:12.580
+<v Speaker 1>The LMS is the main content, you're supposed to be
+
+NOTE CONF {"raw":[98,98,99,99,99,99,72,99,99,99]}
+
+00:51:12.580 --> 00:51:13.439
+<v Speaker 1>focused on that.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:51:13.699 --> 00:51:15.260
+<v Speaker 1>This is just to help you get through it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:51:15.540 --> 00:51:18.179
+<v Speaker 1>If you're just coming here and looking at and listening
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,96,99,99]}
+
+00:51:18.179 --> 00:51:20.770
+<v Speaker 1>to what I'm saying, and ignoring the LMS, you're gonna
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,27,35]}
+
+00:51:20.770 --> 00:51:22.689
+<v Speaker 1>have a problem in the exam, right?
+
+NOTE CONF {"raw":[99,99,99,78,95,99,90]}
+
+00:51:22.860 --> 00:51:23.919
+<v Speaker 1>That's the main content.
+
+NOTE CONF {"raw":[96,99,99,99]}
+
+00:51:24.260 --> 00:51:25.219
+<v Speaker 1>This is just a summary.
+
+NOTE CONF {"raw":[97,99,99,99,99]}
+
+00:51:25.889 --> 00:51:27.010
+<v Speaker 1>Just to make sure that's clear.
+
+NOTE CONF {"raw":[99,99,100,99,99,100]}
+
+00:51:27.209 --> 00:51:28.909
+<v Speaker 1>OK, back to the program.
+
+NOTE CONF {"raw":[99,93,99,99,100]}
+
+00:51:29.449 --> 00:51:31.270
+<v Speaker 1>So, 3 things.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:51:32.379 --> 00:51:32.979
+<v Speaker 1>One program.
+
+NOTE CONF {"raw":[99,99]}
+
+00:51:33.139 --> 00:51:35.000
+<v Speaker 1>So you've got education, training and awareness.
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99]}
+
+00:51:35.469 --> 00:51:38.500
+<v Speaker 1>Please, please, please know the distinctions between the three, and
+
+NOTE CONF {"raw":[86,99,99,99,99,99,100,99,99,99]}
+
+00:51:38.500 --> 00:51:40.149
+<v Speaker 1>how, where to use what.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:51:40.969 --> 00:51:44.770
+<v Speaker 1>7 steps to how to build a security training program.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,89,99,99,99]}
+
+00:51:44.810 --> 00:51:46.929
+<v Speaker 1>So if we say on the exam, they build a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,38,99,97]}
+
+00:51:46.929 --> 00:51:49.310
+<v Speaker 1>CETA program, we want to see the 7 steps.
+
+NOTE CONF {"raw":[68,99,99,93,93,99,99,99,99]}
+
+00:51:50.189 --> 00:51:52.229
+<v Speaker 1>You need to know how to do the steps, OK?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:51:52.669 --> 00:51:55.469
+<v Speaker 1>And make sure that you don't just say, here's the
+
+NOTE CONF {"raw":[69,99,99,99,99,99,99,99,92,99]}
+
+00:51:55.469 --> 00:51:55.840
+<v Speaker 1>program.
+
+NOTE CONF {"raw":[99]}
+
+00:51:56.389 --> 00:51:58.709
+<v Speaker 1>You've got to evaluate it and you've got to adapt
+
+NOTE CONF {"raw":[55,69,70,99,99,99,96,84,70,99]}
+
+00:51:58.709 --> 00:52:02.580
+<v Speaker 1>it to the culture, and culture is your biggest barrier,
+
+NOTE CONF {"raw":[99,99,99,99,69,99,99,99,99,99]}
+
+00:52:02.709 --> 00:52:05.590
+<v Speaker 1>the biggest monster you're fighting, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,97]}
+
+00:52:05.790 --> 00:52:09.989
+<v Speaker 1>Culture, culture, culture, culture, not just in CETA, but in
+
+NOTE CONF {"raw":[91,99,99,99,99,99,99,61,99,99]}
+
+00:52:09.989 --> 00:52:14.750
+<v Speaker 1>every aspect of trying to create security programs and transform
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:52:14.750 --> 00:52:15.629
+<v Speaker 1>an organization.
+
+NOTE CONF {"raw":[99,99]}
+
+00:52:16.030 --> 00:52:19.469
+<v Speaker 1>Culture is your biggest challenger.
+
+NOTE CONF {"raw":[93,99,99,99,99]}
+
+00:52:19.750 --> 00:52:21.669
+<v Speaker 1>You have to, you have to have a good strategy
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:52:21.669 --> 00:52:22.969
+<v Speaker 1>around how to deal with culture.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:52:23.590 --> 00:52:25.590
+<v Speaker 1>And it's not just insecurity, it's anytime you want to
+
+NOTE CONF {"raw":[72,98,97,99,37,42,98,99,88,79]}
+
+00:52:25.590 --> 00:52:27.929
+<v Speaker 1>do anything and build a strategy and trying to get
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,99]}
+
+00:52:27.929 --> 00:52:29.709
+<v Speaker 1>the world to change, you have to deal with the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:52:29.709 --> 00:52:32.110
+<v Speaker 1>inertia of the world, which is why would the world
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:52:32.110 --> 00:52:32.510
+<v Speaker 1>change.
+
+NOTE CONF {"raw":[99]}
+
+00:52:33.760 --> 00:52:36.439
+<v Speaker 1>OK, thank you very much and see you next week,
+
+NOTE CONF {"raw":[99,68,100,100,100,95,99,99,100,99]}
+
+00:52:36.560 --> 00:52:39.800
+<v Speaker 1>which I think is the last one before the mid-semester
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:52:39.800 --> 00:52:40.139
+<v Speaker 1>break.
+
+NOTE CONF {"raw":[99]}
+
+00:52:41.100 --> 00:52:42.500
+<v Speaker 1>Fantastic, you then.
+
+NOTE CONF {"raw":[99,63,99]}
+
+00:53:09.120 --> 00:53:09.129
+<v Speaker 2>you.
+
+NOTE CONF {"raw":[7]}
+
+00:53:20.780 --> 00:53:48.500
+<v Speaker 2>What right just the tutors.
+
+NOTE CONF {"raw":[14,70,68,70,1]}
+
+00:54:00.010 --> 00:54:08.409
+<v Speaker 2>Thank you, yeah, yeah.
+
+NOTE CONF {"raw":[70,99,86,98]}
+
+00:54:09.479 --> 00:54:11.929
+<v Speaker 2>He, he should be on the same question with you.
+
+NOTE CONF {"raw":[96,94,99,99,99,99,99,68,83,90]}
+
+00:54:13.479 --> 00:54:13.489
+<v Speaker 2>OK.
+
+NOTE CONF {"raw":[59]}
+
+00:54:14.479 --> 00:54:15.139
+<v Speaker 2>Oh, same question.
+
+NOTE CONF {"raw":[75,79,37]}
+
+00:54:17.129 --> 00:54:24.330
+<v Speaker 2>I I'll finish it tomorrow.
+
+NOTE CONF {"raw":[3,21,93,95,96]}
+
+00:54:34.600 --> 00:54:34.899
+<v Speaker 2>know.
+
+NOTE CONF {"raw":[57]}
+
+00:54:46.870 --> 00:54:50.290
+<v Speaker 2>Yeah I haven't told you.
+
+NOTE CONF {"raw":[82,99,38,24,40]}
+
+00:54:53.639 --> 00:54:56.800
+<v Speaker 2>I Yeah.
+
+NOTE CONF {"raw":[0,2]}
+
+00:55:00.469 --> 00:55:00.620
+<v Speaker 2>Divided by
+
+NOTE CONF {"raw":[16,62]}
