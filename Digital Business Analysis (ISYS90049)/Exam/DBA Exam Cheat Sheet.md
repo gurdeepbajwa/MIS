@@ -3,6 +3,9 @@
 Course: [[Digital Business Analysis (ISYS90049)/Course Overview|Digital Business Analysis]]  
 Use: pre-exam revision only. The exam is closed book.
 
+Related: [[Digital Business Analysis (ISYS90049)/Exam/DBA Techniques Cheat Sheet|DBA Techniques Cheat Sheet]]
+Related: [[Digital Business Analysis (ISYS90049)/Exam/DBA 5Ps Exam Study Guide|DBA 5Ps Exam Study Guide]]
+
 ## Exam Shape
 
 The DBA exam is a 2-hour closed-book written exam. The sample material points to four 25-mark sections:

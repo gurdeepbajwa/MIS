@@ -37,9 +37,17 @@ Extension questions should remain separate from the 80% note-check score. Add `#
 - [[Professional IS Consulting (ISYS90045)/Quizzes/Practice Exam 02 - Full Semester|Practice Exam 02 - Full Semester]]
 - [[Professional IS Consulting (ISYS90045)/Quizzes/Practice Exam 03 - Full Semester|Practice Exam 03 - Full Semester]]
 
+## Past-Paper-Style Mock Exams
+
+- [[Professional IS Consulting (ISYS90045)/Quizzes/Mock Exam 01 - Past Paper Style|Mock Exam 01 - Past Paper Style]]
+- [[Professional IS Consulting (ISYS90045)/Quizzes/Mock Exam 02 - Past Paper Style|Mock Exam 02 - Past Paper Style]]
+- [[Professional IS Consulting (ISYS90045)/Quizzes/Mock Exam 03 - Past Paper Style|Mock Exam 03 - Past Paper Style]]
+- [[Professional IS Consulting (ISYS90045)/Quizzes/Mock Exam 04 - Past Paper Style|Mock Exam 04 - Past Paper Style]]
+- [[Professional IS Consulting (ISYS90045)/Quizzes/Mock Exam 05 - Past Paper Style|Mock Exam 05 - Past Paper Style]]
+
 ## Marking Approach
 
 - Weekly quizzes: score only the 10 note-based questions unless otherwise requested.
 - Milestone exams: mark more strictly than weekly quizzes and require specific consulting language.
-- Practice exams: mark against client diagnosis, framework selection, evidence, risk, recommendation, and communication quality.
+- Practice and mock exams: mark against client diagnosis, framework selection, evidence, risk, recommendation, and communication quality.
 - After each attempt, record weak areas and create a focused repeat quiz if the exam-core score is below 80%.

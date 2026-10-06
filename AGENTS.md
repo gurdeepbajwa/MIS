@@ -23,6 +23,14 @@ This repository is a Zed-based Markdown workspace for notes related to a Master 
 - When the user asks about a specific textbook, chapter, or section, look for the relevant source in the workspace assets before answering. Base the answer on that source when available. If the source or requested section cannot be found locally, say so clearly and ask the user to provide the textbook excerpt, screenshot, or file.
 - For assignment reports, use an academic technical-report tone while keeping the language natural and readable. Prefer precise business-analysis language over marketing copy or casual phrasing. Avoid informal implementation labels such as "big-bang rollout"; use terms such as "single-stage deployment", "phased implementation", "incremental delivery", or "iterative refinement" where appropriate.
 
+## Learning Preferences
+
+- Use [[LEARNING]] as the durable record of how the user learns best.
+- When the user explicitly gives feedback about how they learn, update `LEARNING.md` with concise, reusable guidance.
+- When explaining technical course notes, frameworks, methods, or exam terms, complement the formal definition with a simple intuitive explanation when possible.
+- Prefer explanations that state the purpose of a concept, why it exists, when it is used, and how it fits into the surrounding workflow.
+- Keep intuitive explanations clearly aligned with the course material. Do not replace precise academic language with oversimplified wording in final notes or assignment writing.
+
 ## Organization
 
 - Group notes by subject, unit, topic, or assessment when that structure is clear.

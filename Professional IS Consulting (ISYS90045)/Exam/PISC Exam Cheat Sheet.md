@@ -1,8 +1,8 @@
 # PISC Exam Cheat Sheet
 
 Course: [[Professional IS Consulting (ISYS90045)/Course Overview|Professional IS Consulting (ISYS90045)]]
-Last updated: 2026-06-02
-Purpose: fast revision before practice questions.
+Last updated: 2026-06-07
+Purpose: fast revision and answer construction during practice questions.
 
 ## Core Exam Rule
 
@@ -30,6 +30,23 @@ Use course language: `proposal`, `engagement`, `scope`, `assumption`, `deliverab
 | Delivery is ending or disputed | Close-out, sign-off, handover, residual risks, lessons learned |
 | The question asks why a method matters | Explain the risk of skipping it and the effect on trust, evidence, scope, delivery, or client action |
 
+## High-Level Detail Map
+
+Use this section when you are stuck in an answer and need the substance, not just the topic name.
+
+| Framework | High-level details to write |
+| --- | --- |
+| Consulting role | Consultants bring expertise, structure, independence, external perspective, credibility, temporary capacity, and professional judgement. They do not simply "fix" the client; they help diagnose, advise, structure, deliver, or support while the client owns decisions and organisational change. Apply this to why the client needs outside help, what stakeholders are involved, and what trust or conduct issue affects the relationship. |
+| Proposal | A proposal should show understanding of the client's real need, not just advertise services. It should make scope, method, timeline, pricing, assumptions, deliverables, responsibilities, risks, and evidence of capability explicit. In scenario answers, explain how weak proposal detail creates later scope creep, pricing disputes, governance confusion, or close-out conflict. |
+| Engagement life cycle | Consulting work moves from deciding whether to pursue the work, to winning it, negotiating it, delivering it, and closing it out. Each stage controls a different risk: unsuitable work, overpromising, unclear contract terms, poor delivery control, or weak acceptance. In answers, connect early proposal or contract choices to later delivery and sign-off problems. |
+| Professional advice | Advice is structured judgement, not just opinion or information. Strong advice links the client objective, evidence, analysis, options, trade-offs, assumptions, limits, risks, recommendation, and next steps. In answers, show how the consultant moves from finding to recommendation and why the client can act on it. |
+| Negotiation | Consulting negotiation concerns scope, price, time, quality, responsibilities, resources, deliverables, assumptions, change requests, and sign-off. Before negotiating, know the bottom line, walk-away point, what is negotiable, what is not, likely objections, objective criteria, and relationship impact. In answers, avoid vague "win-win" language; explain delivery consequences. |
+| Meetings, interviews, and workshops | Meetings support alignment, governance, progress, risk, and decisions. Interviews gather depth, stakeholder views, assumptions, and hidden issues. Workshops build shared understanding, prioritise, design, or solve problems collaboratively. In answers, justify the format, choose participants, define outputs, and explain how evidence will be recorded and followed up. |
+| Problem solving | For ambiguous consulting problems, define the real issue before recommending a solution. Use criteria, alternatives, evidence, trade-offs, decision, and action plan. In answers, show whether the problem is structured or unstructured and explain how the consultant moves from ambiguity to a defensible decision. |
+| Risk and governance | Risk is uncertainty affecting objectives; governance defines decision rights, ownership, reporting, escalation, approval, and sign-off. In answers, identify the risk from scenario facts, explain the consequence, propose mitigation, and assign an owner or escalation path. Governance is what makes the risk visible and manageable. |
+| Conflict | Conflict may be intragroup, intergroup, or client-consultant. It can come from deadlines, workload, fear, poor communication, lack of trust, loss of control, weak sponsorship, scope ambiguity, or politics. In answers, classify the conflict, prove it with facts, diagnose the cause, respond neutrally with evidence, and escalate if authority limits are reached. |
+| Close-out | Close-out confirms whether scope has been met, what remains unresolved, who accepts the work, and what the client must do next. It includes final presentation, QA review, sign-off, handover, residual risks, support arrangements, lessons learned, and future actions. In answers, do not stop at "deliver the solution"; explain acceptance and transfer of ownership. |
+
 ## Ten Framework Headings
 
 ### 1. Consulting Role
@@ -43,6 +60,14 @@ Key points:
 - clients buy trust before they buy advice;
 - consultants work with ambiguity and incomplete information;
 - professionalism includes reliability, listening, punctuality, tone, preparation, client focus, and conduct.
+
+Answer details to include:
+
+- why the client needs external help: expertise, capacity, independence, credibility, structure, or judgement;
+- who the client really is: sponsor, decision makers, operational users, IT, procurement, executives, affected staff;
+- what trust or conduct issue affects whether the client will share information and accept advice;
+- what the consultant should clarify before acting: objective, success criteria, constraints, stakeholder access, authority, and expectations;
+- the client still owns decisions and organisational change, even if the consultant diagnoses, advises, structures, supports, or delivers parts of the work.
 
 Exam sentence:
 
@@ -74,6 +99,15 @@ Basic proposal structure:
 - team CVs: who will do the work and what expertise they bring;
 - similar work: relevant experience and outcomes.
 
+Answer details to include:
+
+- the client problem as interpreted by the consultant, not just repeated from the brief;
+- the proposed services and why they fit the client's need;
+- the delivery approach, stages, timeline, governance, and key milestones;
+- pricing, assumptions, exclusions, client responsibilities, and limits;
+- risks created by weak proposal detail, such as overpromising, vague scope, unrealistic timelines, pricing disputes, or unclear sign-off;
+- evidence that the team can deliver, such as relevant experience, method, team capability, or similar work.
+
 Exam sentence:
 
 > A strong proposal proves that the consultant understands the client's real need, can deliver credibly, and has made scope, method, timeline, pricing, assumptions, risks, and responsibilities explicit.
@@ -91,6 +125,14 @@ The engagement life cycle explains how consulting work is assessed, won, contrac
 | Contractual negotiation | Confirm scope, budget, legal clauses, responsibilities, timelines, IP, confidentiality, and sign-off. | The parties later disagree about what was included. |
 | Delivery and project management | Kick-off, perform the work, manage tasks, budget, communication, governance, and method. | Scope creep, weak updates, unresolved risks, or stakeholder loss of trust. |
 | Close-out and quality assurance | Final review, legal/quality checks, final presentation, iterations, sign-off, handover. | Deliverables are not accepted, invoicing is delayed, or unresolved issues damage the relationship. |
+
+Answer details to include:
+
+- where the scenario sits in the life cycle;
+- what decision or deliverable belongs at that stage;
+- what risk is controlled by that stage;
+- how a weak early stage affects later delivery, governance, client expectations, or close-out;
+- what the consultant should document, review, negotiate, deliver, or sign off at that point.
 
 Exam sentence:
 
@@ -128,6 +170,15 @@ Finding versus recommendation:
 | Finding | What the consultant discovered. |
 | Recommendation | What the consultant says the client should do about it. |
 
+Answer details to include:
+
+- the client objective or decision being supported;
+- the evidence and analysis behind the advice;
+- options considered, not just the preferred answer;
+- trade-offs, assumptions, limits, risks, dependencies, and implementation consequences;
+- a clear recommendation and practical next steps;
+- the difference between a finding and a recommendation when the scenario asks what the consultant should say.
+
 Exam sentence:
 
 > Good professional advice turns evidence into an actionable recommendation by making the reasoning, trade-offs, assumptions, limits, and consequences clear enough for the client to decide.
@@ -160,6 +211,15 @@ Before negotiating, know:
 - likely hard questions;
 - objective criteria or benchmarks;
 - the relationship impact of saying yes or no.
+
+Answer details to include:
+
+- what is being negotiated: scope, price, time, quality, responsibilities, resources, change requests, or sign-off;
+- each party's interests, constraints, bottom line, and alternatives;
+- what can be varied and what must remain fixed for responsible delivery;
+- objective criteria, evidence, or benchmarks that support the consultant's position;
+- the delivery risk of agreeing too easily, such as lower quality, scope creep, missed deadlines, or damaged trust;
+- the relationship effect of refusing, accepting, or reframing the request.
 
 Exam sentence:
 
@@ -204,6 +264,15 @@ Workshop essentials:
 - outputs;
 - write-up.
 
+Answer details to include:
+
+- what evidence, decision, alignment, or collaboration need exists in the scenario;
+- why a meeting, interview, workshop, or mix fits that need;
+- who should attend and why their role matters;
+- what questions, agenda, activities, or outputs will be used;
+- how notes, actions, assumptions, and follow-ups will be recorded;
+- how the chosen format affects trust, stakeholder engagement, evidence quality, and decision-making.
+
 Exam sentence:
 
 > Meetings, interviews, and workshops gather evidence, shape trust, align stakeholders, test assumptions, and support decisions; the consultant must choose the format that fits the evidence and relationship need.
@@ -236,6 +305,15 @@ Tame versus wicked:
 
 - tame problems can be solved or controlled through a defined method;
 - wicked problems have no definitive formulation, no clear stopping rule, and no simple true-or-false solution.
+
+Answer details to include:
+
+- whether the problem is structured, semi-structured, unstructured, tame, or wicked;
+- scenario evidence showing ambiguity, missing information, contested goals, or multiple possible solutions;
+- the real problem, not only the client's stated symptom;
+- criteria for judging options before choosing a recommendation;
+- alternatives and trade-offs;
+- the decision, action plan, responsibilities, timing, resources, and follow-up.
 
 Exam sentence:
 
@@ -282,6 +360,15 @@ Risk-register answer pattern:
 | Mitigation | What should be done. |
 | Owner/escalation | Who should manage or decide it. |
 
+Answer details to include:
+
+- the specific risk or governance weakness shown by the scenario;
+- the evidence that proves it is not just a generic risk;
+- the consequence for scope, cost, schedule, quality, stakeholder acceptance, legal exposure, technical feasibility, trust, or reputation;
+- the mitigation or control action;
+- who owns the risk, who decides, who receives status reporting, and when escalation is required;
+- how governance makes issues visible before they damage delivery or close-out.
+
 Exam sentence:
 
 > Governance makes risk manageable by assigning decision rights, ownership, reporting, and escalation paths so issues are visible before they damage scope, cost, timing, quality, or trust.
@@ -322,6 +409,15 @@ Conflict response:
 5. Explain trade-offs and implications.
 6. Escalate through governance if authority limits are reached.
 
+Answer details to include:
+
+- the conflict type: intragroup, intergroup, or client-consultant;
+- scenario evidence showing friction, resistance, disagreement, fear, unclear communication, or competing priorities;
+- the likely cause underneath the visible behaviour;
+- why the conflict threatens evidence quality, trust, delivery, scope, or client action;
+- a neutral response using observable facts rather than blame;
+- when escalation is needed because the issue exceeds the consultant's authority or threatens delivery.
+
 Exam sentence:
 
 > A consultant should treat difficult behaviour as information first, diagnose the cause of conflict, respond with evidence and neutral language, and escalate through governance when the issue threatens delivery or exceeds authority.
@@ -353,6 +449,15 @@ Close-out report types:
 - follow-on action recommendations;
 - ROI report;
 - end-of-project report.
+
+Answer details to include:
+
+- what deliverables were promised and whether they meet the agreed scope;
+- what review, quality assurance, final presentation, or iteration remains;
+- who has authority to accept the work and provide sign-off;
+- unresolved issues, residual risks, limitations, and dependencies;
+- handover materials, support arrangements, lessons learned, and follow-on actions;
+- why formal close-out protects acceptance, invoicing, ownership transfer, relationship, and future work.
 
 Exam sentence:
 

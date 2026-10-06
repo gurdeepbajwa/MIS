@@ -14,3 +14,9 @@
 - 2026-06-02: Client relationships - use Sobel's distinction between vendor/expert-for-hire and trusted advisor/partner; large revenue is still vulnerable if the relationship lacks agenda-setting, relationship capital, and many-to-many trust.
 - 2026-06-02: Low-price proposals - connect underpricing to discovery, testing, training, senior resourcing, quality, scope creep, change requests, profitability, and trust.
 - 2026-06-02: Proposal commitments - avoid unlimited workshops/support; define scope, time limits, deliverables, assumptions, governance, change control, and close-out criteria.
+- 2026-06-20: IESE problem solving - explicitly name all six steps and compare alternatives against criteria before recommending an option.
+- 2026-06-20: Facilitation risks - pair each workshop risk with a concrete control such as separate interviews, anonymised synthesis, smaller groups, tight agenda, or clear outputs.
+- 2026-06-20: Proposal lifecycle - explain how proposal wording becomes a contract, delivery, scope-control, and close-out obligation.
+- 2026-06-20: Risk treatment - do not accept high-impact operational risks casually; propose mitigation, avoidance, escalation, or go/no-go governance.
+- 2026-06-20: Governance - use the full vocabulary of ownership, roles, decision rights, reporting, escalation, approval, and sign-off.
+- 2026-06-20: Close-out - name formal close-out mechanics: QA/risk review, final iterations, client sign-off, residual risks, handover, ownership transfer, and lessons learned.
